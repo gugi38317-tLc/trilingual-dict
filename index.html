@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>한·영·일 사전</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+JP:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0f0f14; font-family: 'Inter', 'Noto Sans KR', sans-serif; color: #e8e6f0; min-height: 100vh; }
+
+  .app { display: flex; flex-direction: column; align-items: center; padding: 2rem 1rem 4rem; }
+
+  /* HEADER */
+  .header { text-align: center; margin-bottom: 2rem; }
+  .logo { font-size: 0.75rem; letter-spacing: 0.25em; text-transform: uppercase; color: #7c6fcd; margin-bottom: 0.4rem; }
+  .title { font-size: clamp(1.8rem, 5vw, 2.6rem); font-weight: 700; background: linear-gradient(135deg, #a78bfa, #60a5fa, #34d399); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; line-height: 1.2; margin-bottom: 0.3rem; }
+  .subtitle { font-size: 0.85rem; color: #6b6880; }
+
+  /* MODE TOGGLE */
+  .mode-toggle { display: flex; gap: 0; background: #1a1a24; border: 1px solid #2e2b40; border-radius: 12px; padding: 4px; margin-bottom: 1.5rem; }
+  .mode-btn { padding: 0.5rem 1.2rem; border: none; border-radius: 9px; font-size: 0.85rem; font-family: 'Noto Sans KR', sans-serif; cursor: pointer; transition: all 0.2s; background: transparent; color: #6b6880; font-weight: 500; }
+  .mode-btn.active { background: linear-gradient(135deg, #7c6fcd, #5b8dee); color: #fff; }
+  .mode-label { font-size: 0.7rem; color: #4a475a; text-align: center; margin-bottom: 1.5rem; letter-spacing: 0.05em; }
+  .mode-label span { color: #7c6fcd; }
+
+  /* SEARCH */
+  .search-box { width: 100%; max-width: 600px; display: flex; gap: 0.75rem; margin-bottom: 1rem; }
+  .search-input { flex: 1; background: #1a1a24; border: 1.5px solid #2e2b40; border-radius: 12px; padding: 0.85rem 1.25rem; font-size: 1.05rem; color: #e8e6f0; font-family: 'Noto Sans KR', sans-serif; outline: none; transition: border-color 0.2s; }
+  .search-input:focus { border-color: #7c6fcd; }
+  .search-input::placeholder { color: #4a475a; }
+  .search-btn { background: linear-gradient(135deg, #7c6fcd, #5b8dee); border: none; border-radius: 12px; padding: 0.85rem 1.5rem; font-size: 1rem; color: #fff; cursor: pointer; font-weight: 600; transition: opacity 0.2s, transform 0.1s; white-space: nowrap; }
+  .search-btn:hover { opacity: 0.9; }
+  .search-btn:active { transform: scale(0.97); }
+  .search-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  /* CHIPS */
+  .chips { display: flex; flex-wrap: wrap; gap: 0.45rem; margin-bottom: 1.75rem; justify-content: center; max-width: 600px; width: 100%; }
+  .chip { background: #1a1a24; border: 1px solid #2e2b40; border-radius: 20px; padding: 0.28rem 0.85rem; font-size: 0.82rem; color: #9d9ab5; cursor: pointer; transition: all 0.15s; font-family: 'Noto Sans KR', sans-serif; }
+  .chip:hover { border-color: #7c6fcd; color: #c4b5fd; background: #1e1c2e; }
+
+  /* ERROR */
+  .error { color: #f87171; background: #1f1010; border: 1px solid #7f1d1d; border-radius: 10px; padding: 0.75rem 1.25rem; margin-bottom: 1.5rem; font-size: 0.9rem; max-width: 600px; width: 100%; }
+
+  /* CARDS */
+  .cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; width: 100%; max-width: 960px; }
+  .lang-card { background: #16161f; border-radius: 16px; padding: 1.5rem; border: 1px solid #22222e; transition: transform 0.2s; animation: fadeIn 0.35s ease; }
+  .lang-card:hover { transform: translateY(-2px); }
+  .lang-card.korean { border-top: 3px solid #f472b6; }
+  .lang-card.english { border-top: 3px solid #60a5fa; }
+  .lang-card.japanese { border-top: 3px solid #34d399; }
+
+  @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+  .card-header { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem; }
+  .flag { font-size: 1.2rem; }
+  .lang-name { font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #6b6880; }
+  .pos-badge { margin-left: auto; font-size: 0.7rem; background: #1e1c2e; border: 1px solid #2e2b40; color: #9d9ab5; border-radius: 6px; padding: 0.12rem 0.5rem; }
+  .bookmark-btn { margin-left: auto; background: none; border: none; cursor: pointer; font-size: 1.1rem; transition: transform 0.15s; padding: 0; line-height: 1; }
+  .bookmark-btn:hover { transform: scale(1.2); }
+
+  .main-word { font-size: 1.65rem; font-weight: 700; color: #f0eeff; margin-bottom: 0.2rem; font-family: 'Noto Serif JP', 'Noto Sans KR', serif; line-height: 1.3; }
+  .reading { font-size: 0.83rem; color: #7c6fcd; margin-bottom: 0.9rem; }
+  .definitions { margin-bottom: 0.9rem; }
+  .def-item { display: flex; gap: 0.45rem; margin-bottom: 0.3rem; font-size: 0.86rem; color: #c4c0d4; line-height: 1.5; }
+  .def-num { min-width: 18px; height: 18px; background: #2a2840; border-radius: 50%; font-size: 0.68rem; display: flex; align-items: center; justify-content: center; color: #9d9ab5; font-weight: 600; margin-top: 2px; flex-shrink: 0; }
+  .examples { border-top: 1px solid #22222e; padding-top: 0.8rem; }
+  .examples-label { font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.1em; color: #4a475a; margin-bottom: 0.45rem; }
+  .example-item { font-size: 0.8rem; color: #7c7a90; font-style: italic; margin-bottom: 0.28rem; line-height: 1.5; font-family: 'Noto Sans KR', sans-serif; }
+
+  /* SKELETON */
+  .skeleton { animation: pulse 1.5s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.45; } }
+  .skeleton-line { height: 13px; background: #22222e; border-radius: 6px; margin-bottom: 0.55rem; }
+  .w40 { width: 40%; } .w60 { width: 60%; } .w80 { width: 80%; } .w50 { width: 50%; }
+
+  /* TABS */
+  .tabs { display: flex; gap: 0; background: #1a1a24; border: 1px solid #2e2b40; border-radius: 10px; padding: 3px; margin-bottom: 1.5rem; width: 100%; max-width: 960px; }
+  .tab-btn { flex: 1; padding: 0.5rem; border: none; border-radius: 8px; font-size: 0.82rem; font-family: 'Noto Sans KR', sans-serif; cursor: pointer; background: transparent; color: #6b6880; transition: all 0.2s; }
+  .tab-btn.active { background: #22222e; color: #e8e6f0; }
+
+  /* BOOKMARKS */
+  .bookmarks-panel { width: 100%; max-width: 960px; }
+  .bookmarks-empty { text-align: center; color: #4a475a; font-size: 0.9rem; padding: 3rem 0; }
+  .bookmark-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.75rem; }
+  .bookmark-card { background: #16161f; border: 1px solid #22222e; border-radius: 12px; padding: 1rem 1.25rem; cursor: pointer; transition: all 0.15s; display: flex; justify-content: space-between; align-items: center; }
+  .bookmark-card:hover { border-color: #7c6fcd; transform: translateY(-1px); }
+  .bookmark-word { font-size: 1rem; font-weight: 600; color: #f0eeff; font-family: 'Noto Sans KR', sans-serif; }
+  .bookmark-sub { font-size: 0.75rem; color: #6b6880; margin-top: 2px; }
+  .bookmark-del { background: none; border: none; cursor: pointer; color: #4a475a; font-size: 0.9rem; padding: 4px; transition: color 0.15s; }
+  .bookmark-del:hover { color: #f87171; }
+  .bookmark-mode-badge { font-size: 0.65rem; background: #1e1c2e; border: 1px solid #2e2b40; color: #7c6fcd; border-radius: 4px; padding: 1px 6px; margin-left: 6px; }
+
+  /* HISTORY */
+  .history { width: 100%; max-width: 960px; margin-top: 2rem; }
+  .history-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; color: #4a475a; margin-bottom: 0.6rem; }
+  .history-chips { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+  .history-chip { background: #1a1a24; border: 1px solid #2e2b40; border-radius: 8px; padding: 0.3rem 0.8rem; font-size: 0.82rem; color: #9d9ab5; cursor: pointer; font-family: 'Noto Sans KR', sans-serif; transition: all 0.15s; }
+  .history-chip:hover { border-color: #7c6fcd; color: #c4b5fd; }
+
+  /* LOADING SPINNER */
+  .spinner { width: 18px; height: 18px; border: 2px solid rgba(255,255,255,0.3); border-top-color: #fff; border-radius: 50%; animation: spin 0.7s linear infinite; display: inline-block; vertical-align: middle; margin-right: 6px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  @media (max-width: 480px) {
+    .mode-btn { padding: 0.45rem 0.8rem; font-size: 0.78rem; }
+    .cards-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="logo">Trilingual Dictionary</div>
+    <h1 class="title">한·영·일 사전</h1>
+    <p class="subtitle">한국어로 검색하면 영어 · 日本語를 동시에</p>
+  </div>
+
+  <!-- MODE TOGGLE -->
+  <div class="mode-toggle">
+    <button class="mode-btn active" onclick="setMode('general')" id="btn-general">📖 일반 용어</button>
+    <button class="mode-btn" onclick="setMode('bible')" id="btn-bible">✝️ 성경 용어</button>
+  </div>
+  <div class="mode-label" id="mode-label">현재 모드: <span>일반 용어</span></div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <button class="tab-btn active" onclick="showTab('search')" id="tab-search">🔍 검색</button>
+    <button class="tab-btn" onclick="showTab('bookmarks')" id="tab-bookmarks">⭐ 즐겨찾기 <span id="bm-count"></span></button>
+  </div>
+
+  <!-- SEARCH PANEL -->
+  <div id="panel-search">
+    <div class="search-box">
+      <input class="search-input" id="search-input" type="text" placeholder="한국어 단어를 입력하세요..." onkeydown="handleKey(event)">
+      <button class="search-btn" id="search-btn" onclick="doSearch()">검색</button>
+    </div>
+    <div class="chips" id="chips-container"></div>
+    <div id="error-box" class="error" style="display:none"></div>
+    <div class="cards-grid" id="cards-grid" style="display:none"></div>
+    <div class="history" id="history-section" style="display:none">
+      <div class="history-label">최근 검색</div>
+      <div class="history-chips" id="history-chips"></div>
+    </div>
+  </div>
+
+  <!-- BOOKMARKS PANEL -->
+  <div id="panel-bookmarks" style="display:none">
+    <div class="bookmarks-panel">
+      <div id="bookmarks-content"></div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ── STATE ──────────────────────────────────────────────
+let currentMode = 'general';
+let history = [];
+let bookmarks = JSON.parse(localStorage.getItem('dict_bookmarks') || '[]');
+let currentResult = null;
+
+// ── SUGGESTIONS ────────────────────────────────────────
+const suggestions = {
+  general: ['사랑', '바람', '하늘', '시간', '마음', '꿈', '빛', '길'],
+  bible:   ['구원', '은혜', '믿음', '복음', '기도', '성령', '천국', '죄']
+};
+
+// ── SYSTEM PROMPTS ─────────────────────────────────────
+const systemPrompts = {
+  general: `You are a trilingual dictionary assistant. When given a Korean word or phrase, respond ONLY with a JSON object (no markdown, no extra text):
+{
+  "korean": "입력된 단어 (표준형)",
+  "english": { "word": "main English translation", "pronunciation": "IPA phonetic", "partOfSpeech": "noun/verb/adj/etc", "definitions": ["def1","def2"], "examples": ["example1","example2"] },
+  "japanese": { "word": "日本語訳", "reading": "ふりがな", "partOfSpeech": "品詞", "definitions": ["意味1","意味2"], "examples": ["例文1","例文2"] },
+  "koreanInfo": { "pronunciation": "발음", "partOfSpeech": "품사", "definitions": ["뜻1","뜻2"], "examples": ["예문1","예문2"] }
+}`,
+  bible: `You are a biblical trilingual dictionary assistant specializing in theological and biblical terminology. When given a Korean biblical/theological term, respond ONLY with a JSON object (no markdown, no extra text):
+{
+  "korean": "입력된 성경 용어",
+  "english": { "word": "English biblical term", "pronunciation": "IPA phonetic", "partOfSpeech": "noun/verb/adj/etc", "definitions": ["biblical definition 1","biblical definition 2"], "examples": ["Bible verse or usage example 1","example 2"] },
+  "japanese": { "word": "聖書用語（日本語）", "reading": "ふりがな", "partOfSpeech": "品詞", "definitions": ["聖書的意味1","聖書的意味2"], "examples": ["聖書の用例1","用例2"] },
+  "koreanInfo": { "pronunciation": "발음", "partOfSpeech": "품사", "definitions": ["성경적 의미1","성경적 의미2"], "examples": ["성경 용례 예문1","예문2"] }
+}`
+};
+
+// ── INIT ───────────────────────────────────────────────
+function init() {
+  renderChips();
+  renderBookmarkCount();
+}
+
+// ── MODE ───────────────────────────────────────────────
+function setMode(mode) {
+  currentMode = mode;
+  document.getElementById('btn-general').classList.toggle('active', mode === 'general');
+  document.getElementById('btn-bible').classList.toggle('active', mode === 'bible');
+  const label = mode === 'general' ? '일반 용어' : '성경 용어';
+  document.getElementById('mode-label').innerHTML = `현재 모드: <span>${label}</span>`;
+  renderChips();
+  // clear results
+  document.getElementById('cards-grid').style.display = 'none';
+  document.getElementById('error-box').style.display = 'none';
+  currentResult = null;
+}
+
+// ── CHIPS ──────────────────────────────────────────────
+function renderChips() {
+  const list = suggestions[currentMode];
+  const container = document.getElementById('chips-container');
+  container.innerHTML = list.map(s =>
+    `<button class="chip" onclick="quickSearch('${s}')">${s}</button>`
+  ).join('');
+}
+
+// ── TABS ───────────────────────────────────────────────
+function showTab(tab) {
+  document.getElementById('panel-search').style.display = tab === 'search' ? '' : 'none';
+  document.getElementById('panel-bookmarks').style.display = tab === 'bookmarks' ? '' : 'none';
+  document.getElementById('tab-search').classList.toggle('active', tab === 'search');
+  document.getElementById('tab-bookmarks').classList.toggle('active', tab === 'bookmarks');
+  if (tab === 'bookmarks') renderBookmarks();
+}
+
+// ── SEARCH ─────────────────────────────────────────────
+function handleKey(e) { if (e.key === 'Enter') doSearch(); }
+
+function quickSearch(word) {
+  document.getElementById('search-input').value = word;
+  doSearch(word);
+}
+
+async function doSearch(word) {
+  const q = (word || document.getElementById('search-input').value).trim();
+  if (!q) return;
+
+  const btn = document.getElementById('search-btn');
+  btn.disabled = true;
+  btn.innerHTML = '<span class="spinner"></span>검색 중';
+
+  document.getElementById('error-box').style.display = 'none';
+  showSkeletons();
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-6',
+        max_tokens: 1000,
+        system: systemPrompts[currentMode],
+        messages: [{ role: 'user', content: q }]
+      })
+    });
+    const data = await res.json();
+    const text = (data.content || []).map(b => b.text || '').join('');
+    const clean = text.replace(/```json|```/g, '').trim();
+    const parsed = JSON.parse(clean);
+    currentResult = { data: parsed, mode: currentMode };
+
+    renderCards(parsed);
+    addHistory(q, parsed);
+  } catch(e) {
+    document.getElementById('cards-grid').style.display = 'none';
+    const eb = document.getElementById('error-box');
+    eb.textContent = '검색 중 오류가 발생했습니다. 다시 시도해주세요.';
+    eb.style.display = '';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '검색';
+  }
+}
+
+// ── SKELETON ───────────────────────────────────────────
+function showSkeletons() {
+  const grid = document.getElementById('cards-grid');
+  grid.style.display = '';
+  grid.innerHTML = ['korean','english','japanese'].map(lang => `
+    <div class="lang-card skeleton">
+      <div class="card-header">
+        <span class="flag">${{korean:'🇰🇷',english:'🇺🇸',japanese:'🇯🇵'}[lang]}</span>
+        <span class="lang-name">${{korean:'한국어',english:'English',japanese:'日本語'}[lang]}</span>
+      </div>
+      <div class="skeleton-line w60"></div>
+      <div class="skeleton-line w40"></div>
+      <div class="skeleton-line w80"></div>
+      <div class="skeleton-line w50"></div>
+    </div>
+  `).join('');
+}
+
+// ── RENDER CARDS ───────────────────────────────────────
+function renderCards(data) {
+  const isBookmarked = bookmarks.some(b => b.word === data.korean && b.mode === currentMode);
+  const grid = document.getElementById('cards-grid');
+  grid.style.display = '';
+
+  const langs = [
+    { key: 'korean',   flag: '🇰🇷', label: '한국어',  word: data.korean,          reading: data.koreanInfo?.pronunciation, pos: data.koreanInfo?.partOfSpeech, defs: data.koreanInfo?.definitions, exs: data.koreanInfo?.examples },
+    { key: 'english',  flag: '🇺🇸', label: 'English', word: data.english?.word,   reading: data.english?.pronunciation,    pos: data.english?.partOfSpeech,    defs: data.english?.definitions,    exs: data.english?.examples },
+    { key: 'japanese', flag: '🇯🇵', label: '日本語',  word: data.japanese?.word,  reading: data.japanese?.reading,         pos: data.japanese?.partOfSpeech,   defs: data.japanese?.definitions,   exs: data.japanese?.examples }
+  ];
+
+  grid.innerHTML = langs.map((l, i) => `
+    <div class="lang-card ${l.key}">
+      <div class="card-header">
+        <span class="flag">${l.flag}</span>
+        <span class="lang-name">${l.label}</span>
+        ${l.pos ? `<span class="pos-badge">${l.pos}</span>` : ''}
+        ${i === 0 ? `<button class="bookmark-btn" onclick="toggleBookmark()" id="bm-btn" title="즐겨찾기">${isBookmarked ? '⭐' : '☆'}</button>` : ''}
+      </div>
+      <div class="main-word">${l.word || ''}</div>
+      ${l.reading ? `<div class="reading">${l.reading}</div>` : ''}
+      ${l.defs?.length ? `<div class="definitions">${l.defs.map((d,i)=>`<div class="def-item"><span class="def-num">${i+1}</span><span>${d}</span></div>`).join('')}</div>` : ''}
+      ${l.exs?.length ? `<div class="examples"><div class="examples-label">예문 / Examples</div>${l.exs.slice(0,2).map(e=>`<div class="example-item">"${e}"</div>`).join('')}</div>` : ''}
+    </div>
+  `).join('');
+}
+
+// ── BOOKMARK ───────────────────────────────────────────
+function toggleBookmark() {
+  if (!currentResult) return;
+  const { data, mode } = currentResult;
+  const idx = bookmarks.findIndex(b => b.word === data.korean && b.mode === mode);
+  if (idx >= 0) {
+    bookmarks.splice(idx, 1);
+    document.getElementById('bm-btn').textContent = '☆';
+  } else {
+    bookmarks.unshift({ word: data.korean, eng: data.english?.word, jpn: data.japanese?.word, mode, data });
+    document.getElementById('bm-btn').textContent = '⭐';
+  }
+  localStorage.setItem('dict_bookmarks', JSON.stringify(bookmarks));
+  renderBookmarkCount();
+}
+
+function renderBookmarkCount() {
+  const el = document.getElementById('bm-count');
+  el.textContent = bookmarks.length > 0 ? `(${bookmarks.length})` : '';
+}
+
+function renderBookmarks() {
+  const el = document.getElementById('bookmarks-content');
+  if (bookmarks.length === 0) {
+    el.innerHTML = '<div class="bookmarks-empty">⭐ 즐겨찾기한 단어가 없습니다.<br><small style="margin-top:8px;display:block;color:#4a475a">검색 후 ☆ 버튼을 눌러 저장하세요</small></div>';
+    return;
+  }
+  el.innerHTML = `<div class="bookmark-list">${bookmarks.map((b,i) => `
+    <div class="bookmark-card" onclick="loadBookmark(${i})">
+      <div>
+        <div class="bookmark-word">${b.word} <span class="bookmark-mode-badge">${b.mode === 'bible' ? '✝️' : '📖'}</span></div>
+        <div class="bookmark-sub">${b.eng || ''} · ${b.jpn || ''}</div>
+      </div>
+      <button class="bookmark-del" onclick="delBookmark(event,${i})">✕</button>
+    </div>
+  `).join('')}</div>`;
+}
+
+function loadBookmark(i) {
+  const b = bookmarks[i];
+  setMode(b.mode);
+  showTab('search');
+  document.getElementById('search-input').value = b.word;
+  currentResult = { data: b.data, mode: b.mode };
+  renderCards(b.data);
+}
+
+function delBookmark(e, i) {
+  e.stopPropagation();
+  bookmarks.splice(i, 1);
+  localStorage.setItem('dict_bookmarks', JSON.stringify(bookmarks));
+  renderBookmarkCount();
+  renderBookmarks();
+}
+
+// ── HISTORY ────────────────────────────────────────────
+function addHistory(word, data) {
+  history = [{ word, data }, ...history.filter(h => h.word !== word)].slice(0, 8);
+  const sec = document.getElementById('history-section');
+  const chips = document.getElementById('history-chips');
+  sec.style.display = '';
+  chips.innerHTML = history.map(h =>
+    `<button class="history-chip" onclick="loadHistory('${h.word}')">${h.word}</button>`
+  ).join('');
+}
+
+function loadHistory(word) {
+  const h = history.find(x => x.word === word);
+  if (!h) return;
+  document.getElementById('search-input').value = word;
+  currentResult = { data: h.data, mode: currentMode };
+  renderCards(h.data);
+}
+
+// ── START ──────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>
