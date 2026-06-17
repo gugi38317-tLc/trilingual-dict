@@ -258,6 +258,7 @@ async function doSearch(word) {
       })
     });
     const data = await res.json();
+    window._lastApiError = JSON.stringify(data).substring(0, 200);
     const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
     const clean = text.replace(/```json|```/g, '').trim();
     const parsed = JSON.parse(clean);
@@ -268,7 +269,7 @@ async function doSearch(word) {
   } catch(e) {
     document.getElementById('cards-grid').style.display = 'none';
     const eb = document.getElementById('error-box');
-    eb.textContent = '검색 중 오류가 발생했습니다. 다시 시도해주세요.';
+    eb.innerHTML = '오류: ' + (e.message || String(e)) + '<br><small style="opacity:0.7;font-size:0.75rem">詳細: ' + (window._lastApiError || '') + '</small>';
     eb.style.display = '';
   } finally {
     btn.disabled = false;
