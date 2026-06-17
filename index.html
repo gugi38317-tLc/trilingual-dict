@@ -245,21 +245,22 @@ async function doSearch(word) {
   showSkeletons();
 
   try {
-    const GEMINI_KEY = 'AQ.Ab8RN6JMqhJfkY9SM6c6Hx98L0sdjMarX8Ja5fsSPLH0oM9ZVw';
-    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent', {
+    const OR_KEY = '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';
+    const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-goog-api-key': GEMINI_KEY
+        'Authorization': 'Bearer ' + OR_KEY
       },
       body: JSON.stringify({
-        contents: [{ parts: [{ text: systemPrompts[currentMode] + '\n\nWord to look up: ' + q }] }],
-        generationConfig: { temperature: 0.3, maxOutputTokens: 1000 }
+        model: 'google/gemini-2.0-flash-exp:free',
+        messages: [{ role: 'user', content: systemPrompts[currentMode] + '\n\nWord to look up: ' + q }],
+        max_tokens: 1000
       })
     });
     const data = await res.json();
     window._lastApiError = JSON.stringify(data).substring(0, 200);
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+    const text = data.choices?.[0]?.message?.content || '';
     const clean = text.replace(/```json|```/g, '').trim();
     const parsed = JSON.parse(clean);
     currentResult = { data: parsed, mode: currentMode };
