@@ -1,6 +1,6 @@
-// エズラ聖書辞典 bible.js
-// 単語数: 2423
-// 国立国語院語彙情報付き（306語に品詞・等級情報あり）
+// 성경 용어 bible.js
+// 출처: 에즈라 성경 사전 + kengdic
+// 단어수: 2423
 
 if (!window.DICT) window.DICT = {};
 window.DICT.bible = [
@@ -270,7 +270,7 @@ window.DICT.bible = [
       "w": "Drought",
       "pos": "noun",
       "d": [
-        "Drought"
+        "A drought"
       ],
       "ex": []
     },
@@ -374,7 +374,7 @@ window.DICT.bible = [
       "w": "Tares",
       "pos": "noun",
       "d": [
-        "Tares"
+        "tare"
       ],
       "ex": []
     },
@@ -426,7 +426,7 @@ window.DICT.bible = [
       "w": "Carpus",
       "pos": "noun",
       "d": [
-        "Carpus"
+        "a family treasure/heirloom, a family jewel"
       ],
       "ex": []
     },
@@ -478,7 +478,7 @@ window.DICT.bible = [
       "w": "Cabul",
       "pos": "noun",
       "d": [
-        "Cabul"
+        "an advance payment"
       ],
       "ex": []
     },
@@ -530,7 +530,7 @@ window.DICT.bible = [
       "w": "Cormorant",
       "pos": "noun",
       "d": [
-        "Cormorant"
+        "cormorant"
       ],
       "ex": []
     },
@@ -634,7 +634,7 @@ window.DICT.bible = [
       "w": "Breast",
       "pos": "noun",
       "d": [
-        "Breast"
+        "Chest"
       ],
       "ex": []
     },
@@ -816,7 +816,9 @@ window.DICT.bible = [
       "w": "Home",
       "pos": "noun",
       "d": [
-        "Home"
+        "Supposition",
+        "Famly",
+        "managing a household"
       ],
       "ex": []
     },
@@ -868,7 +870,7 @@ window.DICT.bible = [
       "w": "Cain",
       "pos": "noun",
       "d": [
-        "Cain"
+        "a singer"
       ],
       "ex": []
     },
@@ -894,7 +896,8 @@ window.DICT.bible = [
       "w": "Skin",
       "pos": "noun",
       "d": [
-        "Skin"
+        "leather",
+        "The skin or  hide or  leather"
       ],
       "ex": []
     },
@@ -946,7 +949,7 @@ window.DICT.bible = [
       "w": "Cattle",
       "pos": "noun",
       "d": [
-        "Cattle"
+        "beast, cattle, creature, critter, -tur, domestic animal, feeder, livestock, stock"
       ],
       "ex": []
     },
@@ -972,6 +975,8 @@ window.DICT.bible = [
       "w": "Liver",
       "pos": "noun",
       "d": [
+        "The interval between",
+        "A salty taste or  saltiness",
         "Liver"
       ],
       "ex": []
@@ -998,7 +1003,7 @@ window.DICT.bible = [
       "w": "Wiles",
       "pos": "noun",
       "d": [
-        "Wiles"
+        "wile"
       ],
       "ex": []
     },
@@ -1102,7 +1107,7 @@ window.DICT.bible = [
       "w": "Adulterer",
       "pos": "noun",
       "d": [
-        "Adulterer"
+        "The leaders (cadre, exec, executive, management)"
       ],
       "ex": []
     },
@@ -1128,7 +1133,7 @@ window.DICT.bible = [
       "w": "Keeper of the prison",
       "pos": "noun",
       "d": [
-        "Keeper of the prison"
+        "jailor, strib, warder"
       ],
       "ex": []
     },
@@ -1154,7 +1159,7 @@ window.DICT.bible = [
       "w": "Adultery",
       "pos": "noun",
       "d": [
-        "Adultery"
+        "adultery, fornication without being married"
       ],
       "ex": []
     },
@@ -1206,7 +1211,9 @@ window.DICT.bible = [
       "w": "Branch",
       "pos": "noun",
       "d": [
-        "Branch"
+        "tine",
+        "a tree branch",
+        "One of the kind or  a sort"
       ],
       "ex": []
     },
@@ -1232,7 +1239,7 @@ window.DICT.bible = [
       "w": "Hook",
       "pos": "noun",
       "d": [
-        "Hook"
+        "a gab, hanger, hook"
       ],
       "ex": []
     },
@@ -1336,7 +1343,7 @@ window.DICT.bible = [
       "w": "Reed",
       "pos": "noun",
       "d": [
-        "Reed"
+        "reed, a reed"
       ],
       "ex": []
     },
@@ -1622,7 +1629,7 @@ window.DICT.bible = [
       "w": "Ward",
       "pos": "noun",
       "d": [
-        "Ward"
+        "to commit, imprison, incarcerate"
       ],
       "ex": []
     },
@@ -1648,7 +1655,8 @@ window.DICT.bible = [
       "w": "Bishop",
       "pos": "noun",
       "d": [
-        "Bishop"
+        "The director",
+        "poisonous to the emotions????"
       ],
       "ex": []
     },
@@ -1700,7 +1708,7 @@ window.DICT.bible = [
       "w": "Armor",
       "pos": "noun",
       "d": [
-        "Armor"
+        "armor"
       ],
       "ex": []
     },
@@ -1726,7 +1734,9 @@ window.DICT.bible = [
       "w": "Gad",
       "pos": "noun",
       "d": [
-        "Gad"
+        "calyptra",
+        "mustard",
+        "lampshade, bell (of a sunflower plant), cap (of a mushroom)"
       ],
       "ex": []
     },
@@ -1778,7 +1788,9 @@ window.DICT.bible = [
       "w": "Thanksgiving",
       "pos": "noun",
       "d": [
-        "Thanksgiving"
+        "an auditor, an inspector",
+        "audit, controlment, inspection",
+        "Thanks"
       ],
       "ex": []
     },
@@ -1804,7 +1816,9 @@ window.DICT.bible = [
       "w": "Cab",
       "pos": "noun",
       "d": [
-        "Cab"
+        "(container for) e.g. a pack of cigarettes",
+        "1) The first  2) the former",
+        "cape, promontory, headland"
       ],
       "ex": []
     },
@@ -1908,7 +1922,9 @@ window.DICT.bible = [
       "w": "River",
       "pos": "noun",
       "d": [
-        "River"
+        "River",
+        "atrium, cavity",
+        "steel"
       ],
       "ex": []
     },
@@ -2012,7 +2028,7 @@ window.DICT.bible = [
       "w": "Constrain",
       "pos": "noun",
       "d": [
-        "Constrain"
+        "a steel pipe or tube"
       ],
       "ex": []
     },
@@ -2038,7 +2054,8 @@ window.DICT.bible = [
       "w": "Robber",
       "pos": "noun",
       "d": [
-        "Robber"
+        "A robber or a burglar ; the act of burglary or robbery",
+        "Intensity or  strength"
       ],
       "ex": []
     },
@@ -2064,7 +2081,7 @@ window.DICT.bible = [
       "w": "Proselyte",
       "pos": "noun",
       "d": [
-        "Proselyte"
+        "convert, convertite, proselyte"
       ],
       "ex": []
     },
@@ -2220,7 +2237,7 @@ window.DICT.bible = [
       "w": "Robbery",
       "pos": "noun",
       "d": [
-        "Robbery"
+        "dispossession, extortion, robbery, seizure"
       ],
       "ex": []
     },
@@ -2272,7 +2289,9 @@ window.DICT.bible = [
       "w": "Dogs",
       "pos": "noun",
       "d": [
-        "Dogs"
+        "to open",
+        "A dog",
+        "Unit or  piece"
       ],
       "ex": []
     },
@@ -2324,7 +2343,7 @@ window.DICT.bible = [
       "w": "Holy",
       "pos": "noun",
       "d": [
-        "Holy"
+        "heavenliness, saintliness, venerability"
       ],
       "ex": []
     },
@@ -2402,7 +2421,7 @@ window.DICT.bible = [
       "w": "Boat",
       "pos": "noun",
       "d": [
-        "Boat"
+        "a barge"
       ],
       "ex": []
     },
@@ -2428,7 +2447,9 @@ window.DICT.bible = [
       "w": "Streets",
       "pos": "noun",
       "d": [
-        "Streets"
+        "sth which is amusing, annoying, causes a headache, invokes a strong emotional response",
+        "A road or street",
+        "Materials"
       ],
       "ex": []
     },
@@ -2454,7 +2475,7 @@ window.DICT.bible = [
       "w": "Spider",
       "pos": "noun",
       "d": [
-        "Spider"
+        "apaneid, spider, spinner"
       ],
       "ex": []
     },
@@ -2480,7 +2501,7 @@ window.DICT.bible = [
       "w": "Lie",
       "pos": "noun",
       "d": [
-        "Lie"
+        "A lie or  falsehood"
       ],
       "ex": []
     },
@@ -2506,7 +2527,7 @@ window.DICT.bible = [
       "w": "Rebel",
       "pos": "noun",
       "d": [
-        "Rebel"
+        "cross"
       ],
       "ex": []
     },
@@ -2532,7 +2553,7 @@ window.DICT.bible = [
       "w": "Looking glass",
       "pos": "noun",
       "d": [
-        "Looking glass"
+        "1) mirror  2) a pattern or  model or  exemplar"
       ],
       "ex": []
     },
@@ -2584,7 +2605,7 @@ window.DICT.bible = [
       "w": "Giants",
       "pos": "noun",
       "d": [
-        "Giants"
+        "Brobdingnagian, colossus, giant, Titan"
       ],
       "ex": []
     },
@@ -2662,7 +2683,7 @@ window.DICT.bible = [
       "w": "Falsehood",
       "pos": "noun",
       "d": [
-        "Falsehood"
+        "Fabrication or  fiction"
       ],
       "ex": []
     },
@@ -2766,7 +2787,9 @@ window.DICT.bible = [
       "w": "Walk",
       "pos": "noun",
       "d": [
-        "Walk"
+        "leg",
+        "a cloud vanishes",
+        "To walk"
       ],
       "ex": []
     },
@@ -2870,7 +2893,7 @@ window.DICT.bible = [
       "w": "Sword",
       "pos": "noun",
       "d": [
-        "Sword"
+        "sword, saber, dagger"
       ],
       "ex": []
     },
@@ -3182,7 +3205,7 @@ window.DICT.bible = [
       "w": "Gerah",
       "pos": "noun",
       "d": [
-        "Gerah"
+        "galley"
       ],
       "ex": []
     },
@@ -3338,7 +3361,7 @@ window.DICT.bible = [
       "w": "Stir",
       "pos": "noun",
       "d": [
-        "Stir"
+        "convulsion, telekinesis, upturn, concussion"
       ],
       "ex": []
     },
@@ -3364,7 +3387,8 @@ window.DICT.bible = [
       "w": "Lattice",
       "pos": "noun",
       "d": [
-        "Lattice"
+        "lattice",
+        "grating, grid, latticework, trellis"
       ],
       "ex": []
     },
@@ -3390,7 +3414,7 @@ window.DICT.bible = [
       "w": "Nut",
       "pos": "noun",
       "d": [
-        "Nut"
+        "nut"
       ],
       "ex": []
     },
@@ -3416,7 +3440,7 @@ window.DICT.bible = [
       "w": "End",
       "pos": "noun",
       "d": [
-        "End"
+        "conclusion, ending, finality, settlement"
       ],
       "ex": []
     },
@@ -3468,7 +3492,7 @@ window.DICT.bible = [
       "w": "Bond",
       "pos": "noun",
       "d": [
-        "Bond"
+        "binding, tying"
       ],
       "ex": []
     },
@@ -3572,7 +3596,7 @@ window.DICT.bible = [
       "w": "Humility",
       "pos": "noun",
       "d": [
-        "Humility"
+        "humility, self-abasement"
       ],
       "ex": []
     },
@@ -3598,7 +3622,8 @@ window.DICT.bible = [
       "w": "Watch",
       "pos": "noun",
       "d": [
-        "Watch"
+        "sir, mister Knight",
+        "sutra, a religious text"
       ],
       "ex": []
     },
@@ -3676,7 +3701,8 @@ window.DICT.bible = [
       "w": "Border",
       "pos": "noun",
       "d": [
-        "Border"
+        "a warning, admonishment ; (2) being alert",
+        "a boundary, the boundary"
       ],
       "ex": []
     },
@@ -3728,7 +3754,7 @@ window.DICT.bible = [
       "w": "Dispensation",
       "pos": "noun",
       "d": [
-        "Dispensation"
+        "government, statesmanship"
       ],
       "ex": []
     },
@@ -3780,7 +3806,9 @@ window.DICT.bible = [
       "w": "Race",
       "pos": "noun",
       "d": [
-        "Race"
+        "Region surrounding seoul",
+        "devotion, dedication",
+        "race, run in a race"
       ],
       "ex": []
     },
@@ -3806,7 +3834,7 @@ window.DICT.bible = [
       "w": "Revelation",
       "pos": "noun",
       "d": [
-        "Revelation"
+        "peak experience, revealment, revelation"
       ],
       "ex": []
     },
@@ -3832,7 +3860,7 @@ window.DICT.bible = [
       "w": "Genealogy",
       "pos": "noun",
       "d": [
-        "Genealogy"
+        "natural history"
       ],
       "ex": []
     },
@@ -3936,7 +3964,7 @@ window.DICT.bible = [
       "w": "Cassia",
       "pos": "noun",
       "d": [
-        "Cassia"
+        "cassia bark, cinnamon"
       ],
       "ex": []
     },
@@ -3988,7 +4016,7 @@ window.DICT.bible = [
       "w": "Counsellor",
       "pos": "noun",
       "d": [
-        "Counsellor"
+        "projector"
       ],
       "ex": []
     },
@@ -4040,7 +4068,7 @@ window.DICT.bible = [
       "w": "Affliction",
       "pos": "noun",
       "d": [
-        "Affliction"
+        "distress, hardship, ill, sorrow, tribulation"
       ],
       "ex": []
     },
@@ -4196,7 +4224,7 @@ window.DICT.bible = [
       "w": "Whale",
       "pos": "noun",
       "d": [
-        "Whale"
+        "whale"
       ],
       "ex": []
     },
@@ -4326,7 +4354,7 @@ window.DICT.bible = [
       "w": "Coriander",
       "pos": "noun",
       "d": [
-        "Coriander"
+        "coriander"
       ],
       "ex": []
     },
@@ -4352,7 +4380,7 @@ window.DICT.bible = [
       "w": "Counsellor",
       "pos": "noun",
       "d": [
-        "Counsellor"
+        "a councilor, -cillor"
       ],
       "ex": []
     },
@@ -4378,7 +4406,9 @@ window.DICT.bible = [
       "w": "Stern",
       "pos": "noun",
       "d": [
-        "Stern"
+        "steerage of a boat, the stern of a boat (the rear of the boat)",
+        "a bricabrac, an antique",
+        "bean or rice flour (for cooking)"
       ],
       "ex": []
     },
@@ -4430,7 +4460,8 @@ window.DICT.bible = [
       "w": "Confession",
       "pos": "noun",
       "d": [
-        "Confession"
+        "admission",
+        "confession"
       ],
       "ex": []
     },
@@ -4482,7 +4513,7 @@ window.DICT.bible = [
       "w": "Eunuch",
       "pos": "noun",
       "d": [
-        "Eunuch"
+        "mischief"
       ],
       "ex": []
     },
@@ -4586,7 +4617,7 @@ window.DICT.bible = [
       "w": "Gog",
       "pos": "noun",
       "d": [
-        "Gog"
+        "A tune or  an air"
       ],
       "ex": []
     },
@@ -4664,7 +4695,8 @@ window.DICT.bible = [
       "w": "Need",
       "pos": "noun",
       "d": [
-        "Need"
+        "the queen`s palace",
+        "indigence, needness, rigor, rigour, want"
       ],
       "ex": []
     },
@@ -4690,7 +4722,7 @@ window.DICT.bible = [
       "w": "Corn",
       "pos": "noun",
       "d": [
-        "Corn"
+        "Cereals or  grain"
       ],
       "ex": []
     },
@@ -4768,7 +4800,7 @@ window.DICT.bible = [
       "w": "Colosse",
       "pos": "noun",
       "d": [
-        "Colosse"
+        "Colossae"
       ],
       "ex": []
     },
@@ -4820,7 +4852,7 @@ window.DICT.bible = [
       "w": "Closet",
       "pos": "noun",
       "d": [
-        "Closet"
+        "alcove"
       ],
       "ex": []
     },
@@ -4846,7 +4878,7 @@ window.DICT.bible = [
       "w": "Marrow",
       "pos": "noun",
       "d": [
-        "Marrow"
+        "kernel, marrow, medulla"
       ],
       "ex": []
     },
@@ -4898,7 +4930,8 @@ window.DICT.bible = [
       "w": "Valley",
       "pos": "noun",
       "d": [
-        "Valley"
+        "flume",
+        "A valley or  gorge"
       ],
       "ex": []
     },
@@ -4924,7 +4957,7 @@ window.DICT.bible = [
       "w": "Rush",
       "pos": "noun",
       "d": [
-        "Rush"
+        "rush"
       ],
       "ex": []
     },
@@ -4976,7 +5009,7 @@ window.DICT.bible = [
       "w": "Tribute",
       "pos": "noun",
       "d": [
-        "Tribute"
+        "offensive"
       ],
       "ex": []
     },
@@ -5002,7 +5035,7 @@ window.DICT.bible = [
       "w": "Honour",
       "pos": "noun",
       "d": [
-        "Honour"
+        "respect, admiration"
       ],
       "ex": []
     },
@@ -5028,7 +5061,8 @@ window.DICT.bible = [
       "w": "Profess",
       "pos": "noun",
       "d": [
-        "Profess"
+        "avowal",
+        "profession"
       ],
       "ex": []
     },
@@ -5054,7 +5088,7 @@ window.DICT.bible = [
       "w": "Justice",
       "pos": "noun",
       "d": [
-        "Justice"
+        "official"
       ],
       "ex": []
     },
@@ -5080,7 +5114,7 @@ window.DICT.bible = [
       "w": "Synoptic gospel",
       "pos": "noun",
       "d": [
-        "Synoptic gospel"
+        "diatessaron"
       ],
       "ex": []
     },
@@ -5106,7 +5140,9 @@ window.DICT.bible = [
       "w": "Crown",
       "pos": "noun",
       "d": [
-        "Crown"
+        "duct, pipe, tube",
+        "sth to do with the government",
+        "coffin"
       ],
       "ex": []
     },
@@ -5132,7 +5168,7 @@ window.DICT.bible = [
       "w": "Princess",
       "pos": "noun",
       "d": [
-        "Princess"
+        "A royal princess"
       ],
       "ex": []
     },
@@ -5158,7 +5194,9 @@ window.DICT.bible = [
       "w": "Proclaim",
       "pos": "noun",
       "d": [
-        "Proclaim"
+        "empty rounds of ammunitation, blanks",
+        "an empty cell",
+        "a promulgation, a declaration"
       ],
       "ex": []
     },
@@ -5210,7 +5248,9 @@ window.DICT.bible = [
       "w": "Excess",
       "pos": "noun",
       "d": [
-        "Excess"
+        "a transition",
+        "a knife",
+        "excess, exorbitance, immoderation, intemperance"
       ],
       "ex": []
     },
@@ -5236,7 +5276,7 @@ window.DICT.bible = [
       "w": "Widow",
       "pos": "noun",
       "d": [
-        "Widow"
+        "a widow"
       ],
       "ex": []
     },
@@ -5262,7 +5302,7 @@ window.DICT.bible = [
       "w": "Fellowship",
       "pos": "noun",
       "d": [
-        "Fellowship"
+        "association, commerce, converse, dealing"
       ],
       "ex": []
     },
@@ -5288,7 +5328,9 @@ window.DICT.bible = [
       "w": "Sensual",
       "pos": "noun",
       "d": [
-        "Sensual"
+        "sense",
+        "organic [physical,body] functions",
+        "carnal desires and lust"
       ],
       "ex": []
     },
@@ -5314,7 +5356,8 @@ window.DICT.bible = [
       "w": "Manner",
       "pos": "noun",
       "d": [
-        "Manner"
+        "convention, custom, institution, rite, routine, tradition",
+        "a coming-of-age ceremony for boys"
       ],
       "ex": []
     },
@@ -5340,7 +5383,8 @@ window.DICT.bible = [
       "w": "Officer",
       "pos": "noun",
       "d": [
-        "Officer"
+        "A government official",
+        "Management or  administration"
       ],
       "ex": []
     },
@@ -5366,7 +5410,7 @@ window.DICT.bible = [
       "w": "Communion",
       "pos": "noun",
       "d": [
-        "Communion"
+        "Traffic or  transportation"
       ],
       "ex": []
     },
@@ -5392,7 +5436,7 @@ window.DICT.bible = [
       "w": "Pope",
       "pos": "noun",
       "d": [
-        "Pope"
+        "the Pope, the Pontiff, the Holy Father"
       ],
       "ex": []
     },
@@ -5418,7 +5462,7 @@ window.DICT.bible = [
       "w": "Palace",
       "pos": "noun",
       "d": [
-        "Palace"
+        "residency"
       ],
       "ex": []
     },
@@ -5444,7 +5488,7 @@ window.DICT.bible = [
       "w": "Wilderness",
       "pos": "noun",
       "d": [
-        "Wilderness"
+        "weald"
       ],
       "ex": []
     },
@@ -5470,7 +5514,7 @@ window.DICT.bible = [
       "w": "Light",
       "pos": "noun",
       "d": [
-        "Light"
+        "radiant"
       ],
       "ex": []
     },
@@ -5496,7 +5540,7 @@ window.DICT.bible = [
       "w": "Pride",
       "pos": "noun",
       "d": [
-        "Pride"
+        "arrogance"
       ],
       "ex": []
     },
@@ -5522,7 +5566,7 @@ window.DICT.bible = [
       "w": "Church",
       "pos": "noun",
       "d": [
-        "Church"
+        "Preach or  moral instruction"
       ],
       "ex": []
     },
@@ -5574,7 +5618,7 @@ window.DICT.bible = [
       "w": "Clouds",
       "pos": "noun",
       "d": [
-        "Clouds"
+        "A cloud or  the clouds"
       ],
       "ex": []
     },
@@ -5652,7 +5696,7 @@ window.DICT.bible = [
       "w": "Pit",
       "pos": "noun",
       "d": [
-        "Pit"
+        "an excavation site, a pit , sinkage"
       ],
       "ex": []
     },
@@ -5678,7 +5722,7 @@ window.DICT.bible = [
       "w": "Chuza",
       "pos": "noun",
       "d": [
-        "Chuza"
+        "to have free command over"
       ],
       "ex": []
     },
@@ -5730,7 +5774,8 @@ window.DICT.bible = [
       "w": "Redemption",
       "pos": "noun",
       "d": [
-        "Redemption"
+        "speed of a pitched ball",
+        "To arrest or  put in detention"
       ],
       "ex": []
     },
@@ -5860,7 +5905,9 @@ window.DICT.bible = [
       "w": "Salvation",
       "pos": "noun",
       "d": [
-        "Salvation"
+        "redemption",
+        "relief",
+        "rescue"
       ],
       "ex": []
     },
@@ -5938,7 +5985,7 @@ window.DICT.bible = [
       "w": "Manger",
       "pos": "noun",
       "d": [
-        "Manger"
+        "crib, manger, trough"
       ],
       "ex": []
     },
@@ -6016,7 +6063,7 @@ window.DICT.bible = [
       "w": "Reign",
       "pos": "noun",
       "d": [
-        "Reign"
+        "reign, dominion"
       ],
       "ex": []
     },
@@ -6042,7 +6089,8 @@ window.DICT.bible = [
       "w": "Men of war",
       "pos": "noun",
       "d": [
-        "Men of war"
+        "A soldier, a private (not sb giving orders)",
+        "Military affairs"
       ],
       "ex": []
     },
@@ -6068,7 +6116,7 @@ window.DICT.bible = [
       "w": "Legion",
       "pos": "noun",
       "d": [
-        "Legion"
+        "corps, legion"
       ],
       "ex": []
     },
@@ -6120,7 +6168,7 @@ window.DICT.bible = [
       "w": "Army",
       "pos": "noun",
       "d": [
-        "Army"
+        "Troops or  an army"
       ],
       "ex": []
     },
@@ -6146,7 +6194,8 @@ window.DICT.bible = [
       "w": "Cave",
       "pos": "noun",
       "d": [
-        "Cave"
+        "cave",
+        "oyster"
       ],
       "ex": []
     },
@@ -6198,7 +6247,8 @@ window.DICT.bible = [
       "w": "Want",
       "pos": "noun",
       "d": [
-        "Want"
+        "necessity, neediness, dire straits",
+        "being pressed for money"
       ],
       "ex": []
     },
@@ -6224,7 +6274,7 @@ window.DICT.bible = [
       "w": "Advice",
       "pos": "noun",
       "d": [
-        "Advice"
+        "counsel, exhortation, recommendation"
       ],
       "ex": []
     },
@@ -6250,7 +6300,7 @@ window.DICT.bible = [
       "w": "Chrysolite",
       "pos": "noun",
       "d": [
-        "Chrysolite"
+        "chrysolite"
       ],
       "ex": []
     },
@@ -6276,7 +6326,7 @@ window.DICT.bible = [
       "w": "Power",
       "pos": "noun",
       "d": [
-        "Power"
+        "authority, power and influence, charisma"
       ],
       "ex": []
     },
@@ -6302,7 +6352,7 @@ window.DICT.bible = [
       "w": "Millet",
       "pos": "noun",
       "d": [
-        "Millet"
+        "oats (oatmeal oats)"
       ],
       "ex": []
     },
@@ -6328,7 +6378,8 @@ window.DICT.bible = [
       "w": "Principality",
       "pos": "noun",
       "d": [
-        "Principality"
+        "puissance",
+        "authority, clout, power"
       ],
       "ex": []
     },
@@ -6354,7 +6405,7 @@ window.DICT.bible = [
       "w": "Demon",
       "pos": "noun",
       "d": [
-        "Demon"
+        "A ghost"
       ],
       "ex": []
     },
@@ -6458,7 +6509,7 @@ window.DICT.bible = [
       "w": "Tip of the ear",
       "pos": "noun",
       "d": [
-        "Tip of the ear"
+        "earlobe"
       ],
       "ex": []
     },
@@ -6614,7 +6665,7 @@ window.DICT.bible = [
       "w": "Shadow",
       "pos": "noun",
       "d": [
-        "Shadow"
+        "1) shade 2)parental prodection"
       ],
       "ex": []
     },
@@ -6640,7 +6691,7 @@ window.DICT.bible = [
       "w": "Stump",
       "pos": "noun",
       "d": [
-        "Stump"
+        "a butt end, a stock, a stub, a tree stump"
       ],
       "ex": []
     },
@@ -6666,7 +6717,7 @@ window.DICT.bible = [
       "w": "Cherub",
       "pos": "noun",
       "d": [
-        "Cherub"
+        "Group"
       ],
       "ex": []
     },
@@ -6744,7 +6795,8 @@ window.DICT.bible = [
       "w": "Greece",
       "pos": "noun",
       "d": [
-        "Greece"
+        "grease",
+        "Greece, the country"
       ],
       "ex": []
     },
@@ -7082,7 +7134,7 @@ window.DICT.bible = [
       "w": "Pound",
       "pos": "noun",
       "d": [
-        "Pound"
+        "root, core"
       ],
       "ex": []
     },
@@ -7186,7 +7238,7 @@ window.DICT.bible = [
       "w": "Nets",
       "pos": "noun",
       "d": [
-        "Nets"
+        "a meshwork, a net"
       ],
       "ex": []
     },
@@ -7316,7 +7368,7 @@ window.DICT.bible = [
       "w": "Letters",
       "pos": "noun",
       "d": [
-        "Letters"
+        "a letter, a character"
       ],
       "ex": []
     },
@@ -7394,6 +7446,8 @@ window.DICT.bible = [
       "w": "Gold",
       "pos": "noun",
       "d": [
+        "aurum, yellow metal, gold",
+        "a chink, a fissure, a flaw, a fracture, a rift, a crack",
         "Gold"
       ],
       "ex": []
@@ -7446,7 +7500,7 @@ window.DICT.bible = [
       "w": "Adamant",
       "pos": "noun",
       "d": [
-        "Adamant"
+        "diamond"
       ],
       "ex": []
     },
@@ -7472,7 +7526,7 @@ window.DICT.bible = [
       "w": "Golden calf",
       "pos": "noun",
       "d": [
-        "Golden calf"
+        "golden calf"
       ],
       "ex": []
     },
@@ -7498,7 +7552,9 @@ window.DICT.bible = [
       "w": "Banner",
       "pos": "noun",
       "d": [
-        "Banner"
+        "power, vitality, energy",
+        "an era, a time frame",
+        "radical"
       ],
       "ex": []
     },
@@ -7524,7 +7580,7 @@ window.DICT.bible = [
       "w": "Fasting",
       "pos": "noun",
       "d": [
-        "Fasting"
+        "fasting"
       ],
       "ex": []
     },
@@ -7550,7 +7606,9 @@ window.DICT.bible = [
       "w": "Vessel",
       "pos": "noun",
       "d": [
-        "Vessel"
+        "a hot air balloon",
+        "Structure or  framework",
+        "A utensil or  tool"
       ],
       "ex": []
     },
@@ -7576,7 +7634,8 @@ window.DICT.bible = [
       "w": "Famine",
       "pos": "noun",
       "d": [
-        "Famine"
+        "aerial root",
+        "dearth, famine, scarcity"
       ],
       "ex": []
     },
@@ -7602,7 +7661,7 @@ window.DICT.bible = [
       "w": "Memorial",
       "pos": "noun",
       "d": [
-        "Memorial"
+        "Commemoration"
       ],
       "ex": []
     },
@@ -7628,7 +7687,9 @@ window.DICT.bible = [
       "w": "Prayer",
       "pos": "noun",
       "d": [
-        "Prayer"
+        "mantra",
+        "contemplation, crack, incubation, intercession",
+        "A prayer"
       ],
       "ex": []
     },
@@ -7654,7 +7715,7 @@ window.DICT.bible = [
       "w": "Pillar",
       "pos": "noun",
       "d": [
-        "Pillar"
+        "A pillar"
       ],
       "ex": []
     },
@@ -7784,7 +7845,7 @@ window.DICT.bible = [
       "w": "Fat",
       "pos": "noun",
       "d": [
-        "Fat"
+        "Oil or  fat"
       ],
       "ex": []
     },
@@ -7966,7 +8027,7 @@ window.DICT.bible = [
       "w": "Joy",
       "pos": "noun",
       "d": [
-        "Joy"
+        "Joy or  delight"
       ],
       "ex": []
     },
@@ -8096,7 +8157,7 @@ window.DICT.bible = [
       "w": "Wonder",
       "pos": "noun",
       "d": [
-        "Wonder"
+        "fantasticality, singularity"
       ],
       "ex": []
     },
@@ -8122,7 +8183,8 @@ window.DICT.bible = [
       "w": "Miracle",
       "pos": "noun",
       "d": [
-        "Miracle"
+        "hooter, steam whistle",
+        "A miracle"
       ],
       "ex": []
     },
@@ -8148,7 +8210,7 @@ window.DICT.bible = [
       "w": "Gibeon",
       "pos": "noun",
       "d": [
-        "Gibeon"
+        "gibeon"
       ],
       "ex": []
     },
@@ -8200,7 +8262,7 @@ window.DICT.bible = [
       "w": "Foundation",
       "pos": "noun",
       "d": [
-        "Foundation"
+        "The foundation"
       ],
       "ex": []
     },
@@ -8226,7 +8288,7 @@ window.DICT.bible = [
       "w": "Gihon",
       "pos": "noun",
       "d": [
-        "Gihon"
+        "Married, already married"
       ],
       "ex": []
     },
@@ -8278,7 +8340,7 @@ window.DICT.bible = [
       "w": "Fathom",
       "pos": "noun",
       "d": [
-        "Fathom"
+        "Road"
       ],
       "ex": []
     },
@@ -8382,7 +8444,7 @@ window.DICT.bible = [
       "w": "Spin",
       "pos": "noun",
       "d": [
-        "Spin"
+        "weaving by hand"
       ],
       "ex": []
     },
@@ -8538,7 +8600,7 @@ window.DICT.bible = [
       "w": "Honey",
       "pos": "noun",
       "d": [
-        "Honey"
+        "Honey or  nectar"
       ],
       "ex": []
     },
@@ -8590,7 +8652,7 @@ window.DICT.bible = [
       "w": "Dream",
       "pos": "noun",
       "d": [
-        "Dream"
+        "A Dream"
       ],
       "ex": []
     },
@@ -8642,7 +8704,7 @@ window.DICT.bible = [
       "w": "Raven",
       "pos": "noun",
       "d": [
-        "Raven"
+        "carrion crow, crow"
       ],
       "ex": []
     },
@@ -8668,7 +8730,7 @@ window.DICT.bible = [
       "w": "Chaff",
       "pos": "noun",
       "d": [
-        "Chaff"
+        "Skin or  nutshell"
       ],
       "ex": []
     },
@@ -8694,7 +8756,8 @@ window.DICT.bible = [
       "w": "rump",
       "pos": "noun",
       "d": [
-        "rump"
+        "train",
+        "Tail"
       ],
       "ex": []
     },
@@ -8720,7 +8783,8 @@ window.DICT.bible = [
       "w": "Fodder",
       "pos": "noun",
       "d": [
-        "Fodder"
+        "Shape or  form or  appearance",
+        "a grammatical word meaning how much is the price per piece/item costs"
       ],
       "ex": []
     },
@@ -8824,7 +8888,7 @@ window.DICT.bible = [
       "w": "Ass",
       "pos": "noun",
       "d": [
-        "Ass"
+        "a brayer, a donkey"
       ],
       "ex": []
     },
@@ -8902,7 +8966,7 @@ window.DICT.bible = [
       "w": "Stranger",
       "pos": "noun",
       "d": [
-        "Stranger"
+        "a traveler, a wayfarer  (2) a visitor, a guest"
       ],
       "ex": []
     },
@@ -8928,7 +8992,7 @@ window.DICT.bible = [
       "w": "Spikenard",
       "pos": "noun",
       "d": [
-        "Spikenard"
+        "nard"
       ],
       "ex": []
     },
@@ -8980,7 +9044,7 @@ window.DICT.bible = [
       "w": "Trees",
       "pos": "noun",
       "d": [
-        "Trees"
+        "Tree"
       ],
       "ex": []
     },
@@ -9292,7 +9356,7 @@ window.DICT.bible = [
       "w": "Trumpet",
       "pos": "noun",
       "d": [
-        "Trumpet"
+        "a bugle, a coach horn, a trumpet"
       ],
       "ex": []
     },
@@ -9422,7 +9486,7 @@ window.DICT.bible = [
       "w": "Nain",
       "pos": "noun",
       "d": [
-        "Nain"
+        "court lady"
       ],
       "ex": []
     },
@@ -9500,7 +9564,9 @@ window.DICT.bible = [
       "w": "Paradise",
       "pos": "noun",
       "d": [
-        "Paradise"
+        "Canaan",
+        "Eden",
+        "paradise"
       ],
       "ex": []
     },
@@ -9552,7 +9618,7 @@ window.DICT.bible = [
       "w": "Battlement",
       "pos": "noun",
       "d": [
-        "Battlement"
+        "balustrade, banister, breastrail, guardrail, handrail, parapet, rail, railing"
       ],
       "ex": []
     },
@@ -9578,7 +9644,7 @@ window.DICT.bible = [
       "w": "Camel",
       "pos": "noun",
       "d": [
-        "Camel"
+        "a camel"
       ],
       "ex": []
     },
@@ -9604,7 +9670,8 @@ window.DICT.bible = [
       "w": "Day",
       "pos": "noun",
       "d": [
-        "Day"
+        "Day",
+        "the edge of a blade"
       ],
       "ex": []
     },
@@ -9630,7 +9697,8 @@ window.DICT.bible = [
       "w": "Sickle",
       "pos": "noun",
       "d": [
-        "Sickle"
+        "sickle",
+        "a reaping hook, a sickle, a scythe"
       ],
       "ex": []
     },
@@ -9656,7 +9724,7 @@ window.DICT.bible = [
       "w": "Warp",
       "pos": "noun",
       "d": [
-        "Warp"
+        "warp"
       ],
       "ex": []
     },
@@ -9682,7 +9750,7 @@ window.DICT.bible = [
       "w": "Eunuch",
       "pos": "noun",
       "d": [
-        "Eunuch"
+        "eunuch"
       ],
       "ex": []
     },
@@ -9734,7 +9802,7 @@ window.DICT.bible = [
       "w": "Abuse",
       "pos": "noun",
       "d": [
-        "Abuse"
+        "abuse, misapplication, misappropriation, overuse"
       ],
       "ex": []
     },
@@ -9786,7 +9854,8 @@ window.DICT.bible = [
       "w": "Thigh",
       "pos": "noun",
       "d": [
-        "Thigh"
+        "huckle",
+        "thigh"
       ],
       "ex": []
     },
@@ -9812,7 +9881,8 @@ window.DICT.bible = [
       "w": "Lead",
       "pos": "noun",
       "d": [
-        "Lead"
+        "lead (the metal)",
+        "wax"
       ],
       "ex": []
     },
@@ -9916,7 +9986,8 @@ window.DICT.bible = [
       "w": "No",
       "pos": "noun",
       "d": [
-        "No"
+        "hearth, fireplace, kiln",
+        "an oar"
       ],
       "ex": []
     },
@@ -9942,7 +10013,7 @@ window.DICT.bible = [
       "w": "Cord",
       "pos": "noun",
       "d": [
-        "Cord"
+        "cord"
       ],
       "ex": []
     },
@@ -9994,7 +10065,7 @@ window.DICT.bible = [
       "w": "Ark of Noah",
       "pos": "noun",
       "d": [
-        "Ark of Noah"
+        "Noah's Ark"
       ],
       "ex": []
     },
@@ -10046,7 +10117,8 @@ window.DICT.bible = [
       "w": "Mule",
       "pos": "noun",
       "d": [
-        "Mule"
+        "a mule deer",
+        "a mule"
       ],
       "ex": []
     },
@@ -10124,7 +10196,7 @@ window.DICT.bible = [
       "w": "Spoil",
       "pos": "noun",
       "d": [
-        "Spoil"
+        "taking the spoils of war"
       ],
       "ex": []
     },
@@ -10150,7 +10222,7 @@ window.DICT.bible = [
       "w": "Chrysoprasus",
       "pos": "noun",
       "d": [
-        "Chrysoprasus"
+        "chrysoprase"
       ],
       "ex": []
     },
@@ -10176,7 +10248,7 @@ window.DICT.bible = [
       "w": "Beryl",
       "pos": "noun",
       "d": [
-        "Beryl"
+        "beryl"
       ],
       "ex": []
     },
@@ -10202,7 +10274,7 @@ window.DICT.bible = [
       "w": "Bribe",
       "pos": "noun",
       "d": [
-        "Bribe"
+        "bribe, grease, palm oil, payola, slush"
       ],
       "ex": []
     },
@@ -10254,7 +10326,9 @@ window.DICT.bible = [
       "w": "Luke",
       "pos": "noun",
       "d": [
-        "Luke"
+        "somebody (short for 누구가)",
+        "progressively more and more",
+        "a nougat"
       ],
       "ex": []
     },
@@ -10332,7 +10406,8 @@ window.DICT.bible = [
       "w": "Leaven",
       "pos": "noun",
       "d": [
-        "Leaven"
+        "barm",
+        "leaven"
       ],
       "ex": []
     },
@@ -10358,7 +10433,8 @@ window.DICT.bible = [
       "w": "Sister",
       "pos": "noun",
       "d": [
-        "Sister"
+        "sister",
+        "sisterly"
       ],
       "ex": []
     },
@@ -10384,7 +10460,7 @@ window.DICT.bible = [
       "w": "Farmer",
       "pos": "noun",
       "d": [
-        "Farmer"
+        "A farmer"
       ],
       "ex": []
     },
@@ -10410,7 +10486,7 @@ window.DICT.bible = [
       "w": "Eyelids",
       "pos": "noun",
       "d": [
-        "Eyelids"
+        "an eyelid, the eyelids"
       ],
       "ex": []
     },
@@ -10436,7 +10512,8 @@ window.DICT.bible = [
       "w": "Eye",
       "pos": "noun",
       "d": [
-        "Eye"
+        "Eyes",
+        "Snow"
       ],
       "ex": []
     },
@@ -10462,7 +10539,7 @@ window.DICT.bible = [
       "w": "Apple of the eye",
       "pos": "noun",
       "d": [
-        "Apple of the eye"
+        "The pupil"
       ],
       "ex": []
     },
@@ -10514,7 +10591,7 @@ window.DICT.bible = [
       "w": "Tears",
       "pos": "noun",
       "d": [
-        "Tears"
+        "A tear"
       ],
       "ex": []
     },
@@ -10540,7 +10617,7 @@ window.DICT.bible = [
       "w": "Presence",
       "pos": "noun",
       "d": [
-        "Presence"
+        "Before one's eyes"
       ],
       "ex": []
     },
@@ -10852,7 +10929,7 @@ window.DICT.bible = [
       "w": "Abuse",
       "pos": "noun",
       "d": [
-        "Abuse"
+        "defloration"
       ],
       "ex": []
     },
@@ -11320,7 +11397,8 @@ window.DICT.bible = [
       "w": "Plumb line",
       "pos": "noun",
       "d": [
-        "Plumb line"
+        "becket",
+        "plumb line"
       ],
       "ex": []
     },
@@ -11346,7 +11424,7 @@ window.DICT.bible = [
       "w": "Fruitful",
       "pos": "noun",
       "d": [
-        "Fruitful"
+        "fecundity, fertility, productiveness, productivity"
       ],
       "ex": []
     },
@@ -11398,7 +11476,7 @@ window.DICT.bible = [
       "w": "Tarsus",
       "pos": "noun",
       "d": [
-        "Tarsus"
+        "1) Large and small, 2) more or less"
       ],
       "ex": []
     },
@@ -11736,7 +11814,7 @@ window.DICT.bible = [
       "w": "David",
       "pos": "noun",
       "d": [
-        "David"
+        "david"
       ],
       "ex": []
     },
@@ -11840,7 +11918,7 @@ window.DICT.bible = [
       "w": "Protest",
       "pos": "noun",
       "d": [
-        "Protest"
+        "with affirmation, assertion, dictum, predication"
       ],
       "ex": []
     },
@@ -11866,7 +11944,7 @@ window.DICT.bible = [
       "w": "Single",
       "pos": "noun",
       "d": [
-        "Single"
+        "simplification, single, singleness, singularity, unity"
       ],
       "ex": []
     },
@@ -11892,7 +11970,7 @@ window.DICT.bible = [
       "w": "Adorn",
       "pos": "noun",
       "d": [
-        "Adorn"
+        "Meaning: you are very, very sad"
       ],
       "ex": []
     },
@@ -11944,7 +12022,8 @@ window.DICT.bible = [
       "w": "Month",
       "pos": "noun",
       "d": [
-        "Month"
+        "a month",
+        "The moon"
       ],
       "ex": []
     },
@@ -11970,7 +12049,7 @@ window.DICT.bible = [
       "w": "Diamond",
       "pos": "noun",
       "d": [
-        "Diamond"
+        "diamonds, a diamond"
       ],
       "ex": []
     },
@@ -11996,7 +12075,9 @@ window.DICT.bible = [
       "w": "Dan",
       "pos": "noun",
       "d": [
-        "Dan"
+        "terrace",
+        "a column",
+        "platform, stage"
       ],
       "ex": []
     },
@@ -12022,7 +12103,7 @@ window.DICT.bible = [
       "w": "Simple and Simplicity",
       "pos": "noun",
       "d": [
-        "Simple and Simplicity"
+        "Be simple-minded, rather undeveloped"
       ],
       "ex": []
     },
@@ -12126,7 +12207,7 @@ window.DICT.bible = [
       "w": "Anchor",
       "pos": "noun",
       "d": [
-        "Anchor"
+        "an anchor"
       ],
       "ex": []
     },
@@ -12178,7 +12259,7 @@ window.DICT.bible = [
       "w": "Recompense",
       "pos": "noun",
       "d": [
-        "Recompense"
+        "to get retaliation, an eye for an eye"
       ],
       "ex": []
     },
@@ -12230,7 +12311,7 @@ window.DICT.bible = [
       "w": "Air",
       "pos": "noun",
       "d": [
-        "Air"
+        "The atmosphere"
       ],
       "ex": []
     },
@@ -12334,7 +12415,7 @@ window.DICT.bible = [
       "w": "Baldness",
       "pos": "noun",
       "d": [
-        "Baldness"
+        "a bald coot, a baldy, SB WHO is bald"
       ],
       "ex": []
     },
@@ -12412,7 +12493,9 @@ window.DICT.bible = [
       "w": "Ambassador",
       "pos": "noun",
       "d": [
-        "Ambassador"
+        "an ambassador",
+        "something great, something big",
+        "metabolism"
       ],
       "ex": []
     },
@@ -12464,7 +12547,7 @@ window.DICT.bible = [
       "w": "Pledge",
       "pos": "noun",
       "d": [
-        "Pledge"
+        "cover"
       ],
       "ex": []
     },
@@ -12542,7 +12625,7 @@ window.DICT.bible = [
       "w": "Basin",
       "pos": "noun",
       "d": [
-        "Basin"
+        "basin"
       ],
       "ex": []
     },
@@ -12594,7 +12677,9 @@ window.DICT.bible = [
       "w": "Captain",
       "pos": "noun",
       "d": [
-        "Captain"
+        "the large intestine",
+        "a ledger, a recording ledger",
+        "captain, general"
       ],
       "ex": []
     },
@@ -12620,7 +12705,7 @@ window.DICT.bible = [
       "w": "Against",
       "pos": "noun",
       "d": [
-        "Against"
+        "archenemy"
       ],
       "ex": []
     },
@@ -12646,7 +12731,7 @@ window.DICT.bible = [
       "w": "Bowl",
       "pos": "noun",
       "d": [
-        "Bowl"
+        "Treatment"
       ],
       "ex": []
     },
@@ -12672,7 +12757,7 @@ window.DICT.bible = [
       "w": "Deluge",
       "pos": "noun",
       "d": [
-        "Deluge"
+        "deluge"
       ],
       "ex": []
     },
@@ -12698,7 +12783,9 @@ window.DICT.bible = [
       "w": "Demas",
       "pos": "noun",
       "d": [
-        "Demas"
+        "dugg gen",
+        "grapevine",
+        "demagogic"
       ],
       "ex": []
     },
@@ -12828,7 +12915,7 @@ window.DICT.bible = [
       "w": "Virtue",
       "pos": "noun",
       "d": [
-        "Virtue"
+        "Virtue, morality"
       ],
       "ex": []
     },
@@ -13140,7 +13227,7 @@ window.DICT.bible = [
       "w": "Thomas",
       "pos": "noun",
       "d": [
-        "Thomas"
+        "A chopping board"
       ],
       "ex": []
     },
@@ -13166,7 +13253,7 @@ window.DICT.bible = [
       "w": "Furnace",
       "pos": "noun",
       "d": [
-        "Furnace"
+        "crucible, melting pot"
       ],
       "ex": []
     },
@@ -13218,7 +13305,8 @@ window.DICT.bible = [
       "w": "Tophet",
       "pos": "noun",
       "d": [
-        "Tophet"
+        "Tophet",
+        "Tophet(h)"
       ],
       "ex": []
     },
@@ -13270,7 +13358,7 @@ window.DICT.bible = [
       "w": "Ax",
       "pos": "noun",
       "d": [
-        "Ax"
+        "an ax, a broadax, a chopper, a tomahawk"
       ],
       "ex": []
     },
@@ -13296,7 +13384,9 @@ window.DICT.bible = [
       "w": "City",
       "pos": "noun",
       "d": [
-        "City"
+        "City",
+        "not at all, not in the slightest",
+        "to show in a picture"
       ],
       "ex": []
     },
@@ -13374,7 +13464,7 @@ window.DICT.bible = [
       "w": "Stealing",
       "pos": "noun",
       "d": [
-        "Stealing"
+        "stealing, theft, thievery"
       ],
       "ex": []
     },
@@ -13400,7 +13490,7 @@ window.DICT.bible = [
       "w": "Trench",
       "pos": "noun",
       "d": [
-        "Trench"
+        "channel, ditch, sluit"
       ],
       "ex": []
     },
@@ -13478,7 +13568,9 @@ window.DICT.bible = [
       "w": "Poison",
       "pos": "noun",
       "d": [
-        "Poison"
+        "bane",
+        "jar",
+        "poison, venom"
       ],
       "ex": []
     },
@@ -13504,7 +13596,7 @@ window.DICT.bible = [
       "w": "Adder 혹은 Viper",
       "pos": "noun",
       "d": [
-        "Adder 혹은 Viper"
+        "a poisonous snake"
       ],
       "ex": []
     },
@@ -13634,7 +13726,7 @@ window.DICT.bible = [
       "w": "Strong drink",
       "pos": "noun",
       "d": [
-        "Strong drink"
+        "solo"
       ],
       "ex": []
     },
@@ -13686,7 +13778,8 @@ window.DICT.bible = [
       "w": "Money",
       "pos": "noun",
       "d": [
-        "Money"
+        "Money",
+        "Give me some money"
       ],
       "ex": []
     },
@@ -13712,7 +13805,7 @@ window.DICT.bible = [
       "w": "Eagle",
       "pos": "noun",
       "d": [
-        "Eagle"
+        "vulture"
       ],
       "ex": []
     },
@@ -13738,7 +13831,7 @@ window.DICT.bible = [
       "w": "Stone",
       "pos": "noun",
       "d": [
-        "Stone"
+        "rock, stone (宊 [ 집 가,부딪칠 돌 ])"
       ],
       "ex": []
     },
@@ -13894,7 +13987,9 @@ window.DICT.bible = [
       "w": "Gardens",
       "pos": "noun",
       "d": [
-        "Gardens"
+        "a mountain or hill by where sb lives",
+        "a mountain to the east",
+        "movable property (not real estate)"
       ],
       "ex": []
     },
@@ -13946,7 +14041,8 @@ window.DICT.bible = [
       "w": "Mole",
       "pos": "noun",
       "d": [
-        "Mole"
+        "mole2",
+        "mole shrew"
       ],
       "ex": []
     },
@@ -14024,7 +14120,7 @@ window.DICT.bible = [
       "w": "Compassion",
       "pos": "noun",
       "d": [
-        "Compassion"
+        "compassion, consideration"
       ],
       "ex": []
     },
@@ -14050,7 +14146,7 @@ window.DICT.bible = [
       "w": "Fear",
       "pos": "noun",
       "d": [
-        "Fear"
+        "apprehension, dread, fear"
       ],
       "ex": []
     },
@@ -14076,7 +14172,7 @@ window.DICT.bible = [
       "w": "East",
       "pos": "noun",
       "d": [
-        "East"
+        "east, eastward"
       ],
       "ex": []
     },
@@ -14102,7 +14198,7 @@ window.DICT.bible = [
       "w": "Swine",
       "pos": "noun",
       "d": [
-        "Swine"
+        "a hog, a pig, a swine"
       ],
       "ex": []
     },
@@ -14362,7 +14458,7 @@ window.DICT.bible = [
       "w": "Teraphim",
       "pos": "noun",
       "d": [
-        "Teraphim"
+        "terahim"
       ],
       "ex": []
     },
@@ -14570,7 +14666,7 @@ window.DICT.bible = [
       "w": "Beam",
       "pos": "noun",
       "d": [
-        "Beam"
+        "a crossbeam/girder. 보"
       ],
       "ex": []
     },
@@ -14596,7 +14692,7 @@ window.DICT.bible = [
       "w": "Lamp",
       "pos": "noun",
       "d": [
-        "Lamp"
+        "candle, lamplight"
       ],
       "ex": []
     },
@@ -14934,7 +15030,7 @@ window.DICT.bible = [
       "w": "Timothy",
       "pos": "noun",
       "d": [
-        "Timothy"
+        "timothy"
       ],
       "ex": []
     },
@@ -15064,7 +15160,7 @@ window.DICT.bible = [
       "w": "Daughter",
       "pos": "noun",
       "d": [
-        "Daughter"
+        "daughter"
       ],
       "ex": []
     },
@@ -15168,7 +15264,7 @@ window.DICT.bible = [
       "w": "Earth",
       "pos": "noun",
       "d": [
-        "Earth"
+        "ground, land"
       ],
       "ex": []
     },
@@ -15298,7 +15394,8 @@ window.DICT.bible = [
       "w": "Time",
       "pos": "noun",
       "d": [
-        "Time"
+        "moment, time, when",
+        "dirt, dust, grime"
       ],
       "ex": []
     },
@@ -15350,7 +15447,7 @@ window.DICT.bible = [
       "w": "Raca",
       "pos": "noun",
       "d": [
-        "Raca"
+        "raga"
       ],
       "ex": []
     },
@@ -15428,7 +15525,8 @@ window.DICT.bible = [
       "w": "Fillets",
       "pos": "noun",
       "d": [
-        "Fillets"
+        "band, belt, girdle",
+        "zoster, a zodiac sign"
       ],
       "ex": []
     },
@@ -15454,7 +15552,7 @@ window.DICT.bible = [
       "w": "Ramah",
       "pos": "noun",
       "d": [
-        "Ramah"
+        "llama"
       ],
       "ex": []
     },
@@ -15818,7 +15916,7 @@ window.DICT.bible = [
       "w": "Rabbi",
       "pos": "noun",
       "d": [
-        "Rabbi"
+        "rabbi"
       ],
       "ex": []
     },
@@ -16182,7 +16280,8 @@ window.DICT.bible = [
       "w": "Leah",
       "pos": "noun",
       "d": [
-        "Leah"
+        "Leah",
+        "Rhea"
       ],
       "ex": []
     },
@@ -16286,7 +16385,7 @@ window.DICT.bible = [
       "w": "Rome",
       "pos": "noun",
       "d": [
-        "Rome"
+        "Roman, Rome"
       ],
       "ex": []
     },
@@ -16416,7 +16515,7 @@ window.DICT.bible = [
       "w": "Log",
       "pos": "noun",
       "d": [
-        "Log"
+        "a log, a logfile (computer)"
       ],
       "ex": []
     },
@@ -16702,7 +16801,7 @@ window.DICT.bible = [
       "w": "Ruby",
       "pos": "noun",
       "d": [
-        "Ruby"
+        "ruby"
       ],
       "ex": []
     },
@@ -16910,7 +17009,7 @@ window.DICT.bible = [
       "w": "Lud",
       "pos": "noun",
       "d": [
-        "Lud"
+        "Ruth"
       ],
       "ex": []
     },
@@ -17300,7 +17399,7 @@ window.DICT.bible = [
       "w": "Linus",
       "pos": "noun",
       "d": [
-        "Linus"
+        "Reno"
       ],
       "ex": []
     },
@@ -17586,7 +17685,7 @@ window.DICT.bible = [
       "w": "Devil",
       "pos": "noun",
       "d": [
-        "Devil"
+        "evil spirit"
       ],
       "ex": []
     },
@@ -17638,7 +17737,8 @@ window.DICT.bible = [
       "w": "Martha",
       "pos": "noun",
       "d": [
-        "Martha"
+        "Become dry",
+        "to be skinny"
       ],
       "ex": []
     },
@@ -17794,7 +17894,7 @@ window.DICT.bible = [
       "w": "Agate",
       "pos": "noun",
       "d": [
-        "Agate"
+        "agate"
       ],
       "ex": []
     },
@@ -17872,7 +17972,7 @@ window.DICT.bible = [
       "w": "Madai",
       "pos": "noun",
       "d": [
-        "Madai"
+        "sack"
       ],
       "ex": []
     },
@@ -17976,7 +18076,7 @@ window.DICT.bible = [
       "w": "Sorcerer",
       "pos": "noun",
       "d": [
-        "Sorcerer"
+        "conjurer, -juror, mage, sorcerer"
       ],
       "ex": []
     },
@@ -18002,7 +18102,7 @@ window.DICT.bible = [
       "w": "Palsy",
       "pos": "noun",
       "d": [
-        "Palsy"
+        "palsy, paralysis"
       ],
       "ex": []
     },
@@ -18106,7 +18206,7 @@ window.DICT.bible = [
       "w": "Magic",
       "pos": "noun",
       "d": [
-        "Magic"
+        "necromancy, sorcery, wizardry,"
       ],
       "ex": []
     },
@@ -18132,7 +18232,7 @@ window.DICT.bible = [
       "w": "Witch and Wizard",
       "pos": "noun",
       "d": [
-        "Witch and Wizard"
+        "magus, necromancer, sorcerer, wizard"
       ],
       "ex": []
     },
@@ -18236,7 +18336,7 @@ window.DICT.bible = [
       "w": "Mile",
       "pos": "noun",
       "d": [
-        "Mile"
+        "mile"
       ],
       "ex": []
     },
@@ -18262,7 +18362,7 @@ window.DICT.bible = [
       "w": "Matthew",
       "pos": "noun",
       "d": [
-        "Matthew"
+        "Mattew"
       ],
       "ex": []
     },
@@ -18470,7 +18570,7 @@ window.DICT.bible = [
       "w": "Staves",
       "pos": "noun",
       "d": [
-        "Staves"
+        "rod, stave"
       ],
       "ex": []
     },
@@ -18496,7 +18596,7 @@ window.DICT.bible = [
       "w": "Rod",
       "pos": "noun",
       "d": [
-        "Rod"
+        "a cane, a pole, a staff"
       ],
       "ex": []
     },
@@ -18548,7 +18648,7 @@ window.DICT.bible = [
       "w": "Firstborn son",
       "pos": "noun",
       "d": [
-        "Firstborn son"
+        "the eldest son"
       ],
       "ex": []
     },
@@ -18600,7 +18700,9 @@ window.DICT.bible = [
       "w": "Horses",
       "pos": "noun",
       "d": [
-        "Horses"
+        "man",
+        "4.765 US gallons",
+        "Horse"
       ],
       "ex": []
     },
@@ -18626,7 +18728,7 @@ window.DICT.bible = [
       "w": "Expire",
       "pos": "noun",
       "d": [
-        "Expire"
+        "completion, expiry, maturity, termination"
       ],
       "ex": []
     },
@@ -18652,7 +18754,7 @@ window.DICT.bible = [
       "w": "Manna",
       "pos": "noun",
       "d": [
-        "Manna"
+        "manna"
       ],
       "ex": []
     },
@@ -18678,7 +18780,7 @@ window.DICT.bible = [
       "w": "Horseleech",
       "pos": "noun",
       "d": [
-        "Horseleech"
+        "horseleech"
       ],
       "ex": []
     },
@@ -18704,7 +18806,7 @@ window.DICT.bible = [
       "w": "Malchus",
       "pos": "noun",
       "d": [
-        "Malchus"
+        "without"
       ],
       "ex": []
     },
@@ -18782,7 +18884,8 @@ window.DICT.bible = [
       "w": "Hornet",
       "pos": "noun",
       "d": [
-        "Hornet"
+        "vespid",
+        "yellowjacket"
       ],
       "ex": []
     },
@@ -18808,7 +18911,7 @@ window.DICT.bible = [
       "w": "Blot out",
       "pos": "noun",
       "d": [
-        "Blot out"
+        "cancel, effacement, erasure, obliteration"
       ],
       "ex": []
     },
@@ -18834,7 +18937,7 @@ window.DICT.bible = [
       "w": "Word",
       "pos": "noun",
       "d": [
-        "Word"
+        "Speech"
       ],
       "ex": []
     },
@@ -18938,7 +19041,7 @@ window.DICT.bible = [
       "w": "Towers",
       "pos": "noun",
       "d": [
-        "Towers"
+        "obversation platform"
       ],
       "ex": []
     },
@@ -18964,7 +19067,7 @@ window.DICT.bible = [
       "w": "Burial",
       "pos": "noun",
       "d": [
-        "Burial"
+        "A store, shop"
       ],
       "ex": []
     },
@@ -19016,7 +19119,7 @@ window.DICT.bible = [
       "w": "Mill stone",
       "pos": "noun",
       "d": [
-        "Mill stone"
+        "a handmill, or a handmill stone"
       ],
       "ex": []
     },
@@ -19042,7 +19145,7 @@ window.DICT.bible = [
       "w": "Oath",
       "pos": "noun",
       "d": [
-        "Oath"
+        "swearing an oath, vowing"
       ],
       "ex": []
     },
@@ -19094,7 +19197,7 @@ window.DICT.bible = [
       "w": "Hair",
       "pos": "noun",
       "d": [
-        "Hair"
+        "hair"
       ],
       "ex": []
     },
@@ -19146,6 +19249,7 @@ window.DICT.bible = [
       "w": "Head",
       "pos": "noun",
       "d": [
+        "acrolith",
         "Head"
       ],
       "ex": []
@@ -19224,7 +19328,7 @@ window.DICT.bible = [
       "w": "Yoke",
       "pos": "noun",
       "d": [
-        "Yoke"
+        "a yoke (as for on ox)"
       ],
       "ex": []
     },
@@ -19250,7 +19354,8 @@ window.DICT.bible = [
       "w": "Locust",
       "pos": "noun",
       "d": [
-        "Locust"
+        "grasshopper",
+        "locust"
       ],
       "ex": []
     },
@@ -19536,7 +19641,7 @@ window.DICT.bible = [
       "w": "Messiah or Messias",
       "pos": "noun",
       "d": [
-        "Messiah or Messias"
+        "messiah"
       ],
       "ex": []
     },
@@ -19614,7 +19719,7 @@ window.DICT.bible = [
       "w": "Release",
       "pos": "noun",
       "d": [
-        "Release"
+        "acquittance, exemption, exoneration, forgiveness"
       ],
       "ex": []
     },
@@ -19640,7 +19745,7 @@ window.DICT.bible = [
       "w": "Quails",
       "pos": "noun",
       "d": [
-        "Quails"
+        "quail"
       ],
       "ex": []
     },
@@ -19666,7 +19771,7 @@ window.DICT.bible = [
       "w": "Destruction",
       "pos": "noun",
       "d": [
-        "Destruction"
+        "destruction, downfall, perdition, ruin"
       ],
       "ex": []
     },
@@ -19770,7 +19875,7 @@ window.DICT.bible = [
       "w": "Commandment",
       "pos": "noun",
       "d": [
-        "Commandment"
+        "An order,command"
       ],
       "ex": []
     },
@@ -19822,7 +19927,7 @@ window.DICT.bible = [
       "w": "Feasts",
       "pos": "noun",
       "d": [
-        "Feasts"
+        "Festival days"
       ],
       "ex": []
     },
@@ -19874,7 +19979,7 @@ window.DICT.bible = [
       "w": "Title",
       "pos": "noun",
       "d": [
-        "Title"
+        "nameplate"
       ],
       "ex": []
     },
@@ -19952,7 +20057,7 @@ window.DICT.bible = [
       "w": "Moses",
       "pos": "noun",
       "d": [
-        "Moses"
+        "moses"
       ],
       "ex": []
     },
@@ -20030,7 +20135,7 @@ window.DICT.bible = [
       "w": "Corner stone",
       "pos": "noun",
       "d": [
-        "Corner stone"
+        "cornerstone"
       ],
       "ex": []
     },
@@ -20056,7 +20161,7 @@ window.DICT.bible = [
       "w": "Neck",
       "pos": "noun",
       "d": [
-        "Neck"
+        "The neck; the throat"
       ],
       "ex": []
     },
@@ -20082,7 +20187,7 @@ window.DICT.bible = [
       "w": "Pastor",
       "pos": "noun",
       "d": [
-        "Pastor"
+        "A pastor"
       ],
       "ex": []
     },
@@ -20134,7 +20239,7 @@ window.DICT.bible = [
       "w": "Shepherd",
       "pos": "noun",
       "d": [
-        "Shepherd"
+        "herder, a herdsman"
       ],
       "ex": []
     },
@@ -20160,7 +20265,7 @@ window.DICT.bible = [
       "w": "Myrrh",
       "pos": "noun",
       "d": [
-        "Myrrh"
+        "myrrh"
       ],
       "ex": []
     },
@@ -20186,7 +20291,7 @@ window.DICT.bible = [
       "w": "Body",
       "pos": "noun",
       "d": [
-        "Body"
+        "body,physique"
       ],
       "ex": []
     },
@@ -20212,7 +20317,8 @@ window.DICT.bible = [
       "w": "Tanner",
       "pos": "noun",
       "d": [
-        "Tanner"
+        "leather dresser",
+        "tanner"
       ],
       "ex": []
     },
@@ -20264,7 +20370,9 @@ window.DICT.bible = [
       "w": "Nail",
       "pos": "noun",
       "d": [
-        "Nail"
+        "A nail",
+        "Cannot",
+        "a small pool"
       ],
       "ex": []
     },
@@ -20290,7 +20398,9 @@ window.DICT.bible = [
       "w": "Knee",
       "pos": "noun",
       "d": [
-        "Knee"
+        "knee",
+        "marrowbone",
+        "A knee"
       ],
       "ex": []
     },
@@ -20394,7 +20504,7 @@ window.DICT.bible = [
       "w": "Arms",
       "pos": "noun",
       "d": [
-        "Arms"
+        "Weapon"
       ],
       "ex": []
     },
@@ -20420,7 +20530,9 @@ window.DICT.bible = [
       "w": "Unknown",
       "pos": "noun",
       "d": [
-        "Unknown"
+        "the name of a famous warrior",
+        "anonymity, without name or meaning",
+        "air planecloth, cotton"
       ],
       "ex": []
     },
@@ -20498,7 +20610,7 @@ window.DICT.bible = [
       "w": "Unprofitable",
       "pos": "noun",
       "d": [
-        "Unprofitable"
+        "disutility, ineffectuality, inutility, vanity"
       ],
       "ex": []
     },
@@ -20550,7 +20662,7 @@ window.DICT.bible = [
       "w": "Rainbow",
       "pos": "noun",
       "d": [
-        "Rainbow"
+        "A rainbow"
       ],
       "ex": []
     },
@@ -20654,7 +20766,7 @@ window.DICT.bible = [
       "w": "Fig",
       "pos": "noun",
       "d": [
-        "Fig"
+        "fig"
       ],
       "ex": []
     },
@@ -20680,7 +20792,7 @@ window.DICT.bible = [
       "w": "Porters",
       "pos": "noun",
       "d": [
-        "Porters"
+        "a gatekeeper, a porter"
       ],
       "ex": []
     },
@@ -20706,7 +20818,8 @@ window.DICT.bible = [
       "w": "Salutation",
       "pos": "noun",
       "d": [
-        "Salutation"
+        "note",
+        "respect"
       ],
       "ex": []
     },
@@ -20732,6 +20845,7 @@ window.DICT.bible = [
       "w": "Water",
       "pos": "noun",
       "d": [
+        "the color of something",
         "Water"
       ],
       "ex": []
@@ -21122,7 +21236,7 @@ window.DICT.bible = [
       "w": "Michael",
       "pos": "noun",
       "d": [
-        "Michael"
+        "michael"
       ],
       "ex": []
     },
@@ -21356,7 +21470,7 @@ window.DICT.bible = [
       "w": "Mass",
       "pos": "noun",
       "d": [
-        "Mass"
+        "Catholic mass, a Catholic service"
       ],
       "ex": []
     },
@@ -21382,7 +21496,7 @@ window.DICT.bible = [
       "w": "Superstition",
       "pos": "noun",
       "d": [
-        "Superstition"
+        "old wives` tale, superstition"
       ],
       "ex": []
     },
@@ -21408,7 +21522,7 @@ window.DICT.bible = [
       "w": "Hate",
       "pos": "noun",
       "d": [
-        "Hate"
+        "Dislike"
       ],
       "ex": []
     },
@@ -21460,7 +21574,7 @@ window.DICT.bible = [
       "w": "Delusion",
       "pos": "noun",
       "d": [
-        "Delusion"
+        "infatuation, being a victim to sbs charms"
       ],
       "ex": []
     },
@@ -21694,7 +21808,7 @@ window.DICT.bible = [
       "w": "Wheat",
       "pos": "noun",
       "d": [
-        "Wheat"
+        "corn, mil, wheat"
       ],
       "ex": []
     },
@@ -21720,7 +21834,7 @@ window.DICT.bible = [
       "w": "Faith",
       "pos": "noun",
       "d": [
-        "Faith"
+        "Belief"
       ],
       "ex": []
     },
@@ -22006,7 +22120,7 @@ window.DICT.bible = [
       "w": "Parthia",
       "pos": "noun",
       "d": [
-        "Parthia"
+        "godet"
       ],
       "ex": []
     },
@@ -22032,7 +22146,9 @@ window.DICT.bible = [
       "w": "Winds",
       "pos": "noun",
       "d": [
-        "Winds"
+        "A wish, hope",
+        "Wind",
+        "As a result,by the influence of"
       ],
       "ex": []
     },
@@ -22266,7 +22382,7 @@ window.DICT.bible = [
       "w": "Babel",
       "pos": "noun",
       "d": [
-        "Babel"
+        "barbell"
       ],
       "ex": []
     },
@@ -22344,7 +22460,7 @@ window.DICT.bible = [
       "w": "Paphos",
       "pos": "noun",
       "d": [
-        "Paphos"
+        "Ignorant"
       ],
       "ex": []
     },
@@ -22890,7 +23006,7 @@ window.DICT.bible = [
       "w": "Paul",
       "pos": "noun",
       "d": [
-        "Paul"
+        "paul"
       ],
       "ex": []
     },
@@ -22916,7 +23032,8 @@ window.DICT.bible = [
       "w": "Rock",
       "pos": "noun",
       "d": [
-        "Rock"
+        "a big flat rock",
+        "firmness, a huge rock"
       ],
       "ex": []
     },
@@ -23046,7 +23163,7 @@ window.DICT.bible = [
       "w": "Mint",
       "pos": "noun",
       "d": [
-        "Mint"
+        "mint, peppermint"
       ],
       "ex": []
     },
@@ -23072,7 +23189,7 @@ window.DICT.bible = [
       "w": "Repetitions",
       "pos": "noun",
       "d": [
-        "Repetitions"
+        "recursion, reiteration, repetition"
       ],
       "ex": []
     },
@@ -23176,6 +23293,7 @@ window.DICT.bible = [
       "w": "Foot",
       "pos": "noun",
       "d": [
+        "locomotive",
         "Foot"
       ],
       "ex": []
@@ -23202,7 +23320,7 @@ window.DICT.bible = [
       "w": "Way",
       "pos": "noun",
       "d": [
-        "Way"
+        "a way, a means"
       ],
       "ex": []
     },
@@ -23228,7 +23346,7 @@ window.DICT.bible = [
       "w": "Tongues",
       "pos": "noun",
       "d": [
-        "Tongues"
+        "a dialect"
       ],
       "ex": []
     },
@@ -23254,7 +23372,8 @@ window.DICT.bible = [
       "w": "Ark",
       "pos": "noun",
       "d": [
-        "Ark"
+        "an apostil, marginalia, marginal notes, sidenotes",
+        "an ark"
       ],
       "ex": []
     },
@@ -23280,7 +23399,7 @@ window.DICT.bible = [
       "w": "Wantonness",
       "pos": "noun",
       "d": [
-        "Wantonness"
+        "indulgence, license, self-abandonement, self-indulgence"
       ],
       "ex": []
     },
@@ -23332,7 +23451,7 @@ window.DICT.bible = [
       "w": "Shield",
       "pos": "noun",
       "d": [
-        "Shield"
+        "shield, buckler"
       ],
       "ex": []
     },
@@ -23358,7 +23477,9 @@ window.DICT.bible = [
       "w": "Ship",
       "pos": "noun",
       "d": [
-        "Ship"
+        "floatage",
+        "flotage",
+        "Pear"
       ],
       "ex": []
     },
@@ -23384,6 +23505,7 @@ window.DICT.bible = [
       "w": "Night",
       "pos": "noun",
       "d": [
+        "Chestnut",
         "Night"
       ],
       "ex": []
@@ -23462,7 +23584,8 @@ window.DICT.bible = [
       "w": "Restitution",
       "pos": "noun",
       "d": [
-        "Restitution"
+        "a traditional closing for a letter",
+        "compensation, indemnity, recompense, remedy, reparation"
       ],
       "ex": []
     },
@@ -23514,7 +23637,7 @@ window.DICT.bible = [
       "w": "Bath-sheba",
       "pos": "noun",
       "d": [
-        "Bath-sheba"
+        "Bathsheba"
       ],
       "ex": []
     },
@@ -23592,7 +23715,7 @@ window.DICT.bible = [
       "w": "Centurion",
       "pos": "noun",
       "d": [
-        "Centurion"
+        "centurion"
       ],
       "ex": []
     },
@@ -23618,7 +23741,7 @@ window.DICT.bible = [
       "w": "Serpents",
       "pos": "noun",
       "d": [
-        "Serpents"
+        "Snake"
       ],
       "ex": []
     },
@@ -23644,7 +23767,7 @@ window.DICT.bible = [
       "w": "Lilly",
       "pos": "noun",
       "d": [
-        "Lilly"
+        "easter lily, lily, sego"
       ],
       "ex": []
     },
@@ -23774,7 +23897,7 @@ window.DICT.bible = [
       "w": "Multiply",
       "pos": "noun",
       "d": [
-        "Multiply"
+        "prosperous, thriving ; thick with luxurious/thick plant growth"
       ],
       "ex": []
     },
@@ -23852,7 +23975,7 @@ window.DICT.bible = [
       "w": "Naked",
       "pos": "noun",
       "d": [
-        "Naked"
+        "starknaked, bare"
       ],
       "ex": []
     },
@@ -23904,7 +24027,7 @@ window.DICT.bible = [
       "w": "Worm",
       "pos": "noun",
       "d": [
-        "Worm"
+        "A bug"
       ],
       "ex": []
     },
@@ -23930,7 +24053,7 @@ window.DICT.bible = [
       "w": "Willow",
       "pos": "noun",
       "d": [
-        "Willow"
+        "willow"
       ],
       "ex": []
     },
@@ -23956,7 +24079,7 @@ window.DICT.bible = [
       "w": "Overflow",
       "pos": "noun",
       "d": [
-        "Overflow"
+        "flooding, inundation"
       ],
       "ex": []
     },
@@ -24138,7 +24261,7 @@ window.DICT.bible = [
       "w": "Statute",
       "pos": "noun",
       "d": [
-        "Statute"
+        "a regulation"
       ],
       "ex": []
     },
@@ -24216,7 +24339,7 @@ window.DICT.bible = [
       "w": "Bekah",
       "pos": "noun",
       "d": [
-        "Bekah"
+        "Vega"
       ],
       "ex": []
     },
@@ -24268,7 +24391,7 @@ window.DICT.bible = [
       "w": "Pillows",
       "pos": "noun",
       "d": [
-        "Pillows"
+        "A pillow"
       ],
       "ex": []
     },
@@ -24294,7 +24417,7 @@ window.DICT.bible = [
       "w": "Peter",
       "pos": "noun",
       "d": [
-        "Peter"
+        "peter"
       ],
       "ex": []
     },
@@ -24372,7 +24495,7 @@ window.DICT.bible = [
       "w": "Betah",
       "pos": "noun",
       "d": [
-        "Betah"
+        "Cut, chop"
       ],
       "ex": []
     },
@@ -24580,7 +24703,7 @@ window.DICT.bible = [
       "w": "Veil",
       "pos": "noun",
       "d": [
-        "Veil"
+        "veil"
       ],
       "ex": []
     },
@@ -25100,7 +25223,8 @@ window.DICT.bible = [
       "w": "Bel",
       "pos": "noun",
       "d": [
-        "Bel"
+        "bel",
+        "bell"
       ],
       "ex": []
     },
@@ -25178,7 +25302,7 @@ window.DICT.bible = [
       "w": "Bricks",
       "pos": "noun",
       "d": [
-        "Bricks"
+        "brick"
       ],
       "ex": []
     },
@@ -25230,7 +25354,7 @@ window.DICT.bible = [
       "w": "Jasper",
       "pos": "noun",
       "d": [
-        "Jasper"
+        "jasper"
       ],
       "ex": []
     },
@@ -25256,7 +25380,7 @@ window.DICT.bible = [
       "w": "Decease",
       "pos": "noun",
       "d": [
-        "Decease"
+        "parting, dying, Nunc Dimittis"
       ],
       "ex": []
     },
@@ -25282,7 +25406,9 @@ window.DICT.bible = [
       "w": "Vial",
       "pos": "noun",
       "d": [
-        "Vial"
+        "Sickness",
+        "A bottle",
+        "GI, grade of soldier"
       ],
       "ex": []
     },
@@ -25308,7 +25434,8 @@ window.DICT.bible = [
       "w": "Advocate",
       "pos": "noun",
       "d": [
-        "Advocate"
+        "paraclete",
+        "vindicator"
       ],
       "ex": []
     },
@@ -25386,7 +25513,9 @@ window.DICT.bible = [
       "w": "Star",
       "pos": "noun",
       "d": [
-        "Star"
+        "all kinds of, anything you can think of",
+        "Classified by",
+        "A star"
       ],
       "ex": []
     },
@@ -25490,7 +25619,7 @@ window.DICT.bible = [
       "w": "Bulwarks",
       "pos": "noun",
       "d": [
-        "Bulwarks"
+        "a fort, walls of concrete/stone to protect from invaders"
       ],
       "ex": []
     },
@@ -25542,7 +25671,7 @@ window.DICT.bible = [
       "w": "Revenge",
       "pos": "noun",
       "d": [
-        "Revenge"
+        "repayment, reprisal, retaliation, retribution, revenge"
       ],
       "ex": []
     },
@@ -25568,7 +25697,8 @@ window.DICT.bible = [
       "w": "Reward",
       "pos": "noun",
       "d": [
-        "Reward"
+        "Compensation",
+        "recompense, redemption, redress, repayment"
       ],
       "ex": []
     },
@@ -25620,7 +25750,9 @@ window.DICT.bible = [
       "w": "Plowshare",
       "pos": "noun",
       "d": [
-        "Plowshare"
+        "a moldboard",
+        "a plow, a plowshare",
+        "supplementing, supplementary"
       ],
       "ex": []
     },
@@ -25646,7 +25778,8 @@ window.DICT.bible = [
       "w": "Infirmity",
       "pos": "noun",
       "d": [
-        "Infirmity"
+        "infirmity",
+        "poorness"
       ],
       "ex": []
     },
@@ -25672,7 +25805,7 @@ window.DICT.bible = [
       "w": "Treasury",
       "pos": "noun",
       "d": [
-        "Treasury"
+        "report,information"
       ],
       "ex": []
     },
@@ -25724,7 +25857,7 @@ window.DICT.bible = [
       "w": "Earnest",
       "pos": "noun",
       "d": [
-        "Earnest"
+        "assurance, certification, guaranty, warranty, attestation"
       ],
       "ex": []
     },
@@ -25802,7 +25935,7 @@ window.DICT.bible = [
       "w": "Blessing",
       "pos": "noun",
       "d": [
-        "Blessing"
+        "luck,happiness"
       ],
       "ex": []
     },
@@ -25906,7 +26039,9 @@ window.DICT.bible = [
       "w": "Gospel",
       "pos": "noun",
       "d": [
-        "Gospel"
+        "evangel",
+        "goodnews",
+        "gospel"
       ],
       "ex": []
     },
@@ -25958,7 +26093,7 @@ window.DICT.bible = [
       "w": "Pontus",
       "pos": "noun",
       "d": [
-        "Pontus"
+        "thoroughfare"
       ],
       "ex": []
     },
@@ -25984,7 +26119,7 @@ window.DICT.bible = [
       "w": "Ensample",
       "pos": "noun",
       "d": [
-        "Ensample"
+        "example, exemplar, pattern"
       ],
       "ex": []
     },
@@ -26062,7 +26197,7 @@ window.DICT.bible = [
       "w": "Seal",
       "pos": "noun",
       "d": [
-        "Seal"
+        "cachet, seal"
       ],
       "ex": []
     },
@@ -26114,7 +26249,9 @@ window.DICT.bible = [
       "w": "Bottle",
       "pos": "noun",
       "d": [
-        "Bottle"
+        "sth incidental or attached to sth else",
+        "a gunny sack",
+        "A detachment, squad"
       ],
       "ex": []
     },
@@ -26140,7 +26277,8 @@ window.DICT.bible = [
       "w": "Dedication",
       "pos": "noun",
       "d": [
-        "Dedication"
+        "consecration",
+        "sanctification"
       ],
       "ex": []
     },
@@ -26192,7 +26330,7 @@ window.DICT.bible = [
       "w": "Resurrection",
       "pos": "noun",
       "d": [
-        "Resurrection"
+        "rebirth, renascence, resurge, revivification"
       ],
       "ex": []
     },
@@ -26296,7 +26434,7 @@ window.DICT.bible = [
       "w": "Flint",
       "pos": "noun",
       "d": [
-        "Flint"
+        "a flintstone, flint, gunflint"
       ],
       "ex": []
     },
@@ -26322,7 +26460,7 @@ window.DICT.bible = [
       "w": "Puah",
       "pos": "noun",
       "d": [
-        "Puah"
+        "resentment, anger"
       ],
       "ex": []
     },
@@ -26348,7 +26486,9 @@ window.DICT.bible = [
       "w": "Nourish",
       "pos": "noun",
       "d": [
-        "Nourish"
+        "maintenance",
+        "keeping of sb who can't take care of themselves",
+        "floatage (sth that sunk comes to the top, floating)"
       ],
       "ex": []
     },
@@ -26400,7 +26540,8 @@ window.DICT.bible = [
       "w": "Leek",
       "pos": "noun",
       "d": [
-        "Leek"
+        "leek",
+        "scallion"
       ],
       "ex": []
     },
@@ -26452,7 +26593,7 @@ window.DICT.bible = [
       "w": "Charge",
       "pos": "noun",
       "d": [
-        "Charge"
+        "a command, an order from a superior"
       ],
       "ex": []
     },
@@ -26478,7 +26619,8 @@ window.DICT.bible = [
       "w": "Schism",
       "pos": "noun",
       "d": [
-        "Schism"
+        "dispute, trouble, arguing",
+        "a factional dispute (religion, politics)"
       ],
       "ex": []
     },
@@ -26504,7 +26646,8 @@ window.DICT.bible = [
       "w": "Sect",
       "pos": "noun",
       "d": [
-        "Sect"
+        "a branch, a filiation, a ramificaton",
+        "a splinter group"
       ],
       "ex": []
     },
@@ -26530,7 +26673,7 @@ window.DICT.bible = [
       "w": "North",
       "pos": "noun",
       "d": [
-        "North"
+        "The north direction"
       ],
       "ex": []
     },
@@ -26556,7 +26699,7 @@ window.DICT.bible = [
       "w": "Burn incense",
       "pos": "noun",
       "d": [
-        "Burn incense"
+        "thurification"
       ],
       "ex": []
     },
@@ -26582,7 +26725,8 @@ window.DICT.bible = [
       "w": "Fire",
       "pos": "noun",
       "d": [
-        "Fire"
+        "light",
+        "Fire; a light/lamp"
       ],
       "ex": []
     },
@@ -26608,7 +26752,8 @@ window.DICT.bible = [
       "w": "Indignation",
       "pos": "noun",
       "d": [
-        "Indignation"
+        "indignation, resentment",
+        "journalizing"
       ],
       "ex": []
     },
@@ -26634,7 +26779,7 @@ window.DICT.bible = [
       "w": "Separation",
       "pos": "noun",
       "d": [
-        "Separation"
+        "separation,segration"
       ],
       "ex": []
     },
@@ -26712,7 +26857,8 @@ window.DICT.bible = [
       "w": "Iniquity",
       "pos": "noun",
       "d": [
-        "Iniquity"
+        "Buddhism",
+        "Illegal"
       ],
       "ex": []
     },
@@ -26764,7 +26910,7 @@ window.DICT.bible = [
       "w": "Unbelief",
       "pos": "noun",
       "d": [
-        "Unbelief"
+        "disbelief, distrust, perfidy, unbelief"
       ],
       "ex": []
     },
@@ -26998,7 +27144,8 @@ window.DICT.bible = [
       "w": "Phut",
       "pos": "noun",
       "d": [
-        "Phut"
+        "hair pencil",
+        "writing brush"
       ],
       "ex": []
     },
@@ -27336,7 +27483,7 @@ window.DICT.bible = [
       "w": "Beer-Sheba",
       "pos": "noun",
       "d": [
-        "Beer-Sheba"
+        "Beersheba"
       ],
       "ex": []
     },
@@ -27440,7 +27587,9 @@ window.DICT.bible = [
       "w": "Rain",
       "pos": "noun",
       "d": [
-        "Rain"
+        "not, negative (negates the following noun)",
+        "Rain",
+        "A monument"
       ],
       "ex": []
     },
@@ -27466,7 +27615,7 @@ window.DICT.bible = [
       "w": "Doves",
       "pos": "noun",
       "d": [
-        "Doves"
+        "Pigeon"
       ],
       "ex": []
     },
@@ -27518,7 +27667,8 @@ window.DICT.bible = [
       "w": "Speak against",
       "pos": "noun",
       "d": [
-        "Speak against"
+        "recipe, secret formula",
+        "calumny, character assassination, defamation, smear word"
       ],
       "ex": []
     },
@@ -27570,7 +27720,8 @@ window.DICT.bible = [
       "w": "Phichol",
       "pos": "noun",
       "d": [
-        "Phichol"
+        "fibula",
+        "splint"
       ],
       "ex": []
     },
@@ -27726,7 +27877,7 @@ window.DICT.bible = [
       "w": "Parable",
       "pos": "noun",
       "d": [
-        "Parable"
+        "an allegory, a comparison"
       ],
       "ex": []
     },
@@ -27752,7 +27903,7 @@ window.DICT.bible = [
       "w": "Base",
       "pos": "noun",
       "d": [
-        "Base"
+        "a heavenly woman floating in the sky"
       ],
       "ex": []
     },
@@ -27778,7 +27929,7 @@ window.DICT.bible = [
       "w": "Ascent",
       "pos": "noun",
       "d": [
-        "Ascent"
+        "an inclination, a slope"
       ],
       "ex": []
     },
@@ -27934,7 +28085,7 @@ window.DICT.bible = [
       "w": "Philippi",
       "pos": "noun",
       "d": [
-        "Philippi"
+        "philippi"
       ],
       "ex": []
     },
@@ -28038,7 +28189,7 @@ window.DICT.bible = [
       "w": "Loans",
       "pos": "noun",
       "d": [
-        "Loans"
+        "Debt"
       ],
       "ex": []
     },
@@ -28064,7 +28215,7 @@ window.DICT.bible = [
       "w": "Philip",
       "pos": "noun",
       "d": [
-        "Philip"
+        "philip"
       ],
       "ex": []
     },
@@ -28168,7 +28319,7 @@ window.DICT.bible = [
       "w": "Bone",
       "pos": "noun",
       "d": [
-        "Bone"
+        "A bone"
       ],
       "ex": []
     },
@@ -28220,7 +28371,7 @@ window.DICT.bible = [
       "w": "Mulberry tree",
       "pos": "noun",
       "d": [
-        "Mulberry tree"
+        "mulberry"
       ],
       "ex": []
     },
@@ -28246,6 +28397,7 @@ window.DICT.bible = [
       "w": "Bread",
       "pos": "noun",
       "d": [
+        "toke",
         "Bread"
       ],
       "ex": []
@@ -28272,7 +28424,7 @@ window.DICT.bible = [
       "w": "Root",
       "pos": "noun",
       "d": [
-        "Root"
+        "A root"
       ],
       "ex": []
     },
@@ -28324,7 +28476,7 @@ window.DICT.bible = [
       "w": "Horn",
       "pos": "noun",
       "d": [
-        "Horn"
+        "a horn, animal horns"
       ],
       "ex": []
     },
@@ -28350,7 +28502,7 @@ window.DICT.bible = [
       "w": "Hunting",
       "pos": "noun",
       "d": [
-        "Hunting"
+        "Hunting, a hunt"
       ],
       "ex": []
     },
@@ -28402,7 +28554,8 @@ window.DICT.bible = [
       "w": "Ladder",
       "pos": "noun",
       "d": [
-        "Ladder"
+        "scalingladder",
+        "a ladder"
       ],
       "ex": []
     },
@@ -28454,7 +28607,7 @@ window.DICT.bible = [
       "w": "Zachariah",
       "pos": "noun",
       "d": [
-        "Zachariah"
+        "Zacharias"
       ],
       "ex": []
     },
@@ -28480,7 +28633,9 @@ window.DICT.bible = [
       "w": "Apostle",
       "pos": "noun",
       "d": [
-        "Apostle"
+        "bad ways, evil ways",
+        "a private bypath, bywalk",
+        "disciples, the 12 apostles"
       ],
       "ex": []
     },
@@ -28610,7 +28765,7 @@ window.DICT.bible = [
       "w": "Sarah",
       "pos": "noun",
       "d": [
-        "Sarah"
+        "sarah"
       ],
       "ex": []
     },
@@ -28636,7 +28791,8 @@ window.DICT.bible = [
       "w": "Man",
       "pos": "noun",
       "d": [
-        "Man"
+        "oracle",
+        "Person"
       ],
       "ex": []
     },
@@ -28688,6 +28844,7 @@ window.DICT.bible = [
       "w": "Love",
       "pos": "noun",
       "d": [
+        "love",
         "Love"
       ],
       "ex": []
@@ -28922,7 +29079,9 @@ window.DICT.bible = [
       "w": "Remission",
       "pos": "noun",
       "d": [
-        "Remission"
+        "cloth",
+        "all 4 directions",
+        "bezel, inclination, inclined plane"
       ],
       "ex": []
     },
@@ -28948,7 +29107,7 @@ window.DICT.bible = [
       "w": "Samos",
       "pos": "noun",
       "d": [
-        "Samos"
+        "yearning for sth, loving"
       ],
       "ex": []
     },
@@ -29026,7 +29185,7 @@ window.DICT.bible = [
       "w": "Desert",
       "pos": "noun",
       "d": [
-        "Desert"
+        "a desert"
       ],
       "ex": []
     },
@@ -29130,7 +29289,7 @@ window.DICT.bible = [
       "w": "Manuscripts",
       "pos": "noun",
       "d": [
-        "Manuscripts"
+        "a copy, a duplicate, a transcript"
       ],
       "ex": []
     },
@@ -29182,7 +29341,8 @@ window.DICT.bible = [
       "w": "Minister",
       "pos": "noun",
       "d": [
-        "Minister"
+        "fatigue",
+        "fatigue duty"
       ],
       "ex": []
     },
@@ -29312,7 +29472,7 @@ window.DICT.bible = [
       "w": "Judges",
       "pos": "noun",
       "d": [
-        "Judges"
+        "judge"
       ],
       "ex": []
     },
@@ -29416,7 +29576,8 @@ window.DICT.bible = [
       "w": "Lion",
       "pos": "noun",
       "d": [
-        "Lion"
+        "an emissary, sb who runs an official errand",
+        "A lion"
       ],
       "ex": []
     },
@@ -29468,7 +29629,7 @@ window.DICT.bible = [
       "w": "Razor",
       "pos": "noun",
       "d": [
-        "Razor"
+        "aerial tramway, cableway"
       ],
       "ex": []
     },
@@ -29494,7 +29655,7 @@ window.DICT.bible = [
       "w": "Wages",
       "pos": "noun",
       "d": [
-        "Wages"
+        "remuneration for work, getting paid for work"
       ],
       "ex": []
     },
@@ -29520,7 +29681,8 @@ window.DICT.bible = [
       "w": "Mountains",
       "pos": "noun",
       "d": [
-        "Mountains"
+        "A mountain",
+        "an acid"
       ],
       "ex": []
     },
@@ -29546,7 +29708,8 @@ window.DICT.bible = [
       "w": "Satyrs",
       "pos": "noun",
       "d": [
-        "Satyrs"
+        "satyr",
+        "satyric"
       ],
       "ex": []
     },
@@ -29572,7 +29735,7 @@ window.DICT.bible = [
       "w": "Sapphire",
       "pos": "noun",
       "d": [
-        "Sapphire"
+        "sapphire"
       ],
       "ex": []
     },
@@ -29598,7 +29761,7 @@ window.DICT.bible = [
       "w": "Zaccheus",
       "pos": "noun",
       "d": [
-        "Zaccheus"
+        "Zacheus"
       ],
       "ex": []
     },
@@ -29624,7 +29787,8 @@ window.DICT.bible = [
       "w": "Travail",
       "pos": "noun",
       "d": [
-        "Travail"
+        "throe",
+        "travail"
       ],
       "ex": []
     },
@@ -29650,7 +29814,7 @@ window.DICT.bible = [
       "w": "Turtle-dove",
       "pos": "noun",
       "d": [
-        "Turtle-dove"
+        "ringdove"
       ],
       "ex": []
     },
@@ -29806,7 +29970,7 @@ window.DICT.bible = [
       "w": "Coral",
       "pos": "noun",
       "d": [
-        "Coral"
+        "coral"
       ],
       "ex": []
     },
@@ -29884,7 +30048,7 @@ window.DICT.bible = [
       "w": "Salim",
       "pos": "noun",
       "d": [
-        "Salim"
+        "living,livelihood"
       ],
       "ex": []
     },
@@ -29988,7 +30152,7 @@ window.DICT.bible = [
       "w": "Salamis",
       "pos": "noun",
       "d": [
-        "Salamis"
+        "salami"
       ],
       "ex": []
     },
@@ -30144,7 +30308,7 @@ window.DICT.bible = [
       "w": "Slaughter",
       "pos": "noun",
       "d": [
-        "Slaughter"
+        "blood"
       ],
       "ex": []
     },
@@ -30300,7 +30464,7 @@ window.DICT.bible = [
       "w": "Trinity",
       "pos": "noun",
       "d": [
-        "Trinity"
+        "hypostasis"
       ],
       "ex": []
     },
@@ -30378,7 +30542,9 @@ window.DICT.bible = [
       "w": "Table",
       "pos": "noun",
       "d": [
-        "Table"
+        "Upper",
+        "his Majesty, the upper and first class, the upper, the first book of a series",
+        "a dining table"
       ],
       "ex": []
     },
@@ -30404,7 +30570,9 @@ window.DICT.bible = [
       "w": "Sackcloth",
       "pos": "noun",
       "d": [
-        "Sackcloth"
+        "livery",
+        "clothes worn on the upper body",
+        "clothes for a funeral"
       ],
       "ex": []
     },
@@ -30430,7 +30598,7 @@ window.DICT.bible = [
       "w": "Inheritance",
       "pos": "noun",
       "d": [
-        "Inheritance"
+        "heirship, inheritance, succession"
       ],
       "ex": []
     },
@@ -30534,7 +30702,8 @@ window.DICT.bible = [
       "w": "Ivory",
       "pos": "noun",
       "d": [
-        "Ivory"
+        "ivoried",
+        "ivory"
       ],
       "ex": []
     },
@@ -30560,7 +30729,7 @@ window.DICT.bible = [
       "w": "Merchant",
       "pos": "noun",
       "d": [
-        "Merchant"
+        "merchant,trader"
       ],
       "ex": []
     },
@@ -30612,7 +30781,7 @@ window.DICT.bible = [
       "w": "New Jerusalem",
       "pos": "noun",
       "d": [
-        "New Jerusalem"
+        "Celestial City"
       ],
       "ex": []
     },
@@ -30638,7 +30807,9 @@ window.DICT.bible = [
       "w": "Birds",
       "pos": "noun",
       "d": [
-        "Birds"
+        "An interval",
+        "A bird",
+        "New"
       ],
       "ex": []
     },
@@ -30664,7 +30835,7 @@ window.DICT.bible = [
       "w": "Colors",
       "pos": "noun",
       "d": [
-        "Colors"
+        "Color"
       ],
       "ex": []
     },
@@ -30690,7 +30861,7 @@ window.DICT.bible = [
       "w": "Mind",
       "pos": "noun",
       "d": [
-        "Mind"
+        "Thought"
       ],
       "ex": []
     },
@@ -30716,6 +30887,7 @@ window.DICT.bible = [
       "w": "Life",
       "pos": "noun",
       "d": [
+        "spend blood and  treasure",
         "Life"
       ],
       "ex": []
@@ -30742,7 +30914,7 @@ window.DICT.bible = [
       "w": "Conversation",
       "pos": "noun",
       "d": [
-        "Conversation"
+        "lifeway"
       ],
       "ex": []
     },
@@ -30794,7 +30966,7 @@ window.DICT.bible = [
       "w": "Lasciviousness",
       "pos": "noun",
       "d": [
-        "Lasciviousness"
+        "concupiscence"
       ],
       "ex": []
     },
@@ -30820,7 +30992,8 @@ window.DICT.bible = [
       "w": "Fountains",
       "pos": "noun",
       "d": [
-        "Fountains"
+        "font, fountain, spring, well",
+        "jealousy, 시가, 질투"
       ],
       "ex": []
     },
@@ -30846,7 +31019,7 @@ window.DICT.bible = [
       "w": "Scribe",
       "pos": "noun",
       "d": [
-        "Scribe"
+        "reporter"
       ],
       "ex": []
     },
@@ -30872,7 +31045,7 @@ window.DICT.bible = [
       "w": "Epistle",
       "pos": "noun",
       "d": [
-        "Epistle"
+        "communication, correspondance back and forth"
       ],
       "ex": []
     },
@@ -30950,7 +31123,8 @@ window.DICT.bible = [
       "w": "Carbuncle",
       "pos": "noun",
       "d": [
-        "Carbuncle"
+        "carbuncle",
+        "garnet"
       ],
       "ex": []
     },
@@ -31002,7 +31176,8 @@ window.DICT.bible = [
       "w": "Sentence",
       "pos": "noun",
       "d": [
-        "Sentence"
+        "adjudication, a sentence, a judicial ruling",
+        "a pronouncement"
       ],
       "ex": []
     },
@@ -31028,7 +31203,7 @@ window.DICT.bible = [
       "w": "Sedition",
       "pos": "noun",
       "d": [
-        "Sedition"
+        "agitation, demagogy, incendiarism, instigation, motivates others to follow"
       ],
       "ex": []
     },
@@ -31054,7 +31229,8 @@ window.DICT.bible = [
       "w": "Vow",
       "pos": "noun",
       "d": [
-        "Vow"
+        "adjuration",
+        "vow"
       ],
       "ex": []
     },
@@ -31080,7 +31256,8 @@ window.DICT.bible = [
       "w": "Gifts",
       "pos": "noun",
       "d": [
-        "Gifts"
+        "A present,gift",
+        "trading in futures"
       ],
       "ex": []
     },
@@ -31106,7 +31283,8 @@ window.DICT.bible = [
       "w": "Pomegranate",
       "pos": "noun",
       "d": [
-        "Pomegranate"
+        "pomegranate",
+        "Punic apple"
       ],
       "ex": []
     },
@@ -31158,7 +31336,7 @@ window.DICT.bible = [
       "w": "Election",
       "pos": "noun",
       "d": [
-        "Election"
+        "A choice"
       ],
       "ex": []
     },
@@ -31184,7 +31362,7 @@ window.DICT.bible = [
       "w": "Preaching",
       "pos": "noun",
       "d": [
-        "Preaching"
+        "promulgation"
       ],
       "ex": []
     },
@@ -31210,7 +31388,7 @@ window.DICT.bible = [
       "w": "Isle",
       "pos": "noun",
       "d": [
-        "Isle"
+        "An island"
       ],
       "ex": []
     },
@@ -31262,7 +31440,7 @@ window.DICT.bible = [
       "w": "Bible",
       "pos": "noun",
       "d": [
-        "Bible"
+        "The Bible"
       ],
       "ex": []
     },
@@ -31340,7 +31518,9 @@ window.DICT.bible = [
       "w": "Saint",
       "pos": "noun",
       "d": [
-        "Saint"
+        "the Holy City, Jerasuleum",
+        "a saint, sainthood",
+        "uranometry, a star chart"
       ],
       "ex": []
     },
@@ -31392,7 +31572,7 @@ window.DICT.bible = [
       "w": "Phylacteries",
       "pos": "noun",
       "d": [
-        "Phylacteries"
+        "phtlactery (jewish amulets/charms)"
       ],
       "ex": []
     },
@@ -31522,7 +31702,7 @@ window.DICT.bible = [
       "w": "Sanctify",
       "pos": "noun",
       "d": [
-        "Sanctify"
+        "Sex distinction"
       ],
       "ex": []
     },
@@ -31548,7 +31728,7 @@ window.DICT.bible = [
       "w": "Sanctuary",
       "pos": "noun",
       "d": [
-        "Sanctuary"
+        "a holy place, a sacrarium, a sanctuary, a sanctum"
       ],
       "ex": []
     },
@@ -31574,7 +31754,8 @@ window.DICT.bible = [
       "w": "Temple",
       "pos": "noun",
       "d": [
-        "Temple"
+        "the Bible, the scriptures, tradition",
+        "a crusade, a holy war"
       ],
       "ex": []
     },
@@ -31626,7 +31807,8 @@ window.DICT.bible = [
       "w": "Sanctification",
       "pos": "noun",
       "d": [
-        "Sanctification"
+        "irritation, vexation",
+        "the sacred olympic flame (2) the holy fire from a god"
       ],
       "ex": []
     },
@@ -31652,7 +31834,7 @@ window.DICT.bible = [
       "w": "Passion",
       "pos": "noun",
       "d": [
-        "Passion"
+        "your nature, your temperament"
       ],
       "ex": []
     },
@@ -31704,7 +31886,7 @@ window.DICT.bible = [
       "w": "Fulfilled",
       "pos": "noun",
       "d": [
-        "Fulfilled"
+        "to become accomplished"
       ],
       "ex": []
     },
@@ -31990,7 +32172,7 @@ window.DICT.bible = [
       "w": "Baptism",
       "pos": "noun",
       "d": [
-        "Baptism"
+        "baptism, christening, parish register"
       ],
       "ex": []
     },
@@ -32016,7 +32198,8 @@ window.DICT.bible = [
       "w": "Publican",
       "pos": "noun",
       "d": [
-        "Publican"
+        "collector",
+        "publican"
       ],
       "ex": []
     },
@@ -32068,7 +32251,7 @@ window.DICT.bible = [
       "w": "World",
       "pos": "noun",
       "d": [
-        "World"
+        "The world,society"
       ],
       "ex": []
     },
@@ -32250,7 +32433,8 @@ window.DICT.bible = [
       "w": "Revenue",
       "pos": "noun",
       "d": [
-        "Revenue"
+        "incoming money, revenue",
+        "tax revenue"
       ],
       "ex": []
     },
@@ -32328,7 +32512,7 @@ window.DICT.bible = [
       "w": "Sela",
       "pos": "noun",
       "d": [
-        "Sela"
+        "selah"
       ],
       "ex": []
     },
@@ -32432,7 +32616,7 @@ window.DICT.bible = [
       "w": "Shem",
       "pos": "noun",
       "d": [
-        "Shem"
+        "An intention,design,purpose"
       ],
       "ex": []
     },
@@ -32510,7 +32694,7 @@ window.DICT.bible = [
       "w": "Seth",
       "pos": "noun",
       "d": [
-        "Seth"
+        "Three"
       ],
       "ex": []
     },
@@ -32536,7 +32720,7 @@ window.DICT.bible = [
       "w": "Ox",
       "pos": "noun",
       "d": [
-        "Ox"
+        "A cow"
       ],
       "ex": []
     },
@@ -32562,7 +32746,7 @@ window.DICT.bible = [
       "w": "Pine",
       "pos": "noun",
       "d": [
-        "Pine"
+        "A pine tree"
       ],
       "ex": []
     },
@@ -32614,7 +32798,8 @@ window.DICT.bible = [
       "w": "Zorah",
       "pos": "noun",
       "d": [
-        "Zorah"
+        "conch",
+        "top shell"
       ],
       "ex": []
     },
@@ -32692,7 +32877,7 @@ window.DICT.bible = [
       "w": "Consume",
       "pos": "noun",
       "d": [
-        "Consume"
+        "effacement, obliteration, extinction"
       ],
       "ex": []
     },
@@ -32848,7 +33033,7 @@ window.DICT.bible = [
       "w": "Stacte",
       "pos": "noun",
       "d": [
-        "Stacte"
+        "stacte"
       ],
       "ex": []
     },
@@ -32978,7 +33163,7 @@ window.DICT.bible = [
       "w": "Revive",
       "pos": "noun",
       "d": [
-        "Revive"
+        "resuscitation, revivification, vivification (bringing back to life)"
       ],
       "ex": []
     },
@@ -33134,7 +33319,7 @@ window.DICT.bible = [
       "w": "Bond",
       "pos": "noun",
       "d": [
-        "Bond"
+        "binding, constraint, imprisonment, shackle, straitjacket"
       ],
       "ex": []
     },
@@ -33160,7 +33345,7 @@ window.DICT.bible = [
       "w": "Atonement",
       "pos": "noun",
       "d": [
-        "Atonement"
+        "expiation, propitiation, satisfaction of a sin through good work"
       ],
       "ex": []
     },
@@ -33290,7 +33475,8 @@ window.DICT.bible = [
       "w": "Hand",
       "pos": "noun",
       "d": [
-        "Hand"
+        "donny",
+        "The hand"
       ],
       "ex": []
     },
@@ -33368,7 +33554,7 @@ window.DICT.bible = [
       "w": "Calf",
       "pos": "noun",
       "d": [
-        "Calf"
+        "A calf,baby cow"
       ],
       "ex": []
     },
@@ -33394,7 +33580,9 @@ window.DICT.bible = [
       "w": "Decay",
       "pos": "noun",
       "d": [
-        "Decay"
+        "decline",
+        "droop",
+        "lose"
       ],
       "ex": []
     },
@@ -33420,7 +33608,7 @@ window.DICT.bible = [
       "w": "Sychar",
       "pos": "noun",
       "d": [
-        "Sychar"
+        "cost, price"
       ],
       "ex": []
     },
@@ -33472,7 +33660,7 @@ window.DICT.bible = [
       "w": "Passion",
       "pos": "noun",
       "d": [
-        "Passion"
+        "suffering, ordeals"
       ],
       "ex": []
     },
@@ -33524,7 +33712,8 @@ window.DICT.bible = [
       "w": "Carts",
       "pos": "noun",
       "d": [
-        "Carts"
+        "voiture",
+        "a cart, wagon"
       ],
       "ex": []
     },
@@ -33550,7 +33739,7 @@ window.DICT.bible = [
       "w": "Pots",
       "pos": "noun",
       "d": [
-        "Pots"
+        "kettle"
       ],
       "ex": []
     },
@@ -33680,7 +33869,7 @@ window.DICT.bible = [
       "w": "Melons",
       "pos": "noun",
       "d": [
-        "Melons"
+        "Watermelon"
       ],
       "ex": []
     },
@@ -33706,7 +33895,9 @@ window.DICT.bible = [
       "w": "Graveclothes",
       "pos": "noun",
       "d": [
-        "Graveclothes"
+        "a prison uniform",
+        "however you please",
+        "a horse doctor, veterinarian"
       ],
       "ex": []
     },
@@ -33784,7 +33975,7 @@ window.DICT.bible = [
       "w": "Shushan",
       "pos": "noun",
       "d": [
-        "Shushan"
+        "oxalic acid"
       ],
       "ex": []
     },
@@ -33810,7 +34001,9 @@ window.DICT.bible = [
       "w": "Crystal",
       "pos": "noun",
       "d": [
-        "Crystal"
+        "rock crystal",
+        "adjustment,regulate, tune",
+        "amendment, correction, modification, revisal"
       ],
       "ex": []
     },
@@ -33888,7 +34081,8 @@ window.DICT.bible = [
       "w": "Dropsy",
       "pos": "noun",
       "d": [
-        "Dropsy"
+        "a type of tree species, the grouping of species of trees",
+        "dropsy, edema"
       ],
       "ex": []
     },
@@ -33914,7 +34108,7 @@ window.DICT.bible = [
       "w": "Vapor",
       "pos": "noun",
       "d": [
-        "Vapor"
+        "vapor, water vapo(u)r"
       ],
       "ex": []
     },
@@ -33992,7 +34186,9 @@ window.DICT.bible = [
       "w": "Shame",
       "pos": "noun",
       "d": [
-        "Shame"
+        "contempt, shame",
+        "a numerical value",
+        "law and order"
       ],
       "ex": []
     },
@@ -34018,7 +34214,7 @@ window.DICT.bible = [
       "w": "Conceive",
       "pos": "noun",
       "d": [
-        "Conceive"
+        "conception, fecundation, impregnation, insemination"
       ],
       "ex": []
     },
@@ -34044,7 +34240,7 @@ window.DICT.bible = [
       "w": "Martyr",
       "pos": "noun",
       "d": [
-        "Martyr"
+        "a martyr"
       ],
       "ex": []
     },
@@ -34096,7 +34292,8 @@ window.DICT.bible = [
       "w": "Harvest",
       "pos": "noun",
       "d": [
-        "Harvest"
+        "gathering, harvest, increasing returns",
+        "vintage"
       ],
       "ex": []
     },
@@ -34148,7 +34345,7 @@ window.DICT.bible = [
       "w": "Pilgrim",
       "pos": "noun",
       "d": [
-        "Pilgrim"
+        "pilgrim"
       ],
       "ex": []
     },
@@ -34174,7 +34371,7 @@ window.DICT.bible = [
       "w": "Conform",
       "pos": "noun",
       "d": [
-        "Conform"
+        "accommodation, conformability, conformance"
       ],
       "ex": []
     },
@@ -34226,7 +34423,8 @@ window.DICT.bible = [
       "w": "Obey",
       "pos": "noun",
       "d": [
-        "Obey"
+        "of the blood line, thoroughbred, truebreed",
+        "amenability, compliance, submission, subordination"
       ],
       "ex": []
     },
@@ -34278,7 +34476,7 @@ window.DICT.bible = [
       "w": "Ghost",
       "pos": "noun",
       "d": [
-        "Ghost"
+        "A breath"
       ],
       "ex": []
     },
@@ -34330,7 +34528,7 @@ window.DICT.bible = [
       "w": "Coal",
       "pos": "noun",
       "d": [
-        "Coal"
+        "charcoal"
       ],
       "ex": []
     },
@@ -34408,7 +34606,7 @@ window.DICT.bible = [
       "w": "Circuit",
       "pos": "noun",
       "d": [
-        "Circuit"
+        "a patrol, a round, one time around"
       ],
       "ex": []
     },
@@ -34486,7 +34684,9 @@ window.DICT.bible = [
       "w": "Fringe",
       "pos": "noun",
       "d": [
-        "Fringe"
+        "skill, talent",
+        "Alcohol",
+        "a spoonful"
       ],
       "ex": []
     },
@@ -35162,7 +35362,9 @@ window.DICT.bible = [
       "w": "Hours",
       "pos": "noun",
       "d": [
-        "Hours"
+        "The time of day",
+        "angle/point of view.  관점.",
+        "eyesight, sight, vision"
       ],
       "ex": []
     },
@@ -35318,7 +35520,7 @@ window.DICT.bible = [
       "w": "Spain",
       "pos": "noun",
       "d": [
-        "Spain"
+        "Espana, Spain"
       ],
       "ex": []
     },
@@ -35370,7 +35572,9 @@ window.DICT.bible = [
       "w": "Envy",
       "pos": "noun",
       "d": [
-        "Envy"
+        "The time, the season",
+        "time, age, period",
+        "an opportunity, a chance"
       ],
       "ex": []
     },
@@ -35396,7 +35600,7 @@ window.DICT.bible = [
       "w": "Ascension",
       "pos": "noun",
       "d": [
-        "Ascension"
+        "the Ascension of Jesus into heaven"
       ],
       "ex": []
     },
@@ -35500,7 +35704,8 @@ window.DICT.bible = [
       "w": "Sinai",
       "pos": "noun",
       "d": [
-        "Sinai"
+        "a stream (with water in it)",
+        "The city"
       ],
       "ex": []
     },
@@ -35786,7 +35991,7 @@ window.DICT.bible = [
       "w": "Ziba",
       "pos": "noun",
       "d": [
-        "Ziba"
+        "Siva"
       ],
       "ex": []
     },
@@ -35968,7 +36173,7 @@ window.DICT.bible = [
       "w": "Carcass",
       "pos": "noun",
       "d": [
-        "Carcass"
+        "body, cadaver, carcase, cold meat, corpse, corpus, croppy, flybait, lich, necoro-, relic, stiff"
       ],
       "ex": []
     },
@@ -36072,7 +36277,7 @@ window.DICT.bible = [
       "w": "Psalms",
       "pos": "noun",
       "d": [
-        "Psalms"
+        "a psalm, a psalmbook"
       ],
       "ex": []
     },
@@ -36098,7 +36303,8 @@ window.DICT.bible = [
       "w": "Market",
       "pos": "noun",
       "d": [
-        "Market"
+        "Mayor",
+        "bazaar, market, marketplace; (2) a market"
       ],
       "ex": []
     },
@@ -36150,7 +36356,9 @@ window.DICT.bible = [
       "w": "Sin",
       "pos": "noun",
       "d": [
-        "Sin"
+        "sour (e.g. grapes)",
+        "joy,delight",
+        "God"
       ],
       "ex": []
     },
@@ -36176,7 +36384,8 @@ window.DICT.bible = [
       "w": "Tempt",
       "pos": "noun",
       "d": [
-        "Tempt"
+        "put (buring) to the  touch",
+        "to assay (test), to examine"
       ],
       "ex": []
     },
@@ -36202,7 +36411,7 @@ window.DICT.bible = [
       "w": "Godhead",
       "pos": "noun",
       "d": [
-        "Godhead"
+        "godhead, godhood, godship"
       ],
       "ex": []
     },
@@ -36228,7 +36437,7 @@ window.DICT.bible = [
       "w": "Gods",
       "pos": "noun",
       "d": [
-        "Gods"
+        "the gods (plural of a god)"
       ],
       "ex": []
     },
@@ -36306,7 +36515,7 @@ window.DICT.bible = [
       "w": "Bridegroom",
       "pos": "noun",
       "d": [
-        "Bridegroom"
+        "A bridegroom"
       ],
       "ex": []
     },
@@ -36332,7 +36541,7 @@ window.DICT.bible = [
       "w": "Trust",
       "pos": "noun",
       "d": [
-        "Trust"
+        "confidence, faith, reliance, trust"
       ],
       "ex": []
     },
@@ -36410,7 +36619,7 @@ window.DICT.bible = [
       "w": "Sandals",
       "pos": "noun",
       "d": [
-        "Sandals"
+        "shoes,footwear"
       ],
       "ex": []
     },
@@ -36488,6 +36697,7 @@ window.DICT.bible = [
       "w": "Bride",
       "pos": "noun",
       "d": [
+        "A holy father,priest",
         "Bride"
       ],
       "ex": []
@@ -36644,7 +36854,7 @@ window.DICT.bible = [
       "w": "Shiloh",
       "pos": "noun",
       "d": [
-        "Shiloh"
+        "really,indeed"
       ],
       "ex": []
     },
@@ -36670,7 +36880,7 @@ window.DICT.bible = [
       "w": "Cymbal",
       "pos": "noun",
       "d": [
-        "Cymbal"
+        "cymbal"
       ],
       "ex": []
     },
@@ -36748,7 +36958,7 @@ window.DICT.bible = [
       "w": "Heart",
       "pos": "noun",
       "d": [
-        "Heart"
+        "The heart"
       ],
       "ex": []
     },
@@ -36774,7 +36984,9 @@ window.DICT.bible = [
       "w": "Wick",
       "pos": "noun",
       "d": [
-        "Wick"
+        "a wick as for a candle",
+        "temperament, the natural state of one`s heart",
+        "the inside intentions of the heart"
       ],
       "ex": []
     },
@@ -36826,7 +37038,7 @@ window.DICT.bible = [
       "w": "Judgments",
       "pos": "noun",
       "d": [
-        "Judgments"
+        "referencing,umpireship"
       ],
       "ex": []
     },
@@ -36878,7 +37090,7 @@ window.DICT.bible = [
       "w": "Ziph",
       "pos": "noun",
       "d": [
-        "Ziph"
+        "10"
       ],
       "ex": []
     },
@@ -36904,7 +37116,7 @@ window.DICT.bible = [
       "w": "Tithe",
       "pos": "noun",
       "d": [
-        "Tithe"
+        "tithe"
       ],
       "ex": []
     },
@@ -37034,7 +37246,7 @@ window.DICT.bible = [
       "w": "Cross",
       "pos": "noun",
       "d": [
-        "Cross"
+        "crucifix"
       ],
       "ex": []
     },
@@ -37060,7 +37272,7 @@ window.DICT.bible = [
       "w": "Caterpillar",
       "pos": "noun",
       "d": [
-        "Caterpillar"
+        "caterpillar"
       ],
       "ex": []
     },
@@ -37086,7 +37298,7 @@ window.DICT.bible = [
       "w": "Nettle",
       "pos": "noun",
       "d": [
-        "Nettle"
+        "nettle"
       ],
       "ex": []
     },
@@ -37112,7 +37324,7 @@ window.DICT.bible = [
       "w": "Wormwood",
       "pos": "noun",
       "d": [
-        "Wormwood"
+        "all the way, plonk"
       ],
       "ex": []
     },
@@ -37138,7 +37350,7 @@ window.DICT.bible = [
       "w": "Gall",
       "pos": "noun",
       "d": [
-        "Gall"
+        "gall, gallbladder"
       ],
       "ex": []
     },
@@ -37164,7 +37376,8 @@ window.DICT.bible = [
       "w": "Seed",
       "pos": "noun",
       "d": [
-        "Seed"
+        "Seeds (sow)",
+        "~ Mr."
       ],
       "ex": []
     },
@@ -37190,7 +37403,7 @@ window.DICT.bible = [
       "w": "Woof",
       "pos": "noun",
       "d": [
-        "Woof"
+        "weft"
       ],
       "ex": []
     },
@@ -37710,7 +37923,7 @@ window.DICT.bible = [
       "w": "Anak",
       "pos": "noun",
       "d": [
-        "Anak"
+        "a woman`s boudoir"
       ],
       "ex": []
     },
@@ -38152,7 +38365,7 @@ window.DICT.bible = [
       "w": "Son",
       "pos": "noun",
       "d": [
-        "Son"
+        "son,baby"
       ],
       "ex": []
     },
@@ -38412,7 +38625,8 @@ window.DICT.bible = [
       "w": "Ar",
       "pos": "noun",
       "d": [
-        "Ar"
+        "are",
+        "r.R"
       ],
       "ex": []
     },
@@ -38542,7 +38756,8 @@ window.DICT.bible = [
       "w": "Flax",
       "pos": "noun",
       "d": [
-        "Flax"
+        "Probably",
+        "flax (plant, fiber)"
       ],
       "ex": []
     },
@@ -38854,7 +39069,7 @@ window.DICT.bible = [
       "w": "Amen",
       "pos": "noun",
       "d": [
-        "Amen"
+        "amen"
       ],
       "ex": []
     },
@@ -39088,7 +39303,7 @@ window.DICT.bible = [
       "w": "Abana",
       "pos": "noun",
       "d": [
-        "Abana"
+        "Havana"
       ],
       "ex": []
     },
@@ -39114,7 +39329,7 @@ window.DICT.bible = [
       "w": "Amon",
       "pos": "noun",
       "d": [
-        "Amon"
+        "Ammon"
       ],
       "ex": []
     },
@@ -39738,7 +39953,7 @@ window.DICT.bible = [
       "w": "Asa",
       "pos": "noun",
       "d": [
-        "Asa"
+        "starvation"
       ],
       "ex": []
     },
@@ -40336,7 +40551,8 @@ window.DICT.bible = [
       "w": "Ai",
       "pos": "noun",
       "d": [
-        "Ai"
+        "Oh my god!",
+        "Child"
       ],
       "ex": []
     },
@@ -40830,7 +41046,7 @@ window.DICT.bible = [
       "w": "Musical instruments",
       "pos": "noun",
       "d": [
-        "Musical instruments"
+        "Musical instrument"
       ],
       "ex": []
     },
@@ -40882,7 +41098,7 @@ window.DICT.bible = [
       "w": "Achsah",
       "pos": "noun",
       "d": [
-        "Achsah"
+        "a musician"
       ],
       "ex": []
     },
@@ -41038,7 +41254,7 @@ window.DICT.bible = [
       "w": "Sight",
       "pos": "noun",
       "d": [
-        "Sight"
+        "an appreciative, discerning eye"
       ],
       "ex": []
     },
@@ -41064,7 +41280,7 @@ window.DICT.bible = [
       "w": "Laying on of hands",
       "pos": "noun",
       "d": [
-        "Laying on of hands"
+        "imposition"
       ],
       "ex": []
     },
@@ -41168,7 +41384,9 @@ window.DICT.bible = [
       "w": "Sabbath",
       "pos": "noun",
       "d": [
-        "Sabbath"
+        "eye",
+        "insight",
+        "requiem"
       ],
       "ex": []
     },
@@ -41246,7 +41464,7 @@ window.DICT.bible = [
       "w": "Salve",
       "pos": "noun",
       "d": [
-        "Salve"
+        "eye drops, eye lotion, eyewash"
       ],
       "ex": []
     },
@@ -41298,7 +41516,9 @@ window.DICT.bible = [
       "w": "Sabbath day",
       "pos": "noun",
       "d": [
-        "Sabbath day"
+        "rest day",
+        "( Sabbath  day)",
+        "Sunday"
       ],
       "ex": []
     },
@@ -41662,7 +41882,8 @@ window.DICT.bible = [
       "w": "Hen",
       "pos": "noun",
       "d": [
-        "Hen"
+        "biddy",
+        "chook"
       ],
       "ex": []
     },
@@ -41922,7 +42143,7 @@ window.DICT.bible = [
       "w": "Lees",
       "pos": "noun",
       "d": [
-        "Lees"
+        "the dregs, lees, sediment, stuff that's settled out"
       ],
       "ex": []
     },
@@ -41974,7 +42195,7 @@ window.DICT.bible = [
       "w": "Apron",
       "pos": "noun",
       "d": [
-        "Apron"
+        "apron"
       ],
       "ex": []
     },
@@ -42000,7 +42221,7 @@ window.DICT.bible = [
       "w": "Lamentations",
       "pos": "noun",
       "d": [
-        "Lamentations"
+        "elegy, epicedium, requiem, threnody"
       ],
       "ex": []
     },
@@ -42052,7 +42273,7 @@ window.DICT.bible = [
       "w": "Jah",
       "pos": "noun",
       "d": [
-        "Jah"
+        "(Word to get somebody's attention) Hey!! (2) impolite speech for 이다, to be"
       ],
       "ex": []
     },
@@ -42208,7 +42429,8 @@ window.DICT.bible = [
       "w": "Jacob",
       "pos": "noun",
       "d": [
-        "Jacob"
+        "Jacob",
+        "James"
       ],
       "ex": []
     },
@@ -42234,7 +42456,7 @@ window.DICT.bible = [
       "w": "Affection",
       "pos": "noun",
       "d": [
-        "Affection"
+        "attachment, devotion, fondness"
       ],
       "ex": []
     },
@@ -42260,7 +42482,7 @@ window.DICT.bible = [
       "w": "Feasts of charity",
       "pos": "noun",
       "d": [
-        "Feasts of charity"
+        "love feast"
       ],
       "ex": []
     },
@@ -42546,7 +42768,7 @@ window.DICT.bible = [
       "w": "Spoil",
       "pos": "noun",
       "d": [
-        "Spoil"
+        "despoliation, looting, pillage, plunder"
       ],
       "ex": []
     },
@@ -42702,7 +42924,9 @@ window.DICT.bible = [
       "w": "Sheep",
       "pos": "noun",
       "d": [
-        "Sheep"
+        "c, C",
+        "Both, two",
+        "Miss ~"
       ],
       "ex": []
     },
@@ -42754,6 +42978,8 @@ window.DICT.bible = [
       "w": "Medicine",
       "pos": "noun",
       "d": [
+        "doctor's  stuff",
+        "About, approximately",
         "Medicine"
       ],
       "ex": []
@@ -42780,7 +43006,7 @@ window.DICT.bible = [
       "w": "Promise",
       "pos": "noun",
       "d": [
-        "Promise"
+        "A promise"
       ],
       "ex": []
     },
@@ -42832,7 +43058,7 @@ window.DICT.bible = [
       "w": "Compass",
       "pos": "noun",
       "d": [
-        "Compass"
+        "compass"
       ],
       "ex": []
     },
@@ -42884,7 +43110,7 @@ window.DICT.bible = [
       "w": "Parent",
       "pos": "noun",
       "d": [
-        "Parent"
+        "your parents, mother and father"
       ],
       "ex": []
     },
@@ -42910,7 +43136,7 @@ window.DICT.bible = [
       "w": "Onion",
       "pos": "noun",
       "d": [
-        "Onion"
+        "An onion"
       ],
       "ex": []
     },
@@ -42936,7 +43162,7 @@ window.DICT.bible = [
       "w": "Parchment",
       "pos": "noun",
       "d": [
-        "Parchment"
+        "sheepskin"
       ],
       "ex": []
     },
@@ -42988,6 +43214,7 @@ window.DICT.bible = [
       "w": "Shoulder",
       "pos": "noun",
       "d": [
+        "yoke",
         "Shoulder"
       ],
       "ex": []
@@ -43040,7 +43267,8 @@ window.DICT.bible = [
       "w": "Mother",
       "pos": "noun",
       "d": [
-        "Mother"
+        "motherhood",
+        "Mom"
       ],
       "ex": []
     },
@@ -43118,7 +43346,7 @@ window.DICT.bible = [
       "w": "Folly",
       "pos": "noun",
       "d": [
-        "Folly"
+        "betise, folly, foppery, lunacy"
       ],
       "ex": []
     },
@@ -44080,7 +44308,7 @@ window.DICT.bible = [
       "w": "Esau",
       "pos": "noun",
       "d": [
-        "Esau"
+        "in the/at the"
       ],
       "ex": []
     },
@@ -44236,7 +44464,7 @@ window.DICT.bible = [
       "w": "En",
       "pos": "noun",
       "d": [
-        "En"
+        "Yen (japanese)"
       ],
       "ex": []
     },
@@ -44288,7 +44516,7 @@ window.DICT.bible = [
       "w": "Acre",
       "pos": "noun",
       "d": [
-        "Acre"
+        "acre"
       ],
       "ex": []
     },
@@ -44470,7 +44698,7 @@ window.DICT.bible = [
       "w": "El",
       "pos": "noun",
       "d": [
-        "El"
+        "ell"
       ],
       "ex": []
     },
@@ -45042,7 +45270,7 @@ window.DICT.bible = [
       "w": "Inns",
       "pos": "noun",
       "d": [
-        "Inns"
+        "A hotel, an inn"
       ],
       "ex": []
     },
@@ -45120,7 +45348,7 @@ window.DICT.bible = [
       "w": "Jericho",
       "pos": "noun",
       "d": [
-        "Jericho"
+        "jericho"
       ],
       "ex": []
     },
@@ -45354,7 +45582,7 @@ window.DICT.bible = [
       "w": "Ford",
       "pos": "noun",
       "d": [
-        "Ford"
+        "chutes, the rapids"
       ],
       "ex": []
     },
@@ -45380,6 +45608,7 @@ window.DICT.bible = [
       "w": "Fox",
       "pos": "noun",
       "d": [
+        "a woman playing coy",
         "Fox"
       ],
       "ex": []
@@ -45484,6 +45713,7 @@ window.DICT.bible = [
       "w": "Jehovah",
       "pos": "noun",
       "d": [
+        "Yahweh",
         "Jehovah"
       ],
       "ex": []
@@ -45562,7 +45792,7 @@ window.DICT.bible = [
       "w": "Chronicles",
       "pos": "noun",
       "d": [
-        "Chronicles"
+        "chronicle"
       ],
       "ex": []
     },
@@ -45588,7 +45818,7 @@ window.DICT.bible = [
       "w": "Pestilence",
       "pos": "noun",
       "d": [
-        "Pestilence"
+        "an epidemic, a plague"
       ],
       "ex": []
     },
@@ -45718,7 +45948,7 @@ window.DICT.bible = [
       "w": "Pitch",
       "pos": "noun",
       "d": [
-        "Pitch"
+        "bitumen"
       ],
       "ex": []
     },
@@ -45744,7 +45974,8 @@ window.DICT.bible = [
       "w": "Scaffold",
       "pos": "noun",
       "d": [
-        "Scaffold"
+        "hustings",
+        "rostrum, platform (take the platform)"
       ],
       "ex": []
     },
@@ -45770,7 +46001,7 @@ window.DICT.bible = [
       "w": "Aged",
       "pos": "noun",
       "d": [
-        "Aged"
+        "to be old, to be up there in years"
       ],
       "ex": []
     },
@@ -45796,7 +46027,8 @@ window.DICT.bible = [
       "w": "Spirit",
       "pos": "noun",
       "d": [
-        "Spirit"
+        "Really, totally",
+        "naught, nil, nothing, null, zero"
       ],
       "ex": []
     },
@@ -45822,7 +46054,8 @@ window.DICT.bible = [
       "w": "Commonwealth",
       "pos": "noun",
       "d": [
-        "Commonwealth"
+        "a commonwealth, a confederation",
+        "one after another, in succession"
       ],
       "ex": []
     },
@@ -45874,7 +46107,8 @@ window.DICT.bible = [
       "w": "Fever",
       "pos": "noun",
       "d": [
-        "Fever"
+        "a military review/inspection after making them stand in lines",
+        "a disease characterized by a fever"
       ],
       "ex": []
     },
@@ -45900,7 +46134,7 @@ window.DICT.bible = [
       "w": "Key",
       "pos": "noun",
       "d": [
-        "Key"
+        "Lock"
       ],
       "ex": []
     },
@@ -45926,7 +46160,8 @@ window.DICT.bible = [
       "w": "Goat",
       "pos": "noun",
       "d": [
-        "Goat"
+        "chlor-, chlorine",
+        "a goat"
       ],
       "ex": []
     },
@@ -45978,7 +46213,7 @@ window.DICT.bible = [
       "w": "Glory",
       "pos": "noun",
       "d": [
-        "Glory"
+        "crown, glory"
       ],
       "ex": []
     },
@@ -46004,7 +46239,7 @@ window.DICT.bible = [
       "w": "Inspiration",
       "pos": "noun",
       "d": [
-        "Inspiration"
+        "brain storm, brain wave, inspiration"
       ],
       "ex": []
     },
@@ -46056,7 +46291,7 @@ window.DICT.bible = [
       "w": "Everlasting",
       "pos": "noun",
       "d": [
-        "Everlasting"
+        "perpetuity"
       ],
       "ex": []
     },
@@ -46082,7 +46317,9 @@ window.DICT.bible = [
       "w": "Lord",
       "pos": "noun",
       "d": [
-        "Lord"
+        "thane",
+        "live somewhere permanently",
+        "feudal lord, lord, seigneur, suzerain"
       ],
       "ex": []
     },
@@ -46134,7 +46371,8 @@ window.DICT.bible = [
       "w": "Eternity",
       "pos": "noun",
       "d": [
-        "Eternity"
+        "eft, mud puppy, newt, salamander",
+        "eternity, forever"
       ],
       "ex": []
     },
@@ -46212,7 +46450,7 @@ window.DICT.bible = [
       "w": "Glory",
       "pos": "noun",
       "d": [
-        "Glory"
+        "A movie"
       ],
       "ex": []
     },
@@ -46290,6 +46528,7 @@ window.DICT.bible = [
       "w": "Jerusalem",
       "pos": "noun",
       "d": [
+        "New Jerusalem",
         "Jerusalem"
       ],
       "ex": []
@@ -46316,7 +46555,7 @@ window.DICT.bible = [
       "w": "Gifts",
       "pos": "noun",
       "d": [
-        "Gifts"
+        "handsel"
       ],
       "ex": []
     },
@@ -46420,7 +46659,8 @@ window.DICT.bible = [
       "w": "Predestination",
       "pos": "noun",
       "d": [
-        "Predestination"
+        "foreordination",
+        "A program, schedule"
       ],
       "ex": []
     },
@@ -46472,7 +46712,7 @@ window.DICT.bible = [
       "w": "Prophecy",
       "pos": "noun",
       "d": [
-        "Prophecy"
+        "divination, prognostication, prophecy, soothsaying"
       ],
       "ex": []
     },
@@ -46550,7 +46790,7 @@ window.DICT.bible = [
       "w": "Jehu",
       "pos": "noun",
       "d": [
-        "Jehu"
+        "prognosis"
       ],
       "ex": []
     },
@@ -46628,7 +46868,7 @@ window.DICT.bible = [
       "w": "Right-hand",
       "pos": "noun",
       "d": [
-        "Right-hand"
+        "The right hand"
       ],
       "ex": []
     },
@@ -46888,7 +47128,7 @@ window.DICT.bible = [
       "w": "Badger",
       "pos": "noun",
       "d": [
-        "Badger"
+        "a badger"
       ],
       "ex": []
     },
@@ -46914,7 +47154,8 @@ window.DICT.bible = [
       "w": "Pentecost",
       "pos": "noun",
       "d": [
-        "Pentecost"
+        "Quinquagesima",
+        "pentecost"
       ],
       "ex": []
     },
@@ -47044,7 +47285,8 @@ window.DICT.bible = [
       "w": "Dinner",
       "pos": "noun",
       "d": [
-        "Dinner"
+        "dinner",
+        "luncheon"
       ],
       "ex": []
     },
@@ -47070,7 +47312,7 @@ window.DICT.bible = [
       "w": "Og",
       "pos": "noun",
       "d": [
-        "Og"
+        "jade (the precious stone)"
       ],
       "ex": []
     },
@@ -47148,7 +47390,8 @@ window.DICT.bible = [
       "w": "Chalcedony",
       "pos": "noun",
       "d": [
-        "Chalcedony"
+        "chalcedony",
+        "the beautiful hand of a woman"
       ],
       "ex": []
     },
@@ -47200,7 +47443,8 @@ window.DICT.bible = [
       "w": "Whole",
       "pos": "noun",
       "d": [
-        "Whole"
+        "just as it is supposed to be",
+        "same as it was according to its nature"
       ],
       "ex": []
     },
@@ -47252,7 +47496,7 @@ window.DICT.bible = [
       "w": "Olive",
       "pos": "noun",
       "d": [
-        "Olive"
+        "olive"
       ],
       "ex": []
     },
@@ -47278,7 +47522,7 @@ window.DICT.bible = [
       "w": "On",
       "pos": "noun",
       "d": [
-        "On"
+        "All, whole, entire"
       ],
       "ex": []
     },
@@ -47304,7 +47548,7 @@ window.DICT.bible = [
       "w": "Meekness",
       "pos": "noun",
       "d": [
-        "Meekness"
+        "metaphor"
       ],
       "ex": []
     },
@@ -47486,7 +47730,8 @@ window.DICT.bible = [
       "w": "Crown",
       "pos": "noun",
       "d": [
-        "Crown"
+        "diadem",
+        "crown"
       ],
       "ex": []
     },
@@ -47512,7 +47757,7 @@ window.DICT.bible = [
       "w": "Kingdom",
       "pos": "noun",
       "d": [
-        "Kingdom"
+        "kingdom, realm, regality"
       ],
       "ex": []
     },
@@ -47538,7 +47783,7 @@ window.DICT.bible = [
       "w": "Increase",
       "pos": "noun",
       "d": [
-        "Increase"
+        "filled with vigor, very active and energetic"
       ],
       "ex": []
     },
@@ -47616,7 +47861,7 @@ window.DICT.bible = [
       "w": "Throne",
       "pos": "noun",
       "d": [
-        "Throne"
+        "throne"
       ],
       "ex": []
     },
@@ -47642,7 +47887,7 @@ window.DICT.bible = [
       "w": "Pervert",
       "pos": "noun",
       "d": [
-        "Pervert"
+        "distortion"
       ],
       "ex": []
     },
@@ -47694,7 +47939,7 @@ window.DICT.bible = [
       "w": "Apocrypha",
       "pos": "noun",
       "d": [
-        "Apocrypha"
+        "the outer diameter"
       ],
       "ex": []
     },
@@ -47798,7 +48043,7 @@ window.DICT.bible = [
       "w": "Jordan",
       "pos": "noun",
       "d": [
-        "Jordan"
+        "dinar"
       ],
       "ex": []
     },
@@ -47824,7 +48069,8 @@ window.DICT.bible = [
       "w": "Stronghold",
       "pos": "noun",
       "d": [
-        "Stronghold"
+        "a blockhouse, a fortress (for protection)",
+        "recently,lately"
       ],
       "ex": []
     },
@@ -47876,7 +48122,7 @@ window.DICT.bible = [
       "w": "Joram",
       "pos": "noun",
       "d": [
-        "Joram"
+        "bassinet, cradle"
       ],
       "ex": []
     },
@@ -48344,7 +48590,7 @@ window.DICT.bible = [
       "w": "Mock",
       "pos": "noun",
       "d": [
-        "Mock"
+        "mock"
       ],
       "ex": []
     },
@@ -48396,7 +48642,7 @@ window.DICT.bible = [
       "w": "Dragon",
       "pos": "noun",
       "d": [
-        "Dragon"
+        "A dragon"
       ],
       "ex": []
     },
@@ -48500,7 +48746,7 @@ window.DICT.bible = [
       "w": "Furnaces",
       "pos": "noun",
       "d": [
-        "Furnaces"
+        "a blast furnace, a smelting furnace"
       ],
       "ex": []
     },
@@ -48526,7 +48772,7 @@ window.DICT.bible = [
       "w": "Urim",
       "pos": "noun",
       "d": [
-        "Urim"
+        "rain forest"
       ],
       "ex": []
     },
@@ -48552,7 +48798,7 @@ window.DICT.bible = [
       "w": "Suffer",
       "pos": "noun",
       "d": [
-        "Suffer"
+        "approval, permission, being allowed"
       ],
       "ex": []
     },
@@ -48578,7 +48824,7 @@ window.DICT.bible = [
       "w": "Countenance",
       "pos": "noun",
       "d": [
-        "Countenance"
+        "facial features, look of your face"
       ],
       "ex": []
     },
@@ -48604,7 +48850,7 @@ window.DICT.bible = [
       "w": "Forgiveness",
       "pos": "noun",
       "d": [
-        "Forgiveness"
+        "pardon,forgiveness"
       ],
       "ex": []
     },
@@ -48708,7 +48954,7 @@ window.DICT.bible = [
       "w": "Hailstones",
       "pos": "noun",
       "d": [
-        "Hailstones"
+        "hailstone"
       ],
       "ex": []
     },
@@ -48760,7 +49006,7 @@ window.DICT.bible = [
       "w": "Idolatry",
       "pos": "noun",
       "d": [
-        "Idolatry"
+        "idolatry, heathenism, iconolatry"
       ],
       "ex": []
     },
@@ -48812,7 +49058,7 @@ window.DICT.bible = [
       "w": "Hyssop",
       "pos": "noun",
       "d": [
-        "Hyssop"
+        "hyssop"
       ],
       "ex": []
     },
@@ -48838,7 +49084,8 @@ window.DICT.bible = [
       "w": "Fable",
       "pos": "noun",
       "d": [
-        "Fable"
+        "allegory, fable, moral, parable",
+        "the transformation of an insect from a pupae/larvae to the adult form"
       ],
       "ex": []
     },
@@ -48968,7 +49215,7 @@ window.DICT.bible = [
       "w": "Elements",
       "pos": "noun",
       "d": [
-        "Elements"
+        "element, principle, trace element"
       ],
       "ex": []
     },
@@ -48994,7 +49241,7 @@ window.DICT.bible = [
       "w": "Ape",
       "pos": "noun",
       "d": [
-        "Ape"
+        "A monkey"
       ],
       "ex": []
     },
@@ -49020,7 +49267,7 @@ window.DICT.bible = [
       "w": "Bay tree",
       "pos": "noun",
       "d": [
-        "Bay tree"
+        "bay"
       ],
       "ex": []
     },
@@ -49072,7 +49319,7 @@ window.DICT.bible = [
       "w": "Hypocrite",
       "pos": "noun",
       "d": [
-        "Hypocrite"
+        "creeping Jesus, dissembler, dissimulator, hypocrite, pharisee"
       ],
       "ex": []
     },
@@ -49254,7 +49501,7 @@ window.DICT.bible = [
       "w": "Jews",
       "pos": "noun",
       "d": [
-        "Jews"
+        "a Jew"
       ],
       "ex": []
     },
@@ -49306,7 +49553,9 @@ window.DICT.bible = [
       "w": "Judea",
       "pos": "noun",
       "d": [
-        "Judea"
+        "marsupial",
+        "Judea",
+        "cementing agent, joining string, noose ; a relation, ties to one another"
       ],
       "ex": []
     },
@@ -49358,7 +49607,7 @@ window.DICT.bible = [
       "w": "Nurse",
       "pos": "noun",
       "d": [
-        "Nurse"
+        "the wet nurse"
       ],
       "ex": []
     },
@@ -49384,7 +49633,8 @@ window.DICT.bible = [
       "w": "Jubal",
       "pos": "noun",
       "d": [
-        "Jubal"
+        "mortar",
+        "a suggestion, sth that instigates or causes sth else"
       ],
       "ex": []
     },
@@ -49410,7 +49660,9 @@ window.DICT.bible = [
       "w": "Quicksands",
       "pos": "noun",
       "d": [
-        "Quicksands"
+        "oil sands (as in Alberta, Canada)",
+        "drift sand, quicksand",
+        "of prehistoric times"
       ],
       "ex": []
     },
@@ -49514,7 +49766,8 @@ window.DICT.bible = [
       "w": "Passover",
       "pos": "noun",
       "d": [
-        "Passover"
+        "pesach",
+        "passover"
       ],
       "ex": []
     },
@@ -49540,7 +49793,7 @@ window.DICT.bible = [
       "w": "Issue",
       "pos": "noun",
       "d": [
-        "Issue"
+        "effluence, effluent, efflux, outpouring, spillage"
       ],
       "ex": []
     },
@@ -49592,7 +49845,7 @@ window.DICT.bible = [
       "w": "Balm",
       "pos": "noun",
       "d": [
-        "Balm"
+        "frankincense"
       ],
       "ex": []
     },
@@ -49618,7 +49871,7 @@ window.DICT.bible = [
       "w": "Brimstone",
       "pos": "noun",
       "d": [
-        "Brimstone"
+        "sulfur, sulfureous"
       ],
       "ex": []
     },
@@ -49644,7 +49897,7 @@ window.DICT.bible = [
       "w": "Cinnamon",
       "pos": "noun",
       "d": [
-        "Cinnamon"
+        "cassia"
       ],
       "ex": []
     },
@@ -49722,7 +49975,7 @@ window.DICT.bible = [
       "w": "Law",
       "pos": "noun",
       "d": [
-        "Law"
+        "tora(h)"
       ],
       "ex": []
     },
@@ -49852,7 +50105,8 @@ window.DICT.bible = [
       "w": "Gifts",
       "pos": "noun",
       "d": [
-        "Gifts"
+        "a respected (former) teacher",
+        "amnesty, free pardon, indulgence, a pardon"
       ],
       "ex": []
     },
@@ -49878,7 +50132,7 @@ window.DICT.bible = [
       "w": "Benefactor",
       "pos": "noun",
       "d": [
-        "Benefactor"
+        "benefactor, someone who is helpful and helps somebody else"
       ],
       "ex": []
     },
@@ -49904,7 +50158,7 @@ window.DICT.bible = [
       "w": "Favor",
       "pos": "noun",
       "d": [
-        "Favor"
+        "blessing, graces (from sb with power/higher-up)"
       ],
       "ex": []
     },
@@ -49956,7 +50210,7 @@ window.DICT.bible = [
       "w": "Grace",
       "pos": "noun",
       "d": [
-        "Grace"
+        "benefit, boon, favo(u)r, grace"
       ],
       "ex": []
     },
@@ -50060,7 +50314,9 @@ window.DICT.bible = [
       "w": "Food",
       "pos": "noun",
       "d": [
-        "Food"
+        "fuel",
+        "prog",
+        "Anything to eat or drink"
       ],
       "ex": []
     },
@@ -50086,7 +50342,7 @@ window.DICT.bible = [
       "w": "Meats",
       "pos": "noun",
       "d": [
-        "Meats"
+        "Food"
       ],
       "ex": []
     },
@@ -50164,7 +50420,7 @@ window.DICT.bible = [
       "w": "Answer",
       "pos": "noun",
       "d": [
-        "Answer"
+        "An answer, a reply"
       ],
       "ex": []
     },
@@ -50216,7 +50472,7 @@ window.DICT.bible = [
       "w": "Garments",
       "pos": "noun",
       "d": [
-        "Garments"
+        "Clothes, garments"
       ],
       "ex": []
     },
@@ -50320,7 +50576,9 @@ window.DICT.bible = [
       "w": "Physicians",
       "pos": "noun",
       "d": [
-        "Physicians"
+        "iatro",
+        "A firm intention, resolve, a purpose",
+        "A doctor, a physician"
       ],
       "ex": []
     },
@@ -50424,7 +50682,9 @@ window.DICT.bible = [
       "w": "Lice",
       "pos": "noun",
       "d": [
-        "Lice"
+        "this,this thing",
+        "A tooth",
+        "A person, a man/woman"
       ],
       "ex": []
     },
@@ -50450,7 +50710,9 @@ window.DICT.bible = [
       "w": "Names",
       "pos": "noun",
       "d": [
-        "Names"
+        "forename",
+        "front name",
+        "Name"
       ],
       "ex": []
     },
@@ -50554,7 +50816,7 @@ window.DICT.bible = [
       "w": "Wolf",
       "pos": "noun",
       "d": [
-        "Wolf"
+        "This way, this direction"
       ],
       "ex": []
     },
@@ -50606,7 +50868,7 @@ window.DICT.bible = [
       "w": "Gentiles",
       "pos": "noun",
       "d": [
-        "Gentiles"
+        "foreigner, Gentile (a foreigner for the Jews)"
       ],
       "ex": []
     },
@@ -50762,7 +51024,9 @@ window.DICT.bible = [
       "w": "Isaac",
       "pos": "noun",
       "d": [
-        "Isaac"
+        "Isaac (phonetic)",
+        "the spike of seeds at the top of a cereal plant",
+        "gleaning, pickings (fruits of the earth)"
       ],
       "ex": []
     },
@@ -50918,7 +51182,7 @@ window.DICT.bible = [
       "w": "Dew",
       "pos": "noun",
       "d": [
-        "Dew"
+        "Dew, dewdrops"
       ],
       "ex": []
     },
@@ -50944,7 +51208,7 @@ window.DICT.bible = [
       "w": "Neighbor",
       "pos": "noun",
       "d": [
-        "Neighbor"
+        "The neighborhood"
       ],
       "ex": []
     },
@@ -50970,7 +51234,7 @@ window.DICT.bible = [
       "w": "Usury",
       "pos": "noun",
       "d": [
-        "Usury"
+        "Interest"
       ],
       "ex": []
     },
@@ -50996,7 +51260,7 @@ window.DICT.bible = [
       "w": "Wonder",
       "pos": "noun",
       "d": [
-        "Wonder"
+        "aiding the enemy"
       ],
       "ex": []
     },
@@ -51152,7 +51416,9 @@ window.DICT.bible = [
       "w": "Works",
       "pos": "noun",
       "d": [
-        "Works"
+        "task",
+        "fact, thing",
+        "Work"
       ],
       "ex": []
     },
@@ -51178,7 +51444,7 @@ window.DICT.bible = [
       "w": "Kiss",
       "pos": "noun",
       "d": [
-        "Kiss"
+        "a kiss"
       ],
       "ex": []
     },
@@ -51256,7 +51522,7 @@ window.DICT.bible = [
       "w": "Lip",
       "pos": "noun",
       "d": [
-        "Lip"
+        "The lips"
       ],
       "ex": []
     },
@@ -51334,7 +51600,8 @@ window.DICT.bible = [
       "w": "Come",
       "pos": "noun",
       "d": [
-        "Come"
+        "to deal with/face a danger",
+        "(a house) faces in a certain direction (of the sea)"
       ],
       "ex": []
     },
@@ -51412,7 +51679,8 @@ window.DICT.bible = [
       "w": "Jephthah",
       "pos": "noun",
       "d": [
-        "Jephthah"
+        "incur, receive, suffer",
+        "To wear"
       ],
       "ex": []
     },
@@ -51438,7 +51706,7 @@ window.DICT.bible = [
       "w": "Ink",
       "pos": "noun",
       "d": [
-        "Ink"
+        "ink"
       ],
       "ex": []
     },
@@ -51464,7 +51732,7 @@ window.DICT.bible = [
       "w": "Canker-worm",
       "pos": "noun",
       "d": [
-        "Canker-worm"
+        "inchworm, measuring worm"
       ],
       "ex": []
     },
@@ -51490,7 +51758,8 @@ window.DICT.bible = [
       "w": "Children",
       "pos": "noun",
       "d": [
-        "Children"
+        "scion",
+        "offspring, progeniture, progeny"
       ],
       "ex": []
     },
@@ -51542,7 +51811,7 @@ window.DICT.bible = [
       "w": "Amethyst",
       "pos": "noun",
       "d": [
-        "Amethyst"
+        "amethyst"
       ],
       "ex": []
     },
@@ -51568,7 +51837,7 @@ window.DICT.bible = [
       "w": "Children",
       "pos": "noun",
       "d": [
-        "Children"
+        "one's children"
       ],
       "ex": []
     },
@@ -51646,7 +51915,8 @@ window.DICT.bible = [
       "w": "Purple",
       "pos": "noun",
       "d": [
-        "Purple"
+        "self-sufficiency",
+        "frequently"
       ],
       "ex": []
     },
@@ -51724,7 +51994,8 @@ window.DICT.bible = [
       "w": "Cup",
       "pos": "noun",
       "d": [
-        "Cup"
+        "A cup, wine glass",
+        "(prefix) makes the following word small"
       ],
       "ex": []
     },
@@ -51802,7 +52073,7 @@ window.DICT.bible = [
       "w": "Feasts",
       "pos": "noun",
       "d": [
-        "Feasts"
+        "banquet,feast"
       ],
       "ex": []
     },
@@ -51828,7 +52099,8 @@ window.DICT.bible = [
       "w": "Elders",
       "pos": "noun",
       "d": [
-        "Elders"
+        "an elder, sb older respected for his/her wisdom",
+        "a presbyterian"
       ],
       "ex": []
     },
@@ -51854,7 +52126,7 @@ window.DICT.bible = [
       "w": "Rose",
       "pos": "noun",
       "d": [
-        "Rose"
+        "A rose"
       ],
       "ex": []
     },
@@ -51906,7 +52178,9 @@ window.DICT.bible = [
       "w": "Tent",
       "pos": "noun",
       "d": [
-        "Tent"
+        "subtitles",
+        "a tent, a curtain",
+        "chorion, dossal (of the vertebrae)"
       ],
       "ex": []
     },
@@ -51958,7 +52232,7 @@ window.DICT.bible = [
       "w": "Of age",
       "pos": "noun",
       "d": [
-        "Of age"
+        "general officer, generals"
       ],
       "ex": []
     },
@@ -51984,7 +52258,8 @@ window.DICT.bible = [
       "w": "Craftsman",
       "pos": "noun",
       "d": [
-        "Craftsman"
+        "A man's father in law, the wife`s father",
+        "craftsman, artisan"
       ],
       "ex": []
     },
@@ -52036,7 +52311,8 @@ window.DICT.bible = [
       "w": "Ashes",
       "pos": "noun",
       "d": [
-        "Ashes"
+        "ash",
+        "doing sth again"
       ],
       "ex": []
     },
@@ -52062,7 +52338,7 @@ window.DICT.bible = [
       "w": "Bit",
       "pos": "noun",
       "d": [
-        "Bit"
+        "a gag for a horse, a mouthpiece, a muzzle"
       ],
       "ex": []
     },
@@ -52088,7 +52364,7 @@ window.DICT.bible = [
       "w": "Second coming",
       "pos": "noun",
       "d": [
-        "Second coming"
+        "the second Advent of Christ"
       ],
       "ex": []
     },
@@ -52114,7 +52390,7 @@ window.DICT.bible = [
       "w": "Plague",
       "pos": "noun",
       "d": [
-        "Plague"
+        "a bale, a curse, a disaster"
       ],
       "ex": []
     },
@@ -52140,7 +52416,8 @@ window.DICT.bible = [
       "w": "Judges",
       "pos": "noun",
       "d": [
-        "Judges"
+        "a court, the judiciary",
+        "a hakim, judge, a justice of the court"
       ],
       "ex": []
     },
@@ -52192,7 +52469,7 @@ window.DICT.bible = [
       "w": "Balances",
       "pos": "noun",
       "d": [
-        "Balances"
+        "A balance"
       ],
       "ex": []
     },
@@ -52218,7 +52495,7 @@ window.DICT.bible = [
       "w": "Curse",
       "pos": "noun",
       "d": [
-        "Curse"
+        "anathema, execration, imprecation, malediction"
       ],
       "ex": []
     },
@@ -52244,7 +52521,8 @@ window.DICT.bible = [
       "w": "Plough",
       "pos": "noun",
       "d": [
-        "Plough"
+        "plow",
+        "drail"
       ],
       "ex": []
     },
@@ -52322,7 +52600,8 @@ window.DICT.bible = [
       "w": "Temple",
       "pos": "noun",
       "d": [
-        "Temple"
+        "all,every",
+        "Before"
       ],
       "ex": []
     },
@@ -52348,7 +52627,8 @@ window.DICT.bible = [
       "w": "Scorpion",
       "pos": "noun",
       "d": [
-        "Scorpion"
+        "a scorpion",
+        "communication, remembrance, a verbal message"
       ],
       "ex": []
     },
@@ -52374,7 +52654,7 @@ window.DICT.bible = [
       "w": "Fir",
       "pos": "noun",
       "d": [
-        "Fir"
+        "fir"
       ],
       "ex": []
     },
@@ -52400,7 +52680,7 @@ window.DICT.bible = [
       "w": "Ecclesiastes",
       "pos": "noun",
       "d": [
-        "Ecclesiastes"
+        "ecclesiastes"
       ],
       "ex": []
     },
@@ -52478,7 +52758,7 @@ window.DICT.bible = [
       "w": "Booty",
       "pos": "noun",
       "d": [
-        "Booty"
+        "booty, loot, trophy"
       ],
       "ex": []
     },
@@ -52504,7 +52784,9 @@ window.DICT.bible = [
       "w": "Man of war",
       "pos": "noun",
       "d": [
-        "Man of war"
+        "death in battle",
+        "a soldier",
+        "the history of war"
       ],
       "ex": []
     },
@@ -52556,7 +52838,8 @@ window.DICT.bible = [
       "w": "In array",
       "pos": "noun",
       "d": [
-        "In array"
+        "conveying heat",
+        "an arrayment of what will participate in the war or battle, accoutrements ready for battle"
       ],
       "ex": []
     },
@@ -52582,7 +52865,7 @@ window.DICT.bible = [
       "w": "Murrain",
       "pos": "noun",
       "d": [
-        "Murrain"
+        "a contagious disease, a contagion"
       ],
       "ex": []
     },
@@ -52608,7 +52891,9 @@ window.DICT.bible = [
       "w": "Drink offering",
       "pos": "noun",
       "d": [
-        "Drink offering"
+        "premise, presupposition, reason for doing (concluding) something ; \"previously existing\"",
+        "despotism",
+        "agricultural field management"
       ],
       "ex": []
     },
@@ -52686,7 +52971,7 @@ window.DICT.bible = [
       "w": "Mortar",
       "pos": "noun",
       "d": [
-        "Mortar"
+        "a mortar (without the pestle)"
       ],
       "ex": []
     },
@@ -52738,7 +53023,8 @@ window.DICT.bible = [
       "w": "Temperance",
       "pos": "noun",
       "d": [
-        "Temperance"
+        "abstention, abstinence, continence, -enecy, temperance",
+        "excision, resection (salpingectomy), (vasectomy)"
       ],
       "ex": []
     },
@@ -52764,7 +53050,9 @@ window.DICT.bible = [
       "w": "Jot",
       "pos": "noun",
       "d": [
-        "Jot"
+        "maculae",
+        "a spot, a blemish",
+        "augury, divination, divining, fortunetelling, necromancy, soothsaying"
       ],
       "ex": []
     },
@@ -52790,7 +53078,8 @@ window.DICT.bible = [
       "w": "Astrologers",
       "pos": "noun",
       "d": [
-        "Astrologers"
+        "Chaldean",
+        "astrologer"
       ],
       "ex": []
     },
@@ -52842,7 +53131,7 @@ window.DICT.bible = [
       "w": "Tradition",
       "pos": "noun",
       "d": [
-        "Tradition"
+        "tradition,convention"
       ],
       "ex": []
     },
@@ -52868,7 +53157,7 @@ window.DICT.bible = [
       "w": "Pure",
       "pos": "noun",
       "d": [
-        "Pure"
+        "clear and clean and bright"
       ],
       "ex": []
     },
@@ -52946,7 +53235,7 @@ window.DICT.bible = [
       "w": "Conqueror",
       "pos": "noun",
       "d": [
-        "Conqueror"
+        "conqueror, conquistador, subjugator"
       ],
       "ex": []
     },
@@ -52972,7 +53261,7 @@ window.DICT.bible = [
       "w": "Lust",
       "pos": "noun",
       "d": [
-        "Lust"
+        "sexual desire, sexual passion"
       ],
       "ex": []
     },
@@ -52998,7 +53287,8 @@ window.DICT.bible = [
       "w": "Canon",
       "pos": "noun",
       "d": [
-        "Canon"
+        "a moving scene",
+        "the right thing to do"
       ],
       "ex": []
     },
@@ -53024,7 +53314,9 @@ window.DICT.bible = [
       "w": "Justice",
       "pos": "noun",
       "d": [
-        "Justice"
+        "justice, righteousness",
+        "the definition",
+        "feelings of friendship"
       ],
       "ex": []
     },
@@ -53050,7 +53342,9 @@ window.DICT.bible = [
       "w": "Refine",
       "pos": "noun",
       "d": [
-        "Refine"
+        "purification, refinement",
+        "tablet, tabloid",
+        "regular, symmetrical"
       ],
       "ex": []
     },
@@ -53128,7 +53422,7 @@ window.DICT.bible = [
       "w": "Milk",
       "pos": "noun",
       "d": [
-        "Milk"
+        "The breasts"
       ],
       "ex": []
     },
@@ -53154,7 +53448,8 @@ window.DICT.bible = [
       "w": "Altar",
       "pos": "noun",
       "d": [
-        "Altar"
+        "altar",
+        "sacrarium"
       ],
       "ex": []
     },
@@ -53180,7 +53475,8 @@ window.DICT.bible = [
       "w": "Lots",
       "pos": "noun",
       "d": [
-        "Lots"
+        "a lot (추첨에 쓰는 것 ... in the lottery)",
+        "A swallow"
       ],
       "ex": []
     },
@@ -53206,7 +53502,8 @@ window.DICT.bible = [
       "w": "Priest",
       "pos": "noun",
       "d": [
-        "Priest"
+        "high priest",
+        "pontiff"
       ],
       "ex": []
     },
@@ -53232,7 +53529,7 @@ window.DICT.bible = [
       "w": "Patriarch",
       "pos": "noun",
       "d": [
-        "Patriarch"
+        "chief, head of a clan, patriarch"
       ],
       "ex": []
     },
@@ -53258,7 +53555,8 @@ window.DICT.bible = [
       "w": "Weasel",
       "pos": "noun",
       "d": [
-        "Weasel"
+        "weasel",
+        "stoat"
       ],
       "ex": []
     },
@@ -53284,7 +53582,8 @@ window.DICT.bible = [
       "w": "Moth",
       "pos": "noun",
       "d": [
-        "Moth"
+        "a  trifle",
+        "A little"
       ],
       "ex": []
     },
@@ -53310,7 +53609,8 @@ window.DICT.bible = [
       "w": "Servant",
       "pos": "noun",
       "d": [
-        "Servant"
+        "A bell",
+        "A sort,kind,species"
       ],
       "ex": []
     },
@@ -53336,7 +53636,8 @@ window.DICT.bible = [
       "w": "Disciple",
       "pos": "noun",
       "d": [
-        "Disciple"
+        "pupil",
+        "A disciple"
       ],
       "ex": []
     },
@@ -53414,7 +53715,7 @@ window.DICT.bible = [
       "w": "counsel",
       "pos": "noun",
       "d": [
-        "counsel"
+        "advice, counsel, counseling, -selling"
       ],
       "ex": []
     },
@@ -53440,7 +53741,7 @@ window.DICT.bible = [
       "w": "Genealogies",
       "pos": "noun",
       "d": [
-        "Genealogies"
+        "family tree, the family history/lineage"
       ],
       "ex": []
     },
@@ -53466,7 +53767,7 @@ window.DICT.bible = [
       "w": "Blains",
       "pos": "noun",
       "d": [
-        "Blains"
+        "abscess, boil, tumor"
       ],
       "ex": []
     },
@@ -53544,7 +53845,7 @@ window.DICT.bible = [
       "w": "Sin",
       "pos": "noun",
       "d": [
-        "Sin"
+        "A crime, a sin"
       ],
       "ex": []
     },
@@ -53596,7 +53897,7 @@ window.DICT.bible = [
       "w": "Sinner",
       "pos": "noun",
       "d": [
-        "Sinner"
+        "A criminal"
       ],
       "ex": []
     },
@@ -53622,7 +53923,8 @@ window.DICT.bible = [
       "w": "Porch",
       "pos": "noun",
       "d": [
-        "Porch"
+        "stoa",
+        "gallery"
       ],
       "ex": []
     },
@@ -53674,7 +53976,9 @@ window.DICT.bible = [
       "w": "Lord",
       "pos": "noun",
       "d": [
-        "Lord"
+        "crownland",
+        "shire",
+        "one's master, ones employer"
       ],
       "ex": []
     },
@@ -53700,7 +54004,9 @@ window.DICT.bible = [
       "w": "Tin",
       "pos": "noun",
       "d": [
-        "Tin"
+        "annotation, commentary, exegesis, gloss, notation",
+        "pillar, a cornerstone, a main propping stone or device; headstone of a tomb",
+        "the head of the table; the head of a political party"
       ],
       "ex": []
     },
@@ -53726,7 +54032,7 @@ window.DICT.bible = [
       "w": "Observe",
       "pos": "noun",
       "d": [
-        "Observe"
+        "regard carefully; (2) to be in/put sb in the spotlight"
       ],
       "ex": []
     },
@@ -53856,7 +54162,7 @@ window.DICT.bible = [
       "w": "Scarlet",
       "pos": "noun",
       "d": [
-        "Scarlet"
+        "cinnabar, scarlet"
       ],
       "ex": []
     },
@@ -53882,7 +54188,7 @@ window.DICT.bible = [
       "w": "Lord's day",
       "pos": "noun",
       "d": [
-        "Lord's day"
+        "A weekday (e.g. Monday)"
       ],
       "ex": []
     },
@@ -53908,7 +54214,8 @@ window.DICT.bible = [
       "w": "Pottage",
       "pos": "noun",
       "d": [
-        "Pottage"
+        "In a very straight line, in a row",
+        "Rice porridge"
       ],
       "ex": []
     },
@@ -53986,7 +54293,8 @@ window.DICT.bible = [
       "w": "Observe",
       "pos": "noun",
       "d": [
-        "Observe"
+        "abidance by, observance of",
+        "talent, superiority"
       ],
       "ex": []
     },
@@ -54090,7 +54398,7 @@ window.DICT.bible = [
       "w": "Testimony",
       "pos": "noun",
       "d": [
-        "Testimony"
+        "deposition, proof, testification, testimony"
       ],
       "ex": []
     },
@@ -54142,7 +54450,7 @@ window.DICT.bible = [
       "w": "Mediator",
       "pos": "noun",
       "d": [
-        "Mediator"
+        "intercessor, intervenient, pacificator, paraclete"
       ],
       "ex": []
     },
@@ -54168,7 +54476,7 @@ window.DICT.bible = [
       "w": "Witness",
       "pos": "noun",
       "d": [
-        "Witness"
+        "sb giving testimony (in court, e.g.)"
       ],
       "ex": []
     },
@@ -54194,7 +54502,9 @@ window.DICT.bible = [
       "w": "Understanding",
       "pos": "noun",
       "d": [
-        "Understanding"
+        "being late",
+        "perception,consciousness",
+        "crust, lithosphere"
       ],
       "ex": []
     },
@@ -54220,7 +54530,7 @@ window.DICT.bible = [
       "w": "Border",
       "pos": "noun",
       "d": [
-        "Border"
+        "A boundary,situation,state"
       ],
       "ex": []
     },
@@ -54272,7 +54582,8 @@ window.DICT.bible = [
       "w": "Province",
       "pos": "noun",
       "d": [
-        "Province"
+        "Fat, grease, lard",
+        "A locality, district"
       ],
       "ex": []
     },
@@ -54298,7 +54609,7 @@ window.DICT.bible = [
       "w": "Knowledge",
       "pos": "noun",
       "d": [
-        "Knowledge"
+        "Knowledge, information"
       ],
       "ex": []
     },
@@ -54324,7 +54635,8 @@ window.DICT.bible = [
       "w": "Hell",
       "pos": "noun",
       "d": [
-        "Hell"
+        "Tartarus",
+        "abyss, hell, inferno, nether regions"
       ],
       "ex": []
     },
@@ -54376,7 +54688,8 @@ window.DICT.bible = [
       "w": "Dowry",
       "pos": "noun",
       "d": [
-        "Dowry"
+        "dower",
+        "marriage portion"
       ],
       "ex": []
     },
@@ -54402,7 +54715,7 @@ window.DICT.bible = [
       "w": "Member",
       "pos": "noun",
       "d": [
-        "Member"
+        "footdraggng, pause, retard, time lag"
       ],
       "ex": []
     },
@@ -54480,7 +54793,7 @@ window.DICT.bible = [
       "w": "Staff",
       "pos": "noun",
       "d": [
-        "Staff"
+        "a cane, a walking stick"
       ],
       "ex": []
     },
@@ -54532,7 +54845,8 @@ window.DICT.bible = [
       "w": "Pearls",
       "pos": "noun",
       "d": [
-        "Pearls"
+        "pearl",
+        "occupation by military forces"
       ],
       "ex": []
     },
@@ -54558,7 +54872,9 @@ window.DICT.bible = [
       "w": "Office",
       "pos": "noun",
       "d": [
-        "Office"
+        "ministration",
+        "ministry, office",
+        "business, task"
       ],
       "ex": []
     },
@@ -54584,7 +54900,7 @@ window.DICT.bible = [
       "w": "Truth",
       "pos": "noun",
       "d": [
-        "Truth"
+        "A truth, a fact"
       ],
       "ex": []
     },
@@ -54636,7 +54952,8 @@ window.DICT.bible = [
       "w": "Evolution",
       "pos": "noun",
       "d": [
-        "Evolution"
+        "extinguishing a fire, putting out a fire",
+        "evolution"
       ],
       "ex": []
     },
@@ -54740,7 +55057,8 @@ window.DICT.bible = [
       "w": "Burden",
       "pos": "noun",
       "d": [
-        "Burden"
+        "setting",
+        "Luggage ; what is on a person"
       ],
       "ex": []
     },
@@ -54766,7 +55084,8 @@ window.DICT.bible = [
       "w": "Clay",
       "pos": "noun",
       "d": [
-        "Clay"
+        "dirt, mud, sludge",
+        "clay"
       ],
       "ex": []
     },
@@ -54792,7 +55111,7 @@ window.DICT.bible = [
       "w": "Beasts",
       "pos": "noun",
       "d": [
-        "Beasts"
+        "animal, beast, brute"
       ],
       "ex": []
     },
@@ -54844,7 +55163,7 @@ window.DICT.bible = [
       "w": "Diseases",
       "pos": "noun",
       "d": [
-        "Diseases"
+        "A disease, sickness"
       ],
       "ex": []
     },
@@ -54896,7 +55215,7 @@ window.DICT.bible = [
       "w": "Jealousy",
       "pos": "noun",
       "d": [
-        "Jealousy"
+        "envy, heartburning, jealousy"
       ],
       "ex": []
     },
@@ -54922,7 +55241,9 @@ window.DICT.bible = [
       "w": "Deacon",
       "pos": "noun",
       "d": [
-        "Deacon"
+        "seneschal",
+        "steward of a house, with the owner being nearby",
+        "a bailiff (sb delivering a letter to sb high-up) (2) a monk in charge of the temple grounds (3) a deacon (sb in charge of a church)"
       ],
       "ex": []
     },
@@ -54948,7 +55269,7 @@ window.DICT.bible = [
       "w": "Sparrow",
       "pos": "noun",
       "d": [
-        "Sparrow"
+        "A sparrow"
       ],
       "ex": []
     },
@@ -54974,7 +55295,7 @@ window.DICT.bible = [
       "w": "Harlot",
       "pos": "noun",
       "d": [
-        "Harlot"
+        "whoredom, a prostitute"
       ],
       "ex": []
     },
@@ -55000,7 +55321,7 @@ window.DICT.bible = [
       "w": "Chastise",
       "pos": "noun",
       "d": [
-        "Chastise"
+        "castigation, correction, to discipline sb, reprimand"
       ],
       "ex": []
     },
@@ -55026,7 +55347,7 @@ window.DICT.bible = [
       "w": "Visitation",
       "pos": "noun",
       "d": [
-        "Visitation"
+        "chastisement, retribution, getting the (punishing) rod"
       ],
       "ex": []
     },
@@ -55078,7 +55399,7 @@ window.DICT.bible = [
       "w": "Foundation of the world",
       "pos": "noun",
       "d": [
-        "Foundation of the world"
+        "creation"
       ],
       "ex": []
     },
@@ -55104,7 +55425,8 @@ window.DICT.bible = [
       "w": "Invention",
       "pos": "noun",
       "d": [
-        "Invention"
+        "creation",
+        "conception"
       ],
       "ex": []
     },
@@ -55130,7 +55452,7 @@ window.DICT.bible = [
       "w": "Stocks",
       "pos": "noun",
       "d": [
-        "Stocks"
+        "chains, fetters, shackles"
       ],
       "ex": []
     },
@@ -55182,7 +55504,7 @@ window.DICT.bible = [
       "w": "Extortion",
       "pos": "noun",
       "d": [
-        "Extortion"
+        "exploitage, exploitation"
       ],
       "ex": []
     },
@@ -55208,7 +55530,7 @@ window.DICT.bible = [
       "w": "Hymn",
       "pos": "noun",
       "d": [
-        "Hymn"
+        "a hymn, a psalm"
       ],
       "ex": []
     },
@@ -55234,7 +55556,7 @@ window.DICT.bible = [
       "w": "Calamus",
       "pos": "noun",
       "d": [
-        "Calamus"
+        "calamus"
       ],
       "ex": []
     },
@@ -55260,7 +55582,8 @@ window.DICT.bible = [
       "w": "Many colors",
       "pos": "noun",
       "d": [
-        "Many colors"
+        "illumination (of a copy)",
+        "chromatism, color, colour, coloration"
       ],
       "ex": []
     },
@@ -55286,7 +55609,8 @@ window.DICT.bible = [
       "w": "Scourge",
       "pos": "noun",
       "d": [
-        "Scourge"
+        "to encourage by lashing, urge on",
+        "flagellation, flogging, lashing, whipping"
       ],
       "ex": []
     },
@@ -55312,7 +55636,7 @@ window.DICT.bible = [
       "w": "Book",
       "pos": "noun",
       "d": [
-        "Book"
+        "A book"
       ],
       "ex": []
     },
@@ -55390,7 +55714,8 @@ window.DICT.bible = [
       "w": "Charge",
       "pos": "noun",
       "d": [
-        "Charge"
+        "responsibility",
+        "stewardship"
       ],
       "ex": []
     },
@@ -55416,7 +55741,7 @@ window.DICT.bible = [
       "w": "Entangle",
       "pos": "noun",
       "d": [
-        "Entangle"
+        "to blame"
       ],
       "ex": []
     },
@@ -55442,7 +55767,7 @@ window.DICT.bible = [
       "w": "Beginning",
       "pos": "noun",
       "d": [
-        "Beginning"
+        "First"
       ],
       "ex": []
     },
@@ -55494,7 +55819,7 @@ window.DICT.bible = [
       "w": "Astronomy",
       "pos": "noun",
       "d": [
-        "Astronomy"
+        "astronomy, stargazing, uranology"
       ],
       "ex": []
     },
@@ -55520,7 +55845,8 @@ window.DICT.bible = [
       "w": "Angel",
       "pos": "noun",
       "d": [
-        "Angel"
+        "celestial",
+        "angel"
       ],
       "ex": []
     },
@@ -55546,7 +55872,7 @@ window.DICT.bible = [
       "w": "Thunder",
       "pos": "noun",
       "d": [
-        "Thunder"
+        "Thunder 뇌성 ( lightning is 번개 )"
       ],
       "ex": []
     },
@@ -55624,7 +55950,7 @@ window.DICT.bible = [
       "w": "Concubine",
       "pos": "noun",
       "d": [
-        "Concubine"
+        "concubine, demimondaine"
       ],
       "ex": []
     },
@@ -55650,7 +55976,7 @@ window.DICT.bible = [
       "w": "Ceiling",
       "pos": "noun",
       "d": [
-        "Ceiling"
+        "The ceiling"
       ],
       "ex": []
     },
@@ -55676,7 +56002,7 @@ window.DICT.bible = [
       "w": "Rod of iron",
       "pos": "noun",
       "d": [
-        "Rod of iron"
+        "a metal cage"
       ],
       "ex": []
     },
@@ -55780,7 +56106,7 @@ window.DICT.bible = [
       "w": "Plant",
       "pos": "noun",
       "d": [
-        "Plant"
+        "plants and trees"
       ],
       "ex": []
     },
@@ -55858,7 +56184,7 @@ window.DICT.bible = [
       "w": "Tenon",
       "pos": "noun",
       "d": [
-        "Tenon"
+        "the end, the tip, the point"
       ],
       "ex": []
     },
@@ -55884,7 +56210,8 @@ window.DICT.bible = [
       "w": "Follow after",
       "pos": "noun",
       "d": [
-        "Follow after"
+        "chase, follow, hunting, pursuance, pursuit",
+        "thorough research"
       ],
       "ex": []
     },
@@ -55910,7 +56237,7 @@ window.DICT.bible = [
       "w": "Bless",
       "pos": "noun",
       "d": [
-        "Bless"
+        "beatification, benediction, blessing"
       ],
       "ex": []
     },
@@ -55988,7 +56315,7 @@ window.DICT.bible = [
       "w": "Jacinth",
       "pos": "noun",
       "d": [
-        "Jacinth"
+        "sapphire"
       ],
       "ex": []
     },
@@ -56014,7 +56341,9 @@ window.DICT.bible = [
       "w": "Petition",
       "pos": "noun",
       "d": [
-        "Petition"
+        "suit",
+        "address",
+        "request"
       ],
       "ex": []
     },
@@ -56040,7 +56369,8 @@ window.DICT.bible = [
       "w": "Steward",
       "pos": "noun",
       "d": [
-        "Steward"
+        "majordomo",
+        "seneschal"
       ],
       "ex": []
     },
@@ -56118,7 +56448,8 @@ window.DICT.bible = [
       "w": "Dancing",
       "pos": "noun",
       "d": [
-        "Dancing"
+        "nautch",
+        "Dance"
       ],
       "ex": []
     },
@@ -56144,7 +56475,7 @@ window.DICT.bible = [
       "w": "Kinsman",
       "pos": "noun",
       "d": [
-        "Kinsman"
+        "a blood relation/relative"
       ],
       "ex": []
     },
@@ -56248,7 +56579,9 @@ window.DICT.bible = [
       "w": "Wax rich",
       "pos": "noun",
       "d": [
-        "Wax rich"
+        "assessment of a fortune",
+        "the body's private parts",
+        "booking"
       ],
       "ex": []
     },
@@ -56274,7 +56607,7 @@ window.DICT.bible = [
       "w": "Reproach",
       "pos": "noun",
       "d": [
-        "Reproach"
+        "disgrace, dishonor, opprobrium, shame"
       ],
       "ex": []
     },
@@ -56300,7 +56633,7 @@ window.DICT.bible = [
       "w": "Healing",
       "pos": "noun",
       "d": [
-        "Healing"
+        "cure, healing"
       ],
       "ex": []
     },
@@ -56326,7 +56659,7 @@ window.DICT.bible = [
       "w": "Decree",
       "pos": "noun",
       "d": [
-        "Decree"
+        "an edict, an order from the king"
       ],
       "ex": []
     },
@@ -56352,7 +56685,7 @@ window.DICT.bible = [
       "w": "Communion",
       "pos": "noun",
       "d": [
-        "Communion"
+        "fellowship, intimate friendship"
       ],
       "ex": []
     },
@@ -56378,7 +56711,8 @@ window.DICT.bible = [
       "w": "Friend",
       "pos": "noun",
       "d": [
-        "Friend"
+        "matey",
+        "A friend"
       ],
       "ex": []
     },
@@ -56456,7 +56790,9 @@ window.DICT.bible = [
       "w": "Spittle",
       "pos": "noun",
       "d": [
-        "Spittle"
+        "a needle, a stinger",
+        "a spit",
+        "acupuncture"
       ],
       "ex": []
     },
@@ -56482,7 +56818,7 @@ window.DICT.bible = [
       "w": "Baptism",
       "pos": "noun",
       "d": [
-        "Baptism"
+        "baptism"
       ],
       "ex": []
     },
@@ -56508,7 +56844,7 @@ window.DICT.bible = [
       "w": "Praise",
       "pos": "noun",
       "d": [
-        "Praise"
+        "praise"
       ],
       "ex": []
     },
@@ -56560,7 +56896,7 @@ window.DICT.bible = [
       "w": "Bed",
       "pos": "noun",
       "d": [
-        "Bed"
+        "a couch, a bed, a mattress"
       ],
       "ex": []
     },
@@ -56586,7 +56922,7 @@ window.DICT.bible = [
       "w": "Chameleon",
       "pos": "noun",
       "d": [
-        "Chameleon"
+        "chameleon"
       ],
       "ex": []
     },
@@ -56794,7 +57130,8 @@ window.DICT.bible = [
       "w": "Nose",
       "pos": "noun",
       "d": [
-        "Nose"
+        "link",
+        "The nose"
       ],
       "ex": []
     },
@@ -56820,7 +57157,9 @@ window.DICT.bible = [
       "w": "Rudder",
       "pos": "noun",
       "d": [
-        "Rudder"
+        "a KEY",
+        "stature,height",
+        "a rudder"
       ],
       "ex": []
     },
@@ -56872,7 +57211,7 @@ window.DICT.bible = [
       "w": "Kidney",
       "pos": "noun",
       "d": [
-        "Kidney"
+        "the kidneys"
       ],
       "ex": []
     },
@@ -56976,7 +57315,8 @@ window.DICT.bible = [
       "w": "Threshing",
       "pos": "noun",
       "d": [
-        "Threshing"
+        "threshing (a cereal grain)",
+        "made by somebody else"
       ],
       "ex": []
     },
@@ -57002,7 +57342,8 @@ window.DICT.bible = [
       "w": "Ostrich",
       "pos": "noun",
       "d": [
-        "Ostrich"
+        "came bird",
+        "ostrich"
       ],
       "ex": []
     },
@@ -57028,7 +57369,7 @@ window.DICT.bible = [
       "w": "Covetousness",
       "pos": "noun",
       "d": [
-        "Covetousness"
+        "lusting, coveting"
       ],
       "ex": []
     },
@@ -57080,7 +57421,9 @@ window.DICT.bible = [
       "w": "Firkin",
       "pos": "noun",
       "d": [
-        "Firkin"
+        "not at all, to have no clue",
+        "Counters for letters",
+        "one phone call"
       ],
       "ex": []
     },
@@ -57106,7 +57449,7 @@ window.DICT.bible = [
       "w": "Spend all",
       "pos": "noun",
       "d": [
-        "Spend all"
+        "to completely use up"
       ],
       "ex": []
     },
@@ -57132,7 +57475,8 @@ window.DICT.bible = [
       "w": "Foundation",
       "pos": "noun",
       "d": [
-        "Foundation"
+        "one's status, one's lot",
+        "A site, place"
       ],
       "ex": []
     },
@@ -57184,7 +57528,7 @@ window.DICT.bible = [
       "w": "Dominion",
       "pos": "noun",
       "d": [
-        "Dominion"
+        "dominion, governance, reign, rule"
       ],
       "ex": []
     },
@@ -57210,7 +57554,7 @@ window.DICT.bible = [
       "w": "Princes",
       "pos": "noun",
       "d": [
-        "Princes"
+        "governor, ruler"
       ],
       "ex": []
     },
@@ -57262,7 +57606,7 @@ window.DICT.bible = [
       "w": "Telabib",
       "pos": "noun",
       "d": [
-        "Telabib"
+        "Tel Aviv"
       ],
       "ex": []
     },
@@ -57288,7 +57632,9 @@ window.DICT.bible = [
       "w": "Champion",
       "pos": "noun",
       "d": [
-        "Champion"
+        "incidence (a ray of light penetrating sth)",
+        "combatant, fighter",
+        "tracing sth (as through thin paper)"
       ],
       "ex": []
     },
@@ -57366,7 +57712,7 @@ window.DICT.bible = [
       "w": "Press",
       "pos": "noun",
       "d": [
-        "Press"
+        "A frame, framework; mold ; framing"
       ],
       "ex": []
     },
@@ -57496,7 +57842,7 @@ window.DICT.bible = [
       "w": "Parthia",
       "pos": "noun",
       "d": [
-        "Parthia"
+        "parthia"
       ],
       "ex": []
     },
@@ -57522,7 +57868,8 @@ window.DICT.bible = [
       "w": "Fly",
       "pos": "noun",
       "d": [
-        "Fly"
+        "Paris",
+        "A fly"
       ],
       "ex": []
     },
@@ -57626,7 +57973,7 @@ window.DICT.bible = [
       "w": "Watchmen",
       "pos": "noun",
       "d": [
-        "Watchmen"
+        "keeper"
       ],
       "ex": []
     },
@@ -57652,7 +57999,7 @@ window.DICT.bible = [
       "w": "Bracelet",
       "pos": "noun",
       "d": [
-        "Bracelet"
+        "an armlet, bangles"
       ],
       "ex": []
     },
@@ -57704,7 +58051,7 @@ window.DICT.bible = [
       "w": "Phoenicia",
       "pos": "noun",
       "d": [
-        "Phoenicia"
+        "phoenicia"
       ],
       "ex": []
     },
@@ -57782,7 +58129,7 @@ window.DICT.bible = [
       "w": "Judge",
       "pos": "noun",
       "d": [
-        "Judge"
+        "To make a conclusion"
       ],
       "ex": []
     },
@@ -57808,7 +58155,8 @@ window.DICT.bible = [
       "w": "Arm",
       "pos": "noun",
       "d": [
-        "Arm"
+        "An arm",
+        "Eight"
       ],
       "ex": []
     },
@@ -57860,7 +58208,7 @@ window.DICT.bible = [
       "w": "Consumption",
       "pos": "noun",
       "d": [
-        "Consumption"
+        "pulmonary  consumption"
       ],
       "ex": []
     },
@@ -57886,7 +58234,9 @@ window.DICT.bible = [
       "w": "Break",
       "pos": "noun",
       "d": [
-        "Break"
+        "destroy (customs, a system, organizations)",
+        "depose, dethrone (or push down from any position), unthrone",
+        "unmake, discontinue"
       ],
       "ex": []
     },
@@ -57912,7 +58262,7 @@ window.DICT.bible = [
       "w": "Persia",
       "pos": "noun",
       "d": [
-        "Persia"
+        "persia"
       ],
       "ex": []
     },
@@ -57964,7 +58314,7 @@ window.DICT.bible = [
       "w": "Grapes",
       "pos": "noun",
       "d": [
-        "Grapes"
+        "grape(s)"
       ],
       "ex": []
     },
@@ -57990,7 +58340,8 @@ window.DICT.bible = [
       "w": "Vine",
       "pos": "noun",
       "d": [
-        "Vine"
+        "vinery",
+        "vine"
       ],
       "ex": []
     },
@@ -58016,7 +58367,8 @@ window.DICT.bible = [
       "w": "Pen",
       "pos": "noun",
       "d": [
-        "Pen"
+        "fen",
+        "pen"
       ],
       "ex": []
     },
@@ -58042,7 +58394,7 @@ window.DICT.bible = [
       "w": "Pelican",
       "pos": "noun",
       "d": [
-        "Pelican"
+        "pelican"
       ],
       "ex": []
     },
@@ -58068,7 +58420,7 @@ window.DICT.bible = [
       "w": "Letters",
       "pos": "noun",
       "d": [
-        "Letters"
+        "Letter"
       ],
       "ex": []
     },
@@ -58094,7 +58446,7 @@ window.DICT.bible = [
       "w": "Vineyard",
       "pos": "noun",
       "d": [
-        "Vineyard"
+        "grapery, vineyard"
       ],
       "ex": []
     },
@@ -58120,7 +58472,7 @@ window.DICT.bible = [
       "w": "Wine",
       "pos": "noun",
       "d": [
-        "Wine"
+        "Grape wine"
       ],
       "ex": []
     },
@@ -58146,7 +58498,7 @@ window.DICT.bible = [
       "w": "Captives",
       "pos": "noun",
       "d": [
-        "Captives"
+        "p.o.w., pow, P.O.W., POW, prisoner"
       ],
       "ex": []
     },
@@ -58172,7 +58524,7 @@ window.DICT.bible = [
       "w": "Wine",
       "pos": "noun",
       "d": [
-        "Wine"
+        "stum"
       ],
       "ex": []
     },
@@ -58224,7 +58576,8 @@ window.DICT.bible = [
       "w": "Pavement",
       "pos": "noun",
       "d": [
-        "Pavement"
+        "a sidewalk, a hard paved surface",
+        "packing,wrapping"
       ],
       "ex": []
     },
@@ -58276,7 +58629,9 @@ window.DICT.bible = [
       "w": "Foreskin",
       "pos": "noun",
       "d": [
-        "Foreskin"
+        "foreskin",
+        "the foreskin (of the male sexual organ)",
+        "an integument, a leather covering"
       ],
       "ex": []
     },
@@ -58328,7 +58683,9 @@ window.DICT.bible = [
       "w": "Frontlets",
       "pos": "noun",
       "d": [
-        "Frontlets"
+        "crisscross",
+        "chart, list, register, tabulation, tally",
+        "A marker, indication"
       ],
       "ex": []
     },
@@ -58354,7 +58711,7 @@ window.DICT.bible = [
       "w": "Mite",
       "pos": "noun",
       "d": [
-        "Mite"
+        "one penny, a very small amount of money"
       ],
       "ex": []
     },
@@ -58380,7 +58737,9 @@ window.DICT.bible = [
       "w": "Grass",
       "pos": "noun",
       "d": [
-        "Grass"
+        "one's spirits, energy",
+        "Glue (spread the ~)",
+        "Grass (cut the ~)"
       ],
       "ex": []
     },
@@ -58406,7 +58765,7 @@ window.DICT.bible = [
       "w": "Bosom",
       "pos": "noun",
       "d": [
-        "Bosom"
+        "Width; bosom, breast (the clothes have a big ~)"
       ],
       "ex": []
     },
@@ -58432,7 +58791,7 @@ window.DICT.bible = [
       "w": "allegory",
       "pos": "noun",
       "d": [
-        "allegory"
+        "allegorism"
       ],
       "ex": []
     },
@@ -58458,7 +58817,7 @@ window.DICT.bible = [
       "w": "Leopard",
       "pos": "noun",
       "d": [
-        "Leopard"
+        "leopard, panther"
       ],
       "ex": []
     },
@@ -58536,7 +58895,7 @@ window.DICT.bible = [
       "w": "Sign",
       "pos": "noun",
       "d": [
-        "Sign"
+        "the target, what you are trying to hit"
       ],
       "ex": []
     },
@@ -58614,7 +58973,7 @@ window.DICT.bible = [
       "w": "Blood",
       "pos": "noun",
       "d": [
-        "Blood"
+        "Blood (is flowing)"
       ],
       "ex": []
     },
@@ -58640,7 +58999,7 @@ window.DICT.bible = [
       "w": "Waste",
       "pos": "noun",
       "d": [
-        "Waste"
+        "to be beaten and weak"
       ],
       "ex": []
     },
@@ -58692,7 +59051,8 @@ window.DICT.bible = [
       "w": "Copy",
       "pos": "noun",
       "d": [
-        "Copy"
+        "transcription",
+        "desperation"
       ],
       "ex": []
     },
@@ -58718,7 +59078,7 @@ window.DICT.bible = [
       "w": "Persecution",
       "pos": "noun",
       "d": [
-        "Persecution"
+        "stringency"
       ],
       "ex": []
     },
@@ -58744,7 +59104,7 @@ window.DICT.bible = [
       "w": "Refuge",
       "pos": "noun",
       "d": [
-        "Refuge"
+        "cover, place of safe harbor, haven, refuge, sanctuary"
       ],
       "ex": []
     },
@@ -58770,7 +59130,7 @@ window.DICT.bible = [
       "w": "Pipe",
       "pos": "noun",
       "d": [
-        "Pipe"
+        "a flute, a fife, a pipe"
       ],
       "ex": []
     },
@@ -59082,7 +59442,7 @@ window.DICT.bible = [
       "w": "Heaven",
       "pos": "noun",
       "d": [
-        "Heaven"
+        "The sky"
       ],
       "ex": []
     },
@@ -59576,7 +59936,7 @@ window.DICT.bible = [
       "w": "Harp",
       "pos": "noun",
       "d": [
-        "Harp"
+        "harp"
       ],
       "ex": []
     },
@@ -59758,7 +60118,7 @@ window.DICT.bible = [
       "w": "Once",
       "pos": "noun",
       "d": [
-        "Once"
+        "clip"
       ],
       "ex": []
     },
@@ -59836,7 +60196,7 @@ window.DICT.bible = [
       "w": "Hallelujah",
       "pos": "noun",
       "d": [
-        "Hallelujah"
+        "hallelujah"
       ],
       "ex": []
     },
@@ -59862,7 +60222,7 @@ window.DICT.bible = [
       "w": "Circumcision",
       "pos": "noun",
       "d": [
-        "Circumcision"
+        "circumcision"
       ],
       "ex": []
     },
@@ -59940,7 +60300,7 @@ window.DICT.bible = [
       "w": "Spunge",
       "pos": "noun",
       "d": [
-        "Spunge"
+        "sea level"
       ],
       "ex": []
     },
@@ -59966,7 +60326,9 @@ window.DICT.bible = [
       "w": "Birth",
       "pos": "noun",
       "d": [
-        "Birth"
+        "products from the sea",
+        "breakup, bustup, dissolution",
+        "childbearing, child birth"
       ],
       "ex": []
     },
@@ -59992,7 +60354,9 @@ window.DICT.bible = [
       "w": "Ham",
       "pos": "noun",
       "d": [
-        "Ham"
+        "a box for clothes or stuff",
+        "revoke",
+        "ship"
       ],
       "ex": []
     },
@@ -60070,7 +60434,9 @@ window.DICT.bible = [
       "w": "Year",
       "pos": "noun",
       "d": [
-        "Year"
+        "A year",
+        "the sun",
+        "Damage, injury"
       ],
       "ex": []
     },
@@ -60096,7 +60462,8 @@ window.DICT.bible = [
       "w": "Interpretation",
       "pos": "noun",
       "d": [
-        "Interpretation"
+        "Analysis, analytical research",
+        "Interpretation, a comment"
       ],
       "ex": []
     },
@@ -60122,7 +60489,7 @@ window.DICT.bible = [
       "w": "Incense",
       "pos": "noun",
       "d": [
-        "Incense"
+        "perfume,incense"
       ],
       "ex": []
     },
@@ -60148,7 +60515,8 @@ window.DICT.bible = [
       "w": "Dial",
       "pos": "noun",
       "d": [
-        "Dial"
+        "solarium",
+        "sundial"
       ],
       "ex": []
     },
@@ -60174,7 +60542,7 @@ window.DICT.bible = [
       "w": "Censer",
       "pos": "noun",
       "d": [
-        "Censer"
+        "an incense burner, a thurible"
       ],
       "ex": []
     },
@@ -60200,7 +60568,7 @@ window.DICT.bible = [
       "w": "Bittern",
       "pos": "noun",
       "d": [
-        "Bittern"
+        "aigrette, night heron"
       ],
       "ex": []
     },
@@ -60226,7 +60594,7 @@ window.DICT.bible = [
       "w": "Path",
       "pos": "noun",
       "d": [
-        "Path"
+        "a path, a road"
       ],
       "ex": []
     },
@@ -60252,7 +60620,7 @@ window.DICT.bible = [
       "w": "Works",
       "pos": "noun",
       "d": [
-        "Works"
+        "An act, deed, behavior"
       ],
       "ex": []
     },
@@ -60304,7 +60672,7 @@ window.DICT.bible = [
       "w": "Waste",
       "pos": "noun",
       "d": [
-        "Waste"
+        "a waste (of sth)"
       ],
       "ex": []
     },
@@ -60356,7 +60724,7 @@ window.DICT.bible = [
       "w": "Sores",
       "pos": "noun",
       "d": [
-        "Sores"
+        "an abscess, a boil"
       ],
       "ex": []
     },
@@ -60408,7 +60776,7 @@ window.DICT.bible = [
       "w": "Perfumes",
       "pos": "noun",
       "d": [
-        "Perfumes"
+        "A perfume"
       ],
       "ex": []
     },
@@ -60434,7 +60802,8 @@ window.DICT.bible = [
       "w": "Loins",
       "pos": "noun",
       "d": [
-        "Loins"
+        "yoke",
+        "The waist, the small of the back"
       ],
       "ex": []
     },
@@ -60772,7 +61141,7 @@ window.DICT.bible = [
       "w": "Tongue",
       "pos": "noun",
       "d": [
-        "Tongue"
+        "The tongue"
       ],
       "ex": []
     },
@@ -60824,7 +61193,7 @@ window.DICT.bible = [
       "w": "Punishments",
       "pos": "noun",
       "d": [
-        "Punishments"
+        "enactment of a criminal sentence, infliction, penalazing, punishment, sentence"
       ],
       "ex": []
     },
@@ -60902,7 +61271,7 @@ window.DICT.bible = [
       "w": "Image",
       "pos": "noun",
       "d": [
-        "Image"
+        "a reflection of some situation in writing or pictures ; a shape, figure"
       ],
       "ex": []
     },
@@ -61032,7 +61401,8 @@ window.DICT.bible = [
       "w": "Amber",
       "pos": "noun",
       "d": [
-        "Amber"
+        "amber (the precious stone)",
+        "Pumpkin"
       ],
       "ex": []
     },
@@ -61084,7 +61454,7 @@ window.DICT.bible = [
       "w": "Brother",
       "pos": "noun",
       "d": [
-        "Brother"
+        "Brothers and sisters"
       ],
       "ex": []
     },
@@ -61110,7 +61480,7 @@ window.DICT.bible = [
       "w": "Hosanna",
       "pos": "noun",
       "d": [
-        "Hosanna"
+        "hosanna"
       ],
       "ex": []
     },
@@ -61240,7 +61610,7 @@ window.DICT.bible = [
       "w": "Lake",
       "pos": "noun",
       "d": [
-        "Lake"
+        "A lake"
       ],
       "ex": []
     },
@@ -61318,7 +61688,8 @@ window.DICT.bible = [
       "w": "Scepter",
       "pos": "noun",
       "d": [
-        "Scepter"
+        "english: HALL, english: HOLE ; in Konglish, it means being alone, lonely, without a pair",
+        "english: HOLE"
       ],
       "ex": []
     },
@@ -61448,7 +61819,7 @@ window.DICT.bible = [
       "w": "Evil",
       "pos": "noun",
       "d": [
-        "Evil"
+        "Anger (get angry)"
       ],
       "ex": []
     },
@@ -61474,7 +61845,8 @@ window.DICT.bible = [
       "w": "Oven",
       "pos": "noun",
       "d": [
-        "Oven"
+        "oven",
+        "furnace"
       ],
       "ex": []
     },
@@ -61526,7 +61898,7 @@ window.DICT.bible = [
       "w": "Confound",
       "pos": "noun",
       "d": [
-        "Confound"
+        "congestion, jam, rush, throng"
       ],
       "ex": []
     },
@@ -61552,7 +61924,7 @@ window.DICT.bible = [
       "w": "Arrow",
       "pos": "noun",
       "d": [
-        "Arrow"
+        "An arrow"
       ],
       "ex": []
     },
@@ -61578,7 +61950,8 @@ window.DICT.bible = [
       "w": "Assurance",
       "pos": "noun",
       "d": [
-        "Assurance"
+        "Conviction, firm belief",
+        "assuredness, certainty, certitude, confidence"
       ],
       "ex": []
     },
@@ -61604,7 +61977,7 @@ window.DICT.bible = [
       "w": "Make a league",
       "pos": "noun",
       "d": [
-        "Make a league"
+        "amicability"
       ],
       "ex": []
     },
@@ -61630,7 +62003,7 @@ window.DICT.bible = [
       "w": "Peace",
       "pos": "noun",
       "d": [
-        "Peace"
+        "pacification"
       ],
       "ex": []
     },
@@ -61656,7 +62029,7 @@ window.DICT.bible = [
       "w": "Tribulation",
       "pos": "noun",
       "d": [
-        "Tribulation"
+        "worry, mental troubles"
       ],
       "ex": []
     },
@@ -61734,7 +62107,7 @@ window.DICT.bible = [
       "w": "Reconciliation",
       "pos": "noun",
       "d": [
-        "Reconciliation"
+        "compromise, peacemaking, reconciliation"
       ],
       "ex": []
     },
@@ -61786,7 +62159,7 @@ window.DICT.bible = [
       "w": "Vision",
       "pos": "noun",
       "d": [
-        "Vision"
+        "ghost, phantasm, phantom"
       ],
       "ex": []
     },
@@ -61812,7 +62185,7 @@ window.DICT.bible = [
       "w": "Bow",
       "pos": "noun",
       "d": [
-        "Bow"
+        "a bow (for shooting arrows)"
       ],
       "ex": []
     },
@@ -61864,7 +62237,7 @@ window.DICT.bible = [
       "w": "Stork",
       "pos": "noun",
       "d": [
-        "Stork"
+        "stork"
       ],
       "ex": []
     },
@@ -61890,7 +62263,7 @@ window.DICT.bible = [
       "w": "Bulls",
       "pos": "noun",
       "d": [
-        "Bulls"
+        "bull"
       ],
       "ex": []
     },
@@ -61916,7 +62289,8 @@ window.DICT.bible = [
       "w": "Topaz",
       "pos": "noun",
       "d": [
-        "Topaz"
+        "gold stone",
+        "topaz"
       ],
       "ex": []
     },
@@ -61942,7 +62316,7 @@ window.DICT.bible = [
       "w": "Desolation",
       "pos": "noun",
       "d": [
-        "Desolation"
+        "desolation, dilapidation, ravage, ruination, unrepair"
       ],
       "ex": []
     },
@@ -61968,7 +62342,7 @@ window.DICT.bible = [
       "w": "Synagogue",
       "pos": "noun",
       "d": [
-        "Synagogue"
+        "any building where people assemble"
       ],
       "ex": []
     },
@@ -61994,7 +62368,7 @@ window.DICT.bible = [
       "w": "Repentance",
       "pos": "noun",
       "d": [
-        "Repentance"
+        "penitence, repentance"
       ],
       "ex": []
     },
@@ -62020,7 +62394,7 @@ window.DICT.bible = [
       "w": "Call to remembrance",
       "pos": "noun",
       "d": [
-        "Call to remembrance"
+        "recollection, reminiscence, retrospect and review sth in one's mind"
       ],
       "ex": []
     },
@@ -62124,7 +62498,7 @@ window.DICT.bible = [
       "w": "Congregation",
       "pos": "noun",
       "d": [
-        "Congregation"
+        "church, congregation"
       ],
       "ex": []
     },
@@ -62228,7 +62602,8 @@ window.DICT.bible = [
       "w": "Vail",
       "pos": "noun",
       "d": [
-        "Vail"
+        "insignia, an emblem, a badge",
+        "curtains, drapery"
       ],
       "ex": []
     },
@@ -62410,7 +62785,7 @@ window.DICT.bible = [
       "w": "Breastplate",
       "pos": "noun",
       "d": [
-        "Breastplate"
+        "cuirass"
       ],
       "ex": []
     },
@@ -62488,7 +62863,8 @@ window.DICT.bible = [
       "w": "Blemishes",
       "pos": "noun",
       "d": [
-        "Blemishes"
+        "maculae",
+        "blemish, flaw, stain, chip, crack"
       ],
       "ex": []
     },
@@ -62800,7 +63176,7 @@ window.DICT.bible = [
       "w": "Hebrew",
       "pos": "noun",
       "d": [
-        "Hebrew"
+        "Yiddish"
       ],
       "ex": []
     },
