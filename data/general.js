@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 5469
+// 단어수: 5741
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -148820,5 +148820,7077 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "B",
     "ko_rank": 57380
+  },
+  {
+    "ko": "고찰하다",
+    "en": {
+      "w": "to contemplate, examine deeply",
+      "pos": "動詞",
+      "d": [
+        "to contemplate, examine deeply"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "考察する",
+      "r": "こうさつする",
+      "pos": "動詞",
+      "d": [
+        "考察する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57381
+  },
+  {
+    "ko": "규명하다",
+    "en": {
+      "w": "to clarify, ascertain the truth",
+      "pos": "動詞",
+      "d": [
+        "to clarify, ascertain the truth"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "究明する",
+      "r": "きゅうめいする",
+      "pos": "動詞",
+      "d": [
+        "究明する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57382
+  },
+  {
+    "ko": "입증하다",
+    "en": {
+      "w": "to prove, substantiate",
+      "pos": "動詞",
+      "d": [
+        "to prove, substantiate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "立証する",
+      "r": "りっしょうする",
+      "pos": "動詞",
+      "d": [
+        "立証する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57383
+  },
+  {
+    "ko": "반증하다",
+    "en": {
+      "w": "to disprove, give counter-evidence",
+      "pos": "動詞",
+      "d": [
+        "to disprove, give counter-evidence"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "反証する",
+      "r": "はんしょうする",
+      "pos": "動詞",
+      "d": [
+        "反証する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57384
+  },
+  {
+    "ko": "논증하다",
+    "en": {
+      "w": "to demonstrate logically, argue",
+      "pos": "動詞",
+      "d": [
+        "to demonstrate logically, argue"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "論証する",
+      "r": "ろんしょうする",
+      "pos": "動詞",
+      "d": [
+        "論証する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57385
+  },
+  {
+    "ko": "간과하다",
+    "en": {
+      "w": "to overlook, neglect",
+      "pos": "動詞",
+      "d": [
+        "to overlook, neglect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "看過する",
+      "r": "かんかする",
+      "pos": "動詞",
+      "d": [
+        "看過する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57386
+  },
+  {
+    "ko": "도외시하다",
+    "en": {
+      "w": "to disregard, leave out of consideration",
+      "pos": "動詞",
+      "d": [
+        "to disregard, leave out of consideration"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "度外視する",
+      "r": "どがいしする",
+      "pos": "動詞",
+      "d": [
+        "度外視する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57387
+  },
+  {
+    "ko": "간주하다",
+    "en": {
+      "w": "to regard as, consider as",
+      "pos": "動詞",
+      "d": [
+        "to regard as, consider as"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "見なす",
+      "r": "みなす",
+      "pos": "動詞",
+      "d": [
+        "見なす"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57388
+  },
+  {
+    "ko": "치부하다",
+    "en": {
+      "w": "to dismiss as, brand as",
+      "pos": "動詞",
+      "d": [
+        "to dismiss as, brand as"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "片付ける",
+      "r": "かたづける",
+      "pos": "動詞",
+      "d": [
+        "片付ける"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57389
+  },
+  {
+    "ko": "직면하다",
+    "en": {
+      "w": "to face, confront",
+      "pos": "動詞",
+      "d": [
+        "to face, confront"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "直面する",
+      "r": "ちょくめんする",
+      "pos": "動詞",
+      "d": [
+        "直面する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57390
+  },
+  {
+    "ko": "봉착하다",
+    "en": {
+      "w": "to run into, be confronted with (difficulty)",
+      "pos": "動詞",
+      "d": [
+        "to run into, be confronted with (difficulty)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "逢着する",
+      "r": "ほうちゃくする",
+      "pos": "動詞",
+      "d": [
+        "逢着する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57391
+  },
+  {
+    "ko": "초래하다",
+    "en": {
+      "w": "to bring about, result in",
+      "pos": "動詞",
+      "d": [
+        "to bring about, result in"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "招く",
+      "r": "まねく",
+      "pos": "動詞",
+      "d": [
+        "招く"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57392
+  },
+  {
+    "ko": "야기하다",
+    "en": {
+      "w": "to cause, provoke",
+      "pos": "動詞",
+      "d": [
+        "to cause, provoke"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "引き起こす",
+      "r": "ひきおこす",
+      "pos": "動詞",
+      "d": [
+        "引き起こす"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57393
+  },
+  {
+    "ko": "촉발하다",
+    "en": {
+      "w": "to trigger, spark off",
+      "pos": "動詞",
+      "d": [
+        "to trigger, spark off"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "触発する",
+      "r": "しょくはつする",
+      "pos": "動詞",
+      "d": [
+        "触発する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57394
+  },
+  {
+    "ko": "파생하다",
+    "en": {
+      "w": "to derive from, stem from",
+      "pos": "動詞",
+      "d": [
+        "to derive from, stem from"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "派生する",
+      "r": "はせいする",
+      "pos": "動詞",
+      "d": [
+        "派生する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57395
+  },
+  {
+    "ko": "기인하다",
+    "en": {
+      "w": "to originate from, be attributable to",
+      "pos": "動詞",
+      "d": [
+        "to originate from, be attributable to"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "起因する",
+      "r": "きいんする",
+      "pos": "動詞",
+      "d": [
+        "起因する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57396
+  },
+  {
+    "ko": "좌우하다",
+    "en": {
+      "w": "to sway, determine (an outcome)",
+      "pos": "動詞",
+      "d": [
+        "to sway, determine (an outcome)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "左右する",
+      "r": "さゆうする",
+      "pos": "動詞",
+      "d": [
+        "左右する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57397
+  },
+  {
+    "ko": "관철하다",
+    "en": {
+      "w": "to carry through, push through",
+      "pos": "動詞",
+      "d": [
+        "to carry through, push through"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "貫徹する",
+      "r": "かんてつする",
+      "pos": "動詞",
+      "d": [
+        "貫徹する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57398
+  },
+  {
+    "ko": "피력하다",
+    "en": {
+      "w": "to express, state (one's view)",
+      "pos": "動詞",
+      "d": [
+        "to express, state (one's view)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "披瀝する",
+      "r": "ひれきする",
+      "pos": "動詞",
+      "d": [
+        "披瀝する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57399
+  },
+  {
+    "ko": "표명하다",
+    "en": {
+      "w": "to declare, state clearly",
+      "pos": "動詞",
+      "d": [
+        "to declare, state clearly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "表明する",
+      "r": "ひょうめいする",
+      "pos": "動詞",
+      "d": [
+        "表明する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57400
+  },
+  {
+    "ko": "역설하다",
+    "en": {
+      "w": "to stress, emphasize strongly",
+      "pos": "動詞",
+      "d": [
+        "to stress, emphasize strongly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "力説する",
+      "r": "りきせつする",
+      "pos": "動詞",
+      "d": [
+        "力説する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57401
+  },
+  {
+    "ko": "호소하다",
+    "en": {
+      "w": "to appeal, plead",
+      "pos": "動詞",
+      "d": [
+        "to appeal, plead"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "訴える",
+      "r": "うったえる",
+      "pos": "動詞",
+      "d": [
+        "訴える"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57402
+  },
+  {
+    "ko": "촉구하다",
+    "en": {
+      "w": "to urge, press for",
+      "pos": "動詞",
+      "d": [
+        "to urge, press for"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "促す",
+      "r": "うながす",
+      "pos": "動詞",
+      "d": [
+        "促す"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57403
+  },
+  {
+    "ko": "당부하다",
+    "en": {
+      "w": "to earnestly request, ask",
+      "pos": "動詞",
+      "d": [
+        "to earnestly request, ask"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "頼む",
+      "r": "たのむ",
+      "pos": "動詞",
+      "d": [
+        "頼む"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57404
+  },
+  {
+    "ko": "전제하다",
+    "en": {
+      "w": "to presuppose, premise",
+      "pos": "動詞",
+      "d": [
+        "to presuppose, premise"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "前提する",
+      "r": "ぜんていする",
+      "pos": "動詞",
+      "d": [
+        "前提する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57405
+  },
+  {
+    "ko": "상정하다",
+    "en": {
+      "w": "to assume, posit (for discussion)",
+      "pos": "動詞",
+      "d": [
+        "to assume, posit (for discussion)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "想定する",
+      "r": "そうていする",
+      "pos": "動詞",
+      "d": [
+        "想定する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57406
+  },
+  {
+    "ko": "가정하다",
+    "en": {
+      "w": "to assume, hypothesize",
+      "pos": "動詞",
+      "d": [
+        "to assume, hypothesize"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "仮定する",
+      "r": "かていする",
+      "pos": "動詞",
+      "d": [
+        "仮定する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57407
+  },
+  {
+    "ko": "전락하다",
+    "en": {
+      "w": "to fall (into a worse state), degenerate",
+      "pos": "動詞",
+      "d": [
+        "to fall (into a worse state), degenerate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "転落する",
+      "r": "てんらくする",
+      "pos": "動詞",
+      "d": [
+        "転落する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57408
+  },
+  {
+    "ko": "도모하다",
+    "en": {
+      "w": "to strive for, seek to promote",
+      "pos": "動詞",
+      "d": [
+        "to strive for, seek to promote"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "図る",
+      "r": "はかる",
+      "pos": "動詞",
+      "d": [
+        "図る"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57409
+  },
+  {
+    "ko": "강구하다",
+    "en": {
+      "w": "to devise, work out (measures)",
+      "pos": "動詞",
+      "d": [
+        "to devise, work out (measures)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "講じる",
+      "r": "こうじる",
+      "pos": "動詞",
+      "d": [
+        "講じる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57410
+  },
+  {
+    "ko": "지향하다",
+    "en": {
+      "w": "to aim for, be oriented toward",
+      "pos": "動詞",
+      "d": [
+        "to aim for, be oriented toward"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "志向する",
+      "r": "しこうする",
+      "pos": "動詞",
+      "d": [
+        "志向する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57411
+  },
+  {
+    "ko": "지양하다",
+    "en": {
+      "w": "to avoid, refrain from (as a policy)",
+      "pos": "動詞",
+      "d": [
+        "to avoid, refrain from (as a policy)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "止揚する",
+      "r": "しようする",
+      "pos": "動詞",
+      "d": [
+        "止揚する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57412
+  },
+  {
+    "ko": "배제하다",
+    "en": {
+      "w": "to exclude, rule out",
+      "pos": "動詞",
+      "d": [
+        "to exclude, rule out"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "排除する",
+      "r": "はいじょする",
+      "pos": "動詞",
+      "d": [
+        "排除する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57413
+  },
+  {
+    "ko": "망라하다",
+    "en": {
+      "w": "to encompass, cover comprehensively",
+      "pos": "動詞",
+      "d": [
+        "to encompass, cover comprehensively"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "網羅する",
+      "r": "もうらする",
+      "pos": "動詞",
+      "d": [
+        "網羅する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57414
+  },
+  {
+    "ko": "아우르다",
+    "en": {
+      "w": "to embrace, bring together",
+      "pos": "動詞",
+      "d": [
+        "to embrace, bring together"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "包括する",
+      "r": "ほうかつする",
+      "pos": "動詞",
+      "d": [
+        "包括する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57415
+  },
+  {
+    "ko": "수반하다",
+    "en": {
+      "w": "to accompany, entail",
+      "pos": "動詞",
+      "d": [
+        "to accompany, entail"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "伴う",
+      "r": "ともなう",
+      "pos": "動詞",
+      "d": [
+        "伴う"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57416
+  },
+  {
+    "ko": "동반하다",
+    "en": {
+      "w": "to accompany, go together with",
+      "pos": "動詞",
+      "d": [
+        "to accompany, go together with"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "同伴する",
+      "r": "どうはんする",
+      "pos": "動詞",
+      "d": [
+        "同伴する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57417
+  },
+  {
+    "ko": "병행하다",
+    "en": {
+      "w": "to carry out in parallel",
+      "pos": "動詞",
+      "d": [
+        "to carry out in parallel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "並行する",
+      "r": "へいこうする",
+      "pos": "動詞",
+      "d": [
+        "並行する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57418
+  },
+  {
+    "ko": "겸비하다",
+    "en": {
+      "w": "to possess both, combine",
+      "pos": "動詞",
+      "d": [
+        "to possess both, combine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "兼備する",
+      "r": "けんびする",
+      "pos": "動詞",
+      "d": [
+        "兼備する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57419
+  },
+  {
+    "ko": "결부하다",
+    "en": {
+      "w": "to link, associate",
+      "pos": "動詞",
+      "d": [
+        "to link, associate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "結び付ける",
+      "r": "むすびつける",
+      "pos": "動詞",
+      "d": [
+        "結び付ける"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57420
+  },
+  {
+    "ko": "결속하다",
+    "en": {
+      "w": "to unite, bond together",
+      "pos": "動詞",
+      "d": [
+        "to unite, bond together"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "結束する",
+      "r": "けっそくする",
+      "pos": "動詞",
+      "d": [
+        "結束する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57421
+  },
+  {
+    "ko": "결집하다",
+    "en": {
+      "w": "to rally, gather together",
+      "pos": "動詞",
+      "d": [
+        "to rally, gather together"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "結集する",
+      "r": "けっしゅうする",
+      "pos": "動詞",
+      "d": [
+        "結集する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57422
+  },
+  {
+    "ko": "분산하다",
+    "en": {
+      "w": "to disperse, distribute",
+      "pos": "動詞",
+      "d": [
+        "to disperse, distribute"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "分散する",
+      "r": "ぶんさんする",
+      "pos": "動詞",
+      "d": [
+        "分散する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57423
+  },
+  {
+    "ko": "편중하다",
+    "en": {
+      "w": "to be biased toward, concentrated on",
+      "pos": "動詞",
+      "d": [
+        "to be biased toward, concentrated on"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "偏重する",
+      "r": "へんちょうする",
+      "pos": "動詞",
+      "d": [
+        "偏重する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57424
+  },
+  {
+    "ko": "편향하다",
+    "en": {
+      "w": "to be biased, lean toward",
+      "pos": "動詞",
+      "d": [
+        "to be biased, lean toward"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "偏向する",
+      "r": "へんこうする",
+      "pos": "動詞",
+      "d": [
+        "偏向する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57425
+  },
+  {
+    "ko": "왜곡하다",
+    "en": {
+      "w": "to distort",
+      "pos": "動詞",
+      "d": [
+        "to distort"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "歪曲する",
+      "r": "わいきょくする",
+      "pos": "動詞",
+      "d": [
+        "歪曲する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57426
+  },
+  {
+    "ko": "과장하다",
+    "en": {
+      "w": "to exaggerate",
+      "pos": "動詞",
+      "d": [
+        "to exaggerate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "誇張する",
+      "r": "こちょうする",
+      "pos": "動詞",
+      "d": [
+        "誇張する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57427
+  },
+  {
+    "ko": "축소하다",
+    "en": {
+      "w": "to reduce, downsize",
+      "pos": "動詞",
+      "d": [
+        "to reduce, downsize"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "縮小する",
+      "r": "しゅくしょうする",
+      "pos": "動詞",
+      "d": [
+        "縮小する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57428
+  },
+  {
+    "ko": "은폐하다",
+    "en": {
+      "w": "to conceal, cover up",
+      "pos": "動詞",
+      "d": [
+        "to conceal, cover up"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "隠蔽する",
+      "r": "いんぺいする",
+      "pos": "動詞",
+      "d": [
+        "隠蔽する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57429
+  },
+  {
+    "ko": "폭로하다",
+    "en": {
+      "w": "to expose, reveal (a scandal)",
+      "pos": "動詞",
+      "d": [
+        "to expose, reveal (a scandal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "暴露する",
+      "r": "ばくろする",
+      "pos": "動詞",
+      "d": [
+        "暴露する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57430
+  },
+  {
+    "ko": "규탄하다",
+    "en": {
+      "w": "to condemn, denounce",
+      "pos": "動詞",
+      "d": [
+        "to condemn, denounce"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "糾弾する",
+      "r": "きゅうだんする",
+      "pos": "動詞",
+      "d": [
+        "糾弾する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57431
+  },
+  {
+    "ko": "비난하다",
+    "en": {
+      "w": "to criticize, blame",
+      "pos": "動詞",
+      "d": [
+        "to criticize, blame"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "非難する",
+      "r": "ひなんする",
+      "pos": "動詞",
+      "d": [
+        "非難する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57432
+  },
+  {
+    "ko": "질책하다",
+    "en": {
+      "w": "to reprimand, rebuke",
+      "pos": "動詞",
+      "d": [
+        "to reprimand, rebuke"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "叱責する",
+      "r": "しっせきする",
+      "pos": "動詞",
+      "d": [
+        "叱責する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57433
+  },
+  {
+    "ko": "문책하다",
+    "en": {
+      "w": "to hold accountable, reprimand",
+      "pos": "動詞",
+      "d": [
+        "to hold accountable, reprimand"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "問責する",
+      "r": "もんせきする",
+      "pos": "動詞",
+      "d": [
+        "問責する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57434
+  },
+  {
+    "ko": "징계하다",
+    "en": {
+      "w": "to discipline, penalize",
+      "pos": "動詞",
+      "d": [
+        "to discipline, penalize"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "懲戒する",
+      "r": "ちょうかいする",
+      "pos": "動詞",
+      "d": [
+        "懲戒する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57435
+  },
+  {
+    "ko": "처벌하다",
+    "en": {
+      "w": "to punish",
+      "pos": "動詞",
+      "d": [
+        "to punish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "処罰する",
+      "r": "しょばつする",
+      "pos": "動詞",
+      "d": [
+        "処罰する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57436
+  },
+  {
+    "ko": "제재하다",
+    "en": {
+      "w": "to sanction",
+      "pos": "動詞",
+      "d": [
+        "to sanction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "制裁する",
+      "r": "せいさいする",
+      "pos": "動詞",
+      "d": [
+        "制裁する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57437
+  },
+  {
+    "ko": "철회하다",
+    "en": {
+      "w": "to withdraw, retract",
+      "pos": "動詞",
+      "d": [
+        "to withdraw, retract"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "撤回する",
+      "r": "てっかいする",
+      "pos": "動詞",
+      "d": [
+        "撤回する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57438
+  },
+  {
+    "ko": "번복하다",
+    "en": {
+      "w": "to reverse, retract (a statement or decision)",
+      "pos": "動詞",
+      "d": [
+        "to reverse, retract (a statement or decision)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "覆す",
+      "r": "くつがえす",
+      "pos": "動詞",
+      "d": [
+        "覆す"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57439
+  },
+  {
+    "ko": "무마하다",
+    "en": {
+      "w": "to smooth over, placate",
+      "pos": "動詞",
+      "d": [
+        "to smooth over, placate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "なだめる",
+      "r": "なだめる",
+      "pos": "動詞",
+      "d": [
+        "なだめる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57440
+  },
+  {
+    "ko": "타개하다",
+    "en": {
+      "w": "to break through (a difficulty), overcome",
+      "pos": "動詞",
+      "d": [
+        "to break through (a difficulty), overcome"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "打開する",
+      "r": "だかいする",
+      "pos": "動詞",
+      "d": [
+        "打開する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57441
+  },
+  {
+    "ko": "돌파하다",
+    "en": {
+      "w": "to break through, surpass",
+      "pos": "動詞",
+      "d": [
+        "to break through, surpass"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "突破する",
+      "r": "とっぱする",
+      "pos": "動詞",
+      "d": [
+        "突破する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57442
+  },
+  {
+    "ko": "극대화하다",
+    "en": {
+      "w": "to maximize",
+      "pos": "動詞",
+      "d": [
+        "to maximize"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "極大化する",
+      "r": "きょくだいかする",
+      "pos": "動詞",
+      "d": [
+        "極大化する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57443
+  },
+  {
+    "ko": "최소화하다",
+    "en": {
+      "w": "to minimize",
+      "pos": "動詞",
+      "d": [
+        "to minimize"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "最小化する",
+      "r": "さいしょうかする",
+      "pos": "動詞",
+      "d": [
+        "最小化する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57444
+  },
+  {
+    "ko": "가속화하다",
+    "en": {
+      "w": "to accelerate",
+      "pos": "動詞",
+      "d": [
+        "to accelerate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "加速化する",
+      "r": "かそくかする",
+      "pos": "動詞",
+      "d": [
+        "加速化する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57445
+  },
+  {
+    "ko": "악화하다",
+    "en": {
+      "w": "to worsen, deteriorate",
+      "pos": "動詞",
+      "d": [
+        "to worsen, deteriorate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "悪化する",
+      "r": "あっかする",
+      "pos": "動詞",
+      "d": [
+        "悪化する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57446
+  },
+  {
+    "ko": "호전하다",
+    "en": {
+      "w": "to improve, take a turn for the better",
+      "pos": "動詞",
+      "d": [
+        "to improve, take a turn for the better"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "好転する",
+      "r": "こうてんする",
+      "pos": "動詞",
+      "d": [
+        "好転する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57447
+  },
+  {
+    "ko": "완화하다",
+    "en": {
+      "w": "to ease, alleviate",
+      "pos": "動詞",
+      "d": [
+        "to ease, alleviate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "緩和する",
+      "r": "かんわする",
+      "pos": "動詞",
+      "d": [
+        "緩和する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57448
+  },
+  {
+    "ko": "경감하다",
+    "en": {
+      "w": "to reduce, lighten (a burden)",
+      "pos": "動詞",
+      "d": [
+        "to reduce, lighten (a burden)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "軽減する",
+      "r": "けいげんする",
+      "pos": "動詞",
+      "d": [
+        "軽減する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57449
+  },
+  {
+    "ko": "증대하다",
+    "en": {
+      "w": "to increase, augment",
+      "pos": "動詞",
+      "d": [
+        "to increase, augment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "増大する",
+      "r": "ぞうだいする",
+      "pos": "動詞",
+      "d": [
+        "増大する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57450
+  },
+  {
+    "ko": "급감하다",
+    "en": {
+      "w": "to plummet, sharply decrease",
+      "pos": "動詞",
+      "d": [
+        "to plummet, sharply decrease"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "急減する",
+      "r": "きゅうげんする",
+      "pos": "動詞",
+      "d": [
+        "急減する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57451
+  },
+  {
+    "ko": "정체하다",
+    "en": {
+      "w": "to stagnate",
+      "pos": "動詞",
+      "d": [
+        "to stagnate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "停滞する",
+      "r": "ていたいする",
+      "pos": "動詞",
+      "d": [
+        "停滞する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57452
+  },
+  {
+    "ko": "답보하다",
+    "en": {
+      "w": "to stand still, make no progress",
+      "pos": "動詞",
+      "d": [
+        "to stand still, make no progress"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "足踏みする",
+      "r": "あしぶみする",
+      "pos": "動詞",
+      "d": [
+        "足踏みする"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57453
+  },
+  {
+    "ko": "난항하다",
+    "en": {
+      "w": "to face rough going, run into difficulty",
+      "pos": "動詞",
+      "d": [
+        "to face rough going, run into difficulty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "難航する",
+      "r": "なんこうする",
+      "pos": "動詞",
+      "d": [
+        "難航する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57454
+  },
+  {
+    "ko": "좌초하다",
+    "en": {
+      "w": "to run aground, fail (of plans)",
+      "pos": "動詞",
+      "d": [
+        "to run aground, fail (of plans)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "座礁する",
+      "r": "ざしょうする",
+      "pos": "動詞",
+      "d": [
+        "座礁する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57455
+  },
+  {
+    "ko": "무산하다",
+    "en": {
+      "w": "to fall through, come to nothing",
+      "pos": "動詞",
+      "d": [
+        "to fall through, come to nothing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "無산になる",
+      "r": "むさんになる",
+      "pos": "動詞",
+      "d": [
+        "無산になる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57456
+  },
+  {
+    "ko": "성사하다",
+    "en": {
+      "w": "to come to fruition, be brought about",
+      "pos": "動詞",
+      "d": [
+        "to come to fruition, be brought about"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "成し遂げる",
+      "r": "なしとげる",
+      "pos": "動詞",
+      "d": [
+        "成し遂げる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57457
+  },
+  {
+    "ko": "타결하다",
+    "en": {
+      "w": "to reach an agreement, settle",
+      "pos": "動詞",
+      "d": [
+        "to reach an agreement, settle"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妥結する",
+      "r": "だけつする",
+      "pos": "動詞",
+      "d": [
+        "妥結する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57458
+  },
+  {
+    "ko": "합의하다",
+    "en": {
+      "w": "to agree, reach consensus",
+      "pos": "動詞",
+      "d": [
+        "to agree, reach consensus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "合意する",
+      "r": "ごういする",
+      "pos": "動詞",
+      "d": [
+        "合意する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57459
+  },
+  {
+    "ko": "결렬하다",
+    "en": {
+      "w": "to break down (negotiations)",
+      "pos": "動詞",
+      "d": [
+        "to break down (negotiations)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "決裂する",
+      "r": "けつれつする",
+      "pos": "動詞",
+      "d": [
+        "決裂する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57460
+  },
+  {
+    "ko": "결부되다",
+    "en": {
+      "w": "to be linked, be associated with",
+      "pos": "動詞",
+      "d": [
+        "to be linked, be associated with"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "結び付けられる",
+      "r": "むすびつけられる",
+      "pos": "動詞",
+      "d": [
+        "結び付けられる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57461
+  },
+  {
+    "ko": "사료되다",
+    "en": {
+      "w": "to be considered, deemed (formal)",
+      "pos": "動詞",
+      "d": [
+        "to be considered, deemed (formal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "思料される",
+      "r": "しりょうされる",
+      "pos": "動詞",
+      "d": [
+        "思料される"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57462
+  },
+  {
+    "ko": "간주되다",
+    "en": {
+      "w": "to be regarded as, considered as",
+      "pos": "動詞",
+      "d": [
+        "to be regarded as, considered as"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "見なされる",
+      "r": "みなされる",
+      "pos": "動詞",
+      "d": [
+        "見なされる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57463
+  },
+  {
+    "ko": "추정되다",
+    "en": {
+      "w": "to be estimated, presumed",
+      "pos": "動詞",
+      "d": [
+        "to be estimated, presumed"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "推定される",
+      "r": "すいていされる",
+      "pos": "動詞",
+      "d": [
+        "推定される"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57464
+  },
+  {
+    "ko": "판명되다",
+    "en": {
+      "w": "to turn out to be, be found to be",
+      "pos": "動詞",
+      "d": [
+        "to turn out to be, be found to be"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "判明する",
+      "r": "はんめいする",
+      "pos": "動詞",
+      "d": [
+        "判明する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57465
+  },
+  {
+    "ko": "입증되다",
+    "en": {
+      "w": "to be proven, be substantiated",
+      "pos": "動詞",
+      "d": [
+        "to be proven, be substantiated"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "立証される",
+      "r": "りっしょうされる",
+      "pos": "動詞",
+      "d": [
+        "立証される"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57466
+  },
+  {
+    "ko": "공언하다",
+    "en": {
+      "w": "to declare publicly, proclaim",
+      "pos": "動詞",
+      "d": [
+        "to declare publicly, proclaim"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "公言する",
+      "r": "こうげんする",
+      "pos": "動詞",
+      "d": [
+        "公言する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57467
+  },
+  {
+    "ko": "자처하다",
+    "en": {
+      "w": "to claim to be, profess oneself as",
+      "pos": "動詞",
+      "d": [
+        "to claim to be, profess oneself as"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自任する",
+      "r": "じにんする",
+      "pos": "動詞",
+      "d": [
+        "自任する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57468
+  },
+  {
+    "ko": "자부하다",
+    "en": {
+      "w": "to be proud of, pride oneself on",
+      "pos": "動詞",
+      "d": [
+        "to be proud of, pride oneself on"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自負する",
+      "r": "じふする",
+      "pos": "動詞",
+      "d": [
+        "自負する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57469
+  },
+  {
+    "ko": "자조하다",
+    "en": {
+      "w": "to mock oneself, be self-deprecating",
+      "pos": "動詞",
+      "d": [
+        "to mock oneself, be self-deprecating"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自嘲する",
+      "r": "じちょうする",
+      "pos": "動詞",
+      "d": [
+        "自嘲する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57470
+  },
+  {
+    "ko": "운운하다",
+    "en": {
+      "w": "to say something to the effect of, mention dismissively",
+      "pos": "動詞",
+      "d": [
+        "to say something to the effect of, mention dismissively"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "云々する",
+      "r": "うんぬんする",
+      "pos": "動詞",
+      "d": [
+        "云々する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57471
+  },
+  {
+    "ko": "운영진",
+    "en": {
+      "w": "management staff, operating team",
+      "pos": "名詞",
+      "d": [
+        "management staff, operating team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "運営陣",
+      "r": "うんえいじん",
+      "pos": "名詞",
+      "d": [
+        "運営陣"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57472
+  },
+  {
+    "ko": "집행부",
+    "en": {
+      "w": "executive committee, executive board",
+      "pos": "名詞",
+      "d": [
+        "executive committee, executive board"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "執行部",
+      "r": "しっこうぶ",
+      "pos": "名詞",
+      "d": [
+        "執行部"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57473
+  },
+  {
+    "ko": "자문위원",
+    "en": {
+      "w": "advisory committee member",
+      "pos": "名詞",
+      "d": [
+        "advisory committee member"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "諮問委員",
+      "r": "しもんいいん",
+      "pos": "名詞",
+      "d": [
+        "諮問委員"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57474
+  },
+  {
+    "ko": "심의위원",
+    "en": {
+      "w": "deliberation committee member",
+      "pos": "名詞",
+      "d": [
+        "deliberation committee member"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "審議委員",
+      "r": "しんぎいいん",
+      "pos": "名詞",
+      "d": [
+        "審議委員"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57475
+  },
+  {
+    "ko": "감사위원",
+    "en": {
+      "w": "auditing committee member",
+      "pos": "名詞",
+      "d": [
+        "auditing committee member"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "監査委員",
+      "r": "かんさいいん",
+      "pos": "名詞",
+      "d": [
+        "監査委員"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57476
+  },
+  {
+    "ko": "대변인",
+    "en": {
+      "w": "spokesperson",
+      "pos": "名詞",
+      "d": [
+        "spokesperson"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "代弁人",
+      "r": "だいべんにん",
+      "pos": "名詞",
+      "d": [
+        "代弁人"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57477
+  },
+  {
+    "ko": "논평가",
+    "en": {
+      "w": "commentator",
+      "pos": "名詞",
+      "d": [
+        "commentator"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "論評家",
+      "r": "ろんぴょうか",
+      "pos": "名詞",
+      "d": [
+        "論評家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57478
+  },
+  {
+    "ko": "비평가",
+    "en": {
+      "w": "critic",
+      "pos": "名詞",
+      "d": [
+        "critic"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "批評家",
+      "r": "ひひょうか",
+      "pos": "名詞",
+      "d": [
+        "批評家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57479
+  },
+  {
+    "ko": "평론가",
+    "en": {
+      "w": "critic, reviewer",
+      "pos": "名詞",
+      "d": [
+        "critic, reviewer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "評論家",
+      "r": "ひょうろんか",
+      "pos": "名詞",
+      "d": [
+        "評論家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57480
+  },
+  {
+    "ko": "전문가집단",
+    "en": {
+      "w": "group of experts",
+      "pos": "名詞",
+      "d": [
+        "group of experts"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "専門家集団",
+      "r": "せんもんかしゅうだん",
+      "pos": "名詞",
+      "d": [
+        "専門家集団"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57481
+  },
+  {
+    "ko": "당사자",
+    "en": {
+      "w": "the party concerned, the person involved",
+      "pos": "名詞",
+      "d": [
+        "the party concerned, the person involved"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "当事者",
+      "r": "とうじしゃ",
+      "pos": "名詞",
+      "d": [
+        "当事者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57482
+  },
+  {
+    "ko": "이해관계자",
+    "en": {
+      "w": "stakeholder",
+      "pos": "名詞",
+      "d": [
+        "stakeholder"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "利害関係者",
+      "r": "りがいかんけいしゃ",
+      "pos": "名詞",
+      "d": [
+        "利害関係者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57483
+  },
+  {
+    "ko": "제3자",
+    "en": {
+      "w": "third party",
+      "pos": "名詞",
+      "d": [
+        "third party"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "第三者",
+      "r": "だいさんしゃ",
+      "pos": "名詞",
+      "d": [
+        "第三者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57484
+  },
+  {
+    "ko": "피고인",
+    "en": {
+      "w": "defendant",
+      "pos": "名詞",
+      "d": [
+        "defendant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "被告人",
+      "r": "ひこくにん",
+      "pos": "名詞",
+      "d": [
+        "被告人"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57485
+  },
+  {
+    "ko": "원고인",
+    "en": {
+      "w": "plaintiff",
+      "pos": "名詞",
+      "d": [
+        "plaintiff"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原告人",
+      "r": "げんこくにん",
+      "pos": "名詞",
+      "d": [
+        "原告人"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57486
+  },
+  {
+    "ko": "증인",
+    "en": {
+      "w": "witness",
+      "pos": "名詞",
+      "d": [
+        "witness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "証人",
+      "r": "しょうにん",
+      "pos": "名詞",
+      "d": [
+        "証人"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57487
+  },
+  {
+    "ko": "가해자",
+    "en": {
+      "w": "perpetrator, offender",
+      "pos": "名詞",
+      "d": [
+        "perpetrator, offender"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "加害者",
+      "r": "かがいしゃ",
+      "pos": "名詞",
+      "d": [
+        "加害者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57488
+  },
+  {
+    "ko": "용의자",
+    "en": {
+      "w": "suspect",
+      "pos": "名詞",
+      "d": [
+        "suspect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "容疑者",
+      "r": "ようぎしゃ",
+      "pos": "名詞",
+      "d": [
+        "容疑者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57489
+  },
+  {
+    "ko": "피의자",
+    "en": {
+      "w": "criminal suspect (pre-indictment)",
+      "pos": "名詞",
+      "d": [
+        "criminal suspect (pre-indictment)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "被疑者",
+      "r": "ひぎしゃ",
+      "pos": "名詞",
+      "d": [
+        "被疑者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57490
+  },
+  {
+    "ko": "수사기관",
+    "en": {
+      "w": "investigative agency",
+      "pos": "名詞",
+      "d": [
+        "investigative agency"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "捜査機関",
+      "r": "そうさきかん",
+      "pos": "名詞",
+      "d": [
+        "捜査機関"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57491
+  },
+  {
+    "ko": "사법부",
+    "en": {
+      "w": "judicial branch",
+      "pos": "名詞",
+      "d": [
+        "judicial branch"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "司法府",
+      "r": "しほうふ",
+      "pos": "名詞",
+      "d": [
+        "司法府"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57492
+  },
+  {
+    "ko": "입법부",
+    "en": {
+      "w": "legislative branch",
+      "pos": "名詞",
+      "d": [
+        "legislative branch"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "立法府",
+      "r": "りっぽうふ",
+      "pos": "名詞",
+      "d": [
+        "立法府"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57493
+  },
+  {
+    "ko": "행정부",
+    "en": {
+      "w": "executive branch",
+      "pos": "名詞",
+      "d": [
+        "executive branch"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "行政府",
+      "r": "ぎょうせいふ",
+      "pos": "名詞",
+      "d": [
+        "行政府"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57494
+  },
+  {
+    "ko": "헌법",
+    "en": {
+      "w": "constitution",
+      "pos": "名詞",
+      "d": [
+        "constitution"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "憲法",
+      "r": "けんぽう",
+      "pos": "名詞",
+      "d": [
+        "憲法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57495
+  },
+  {
+    "ko": "법령",
+    "en": {
+      "w": "laws and decrees",
+      "pos": "名詞",
+      "d": [
+        "laws and decrees"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "法令",
+      "r": "ほうれい",
+      "pos": "名詞",
+      "d": [
+        "法令"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57496
+  },
+  {
+    "ko": "조례",
+    "en": {
+      "w": "municipal ordinance",
+      "pos": "名詞",
+      "d": [
+        "municipal ordinance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "条例",
+      "r": "じょうれい",
+      "pos": "名詞",
+      "d": [
+        "条例"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57497
+  },
+  {
+    "ko": "소송",
+    "en": {
+      "w": "lawsuit",
+      "pos": "名詞",
+      "d": [
+        "lawsuit"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "訴訟",
+      "r": "そしょう",
+      "pos": "名詞",
+      "d": [
+        "訴訟"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57498
+  },
+  {
+    "ko": "판례",
+    "en": {
+      "w": "precedent, case law",
+      "pos": "名詞",
+      "d": [
+        "precedent, case law"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "判例",
+      "r": "はんれい",
+      "pos": "名詞",
+      "d": [
+        "判例"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57499
+  },
+  {
+    "ko": "항소",
+    "en": {
+      "w": "appeal (to a higher court)",
+      "pos": "名詞",
+      "d": [
+        "appeal (to a higher court)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "控訴",
+      "r": "こうそ",
+      "pos": "名詞",
+      "d": [
+        "控訴"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57500
+  },
+  {
+    "ko": "상고",
+    "en": {
+      "w": "final appeal (to the supreme court)",
+      "pos": "名詞",
+      "d": [
+        "final appeal (to the supreme court)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "上告",
+      "r": "じょうこく",
+      "pos": "名詞",
+      "d": [
+        "上告"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57501
+  },
+  {
+    "ko": "기소",
+    "en": {
+      "w": "indictment, prosecution",
+      "pos": "名詞",
+      "d": [
+        "indictment, prosecution"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "起訴",
+      "r": "きそ",
+      "pos": "名詞",
+      "d": [
+        "起訴"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57502
+  },
+  {
+    "ko": "불기소",
+    "en": {
+      "w": "non-indictment",
+      "pos": "名詞",
+      "d": [
+        "non-indictment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不起訴",
+      "r": "ふきそ",
+      "pos": "名詞",
+      "d": [
+        "不起訴"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57503
+  },
+  {
+    "ko": "무죄",
+    "en": {
+      "w": "not guilty, innocence",
+      "pos": "名詞",
+      "d": [
+        "not guilty, innocence"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "無罪",
+      "r": "むざい",
+      "pos": "名詞",
+      "d": [
+        "無罪"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57504
+  },
+  {
+    "ko": "유죄",
+    "en": {
+      "w": "guilty",
+      "pos": "名詞",
+      "d": [
+        "guilty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "有罪",
+      "r": "ゆうざい",
+      "pos": "名詞",
+      "d": [
+        "有罪"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57505
+  },
+  {
+    "ko": "형량",
+    "en": {
+      "w": "sentence (severity of punishment)",
+      "pos": "名詞",
+      "d": [
+        "sentence (severity of punishment)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "量刑",
+      "r": "りょうけい",
+      "pos": "名詞",
+      "d": [
+        "量刑"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57506
+  },
+  {
+    "ko": "집행유예",
+    "en": {
+      "w": "suspended sentence",
+      "pos": "名詞",
+      "d": [
+        "suspended sentence"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "執行猶予",
+      "r": "しっこうゆうよ",
+      "pos": "名詞",
+      "d": [
+        "執行猶予"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57507
+  },
+  {
+    "ko": "가석방",
+    "en": {
+      "w": "parole",
+      "pos": "名詞",
+      "d": [
+        "parole"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "仮釈放",
+      "r": "かりしゃくほう",
+      "pos": "名詞",
+      "d": [
+        "仮釈放"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57508
+  },
+  {
+    "ko": "탄핵",
+    "en": {
+      "w": "impeachment",
+      "pos": "名詞",
+      "d": [
+        "impeachment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "弾劾",
+      "r": "だんがい",
+      "pos": "名詞",
+      "d": [
+        "弾劾"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57509
+  },
+  {
+    "ko": "개헌",
+    "en": {
+      "w": "constitutional amendment",
+      "pos": "名詞",
+      "d": [
+        "constitutional amendment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "改憲",
+      "r": "かいけん",
+      "pos": "名詞",
+      "d": [
+        "改憲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57510
+  },
+  {
+    "ko": "여당",
+    "en": {
+      "w": "ruling party",
+      "pos": "名詞",
+      "d": [
+        "ruling party"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "与党",
+      "r": "よとう",
+      "pos": "名詞",
+      "d": [
+        "与党"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57511
+  },
+  {
+    "ko": "야당",
+    "en": {
+      "w": "opposition party",
+      "pos": "名詞",
+      "d": [
+        "opposition party"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "野党",
+      "r": "やとう",
+      "pos": "名詞",
+      "d": [
+        "野党"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57512
+  },
+  {
+    "ko": "정권",
+    "en": {
+      "w": "political power, regime",
+      "pos": "名詞",
+      "d": [
+        "political power, regime"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "政権",
+      "r": "せいけん",
+      "pos": "名詞",
+      "d": [
+        "政権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57513
+  },
+  {
+    "ko": "선거구",
+    "en": {
+      "w": "electoral district",
+      "pos": "名詞",
+      "d": [
+        "electoral district"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "選挙区",
+      "r": "せんきょく",
+      "pos": "名詞",
+      "d": [
+        "選挙区"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57514
+  },
+  {
+    "ko": "투표율",
+    "en": {
+      "w": "voter turnout rate",
+      "pos": "名詞",
+      "d": [
+        "voter turnout rate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "投票率",
+      "r": "とうひょうりつ",
+      "pos": "名詞",
+      "d": [
+        "投票率"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57515
+  },
+  {
+    "ko": "지지율",
+    "en": {
+      "w": "approval rating",
+      "pos": "名詞",
+      "d": [
+        "approval rating"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "支持率",
+      "r": "しじりつ",
+      "pos": "名詞",
+      "d": [
+        "支持率"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57516
+  },
+  {
+    "ko": "여론조사",
+    "en": {
+      "w": "public opinion poll",
+      "pos": "名詞",
+      "d": [
+        "public opinion poll"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "世論調査",
+      "r": "よろんちょうさ",
+      "pos": "名詞",
+      "d": [
+        "世論調査"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57517
+  },
+  {
+    "ko": "공약",
+    "en": {
+      "w": "campaign pledge",
+      "pos": "名詞",
+      "d": [
+        "campaign pledge"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "公約",
+      "r": "こうやく",
+      "pos": "名詞",
+      "d": [
+        "公約"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57518
+  },
+  {
+    "ko": "정강",
+    "en": {
+      "w": "party platform",
+      "pos": "名詞",
+      "d": [
+        "party platform"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "政綱",
+      "r": "せいこう",
+      "pos": "名詞",
+      "d": [
+        "政綱"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57519
+  },
+  {
+    "ko": "보수",
+    "en": {
+      "w": "conservative",
+      "pos": "名詞",
+      "d": [
+        "conservative"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "保守",
+      "r": "ほしゅ",
+      "pos": "名詞",
+      "d": [
+        "保守"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57520
+  },
+  {
+    "ko": "진보",
+    "en": {
+      "w": "progressive",
+      "pos": "名詞",
+      "d": [
+        "progressive"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "進歩・革新",
+      "r": "しんぽ",
+      "pos": "名詞",
+      "d": [
+        "進歩・革新"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57521
+  },
+  {
+    "ko": "중도",
+    "en": {
+      "w": "moderate, centrist",
+      "pos": "名詞",
+      "d": [
+        "moderate, centrist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "中道",
+      "r": "ちゅうどう",
+      "pos": "名詞",
+      "d": [
+        "中道"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57522
+  },
+  {
+    "ko": "좌파",
+    "en": {
+      "w": "left wing",
+      "pos": "名詞",
+      "d": [
+        "left wing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "左派",
+      "r": "さは",
+      "pos": "名詞",
+      "d": [
+        "左派"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57523
+  },
+  {
+    "ko": "우파",
+    "en": {
+      "w": "right wing",
+      "pos": "名詞",
+      "d": [
+        "right wing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "右派",
+      "r": "うは",
+      "pos": "名詞",
+      "d": [
+        "右派"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57524
+  },
+  {
+    "ko": "포퓰리즘",
+    "en": {
+      "w": "populism",
+      "pos": "名詞",
+      "d": [
+        "populism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ポピュリズム",
+      "r": "ポピュリズム",
+      "pos": "名詞",
+      "d": [
+        "ポピュリズム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57525
+  },
+  {
+    "ko": "민주주의",
+    "en": {
+      "w": "democracy",
+      "pos": "名詞",
+      "d": [
+        "democracy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "民主主義",
+      "r": "みんしゅしゅぎ",
+      "pos": "名詞",
+      "d": [
+        "民主主義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57526
+  },
+  {
+    "ko": "독재",
+    "en": {
+      "w": "dictatorship",
+      "pos": "名詞",
+      "d": [
+        "dictatorship"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "独裁",
+      "r": "どくさい",
+      "pos": "名詞",
+      "d": [
+        "独裁"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57527
+  },
+  {
+    "ko": "전체주의",
+    "en": {
+      "w": "totalitarianism",
+      "pos": "名詞",
+      "d": [
+        "totalitarianism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "全体主義",
+      "r": "ぜんたいしゅぎ",
+      "pos": "名詞",
+      "d": [
+        "全体主義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57528
+  },
+  {
+    "ko": "자유주의",
+    "en": {
+      "w": "liberalism",
+      "pos": "名詞",
+      "d": [
+        "liberalism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自由主義",
+      "r": "じゆうしゅぎ",
+      "pos": "名詞",
+      "d": [
+        "自由主義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57529
+  },
+  {
+    "ko": "사회주의",
+    "en": {
+      "w": "socialism",
+      "pos": "名詞",
+      "d": [
+        "socialism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "社会主義",
+      "r": "しゃかいしゅぎ",
+      "pos": "名詞",
+      "d": [
+        "社会主義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57530
+  },
+  {
+    "ko": "자본주의",
+    "en": {
+      "w": "capitalism",
+      "pos": "名詞",
+      "d": [
+        "capitalism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "資本主義",
+      "r": "しほんしゅぎ",
+      "pos": "名詞",
+      "d": [
+        "資本主義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57531
+  },
+  {
+    "ko": "공산주의",
+    "en": {
+      "w": "communism",
+      "pos": "名詞",
+      "d": [
+        "communism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "共産主義",
+      "r": "きょうさんしゅぎ",
+      "pos": "名詞",
+      "d": [
+        "共産主義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57532
+  },
+  {
+    "ko": "패권",
+    "en": {
+      "w": "hegemony",
+      "pos": "名詞",
+      "d": [
+        "hegemony"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "覇権",
+      "r": "はけん",
+      "pos": "名詞",
+      "d": [
+        "覇権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57533
+  },
+  {
+    "ko": "주권",
+    "en": {
+      "w": "sovereignty",
+      "pos": "名詞",
+      "d": [
+        "sovereignty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "主権",
+      "r": "しゅけん",
+      "pos": "名詞",
+      "d": [
+        "主権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57534
+  },
+  {
+    "ko": "영토",
+    "en": {
+      "w": "territory",
+      "pos": "名詞",
+      "d": [
+        "territory"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "領土",
+      "r": "りょうど",
+      "pos": "名詞",
+      "d": [
+        "領土"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57535
+  },
+  {
+    "ko": "외교전",
+    "en": {
+      "w": "diplomatic battle, diplomatic rivalry",
+      "pos": "名詞",
+      "d": [
+        "diplomatic battle, diplomatic rivalry"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "外交戦",
+      "r": "がいこうせん",
+      "pos": "名詞",
+      "d": [
+        "外交戦"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57536
+  },
+  {
+    "ko": "안보",
+    "en": {
+      "w": "(national) security",
+      "pos": "名詞",
+      "d": [
+        "(national) security"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "安保",
+      "r": "あんぽ",
+      "pos": "名詞",
+      "d": [
+        "安保"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57537
+  },
+  {
+    "ko": "군축",
+    "en": {
+      "w": "arms reduction, disarmament",
+      "pos": "名詞",
+      "d": [
+        "arms reduction, disarmament"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "軍縮",
+      "r": "ぐんしゅく",
+      "pos": "名詞",
+      "d": [
+        "軍縮"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57538
+  },
+  {
+    "ko": "핵무기",
+    "en": {
+      "w": "nuclear weapon",
+      "pos": "名詞",
+      "d": [
+        "nuclear weapon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "核兵器",
+      "r": "かくへいき",
+      "pos": "名詞",
+      "d": [
+        "核兵器"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57539
+  },
+  {
+    "ko": "테러리즘",
+    "en": {
+      "w": "terrorism",
+      "pos": "名詞",
+      "d": [
+        "terrorism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "テロリズム",
+      "r": "テロリズム",
+      "pos": "名詞",
+      "d": [
+        "テロリズム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57540
+  },
+  {
+    "ko": "난민",
+    "en": {
+      "w": "refugee",
+      "pos": "名詞",
+      "d": [
+        "refugee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "難民",
+      "r": "なんみん",
+      "pos": "名詞",
+      "d": [
+        "難民"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57541
+  },
+  {
+    "ko": "이민자",
+    "en": {
+      "w": "immigrant",
+      "pos": "名詞",
+      "d": [
+        "immigrant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "移民者",
+      "r": "いみんしゃ",
+      "pos": "名詞",
+      "d": [
+        "移民者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57542
+  },
+  {
+    "ko": "다문화",
+    "en": {
+      "w": "multiculturalism",
+      "pos": "名詞",
+      "d": [
+        "multiculturalism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "多文化",
+      "r": "たぶんか",
+      "pos": "名詞",
+      "d": [
+        "多文化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57543
+  },
+  {
+    "ko": "동화정책",
+    "en": {
+      "w": "assimilation policy",
+      "pos": "名詞",
+      "d": [
+        "assimilation policy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "同化政策",
+      "r": "どうかせいさく",
+      "pos": "名詞",
+      "d": [
+        "同化政策"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57544
+  },
+  {
+    "ko": "소수민족",
+    "en": {
+      "w": "ethnic minority",
+      "pos": "名詞",
+      "d": [
+        "ethnic minority"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "少数民族",
+      "r": "しょうすうみんぞく",
+      "pos": "名詞",
+      "d": [
+        "少数民族"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57545
+  },
+  {
+    "ko": "차별대우",
+    "en": {
+      "w": "discriminatory treatment",
+      "pos": "名詞",
+      "d": [
+        "discriminatory treatment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "差別待遇",
+      "r": "さべつたいぐう",
+      "pos": "名詞",
+      "d": [
+        "差別待遇"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57546
+  },
+  {
+    "ko": "혐오발언",
+    "en": {
+      "w": "hate speech",
+      "pos": "名詞",
+      "d": [
+        "hate speech"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヘイトスピーチ",
+      "r": "ヘイトスピーチ",
+      "pos": "名詞",
+      "d": [
+        "ヘイトスピーチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57547
+  },
+  {
+    "ko": "인권침해",
+    "en": {
+      "w": "human rights violation",
+      "pos": "名詞",
+      "d": [
+        "human rights violation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "人権侵害",
+      "r": "じんけんしんがい",
+      "pos": "名詞",
+      "d": [
+        "人権侵害"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57548
+  },
+  {
+    "ko": "표현의자유",
+    "en": {
+      "w": "freedom of expression",
+      "pos": "名詞",
+      "d": [
+        "freedom of expression"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "表現の自由",
+      "r": "ひょうげんのじゆう",
+      "pos": "名詞",
+      "d": [
+        "表現の自由"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57549
+  },
+  {
+    "ko": "언론탄압",
+    "en": {
+      "w": "press suppression",
+      "pos": "名詞",
+      "d": [
+        "press suppression"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "言論弾圧",
+      "r": "げんろんだんあつ",
+      "pos": "名詞",
+      "d": [
+        "言論弾圧"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57550
+  },
+  {
+    "ko": "검열",
+    "en": {
+      "w": "censorship",
+      "pos": "名詞",
+      "d": [
+        "censorship"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "検閲",
+      "r": "けんえつ",
+      "pos": "名詞",
+      "d": [
+        "検閲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57551
+  },
+  {
+    "ko": "가짜뉴스",
+    "en": {
+      "w": "fake news",
+      "pos": "名詞",
+      "d": [
+        "fake news"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フェイクニュース",
+      "r": "フェイクニュース",
+      "pos": "名詞",
+      "d": [
+        "フェイクニュース"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57552
+  },
+  {
+    "ko": "여론조작",
+    "en": {
+      "w": "public opinion manipulation",
+      "pos": "名詞",
+      "d": [
+        "public opinion manipulation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "世論操作",
+      "r": "よろんそうさ",
+      "pos": "名詞",
+      "d": [
+        "世論操作"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57553
+  },
+  {
+    "ko": "알고리즘",
+    "en": {
+      "w": "algorithm",
+      "pos": "名詞",
+      "d": [
+        "algorithm"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アルゴリズム",
+      "r": "アルゴリズム",
+      "pos": "名詞",
+      "d": [
+        "アルゴリズム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57554
+  },
+  {
+    "ko": "빅데이터",
+    "en": {
+      "w": "big data",
+      "pos": "名詞",
+      "d": [
+        "big data"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ビッグデータ",
+      "r": "ビッグデータ",
+      "pos": "名詞",
+      "d": [
+        "ビッグデータ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57555
+  },
+  {
+    "ko": "클라우드",
+    "en": {
+      "w": "cloud (computing)",
+      "pos": "名詞",
+      "d": [
+        "cloud (computing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クラウド",
+      "r": "クラウド",
+      "pos": "名詞",
+      "d": [
+        "クラウド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57556
+  },
+  {
+    "ko": "사이버보안",
+    "en": {
+      "w": "cybersecurity",
+      "pos": "名詞",
+      "d": [
+        "cybersecurity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サイバーセキュリティ",
+      "r": "サイバーセキュリティ",
+      "pos": "名詞",
+      "d": [
+        "サイバーセキュリティ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57557
+  },
+  {
+    "ko": "해킹",
+    "en": {
+      "w": "hacking",
+      "pos": "名詞",
+      "d": [
+        "hacking"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハッキング",
+      "r": "ハッキング",
+      "pos": "名詞",
+      "d": [
+        "ハッキング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57558
+  },
+  {
+    "ko": "데이터베이스",
+    "en": {
+      "w": "database",
+      "pos": "名詞",
+      "d": [
+        "database"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "データベース",
+      "r": "データベース",
+      "pos": "名詞",
+      "d": [
+        "データベース"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57559
+  },
+  {
+    "ko": "플랫폼",
+    "en": {
+      "w": "platform",
+      "pos": "名詞",
+      "d": [
+        "platform"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プラットフォーム",
+      "r": "プラットフォーム",
+      "pos": "名詞",
+      "d": [
+        "プラットフォーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57560
+  },
+  {
+    "ko": "생태계",
+    "en": {
+      "w": "ecosystem",
+      "pos": "名詞",
+      "d": [
+        "ecosystem"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生態系",
+      "r": "せいたいけい",
+      "pos": "名詞",
+      "d": [
+        "生態系"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57561
+  },
+  {
+    "ko": "탄소중립",
+    "en": {
+      "w": "carbon neutrality",
+      "pos": "名詞",
+      "d": [
+        "carbon neutrality"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カーボンニュートラル",
+      "r": "カーボンニュートラル",
+      "pos": "名詞",
+      "d": [
+        "カーボンニュートラル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57562
+  },
+  {
+    "ko": "온실가스",
+    "en": {
+      "w": "greenhouse gas",
+      "pos": "名詞",
+      "d": [
+        "greenhouse gas"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "温室効果ガス",
+      "r": "おんしつこうかガス",
+      "pos": "名詞",
+      "d": [
+        "温室効果ガス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57563
+  },
+  {
+    "ko": "미세먼지",
+    "en": {
+      "w": "fine dust, particulate matter",
+      "pos": "名詞",
+      "d": [
+        "fine dust, particulate matter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "微細粉塵",
+      "r": "びさいふんじん",
+      "pos": "名詞",
+      "d": [
+        "微細粉塵"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57564
+  },
+  {
+    "ko": "방사능",
+    "en": {
+      "w": "radioactivity",
+      "pos": "名詞",
+      "d": [
+        "radioactivity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "放射能",
+      "r": "ほうしゃのう",
+      "pos": "名詞",
+      "d": [
+        "放射能"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57565
+  },
+  {
+    "ko": "원자력",
+    "en": {
+      "w": "nuclear power",
+      "pos": "名詞",
+      "d": [
+        "nuclear power"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原子力",
+      "r": "げんしりょく",
+      "pos": "名詞",
+      "d": [
+        "原子力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57566
+  },
+  {
+    "ko": "신재생",
+    "en": {
+      "w": "new and renewable (energy)",
+      "pos": "名詞",
+      "d": [
+        "new and renewable (energy)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "新再生",
+      "r": "しんさいせい",
+      "pos": "名詞",
+      "d": [
+        "新再生"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57567
+  },
+  {
+    "ko": "에너지원",
+    "en": {
+      "w": "energy source",
+      "pos": "名詞",
+      "d": [
+        "energy source"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "エネルギー源",
+      "r": "エネルギーげん",
+      "pos": "名詞",
+      "d": [
+        "エネルギー源"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57568
+  },
+  {
+    "ko": "자원고갈",
+    "en": {
+      "w": "resource depletion",
+      "pos": "名詞",
+      "d": [
+        "resource depletion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "資源枯渇",
+      "r": "しげんこかつ",
+      "pos": "名詞",
+      "d": [
+        "資源枯渇"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57569
+  },
+  {
+    "ko": "생물다양성",
+    "en": {
+      "w": "biodiversity",
+      "pos": "名詞",
+      "d": [
+        "biodiversity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生物多様性",
+      "r": "せいぶつたようせい",
+      "pos": "名詞",
+      "d": [
+        "生物多様性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57570
+  },
+  {
+    "ko": "멸종위기",
+    "en": {
+      "w": "endangered (species)",
+      "pos": "名詞",
+      "d": [
+        "endangered (species)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "絶滅危機",
+      "r": "ぜつめつきき",
+      "pos": "名詞",
+      "d": [
+        "絶滅危機"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57571
+  },
+  {
+    "ko": "서식지",
+    "en": {
+      "w": "habitat",
+      "pos": "名詞",
+      "d": [
+        "habitat"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生息地",
+      "r": "せいそくち",
+      "pos": "名詞",
+      "d": [
+        "生息地"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57572
+  },
+  {
+    "ko": "생태계파괴",
+    "en": {
+      "w": "ecosystem destruction",
+      "pos": "名詞",
+      "d": [
+        "ecosystem destruction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生態系破壊",
+      "r": "せいたいけいはかい",
+      "pos": "名詞",
+      "d": [
+        "生態系破壊"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57573
+  },
+  {
+    "ko": "공급망",
+    "en": {
+      "w": "supply chain",
+      "pos": "名詞",
+      "d": [
+        "supply chain"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "供給網",
+      "r": "きょうきゅうもう",
+      "pos": "名詞",
+      "d": [
+        "供給網"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57574
+  },
+  {
+    "ko": "물류",
+    "en": {
+      "w": "logistics",
+      "pos": "名詞",
+      "d": [
+        "logistics"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "物流",
+      "r": "ぶつりゅう",
+      "pos": "名詞",
+      "d": [
+        "物流"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57575
+  },
+  {
+    "ko": "유통망",
+    "en": {
+      "w": "distribution network",
+      "pos": "名詞",
+      "d": [
+        "distribution network"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "流通網",
+      "r": "りゅうつうもう",
+      "pos": "名詞",
+      "d": [
+        "流通網"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57576
+  },
+  {
+    "ko": "무역수지",
+    "en": {
+      "w": "trade balance",
+      "pos": "名詞",
+      "d": [
+        "trade balance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "貿易収支",
+      "r": "ぼうえきしゅうし",
+      "pos": "名詞",
+      "d": [
+        "貿易収支"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57577
+  },
+  {
+    "ko": "금리",
+    "en": {
+      "w": "interest rate",
+      "pos": "名詞",
+      "d": [
+        "interest rate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "金利",
+      "r": "きんり",
+      "pos": "名詞",
+      "d": [
+        "金利"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57578
+  },
+  {
+    "ko": "통화정책",
+    "en": {
+      "w": "monetary policy",
+      "pos": "名詞",
+      "d": [
+        "monetary policy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "通貨政策",
+      "r": "つうかせいさく",
+      "pos": "名詞",
+      "d": [
+        "通貨政策"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57579
+  },
+  {
+    "ko": "재정정책",
+    "en": {
+      "w": "fiscal policy",
+      "pos": "名詞",
+      "d": [
+        "fiscal policy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "財政政策",
+      "r": "ざいせいせいさく",
+      "pos": "名詞",
+      "d": [
+        "財政政策"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57580
+  },
+  {
+    "ko": "양적완화",
+    "en": {
+      "w": "quantitative easing",
+      "pos": "名詞",
+      "d": [
+        "quantitative easing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "量的緩和",
+      "r": "りょうてきかんわ",
+      "pos": "名詞",
+      "d": [
+        "量的緩和"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57581
+  },
+  {
+    "ko": "경기침체",
+    "en": {
+      "w": "economic recession",
+      "pos": "名詞",
+      "d": [
+        "economic recession"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "景気後退",
+      "r": "けいきこうたい",
+      "pos": "名詞",
+      "d": [
+        "景気後退"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57582
+  },
+  {
+    "ko": "경기부양",
+    "en": {
+      "w": "economic stimulus",
+      "pos": "名詞",
+      "d": [
+        "economic stimulus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "景気浮揚",
+      "r": "けいきふよう",
+      "pos": "名詞",
+      "d": [
+        "景気浮揚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57583
+  },
+  {
+    "ko": "디플레이션",
+    "en": {
+      "w": "deflation",
+      "pos": "名詞",
+      "d": [
+        "deflation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デフレーション",
+      "r": "デフレーション",
+      "pos": "名詞",
+      "d": [
+        "デフレーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57584
+  },
+  {
+    "ko": "스태그플레이션",
+    "en": {
+      "w": "stagflation",
+      "pos": "名詞",
+      "d": [
+        "stagflation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スタグフレーション",
+      "r": "スタグフレーション",
+      "pos": "名詞",
+      "d": [
+        "スタグフレーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57585
+  },
+  {
+    "ko": "버블경제",
+    "en": {
+      "w": "bubble economy",
+      "pos": "名詞",
+      "d": [
+        "bubble economy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バブル経済",
+      "r": "バブルけいざい",
+      "pos": "名詞",
+      "d": [
+        "バブル経済"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57586
+  },
+  {
+    "ko": "자산가치",
+    "en": {
+      "w": "asset value",
+      "pos": "名詞",
+      "d": [
+        "asset value"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "資産価値",
+      "r": "しさんかち",
+      "pos": "名詞",
+      "d": [
+        "資産価値"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57587
+  },
+  {
+    "ko": "부동산",
+    "en": {
+      "w": "real estate",
+      "pos": "名詞",
+      "d": [
+        "real estate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不動産",
+      "r": "ふどうさん",
+      "pos": "名詞",
+      "d": [
+        "不動産"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57588
+  },
+  {
+    "ko": "임대료",
+    "en": {
+      "w": "rent (fee)",
+      "pos": "名詞",
+      "d": [
+        "rent (fee)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "賃貸料",
+      "r": "ちんたいりょう",
+      "pos": "名詞",
+      "d": [
+        "賃貸料"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57589
+  },
+  {
+    "ko": "분양",
+    "en": {
+      "w": "sale of new housing units",
+      "pos": "名詞",
+      "d": [
+        "sale of new housing units"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "分譲",
+      "r": "ぶんじょう",
+      "pos": "名詞",
+      "d": [
+        "分譲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57590
+  },
+  {
+    "ko": "청약",
+    "en": {
+      "w": "subscription (for a new apartment)",
+      "pos": "名詞",
+      "d": [
+        "subscription (for a new apartment)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "申し込み",
+      "r": "もうしこみ",
+      "pos": "名詞",
+      "d": [
+        "申し込み"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57591
+  },
+  {
+    "ko": "담보대출",
+    "en": {
+      "w": "collateral loan, mortgage loan",
+      "pos": "名詞",
+      "d": [
+        "collateral loan, mortgage loan"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "担保貸出",
+      "r": "たんぽかしだし",
+      "pos": "名詞",
+      "d": [
+        "担保貸出"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57592
+  },
+  {
+    "ko": "신용등급",
+    "en": {
+      "w": "credit rating",
+      "pos": "名詞",
+      "d": [
+        "credit rating"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "信用等級",
+      "r": "しんようとうきゅう",
+      "pos": "名詞",
+      "d": [
+        "信用等級"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57593
+  },
+  {
+    "ko": "파산",
+    "en": {
+      "w": "bankruptcy",
+      "pos": "名詞",
+      "d": [
+        "bankruptcy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "破産",
+      "r": "はさん",
+      "pos": "名詞",
+      "d": [
+        "破産"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57594
+  },
+  {
+    "ko": "부도",
+    "en": {
+      "w": "default, bankruptcy (of a company)",
+      "pos": "名詞",
+      "d": [
+        "default, bankruptcy (of a company)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不渡り",
+      "r": "ふわたり",
+      "pos": "名詞",
+      "d": [
+        "不渡り"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57595
+  },
+  {
+    "ko": "채무",
+    "en": {
+      "w": "debt, liability",
+      "pos": "名詞",
+      "d": [
+        "debt, liability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "債務",
+      "r": "さいむ",
+      "pos": "名詞",
+      "d": [
+        "債務"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57596
+  },
+  {
+    "ko": "채권",
+    "en": {
+      "w": "bond (financial)",
+      "pos": "名詞",
+      "d": [
+        "bond (financial)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "債券",
+      "r": "さいけん",
+      "pos": "名詞",
+      "d": [
+        "債券"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57597
+  },
+  {
+    "ko": "주식시장",
+    "en": {
+      "w": "stock market",
+      "pos": "名詞",
+      "d": [
+        "stock market"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "株式市場",
+      "r": "かぶしきしじょう",
+      "pos": "名詞",
+      "d": [
+        "株式市場"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57598
+  },
+  {
+    "ko": "배당금",
+    "en": {
+      "w": "dividend",
+      "pos": "名詞",
+      "d": [
+        "dividend"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "配当金",
+      "r": "はいとうきん",
+      "pos": "名詞",
+      "d": [
+        "配当金"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57599
+  },
+  {
+    "ko": "포트폴리오",
+    "en": {
+      "w": "portfolio",
+      "pos": "名詞",
+      "d": [
+        "portfolio"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ポートフォリオ",
+      "r": "ポートフォリオ",
+      "pos": "名詞",
+      "d": [
+        "ポートフォリオ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57600
+  },
+  {
+    "ko": "헤지펀드",
+    "en": {
+      "w": "hedge fund",
+      "pos": "名詞",
+      "d": [
+        "hedge fund"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヘッジファンド",
+      "r": "ヘッジファンド",
+      "pos": "名詞",
+      "d": [
+        "ヘッジファンド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57601
+  },
+  {
+    "ko": "스타트업",
+    "en": {
+      "w": "startup",
+      "pos": "名詞",
+      "d": [
+        "startup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スタートアップ",
+      "r": "スタートアップ",
+      "pos": "名詞",
+      "d": [
+        "スタートアップ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57602
+  },
+  {
+    "ko": "벤처캐피탈",
+    "en": {
+      "w": "venture capital",
+      "pos": "名詞",
+      "d": [
+        "venture capital"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベンチャーキャピタル",
+      "r": "ベンチャーキャピタル",
+      "pos": "名詞",
+      "d": [
+        "ベンチャーキャピタル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57603
+  },
+  {
+    "ko": "사업모델",
+    "en": {
+      "w": "business model",
+      "pos": "名詞",
+      "d": [
+        "business model"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ビジネスモデル",
+      "r": "ビジネスモデル",
+      "pos": "名詞",
+      "d": [
+        "ビジネスモデル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57604
+  },
+  {
+    "ko": "수익모델",
+    "en": {
+      "w": "revenue model",
+      "pos": "名詞",
+      "d": [
+        "revenue model"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "収益モデル",
+      "r": "しゅうえきモデル",
+      "pos": "名詞",
+      "d": [
+        "収益モデル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57605
+  },
+  {
+    "ko": "플랫폼경제",
+    "en": {
+      "w": "platform economy",
+      "pos": "名詞",
+      "d": [
+        "platform economy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プラットフォーム経済",
+      "r": "プラットフォームけいざい",
+      "pos": "名詞",
+      "d": [
+        "プラットフォーム経済"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57606
+  },
+  {
+    "ko": "공유경제",
+    "en": {
+      "w": "sharing economy",
+      "pos": "名詞",
+      "d": [
+        "sharing economy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "シェアリングエコノミー",
+      "r": "シェアリングエコノミー",
+      "pos": "名詞",
+      "d": [
+        "シェアリングエコノミー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57607
+  },
+  {
+    "ko": "긱경제",
+    "en": {
+      "w": "gig economy",
+      "pos": "名詞",
+      "d": [
+        "gig economy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ギグエコノミー",
+      "r": "ギグエコノミー",
+      "pos": "名詞",
+      "d": [
+        "ギグエコノミー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57608
+  },
+  {
+    "ko": "프리랜서",
+    "en": {
+      "w": "freelancer",
+      "pos": "名詞",
+      "d": [
+        "freelancer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フリーランサー",
+      "r": "フリーランサー",
+      "pos": "名詞",
+      "d": [
+        "フリーランサー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57609
+  },
+  {
+    "ko": "비정규직",
+    "en": {
+      "w": "non-regular employment",
+      "pos": "名詞",
+      "d": [
+        "non-regular employment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "非正規職",
+      "r": "ひせいきしょく",
+      "pos": "名詞",
+      "d": [
+        "非正規職"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57610
+  },
+  {
+    "ko": "정규직",
+    "en": {
+      "w": "regular employment",
+      "pos": "名詞",
+      "d": [
+        "regular employment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "正規職",
+      "r": "せいきしょく",
+      "pos": "名詞",
+      "d": [
+        "正規職"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57611
+  },
+  {
+    "ko": "노동조합",
+    "en": {
+      "w": "labor union",
+      "pos": "名詞",
+      "d": [
+        "labor union"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "労働組合",
+      "r": "ろうどうくみあい",
+      "pos": "名詞",
+      "d": [
+        "労働組合"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57612
+  },
+  {
+    "ko": "파업",
+    "en": {
+      "w": "strike (labor)",
+      "pos": "名詞",
+      "d": [
+        "strike (labor)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ストライキ",
+      "r": "ストライキ",
+      "pos": "名詞",
+      "d": [
+        "ストライキ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57613
+  },
+  {
+    "ko": "단체교섭",
+    "en": {
+      "w": "collective bargaining",
+      "pos": "名詞",
+      "d": [
+        "collective bargaining"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "団体交渉",
+      "r": "だんたいこうしょう",
+      "pos": "名詞",
+      "d": [
+        "団体交渉"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57614
+  },
+  {
+    "ko": "최저임금",
+    "en": {
+      "w": "minimum wage",
+      "pos": "名詞",
+      "d": [
+        "minimum wage"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "最低賃金",
+      "r": "さいていちんぎん",
+      "pos": "名詞",
+      "d": [
+        "最低賃金"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57615
+  },
+  {
+    "ko": "근로기준법",
+    "en": {
+      "w": "Labor Standards Act",
+      "pos": "名詞",
+      "d": [
+        "Labor Standards Act"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "勤労基準法",
+      "r": "きんろうきじゅんほう",
+      "pos": "名詞",
+      "d": [
+        "勤労基準法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57616
+  },
+  {
+    "ko": "산업재해",
+    "en": {
+      "w": "industrial accident",
+      "pos": "名詞",
+      "d": [
+        "industrial accident"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "産業災害",
+      "r": "さんぎょうさいがい",
+      "pos": "名詞",
+      "d": [
+        "産業災害"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57617
+  },
+  {
+    "ko": "과로사",
+    "en": {
+      "w": "death from overwork",
+      "pos": "名詞",
+      "d": [
+        "death from overwork"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "過労死",
+      "r": "かろうし",
+      "pos": "名詞",
+      "d": [
+        "過労死"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57618
+  },
+  {
+    "ko": "번아웃",
+    "en": {
+      "w": "burnout",
+      "pos": "名詞",
+      "d": [
+        "burnout"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バーンアウト",
+      "r": "バーンアウト",
+      "pos": "名詞",
+      "d": [
+        "バーンアウト"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57619
+  },
+  {
+    "ko": "워라밸",
+    "en": {
+      "w": "work-life balance",
+      "pos": "名詞",
+      "d": [
+        "work-life balance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ワークライフバランス",
+      "r": "ワークライフバランス",
+      "pos": "名詞",
+      "d": [
+        "ワークライフバランス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57620
+  },
+  {
+    "ko": "유리천장",
+    "en": {
+      "w": "glass ceiling",
+      "pos": "名詞",
+      "d": [
+        "glass ceiling"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガラスの天井",
+      "r": "ガラスのてんじょう",
+      "pos": "名詞",
+      "d": [
+        "ガラスの天井"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57621
+  },
+  {
+    "ko": "성차별",
+    "en": {
+      "w": "gender discrimination",
+      "pos": "名詞",
+      "d": [
+        "gender discrimination"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "性差別",
+      "r": "せいさべつ",
+      "pos": "名詞",
+      "d": [
+        "性差別"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57622
+  },
+  {
+    "ko": "성폭력",
+    "en": {
+      "w": "sexual violence",
+      "pos": "名詞",
+      "d": [
+        "sexual violence"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "性暴力",
+      "r": "せいぼうりょく",
+      "pos": "名詞",
+      "d": [
+        "性暴力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57623
+  },
+  {
+    "ko": "젠더갈등",
+    "en": {
+      "w": "gender conflict",
+      "pos": "名詞",
+      "d": [
+        "gender conflict"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ジェンダー葛藤",
+      "r": "ジェンダーかっとう",
+      "pos": "名詞",
+      "d": [
+        "ジェンダー葛藤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57624
+  },
+  {
+    "ko": "세대갈등",
+    "en": {
+      "w": "generational conflict",
+      "pos": "名詞",
+      "d": [
+        "generational conflict"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "世代葛藤",
+      "r": "せだいかっとう",
+      "pos": "名詞",
+      "d": [
+        "世代葛藤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57625
+  },
+  {
+    "ko": "계층갈등",
+    "en": {
+      "w": "class conflict",
+      "pos": "名詞",
+      "d": [
+        "class conflict"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "階層葛藤",
+      "r": "かいそうかっとう",
+      "pos": "名詞",
+      "d": [
+        "階層葛藤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57626
+  },
+  {
+    "ko": "양극화",
+    "en": {
+      "w": "polarization",
+      "pos": "名詞",
+      "d": [
+        "polarization"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "二極化",
+      "r": "にきょくか",
+      "pos": "名詞",
+      "d": [
+        "二極化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57627
+  },
+  {
+    "ko": "빈부격차",
+    "en": {
+      "w": "wealth gap",
+      "pos": "名詞",
+      "d": [
+        "wealth gap"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "貧富の格差",
+      "r": "ひんぷのかくさ",
+      "pos": "名詞",
+      "d": [
+        "貧富の格差"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57628
+  },
+  {
+    "ko": "사회안전망",
+    "en": {
+      "w": "social safety net",
+      "pos": "名詞",
+      "d": [
+        "social safety net"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "社会安全網",
+      "r": "しゃかいあんぜんもう",
+      "pos": "名詞",
+      "d": [
+        "社会安全網"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57629
+  },
+  {
+    "ko": "복지정책",
+    "en": {
+      "w": "welfare policy",
+      "pos": "名詞",
+      "d": [
+        "welfare policy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "福祉政策",
+      "r": "ふくしせいさく",
+      "pos": "名詞",
+      "d": [
+        "福祉政策"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57630
+  },
+  {
+    "ko": "공적부조",
+    "en": {
+      "w": "public assistance",
+      "pos": "名詞",
+      "d": [
+        "public assistance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "公的扶助",
+      "r": "こうてきふじょ",
+      "pos": "名詞",
+      "d": [
+        "公的扶助"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57631
+  },
+  {
+    "ko": "연금제도",
+    "en": {
+      "w": "pension system",
+      "pos": "名詞",
+      "d": [
+        "pension system"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "年金制度",
+      "r": "ねんきんせいど",
+      "pos": "名詞",
+      "d": [
+        "年金制度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57632
+  },
+  {
+    "ko": "의료보험",
+    "en": {
+      "w": "medical insurance",
+      "pos": "名詞",
+      "d": [
+        "medical insurance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "医療保険",
+      "r": "いりょうほけん",
+      "pos": "名詞",
+      "d": [
+        "医療保険"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57633
+  },
+  {
+    "ko": "건강보험",
+    "en": {
+      "w": "health insurance",
+      "pos": "名詞",
+      "d": [
+        "health insurance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "健康保険",
+      "r": "けんこうほけん",
+      "pos": "名詞",
+      "d": [
+        "健康保険"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57634
+  },
+  {
+    "ko": "장기요양",
+    "en": {
+      "w": "long-term care",
+      "pos": "名詞",
+      "d": [
+        "long-term care"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "長期療養",
+      "r": "ちょうきりょうよう",
+      "pos": "名詞",
+      "d": [
+        "長期療養"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57635
+  },
+  {
+    "ko": "치매",
+    "en": {
+      "w": "dementia",
+      "pos": "名詞",
+      "d": [
+        "dementia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "認知症",
+      "r": "にんちしょう",
+      "pos": "名詞",
+      "d": [
+        "認知症"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57636
+  },
+  {
+    "ko": "호스피스",
+    "en": {
+      "w": "hospice",
+      "pos": "名詞",
+      "d": [
+        "hospice"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ホスピス",
+      "r": "ホスピス",
+      "pos": "名詞",
+      "d": [
+        "ホスピス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57637
+  },
+  {
+    "ko": "안락사",
+    "en": {
+      "w": "euthanasia",
+      "pos": "名詞",
+      "d": [
+        "euthanasia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "安楽死",
+      "r": "あんらくし",
+      "pos": "名詞",
+      "d": [
+        "安楽死"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57638
+  },
+  {
+    "ko": "존엄사",
+    "en": {
+      "w": "death with dignity",
+      "pos": "名詞",
+      "d": [
+        "death with dignity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "尊厳死",
+      "r": "そんげんし",
+      "pos": "名詞",
+      "d": [
+        "尊厳死"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57639
+  },
+  {
+    "ko": "낙태",
+    "en": {
+      "w": "abortion",
+      "pos": "名詞",
+      "d": [
+        "abortion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "堕胎",
+      "r": "だたい",
+      "pos": "名詞",
+      "d": [
+        "堕胎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57640
+  },
+  {
+    "ko": "윤리위원회",
+    "en": {
+      "w": "ethics committee",
+      "pos": "名詞",
+      "d": [
+        "ethics committee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "倫理委員会",
+      "r": "りんりいいんかい",
+      "pos": "名詞",
+      "d": [
+        "倫理委員会"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57641
+  },
+  {
+    "ko": "생명윤리",
+    "en": {
+      "w": "bioethics",
+      "pos": "名詞",
+      "d": [
+        "bioethics"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生命倫理",
+      "r": "せいめいりんり",
+      "pos": "名詞",
+      "d": [
+        "生命倫理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57642
+  },
+  {
+    "ko": "유전자조작",
+    "en": {
+      "w": "genetic modification",
+      "pos": "名詞",
+      "d": [
+        "genetic modification"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "遺伝子操作",
+      "r": "いでんしそうさ",
+      "pos": "名詞",
+      "d": [
+        "遺伝子操作"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57643
+  },
+  {
+    "ko": "줄기세포",
+    "en": {
+      "w": "stem cell",
+      "pos": "名詞",
+      "d": [
+        "stem cell"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "幹細胞",
+      "r": "かんさいぼう",
+      "pos": "名詞",
+      "d": [
+        "幹細胞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57644
+  },
+  {
+    "ko": "임상시험",
+    "en": {
+      "w": "clinical trial",
+      "pos": "名詞",
+      "d": [
+        "clinical trial"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "臨床試験",
+      "r": "りんしょうしけん",
+      "pos": "名詞",
+      "d": [
+        "臨床試験"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57645
+  },
+  {
+    "ko": "백신",
+    "en": {
+      "w": "vaccine",
+      "pos": "名詞",
+      "d": [
+        "vaccine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ワクチン",
+      "r": "ワクチン",
+      "pos": "名詞",
+      "d": [
+        "ワクチン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57646
+  },
+  {
+    "ko": "전염병",
+    "en": {
+      "w": "infectious disease",
+      "pos": "名詞",
+      "d": [
+        "infectious disease"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "伝染病",
+      "r": "でんせんびょう",
+      "pos": "名詞",
+      "d": [
+        "伝染病"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57647
+  },
+  {
+    "ko": "팬데믹",
+    "en": {
+      "w": "pandemic",
+      "pos": "名詞",
+      "d": [
+        "pandemic"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パンデミック",
+      "r": "パンデミック",
+      "pos": "名詞",
+      "d": [
+        "パンデミック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57648
+  },
+  {
+    "ko": "방역",
+    "en": {
+      "w": "epidemic prevention, quarantine measures",
+      "pos": "名詞",
+      "d": [
+        "epidemic prevention, quarantine measures"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "防疫",
+      "r": "ぼうえき",
+      "pos": "名詞",
+      "d": [
+        "防疫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57649
+  },
+  {
+    "ko": "격리",
+    "en": {
+      "w": "quarantine, isolation",
+      "pos": "名詞",
+      "d": [
+        "quarantine, isolation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "隔離",
+      "r": "かくり",
+      "pos": "名詞",
+      "d": [
+        "隔離"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57650
+  },
+  {
+    "ko": "집단면역",
+    "en": {
+      "w": "herd immunity",
+      "pos": "名詞",
+      "d": [
+        "herd immunity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "集団免疫",
+      "r": "しゅうだんめんえき",
+      "pos": "名詞",
+      "d": [
+        "集団免疫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57651
+  },
+  {
+    "ko": "변이바이러스",
+    "en": {
+      "w": "mutant virus, variant",
+      "pos": "名詞",
+      "d": [
+        "mutant virus, variant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "変異ウイルス",
+      "r": "へんいウイルス",
+      "pos": "名詞",
+      "d": [
+        "変異ウイルス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57652
   }
 ];
