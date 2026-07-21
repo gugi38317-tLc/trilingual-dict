@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 5240
+// 단어수: 5287
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -142866,5 +142866,1227 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "B",
     "ko_rank": 57151
+  },
+  {
+    "ko": "가수",
+    "en": {
+      "w": "singer",
+      "pos": "名詞",
+      "d": [
+        "singer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "歌手",
+      "r": "かしゅ",
+      "pos": "名詞",
+      "d": [
+        "歌手"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57152
+  },
+  {
+    "ko": "건축가",
+    "en": {
+      "w": "architect",
+      "pos": "名詞",
+      "d": [
+        "architect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "建築家",
+      "r": "けんちくか",
+      "pos": "名詞",
+      "d": [
+        "建築家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57153
+  },
+  {
+    "ko": "그렇게",
+    "en": {
+      "w": "like that, so",
+      "pos": "副詞",
+      "d": [
+        "like that, so"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "そのように・そう",
+      "r": "そのように・そう",
+      "pos": "副詞",
+      "d": [
+        "そのように・そう"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "A",
+    "ko_rank": 57154
+  },
+  {
+    "ko": "기차역",
+    "en": {
+      "w": "train station",
+      "pos": "名詞",
+      "d": [
+        "train station"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "駅・鉄道駅",
+      "r": "えき",
+      "pos": "名詞",
+      "d": [
+        "駅・鉄道駅"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57155
+  },
+  {
+    "ko": "꽃집",
+    "en": {
+      "w": "flower shop",
+      "pos": "名詞",
+      "d": [
+        "flower shop"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "花屋",
+      "r": "はなや",
+      "pos": "名詞",
+      "d": [
+        "花屋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57156
+  },
+  {
+    "ko": "농부",
+    "en": {
+      "w": "farmer",
+      "pos": "名詞",
+      "d": [
+        "farmer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "農夫・農家",
+      "r": "のうふ",
+      "pos": "名詞",
+      "d": [
+        "農夫・農家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57157
+  },
+  {
+    "ko": "다음달",
+    "en": {
+      "w": "next month",
+      "pos": "名詞",
+      "d": [
+        "next month"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "来月",
+      "r": "らいげつ",
+      "pos": "名詞",
+      "d": [
+        "来月"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57158
+  },
+  {
+    "ko": "다음주",
+    "en": {
+      "w": "next week",
+      "pos": "名詞",
+      "d": [
+        "next week"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "来週",
+      "r": "らいしゅう",
+      "pos": "名詞",
+      "d": [
+        "来週"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57159
+  },
+  {
+    "ko": "도서관",
+    "en": {
+      "w": "library",
+      "pos": "名詞",
+      "d": [
+        "library"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "図書館",
+      "r": "としょかん",
+      "pos": "名詞",
+      "d": [
+        "図書館"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57160
+  },
+  {
+    "ko": "목도리",
+    "en": {
+      "w": "scarf, muffler",
+      "pos": "名詞",
+      "d": [
+        "scarf, muffler"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マフラー・襟巻き",
+      "r": "えりまき",
+      "pos": "名詞",
+      "d": [
+        "マフラー・襟巻き"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57161
+  },
+  {
+    "ko": "목마르다",
+    "en": {
+      "w": "to be thirsty",
+      "pos": "形容詞",
+      "d": [
+        "to be thirsty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "喉が渇く",
+      "r": "のどがかわく",
+      "pos": "形容詞",
+      "d": [
+        "喉が渇く"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "A",
+    "ko_rank": 57162
+  },
+  {
+    "ko": "목수",
+    "en": {
+      "w": "carpenter",
+      "pos": "名詞",
+      "d": [
+        "carpenter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "大工",
+      "r": "だいく",
+      "pos": "名詞",
+      "d": [
+        "大工"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57163
+  },
+  {
+    "ko": "배부르다",
+    "en": {
+      "w": "to be full, satiated",
+      "pos": "形容詞",
+      "d": [
+        "to be full, satiated"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "お腹がいっぱいだ",
+      "r": "おなかがいっぱいだ",
+      "pos": "形容詞",
+      "d": [
+        "お腹がいっぱいだ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "A",
+    "ko_rank": 57164
+  },
+  {
+    "ko": "버스기사",
+    "en": {
+      "w": "bus driver",
+      "pos": "名詞",
+      "d": [
+        "bus driver"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バス運転手",
+      "r": "バスうんてんしゅ",
+      "pos": "名詞",
+      "d": [
+        "バス運転手"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57165
+  },
+  {
+    "ko": "버스정류장",
+    "en": {
+      "w": "bus stop",
+      "pos": "名詞",
+      "d": [
+        "bus stop"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バス停",
+      "r": "バスてい",
+      "pos": "名詞",
+      "d": [
+        "バス停"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57166
+  },
+  {
+    "ko": "번역가",
+    "en": {
+      "w": "translator",
+      "pos": "名詞",
+      "d": [
+        "translator"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "翻訳家",
+      "r": "ほんやくか",
+      "pos": "名詞",
+      "d": [
+        "翻訳家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57167
+  },
+  {
+    "ko": "빌려주다",
+    "en": {
+      "w": "to lend",
+      "pos": "動詞",
+      "d": [
+        "to lend"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "貸す",
+      "r": "かす",
+      "pos": "動詞",
+      "d": [
+        "貸す"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "A",
+    "ko_rank": 57168
+  },
+  {
+    "ko": "빵집",
+    "en": {
+      "w": "bakery",
+      "pos": "名詞",
+      "d": [
+        "bakery"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パン屋",
+      "r": "パンや",
+      "pos": "名詞",
+      "d": [
+        "パン屋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57169
+  },
+  {
+    "ko": "셔츠",
+    "en": {
+      "w": "shirt",
+      "pos": "名詞",
+      "d": [
+        "shirt"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "シャツ",
+      "r": "シャツ",
+      "pos": "名詞",
+      "d": [
+        "シャツ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57170
+  },
+  {
+    "ko": "소방관",
+    "en": {
+      "w": "firefighter",
+      "pos": "名詞",
+      "d": [
+        "firefighter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "消防士",
+      "r": "しょうぼうし",
+      "pos": "名詞",
+      "d": [
+        "消防士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57171
+  },
+  {
+    "ko": "슬리퍼",
+    "en": {
+      "w": "slippers",
+      "pos": "名詞",
+      "d": [
+        "slippers"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スリッパ",
+      "r": "スリッパ",
+      "pos": "名詞",
+      "d": [
+        "スリッパ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57172
+  },
+  {
+    "ko": "승무원",
+    "en": {
+      "w": "flight attendant, crew member",
+      "pos": "名詞",
+      "d": [
+        "flight attendant, crew member"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "乗務員",
+      "r": "じょうむいん",
+      "pos": "名詞",
+      "d": [
+        "乗務員"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57173
+  },
+  {
+    "ko": "시다",
+    "en": {
+      "w": "to be sour",
+      "pos": "形容詞",
+      "d": [
+        "to be sour"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "酸っぱい",
+      "r": "すっぱい",
+      "pos": "形容詞",
+      "d": [
+        "酸っぱい"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "A",
+    "ko_rank": 57174
+  },
+  {
+    "ko": "신발장",
+    "en": {
+      "w": "shoe cabinet",
+      "pos": "名詞",
+      "d": [
+        "shoe cabinet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "靴箱",
+      "r": "くつばこ",
+      "pos": "名詞",
+      "d": [
+        "靴箱"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57175
+  },
+  {
+    "ko": "어떻게",
+    "en": {
+      "w": "how",
+      "pos": "副詞",
+      "d": [
+        "how"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どのように・どうやって",
+      "r": "どのように・どうやって",
+      "pos": "副詞",
+      "d": [
+        "どのように・どうやって"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "A",
+    "ko_rank": 57176
+  },
+  {
+    "ko": "어부",
+    "en": {
+      "w": "fisherman",
+      "pos": "名詞",
+      "d": [
+        "fisherman"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "漁師",
+      "r": "りょうし",
+      "pos": "名詞",
+      "d": [
+        "漁師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57177
+  },
+  {
+    "ko": "엔지니어",
+    "en": {
+      "w": "engineer",
+      "pos": "名詞",
+      "d": [
+        "engineer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "エンジニア・技術者",
+      "r": "ぎじゅつしゃ",
+      "pos": "名詞",
+      "d": [
+        "エンジニア・技術者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57178
+  },
+  {
+    "ko": "옷가게",
+    "en": {
+      "w": "clothing store",
+      "pos": "名詞",
+      "d": [
+        "clothing store"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "服屋・洋服店",
+      "r": "ようふくてん",
+      "pos": "名詞",
+      "d": [
+        "服屋・洋服店"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57179
+  },
+  {
+    "ko": "옷장",
+    "en": {
+      "w": "wardrobe, closet",
+      "pos": "名詞",
+      "d": [
+        "wardrobe, closet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "洋服箪笥・クローゼット",
+      "r": "ようふくだんす",
+      "pos": "名詞",
+      "d": [
+        "洋服箪笥・クローゼット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57180
+  },
+  {
+    "ko": "운동장",
+    "en": {
+      "w": "playground, sports field",
+      "pos": "名詞",
+      "d": [
+        "playground, sports field"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "運動場・グラウンド",
+      "r": "うんどうじょう",
+      "pos": "名詞",
+      "d": [
+        "運動場・グラウンド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57181
+  },
+  {
+    "ko": "운동화",
+    "en": {
+      "w": "sneakers, athletic shoes",
+      "pos": "名詞",
+      "d": [
+        "sneakers, athletic shoes"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "運動靴・スニーカー",
+      "r": "うんどうぐつ",
+      "pos": "名詞",
+      "d": [
+        "運動靴・スニーカー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57182
+  },
+  {
+    "ko": "이렇게",
+    "en": {
+      "w": "like this",
+      "pos": "副詞",
+      "d": [
+        "like this"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "このように・こう",
+      "r": "このように・こう",
+      "pos": "副詞",
+      "d": [
+        "このように・こう"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "A",
+    "ko_rank": 57183
+  },
+  {
+    "ko": "이번달",
+    "en": {
+      "w": "this month",
+      "pos": "名詞",
+      "d": [
+        "this month"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "今月",
+      "r": "こんげつ",
+      "pos": "名詞",
+      "d": [
+        "今月"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57184
+  },
+  {
+    "ko": "이번주",
+    "en": {
+      "w": "this week",
+      "pos": "名詞",
+      "d": [
+        "this week"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "今週",
+      "r": "こんしゅう",
+      "pos": "名詞",
+      "d": [
+        "今週"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57185
+  },
+  {
+    "ko": "자켓",
+    "en": {
+      "w": "jacket",
+      "pos": "名詞",
+      "d": [
+        "jacket"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ジャケット",
+      "r": "ジャケット",
+      "pos": "名詞",
+      "d": [
+        "ジャケット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57186
+  },
+  {
+    "ko": "저렇게",
+    "en": {
+      "w": "like that (over there)",
+      "pos": "副詞",
+      "d": [
+        "like that (over there)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "あのように・ああ",
+      "r": "あのように・ああ",
+      "pos": "副詞",
+      "d": [
+        "あのように・ああ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "A",
+    "ko_rank": 57187
+  },
+  {
+    "ko": "전등",
+    "en": {
+      "w": "electric light, lamp",
+      "pos": "名詞",
+      "d": [
+        "electric light, lamp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "電灯",
+      "r": "でんとう",
+      "pos": "名詞",
+      "d": [
+        "電灯"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57188
+  },
+  {
+    "ko": "주유소",
+    "en": {
+      "w": "gas station",
+      "pos": "名詞",
+      "d": [
+        "gas station"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガソリンスタンド",
+      "r": "ガソリンスタンド",
+      "pos": "名詞",
+      "d": [
+        "ガソリンスタンド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57189
+  },
+  {
+    "ko": "주황색",
+    "en": {
+      "w": "orange (color)",
+      "pos": "名詞",
+      "d": [
+        "orange (color)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オレンジ色",
+      "r": "オレンジいろ",
+      "pos": "名詞",
+      "d": [
+        "オレンジ色"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57190
+  },
+  {
+    "ko": "지하철역",
+    "en": {
+      "w": "subway station",
+      "pos": "名詞",
+      "d": [
+        "subway station"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地下鉄駅",
+      "r": "ちかてつえき",
+      "pos": "名詞",
+      "d": [
+        "地下鉄駅"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57191
+  },
+  {
+    "ko": "침대",
+    "en": {
+      "w": "bed",
+      "pos": "名詞",
+      "d": [
+        "bed"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベッド",
+      "r": "ベッド",
+      "pos": "名詞",
+      "d": [
+        "ベッド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57192
+  },
+  {
+    "ko": "택시기사",
+    "en": {
+      "w": "taxi driver",
+      "pos": "名詞",
+      "d": [
+        "taxi driver"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タクシー運転手",
+      "r": "タクシーうんてんしゅ",
+      "pos": "名詞",
+      "d": [
+        "タクシー運転手"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57193
+  },
+  {
+    "ko": "통역사",
+    "en": {
+      "w": "interpreter",
+      "pos": "名詞",
+      "d": [
+        "interpreter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "通訳士・通訳者",
+      "r": "つうやくし",
+      "pos": "名詞",
+      "d": [
+        "通訳士・通訳者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57194
+  },
+  {
+    "ko": "편의점",
+    "en": {
+      "w": "convenience store",
+      "pos": "名詞",
+      "d": [
+        "convenience store"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コンビニ",
+      "r": "コンビニ",
+      "pos": "名詞",
+      "d": [
+        "コンビニ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57195
+  },
+  {
+    "ko": "프로그래머",
+    "en": {
+      "w": "programmer",
+      "pos": "名詞",
+      "d": [
+        "programmer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プログラマー",
+      "r": "プログラマー",
+      "pos": "名詞",
+      "d": [
+        "プログラマー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57196
+  },
+  {
+    "ko": "회사원",
+    "en": {
+      "w": "office worker, company employee",
+      "pos": "名詞",
+      "d": [
+        "office worker, company employee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "会社員",
+      "r": "かいしゃいん",
+      "pos": "名詞",
+      "d": [
+        "会社員"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57197
+  },
+  {
+    "ko": "휴대폰",
+    "en": {
+      "w": "mobile phone, cell phone",
+      "pos": "名詞",
+      "d": [
+        "mobile phone, cell phone"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "携帯電話",
+      "r": "けいたいでんわ",
+      "pos": "名詞",
+      "d": [
+        "携帯電話"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "A",
+    "ko_rank": 57198
   }
 ];
