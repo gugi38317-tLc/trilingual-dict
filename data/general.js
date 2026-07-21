@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 5741
+// 단어수: 5932
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -155892,5 +155892,4971 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "C",
     "ko_rank": 57652
+  },
+  {
+    "ko": "감독판",
+    "en": {
+      "w": "director's cut (film)",
+      "pos": "名詞",
+      "d": [
+        "director's cut (film)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "監督版",
+      "r": "かんとくばん",
+      "pos": "名詞",
+      "d": [
+        "監督版"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57653
+  },
+  {
+    "ko": "개봉",
+    "en": {
+      "w": "release (of a film)",
+      "pos": "名詞",
+      "d": [
+        "release (of a film)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "封切り",
+      "r": "ふうきり",
+      "pos": "名詞",
+      "d": [
+        "封切り"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57654
+  },
+  {
+    "ko": "거미",
+    "en": {
+      "w": "spider",
+      "pos": "名詞",
+      "d": [
+        "spider"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "蜘蛛",
+      "r": "くも",
+      "pos": "名詞",
+      "d": [
+        "蜘蛛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57655
+  },
+  {
+    "ko": "거북이",
+    "en": {
+      "w": "turtle",
+      "pos": "名詞",
+      "d": [
+        "turtle"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "亀",
+      "r": "かめ",
+      "pos": "名詞",
+      "d": [
+        "亀"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57656
+  },
+  {
+    "ko": "검색엔진",
+    "en": {
+      "w": "search engine",
+      "pos": "名詞",
+      "d": [
+        "search engine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "検索エンジン",
+      "r": "けんさくエンジン",
+      "pos": "名詞",
+      "d": [
+        "検索エンジン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57657
+  },
+  {
+    "ko": "검진",
+    "en": {
+      "w": "medical checkup",
+      "pos": "名詞",
+      "d": [
+        "medical checkup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "検診",
+      "r": "けんしん",
+      "pos": "名詞",
+      "d": [
+        "検診"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57658
+  },
+  {
+    "ko": "게시글",
+    "en": {
+      "w": "(online) post",
+      "pos": "名詞",
+      "d": [
+        "(online) post"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "投稿",
+      "r": "とうこう",
+      "pos": "名詞",
+      "d": [
+        "投稿"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57659
+  },
+  {
+    "ko": "견과류",
+    "en": {
+      "w": "nuts (food category)",
+      "pos": "名詞",
+      "d": [
+        "nuts (food category)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "堅果類",
+      "r": "けんかるい",
+      "pos": "名詞",
+      "d": [
+        "堅果類"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57660
+  },
+  {
+    "ko": "계정",
+    "en": {
+      "w": "(online) account",
+      "pos": "名詞",
+      "d": [
+        "(online) account"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アカウント",
+      "r": "アカウント",
+      "pos": "名詞",
+      "d": [
+        "アカウント"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57661
+  },
+  {
+    "ko": "고래",
+    "en": {
+      "w": "whale",
+      "pos": "名詞",
+      "d": [
+        "whale"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鯨",
+      "r": "くじら",
+      "pos": "名詞",
+      "d": [
+        "鯨"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57662
+  },
+  {
+    "ko": "곡물",
+    "en": {
+      "w": "grain",
+      "pos": "名詞",
+      "d": [
+        "grain"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "穀物",
+      "r": "こくもつ",
+      "pos": "名詞",
+      "d": [
+        "穀物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57663
+  },
+  {
+    "ko": "곤충",
+    "en": {
+      "w": "insect",
+      "pos": "名詞",
+      "d": [
+        "insect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "昆虫",
+      "r": "こんちゅう",
+      "pos": "名詞",
+      "d": [
+        "昆虫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57664
+  },
+  {
+    "ko": "골절",
+    "en": {
+      "w": "fracture (bone)",
+      "pos": "名詞",
+      "d": [
+        "fracture (bone)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "骨折",
+      "r": "こっせつ",
+      "pos": "名詞",
+      "d": [
+        "骨折"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57665
+  },
+  {
+    "ko": "공유하다",
+    "en": {
+      "w": "to share (online content)",
+      "pos": "動詞",
+      "d": [
+        "to share (online content)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "共有する",
+      "r": "きょうゆうする",
+      "pos": "動詞",
+      "d": [
+        "共有する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 57666
+  },
+  {
+    "ko": "공작",
+    "en": {
+      "w": "peacock",
+      "pos": "名詞",
+      "d": [
+        "peacock"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "孔雀",
+      "r": "くじゃく",
+      "pos": "名詞",
+      "d": [
+        "孔雀"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57667
+  },
+  {
+    "ko": "관절염",
+    "en": {
+      "w": "arthritis",
+      "pos": "名詞",
+      "d": [
+        "arthritis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "関節炎",
+      "r": "かんせつえん",
+      "pos": "名詞",
+      "d": [
+        "関節炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57668
+  },
+  {
+    "ko": "관중",
+    "en": {
+      "w": "spectators, audience",
+      "pos": "名詞",
+      "d": [
+        "spectators, audience"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "観衆",
+      "r": "かんしゅう",
+      "pos": "名詞",
+      "d": [
+        "観衆"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57669
+  },
+  {
+    "ko": "구급차",
+    "en": {
+      "w": "ambulance",
+      "pos": "名詞",
+      "d": [
+        "ambulance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "救急車",
+      "r": "きゅうきゅうしゃ",
+      "pos": "名詞",
+      "d": [
+        "救急車"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57670
+  },
+  {
+    "ko": "구독",
+    "en": {
+      "w": "subscription",
+      "pos": "名詞",
+      "d": [
+        "subscription"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "購読",
+      "r": "こうどく",
+      "pos": "名詞",
+      "d": [
+        "購読"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57671
+  },
+  {
+    "ko": "구이",
+    "en": {
+      "w": "grilled dish",
+      "pos": "名詞",
+      "d": [
+        "grilled dish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "焼き物",
+      "r": "やきもの",
+      "pos": "名詞",
+      "d": [
+        "焼き物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57672
+  },
+  {
+    "ko": "국수",
+    "en": {
+      "w": "noodles",
+      "pos": "名詞",
+      "d": [
+        "noodles"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "麺",
+      "r": "めん",
+      "pos": "名詞",
+      "d": [
+        "麺"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57673
+  },
+  {
+    "ko": "근육통",
+    "en": {
+      "w": "muscle pain",
+      "pos": "名詞",
+      "d": [
+        "muscle pain"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "筋肉痛",
+      "r": "きんにくつう",
+      "pos": "名詞",
+      "d": [
+        "筋肉痛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57674
+  },
+  {
+    "ko": "기린",
+    "en": {
+      "w": "giraffe",
+      "pos": "名詞",
+      "d": [
+        "giraffe"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "キリン",
+      "r": "キリン",
+      "pos": "名詞",
+      "d": [
+        "キリン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57675
+  },
+  {
+    "ko": "기말고사",
+    "en": {
+      "w": "final exam",
+      "pos": "名詞",
+      "d": [
+        "final exam"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "期末試験",
+      "r": "きまつしけん",
+      "pos": "名詞",
+      "d": [
+        "期末試験"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57676
+  },
+  {
+    "ko": "까마귀",
+    "en": {
+      "w": "crow",
+      "pos": "名詞",
+      "d": [
+        "crow"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カラス",
+      "r": "カラス",
+      "pos": "名詞",
+      "d": [
+        "カラス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57677
+  },
+  {
+    "ko": "꽃가루",
+    "en": {
+      "w": "pollen",
+      "pos": "名詞",
+      "d": [
+        "pollen"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "花粉",
+      "r": "かふん",
+      "pos": "名詞",
+      "d": [
+        "花粉"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57678
+  },
+  {
+    "ko": "낙타",
+    "en": {
+      "w": "camel",
+      "pos": "名詞",
+      "d": [
+        "camel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ラクダ",
+      "r": "ラクダ",
+      "pos": "名詞",
+      "d": [
+        "ラクダ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57679
+  },
+  {
+    "ko": "늑대",
+    "en": {
+      "w": "wolf",
+      "pos": "名詞",
+      "d": [
+        "wolf"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オオカミ",
+      "r": "オオカミ",
+      "pos": "名詞",
+      "d": [
+        "オオカミ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57680
+  },
+  {
+    "ko": "다람쥐",
+    "en": {
+      "w": "squirrel",
+      "pos": "名詞",
+      "d": [
+        "squirrel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "リス",
+      "r": "リス",
+      "pos": "名詞",
+      "d": [
+        "リス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57681
+  },
+  {
+    "ko": "다운로드",
+    "en": {
+      "w": "download",
+      "pos": "名詞",
+      "d": [
+        "download"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ダウンロード",
+      "r": "ダウンロード",
+      "pos": "名詞",
+      "d": [
+        "ダウンロード"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57682
+  },
+  {
+    "ko": "다큐멘터리",
+    "en": {
+      "w": "documentary",
+      "pos": "名詞",
+      "d": [
+        "documentary"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ドキュメンタリー",
+      "r": "ドキュメンタリー",
+      "pos": "名詞",
+      "d": [
+        "ドキュメンタリー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57683
+  },
+  {
+    "ko": "단백질",
+    "en": {
+      "w": "protein",
+      "pos": "名詞",
+      "d": [
+        "protein"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タンパク質",
+      "r": "たんぱくしつ",
+      "pos": "名詞",
+      "d": [
+        "タンパク質"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57684
+  },
+  {
+    "ko": "단풍나무",
+    "en": {
+      "w": "maple tree",
+      "pos": "名詞",
+      "d": [
+        "maple tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "楓",
+      "r": "かえで",
+      "pos": "名詞",
+      "d": [
+        "楓"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57685
+  },
+  {
+    "ko": "대나무",
+    "en": {
+      "w": "bamboo",
+      "pos": "名詞",
+      "d": [
+        "bamboo"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "竹",
+      "r": "たけ",
+      "pos": "名詞",
+      "d": [
+        "竹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57686
+  },
+  {
+    "ko": "대양",
+    "en": {
+      "w": "ocean",
+      "pos": "名詞",
+      "d": [
+        "ocean"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "大洋",
+      "r": "たいよう",
+      "pos": "名詞",
+      "d": [
+        "大洋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57687
+  },
+  {
+    "ko": "댓글",
+    "en": {
+      "w": "(online) comment",
+      "pos": "名詞",
+      "d": [
+        "(online) comment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コメント",
+      "r": "コメント",
+      "pos": "名詞",
+      "d": [
+        "コメント"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57688
+  },
+  {
+    "ko": "더빙",
+    "en": {
+      "w": "dubbing",
+      "pos": "名詞",
+      "d": [
+        "dubbing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "吹き替え",
+      "r": "ふきかえ",
+      "pos": "名詞",
+      "d": [
+        "吹き替え"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57689
+  },
+  {
+    "ko": "독수리",
+    "en": {
+      "w": "eagle",
+      "pos": "名詞",
+      "d": [
+        "eagle"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鷲",
+      "r": "わし",
+      "pos": "名詞",
+      "d": [
+        "鷲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57690
+  },
+  {
+    "ko": "돌고래",
+    "en": {
+      "w": "dolphin",
+      "pos": "名詞",
+      "d": [
+        "dolphin"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イルカ",
+      "r": "イルカ",
+      "pos": "名詞",
+      "d": [
+        "イルカ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57691
+  },
+  {
+    "ko": "동굴",
+    "en": {
+      "w": "cave",
+      "pos": "名詞",
+      "d": [
+        "cave"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "洞窟",
+      "r": "どうくつ",
+      "pos": "名詞",
+      "d": [
+        "洞窟"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57692
+  },
+  {
+    "ko": "동영상",
+    "en": {
+      "w": "video (clip)",
+      "pos": "名詞",
+      "d": [
+        "video (clip)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "動画",
+      "r": "どうが",
+      "pos": "名詞",
+      "d": [
+        "動画"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57693
+  },
+  {
+    "ko": "드럼",
+    "en": {
+      "w": "drum",
+      "pos": "名詞",
+      "d": [
+        "drum"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ドラム",
+      "r": "ドラム",
+      "pos": "名詞",
+      "d": [
+        "ドラム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57694
+  },
+  {
+    "ko": "들기름",
+    "en": {
+      "w": "perilla oil",
+      "pos": "名詞",
+      "d": [
+        "perilla oil"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "エゴマ油",
+      "r": "エゴマあぶら",
+      "pos": "名詞",
+      "d": [
+        "エゴマ油"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57695
+  },
+  {
+    "ko": "등수",
+    "en": {
+      "w": "rank, ranking",
+      "pos": "名詞",
+      "d": [
+        "rank, ranking"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "順位",
+      "r": "じゅんい",
+      "pos": "名詞",
+      "d": [
+        "順位"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57696
+  },
+  {
+    "ko": "디저트",
+    "en": {
+      "w": "dessert",
+      "pos": "名詞",
+      "d": [
+        "dessert"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デザート",
+      "r": "デザート",
+      "pos": "名詞",
+      "d": [
+        "デザート"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57697
+  },
+  {
+    "ko": "디지털카메라",
+    "en": {
+      "w": "digital camera",
+      "pos": "名詞",
+      "d": [
+        "digital camera"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デジタルカメラ",
+      "r": "デジタルカメラ",
+      "pos": "名詞",
+      "d": [
+        "デジタルカメラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57698
+  },
+  {
+    "ko": "로그아웃",
+    "en": {
+      "w": "log out",
+      "pos": "名詞",
+      "d": [
+        "log out"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ログアウト",
+      "r": "ログアウト",
+      "pos": "名詞",
+      "d": [
+        "ログアウト"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57699
+  },
+  {
+    "ko": "로그인",
+    "en": {
+      "w": "log in",
+      "pos": "名詞",
+      "d": [
+        "log in"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ログイン",
+      "r": "ログイン",
+      "pos": "名詞",
+      "d": [
+        "ログイン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57700
+  },
+  {
+    "ko": "맥박",
+    "en": {
+      "w": "pulse",
+      "pos": "名詞",
+      "d": [
+        "pulse"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "脈拍",
+      "r": "みゃくはく",
+      "pos": "名詞",
+      "d": [
+        "脈拍"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57701
+  },
+  {
+    "ko": "멍",
+    "en": {
+      "w": "bruise",
+      "pos": "名詞",
+      "d": [
+        "bruise"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "あざ",
+      "r": "あざ",
+      "pos": "名詞",
+      "d": [
+        "あざ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57702
+  },
+  {
+    "ko": "메달",
+    "en": {
+      "w": "medal",
+      "pos": "名詞",
+      "d": [
+        "medal"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "メダル",
+      "r": "メダル",
+      "pos": "名詞",
+      "d": [
+        "メダル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57703
+  },
+  {
+    "ko": "면역력",
+    "en": {
+      "w": "immunity (health)",
+      "pos": "名詞",
+      "d": [
+        "immunity (health)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "免疫力",
+      "r": "めんえきりょく",
+      "pos": "名詞",
+      "d": [
+        "免疫力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57704
+  },
+  {
+    "ko": "멸종",
+    "en": {
+      "w": "extinction",
+      "pos": "名詞",
+      "d": [
+        "extinction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "絶滅",
+      "r": "ぜつめつ",
+      "pos": "名詞",
+      "d": [
+        "絶滅"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57705
+  },
+  {
+    "ko": "무생물",
+    "en": {
+      "w": "inanimate object",
+      "pos": "名詞",
+      "d": [
+        "inanimate object"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "無生物",
+      "r": "むせいぶつ",
+      "pos": "名詞",
+      "d": [
+        "無生物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57706
+  },
+  {
+    "ko": "무침",
+    "en": {
+      "w": "seasoned mixed dish",
+      "pos": "名詞",
+      "d": [
+        "seasoned mixed dish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "和え物",
+      "r": "あえもの",
+      "pos": "名詞",
+      "d": [
+        "和え物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57707
+  },
+  {
+    "ko": "문어",
+    "en": {
+      "w": "octopus",
+      "pos": "名詞",
+      "d": [
+        "octopus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タコ",
+      "r": "タコ",
+      "pos": "名詞",
+      "d": [
+        "タコ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57708
+  },
+  {
+    "ko": "문제집",
+    "en": {
+      "w": "workbook, problem book",
+      "pos": "名詞",
+      "d": [
+        "workbook, problem book"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "問題集",
+      "r": "もんだいしゅう",
+      "pos": "名詞",
+      "d": [
+        "問題集"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57709
+  },
+  {
+    "ko": "물리",
+    "en": {
+      "w": "physics",
+      "pos": "名詞",
+      "d": [
+        "physics"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "物理",
+      "r": "ぶつり",
+      "pos": "名詞",
+      "d": [
+        "物理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57710
+  },
+  {
+    "ko": "미술관",
+    "en": {
+      "w": "art museum",
+      "pos": "名詞",
+      "d": [
+        "art museum"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "美術館",
+      "r": "びじゅつかん",
+      "pos": "名詞",
+      "d": [
+        "美術館"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57711
+  },
+  {
+    "ko": "박물관",
+    "en": {
+      "w": "museum",
+      "pos": "名詞",
+      "d": [
+        "museum"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "博物館",
+      "r": "はくぶつかん",
+      "pos": "名詞",
+      "d": [
+        "博物館"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57712
+  },
+  {
+    "ko": "반도",
+    "en": {
+      "w": "peninsula",
+      "pos": "名詞",
+      "d": [
+        "peninsula"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "半島",
+      "r": "はんとう",
+      "pos": "名詞",
+      "d": [
+        "半島"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57713
+  },
+  {
+    "ko": "반창고",
+    "en": {
+      "w": "band-aid, adhesive bandage",
+      "pos": "名詞",
+      "d": [
+        "band-aid, adhesive bandage"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "絆創膏",
+      "r": "ばんそうこう",
+      "pos": "名詞",
+      "d": [
+        "絆創膏"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57714
+  },
+  {
+    "ko": "발효식품",
+    "en": {
+      "w": "fermented food",
+      "pos": "名詞",
+      "d": [
+        "fermented food"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "発酵食品",
+      "r": "はっこうしょくひん",
+      "pos": "名詞",
+      "d": [
+        "発酵食品"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57715
+  },
+  {
+    "ko": "배터리",
+    "en": {
+      "w": "battery",
+      "pos": "名詞",
+      "d": [
+        "battery"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バッテリー",
+      "r": "バッテリー",
+      "pos": "名詞",
+      "d": [
+        "バッテリー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57716
+  },
+  {
+    "ko": "백조",
+    "en": {
+      "w": "swan",
+      "pos": "名詞",
+      "d": [
+        "swan"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "白鳥",
+      "r": "はくちょう",
+      "pos": "名詞",
+      "d": [
+        "白鳥"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57717
+  },
+  {
+    "ko": "버드나무",
+    "en": {
+      "w": "willow tree",
+      "pos": "名詞",
+      "d": [
+        "willow tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "柳",
+      "r": "やなぎ",
+      "pos": "名詞",
+      "d": [
+        "柳"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57718
+  },
+  {
+    "ko": "변비",
+    "en": {
+      "w": "constipation",
+      "pos": "名詞",
+      "d": [
+        "constipation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "便秘",
+      "r": "べんぴ",
+      "pos": "名詞",
+      "d": [
+        "便秘"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57719
+  },
+  {
+    "ko": "복통",
+    "en": {
+      "w": "stomachache",
+      "pos": "名詞",
+      "d": [
+        "stomachache"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "腹痛",
+      "r": "ふくつう",
+      "pos": "名詞",
+      "d": [
+        "腹痛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57720
+  },
+  {
+    "ko": "복학",
+    "en": {
+      "w": "returning to school (after leave)",
+      "pos": "名詞",
+      "d": [
+        "returning to school (after leave)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "復学",
+      "r": "ふくがく",
+      "pos": "名詞",
+      "d": [
+        "復学"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57721
+  },
+  {
+    "ko": "부전공",
+    "en": {
+      "w": "minor (academic)",
+      "pos": "名詞",
+      "d": [
+        "minor (academic)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "副専攻",
+      "r": "ふくせんこう",
+      "pos": "名詞",
+      "d": [
+        "副専攻"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57722
+  },
+  {
+    "ko": "분자",
+    "en": {
+      "w": "molecule",
+      "pos": "名詞",
+      "d": [
+        "molecule"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "分子",
+      "r": "ぶんし",
+      "pos": "名詞",
+      "d": [
+        "分子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57723
+  },
+  {
+    "ko": "불면증",
+    "en": {
+      "w": "insomnia",
+      "pos": "名詞",
+      "d": [
+        "insomnia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不眠症",
+      "r": "ふみんしょう",
+      "pos": "名詞",
+      "d": [
+        "不眠症"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57724
+  },
+  {
+    "ko": "붕대",
+    "en": {
+      "w": "bandage",
+      "pos": "名詞",
+      "d": [
+        "bandage"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "包帯",
+      "r": "ほうたい",
+      "pos": "名詞",
+      "d": [
+        "包帯"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57725
+  },
+  {
+    "ko": "브라우저",
+    "en": {
+      "w": "(web) browser",
+      "pos": "名詞",
+      "d": [
+        "(web) browser"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブラウザ",
+      "r": "ブラウザ",
+      "pos": "名詞",
+      "d": [
+        "ブラウザ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57726
+  },
+  {
+    "ko": "블루투스",
+    "en": {
+      "w": "Bluetooth",
+      "pos": "名詞",
+      "d": [
+        "Bluetooth"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブルートゥース",
+      "r": "ブルートゥース",
+      "pos": "名詞",
+      "d": [
+        "ブルートゥース"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57727
+  },
+  {
+    "ko": "비밀번호",
+    "en": {
+      "w": "password",
+      "pos": "名詞",
+      "d": [
+        "password"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パスワード",
+      "r": "パスワード",
+      "pos": "名詞",
+      "d": [
+        "パスワード"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57728
+  },
+  {
+    "ko": "빙하",
+    "en": {
+      "w": "glacier",
+      "pos": "名詞",
+      "d": [
+        "glacier"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "氷河",
+      "r": "ひょうが",
+      "pos": "名詞",
+      "d": [
+        "氷河"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57729
+  },
+  {
+    "ko": "사막",
+    "en": {
+      "w": "desert",
+      "pos": "名詞",
+      "d": [
+        "desert"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "砂漠",
+      "r": "さばく",
+      "pos": "名詞",
+      "d": [
+        "砂漠"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57730
+  },
+  {
+    "ko": "산사태",
+    "en": {
+      "w": "landslide",
+      "pos": "名詞",
+      "d": [
+        "landslide"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "土砂崩れ",
+      "r": "どしゃくずれ",
+      "pos": "名詞",
+      "d": [
+        "土砂崩れ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57731
+  },
+  {
+    "ko": "삼겹살",
+    "en": {
+      "w": "pork belly",
+      "pos": "名詞",
+      "d": [
+        "pork belly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "豚バラ肉",
+      "r": "ぶたばらにく",
+      "pos": "名詞",
+      "d": [
+        "豚バラ肉"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57732
+  },
+  {
+    "ko": "상어",
+    "en": {
+      "w": "shark",
+      "pos": "名詞",
+      "d": [
+        "shark"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サメ",
+      "r": "サメ",
+      "pos": "名詞",
+      "d": [
+        "サメ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57733
+  },
+  {
+    "ko": "샐러드",
+    "en": {
+      "w": "salad",
+      "pos": "名詞",
+      "d": [
+        "salad"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サラダ",
+      "r": "サラダ",
+      "pos": "名詞",
+      "d": [
+        "サラダ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57734
+  },
+  {
+    "ko": "생물학",
+    "en": {
+      "w": "biology",
+      "pos": "名詞",
+      "d": [
+        "biology"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生物学",
+      "r": "せいぶつがく",
+      "pos": "名詞",
+      "d": [
+        "生物学"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57735
+  },
+  {
+    "ko": "서리",
+    "en": {
+      "w": "frost",
+      "pos": "名詞",
+      "d": [
+        "frost"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "霜",
+      "r": "しも",
+      "pos": "名詞",
+      "d": [
+        "霜"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57736
+  },
+  {
+    "ko": "선수",
+    "en": {
+      "w": "athlete, player",
+      "pos": "名詞",
+      "d": [
+        "athlete, player"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "選手",
+      "r": "せんしゅ",
+      "pos": "名詞",
+      "d": [
+        "選手"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57737
+  },
+  {
+    "ko": "성적표",
+    "en": {
+      "w": "report card",
+      "pos": "名詞",
+      "d": [
+        "report card"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "成績表",
+      "r": "せいせきひょう",
+      "pos": "名詞",
+      "d": [
+        "成績表"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57738
+  },
+  {
+    "ko": "세포",
+    "en": {
+      "w": "cell (biology)",
+      "pos": "名詞",
+      "d": [
+        "cell (biology)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "細胞",
+      "r": "さいぼう",
+      "pos": "名詞",
+      "d": [
+        "細胞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57739
+  },
+  {
+    "ko": "소독약",
+    "en": {
+      "w": "antiseptic, disinfectant",
+      "pos": "名詞",
+      "d": [
+        "antiseptic, disinfectant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "消毒薬",
+      "r": "しょうどくやく",
+      "pos": "名詞",
+      "d": [
+        "消毒薬"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57740
+  },
+  {
+    "ko": "소화불량",
+    "en": {
+      "w": "indigestion",
+      "pos": "名詞",
+      "d": [
+        "indigestion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "消化不良",
+      "r": "しょうかふりょう",
+      "pos": "名詞",
+      "d": [
+        "消化不良"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57741
+  },
+  {
+    "ko": "소화제",
+    "en": {
+      "w": "digestive medicine",
+      "pos": "名詞",
+      "d": [
+        "digestive medicine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "消化剤",
+      "r": "しょうかざい",
+      "pos": "名詞",
+      "d": [
+        "消化剤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57742
+  },
+  {
+    "ko": "수면제",
+    "en": {
+      "w": "sleeping pill",
+      "pos": "名詞",
+      "d": [
+        "sleeping pill"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "睡眠薬",
+      "r": "すいみんやく",
+      "pos": "名詞",
+      "d": [
+        "睡眠薬"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57743
+  },
+  {
+    "ko": "수업료",
+    "en": {
+      "w": "tuition fee",
+      "pos": "名詞",
+      "d": [
+        "tuition fee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "授業料",
+      "r": "じゅぎょうりょう",
+      "pos": "名詞",
+      "d": [
+        "授業料"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57744
+  },
+  {
+    "ko": "수증기",
+    "en": {
+      "w": "water vapor",
+      "pos": "名詞",
+      "d": [
+        "water vapor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "水蒸気",
+      "r": "すいじょうき",
+      "pos": "名詞",
+      "d": [
+        "水蒸気"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57745
+  },
+  {
+    "ko": "스마트워치",
+    "en": {
+      "w": "smartwatch",
+      "pos": "名詞",
+      "d": [
+        "smartwatch"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スマートウォッチ",
+      "r": "スマートウォッチ",
+      "pos": "名詞",
+      "d": [
+        "スマートウォッチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57746
+  },
+  {
+    "ko": "스트리밍",
+    "en": {
+      "w": "streaming",
+      "pos": "名詞",
+      "d": [
+        "streaming"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ストリーミング",
+      "r": "ストリーミング",
+      "pos": "名詞",
+      "d": [
+        "ストリーミング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57747
+  },
+  {
+    "ko": "스프",
+    "en": {
+      "w": "soup",
+      "pos": "名詞",
+      "d": [
+        "soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スープ",
+      "r": "スープ",
+      "pos": "名詞",
+      "d": [
+        "スープ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57748
+  },
+  {
+    "ko": "습지",
+    "en": {
+      "w": "wetland",
+      "pos": "名詞",
+      "d": [
+        "wetland"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "湿地",
+      "r": "しっち",
+      "pos": "名詞",
+      "d": [
+        "湿地"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57749
+  },
+  {
+    "ko": "시력",
+    "en": {
+      "w": "eyesight, vision",
+      "pos": "名詞",
+      "d": [
+        "eyesight, vision"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "視力",
+      "r": "しりょく",
+      "pos": "名詞",
+      "d": [
+        "視力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57750
+  },
+  {
+    "ko": "식재료",
+    "en": {
+      "w": "food ingredient",
+      "pos": "名詞",
+      "d": [
+        "food ingredient"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "食材",
+      "r": "しょくざい",
+      "pos": "名詞",
+      "d": [
+        "食材"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57751
+  },
+  {
+    "ko": "신조어",
+    "en": {
+      "w": "newly coined word",
+      "pos": "名詞",
+      "d": [
+        "newly coined word"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "新造語",
+      "r": "しんぞうご",
+      "pos": "名詞",
+      "d": [
+        "新造語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57752
+  },
+  {
+    "ko": "아이디",
+    "en": {
+      "w": "(user) ID",
+      "pos": "名詞",
+      "d": [
+        "(user) ID"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アイディー",
+      "r": "アイディー",
+      "pos": "名詞",
+      "d": [
+        "アイディー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57753
+  },
+  {
+    "ko": "악어",
+    "en": {
+      "w": "crocodile, alligator",
+      "pos": "名詞",
+      "d": [
+        "crocodile, alligator"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ワニ",
+      "r": "ワニ",
+      "pos": "名詞",
+      "d": [
+        "ワニ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57754
+  },
+  {
+    "ko": "알림",
+    "en": {
+      "w": "notification",
+      "pos": "名詞",
+      "d": [
+        "notification"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "通知",
+      "r": "つうち",
+      "pos": "名詞",
+      "d": [
+        "通知"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57755
+  },
+  {
+    "ko": "애니메이션",
+    "en": {
+      "w": "animation",
+      "pos": "名詞",
+      "d": [
+        "animation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アニメーション",
+      "r": "アニメーション",
+      "pos": "名詞",
+      "d": [
+        "アニメーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57756
+  },
+  {
+    "ko": "애플리케이션",
+    "en": {
+      "w": "application (software)",
+      "pos": "名詞",
+      "d": [
+        "application (software)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アプリケーション",
+      "r": "アプリケーション",
+      "pos": "名詞",
+      "d": [
+        "アプリケーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57757
+  },
+  {
+    "ko": "양서류",
+    "en": {
+      "w": "amphibian",
+      "pos": "名詞",
+      "d": [
+        "amphibian"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "両生類",
+      "r": "りょうせいるい",
+      "pos": "名詞",
+      "d": [
+        "両生類"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57758
+  },
+  {
+    "ko": "어류",
+    "en": {
+      "w": "fish (taxonomically)",
+      "pos": "名詞",
+      "d": [
+        "fish (taxonomically)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "魚類",
+      "r": "ぎょるい",
+      "pos": "名詞",
+      "d": [
+        "魚類"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57759
+  },
+  {
+    "ko": "어린이집",
+    "en": {
+      "w": "daycare center",
+      "pos": "名詞",
+      "d": [
+        "daycare center"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "保育園",
+      "r": "ほいくえん",
+      "pos": "名詞",
+      "d": [
+        "保育園"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57760
+  },
+  {
+    "ko": "어지럼증",
+    "en": {
+      "w": "dizziness",
+      "pos": "名詞",
+      "d": [
+        "dizziness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "めまい",
+      "r": "めまい",
+      "pos": "名詞",
+      "d": [
+        "めまい"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57761
+  },
+  {
+    "ko": "업데이트",
+    "en": {
+      "w": "update",
+      "pos": "名詞",
+      "d": [
+        "update"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アップデート",
+      "r": "アップデート",
+      "pos": "名詞",
+      "d": [
+        "アップデート"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57762
+  },
+  {
+    "ko": "업로드",
+    "en": {
+      "w": "upload",
+      "pos": "名詞",
+      "d": [
+        "upload"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アップロード",
+      "r": "アップロード",
+      "pos": "名詞",
+      "d": [
+        "アップロード"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57763
+  },
+  {
+    "ko": "염색체",
+    "en": {
+      "w": "chromosome",
+      "pos": "名詞",
+      "d": [
+        "chromosome"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "染色体",
+      "r": "せんしょくたい",
+      "pos": "名詞",
+      "d": [
+        "染色体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57764
+  },
+  {
+    "ko": "염소",
+    "en": {
+      "w": "goat",
+      "pos": "名詞",
+      "d": [
+        "goat"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヤギ",
+      "r": "ヤギ",
+      "pos": "名詞",
+      "d": [
+        "ヤギ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57765
+  },
+  {
+    "ko": "영양소",
+    "en": {
+      "w": "nutrient",
+      "pos": "名詞",
+      "d": [
+        "nutrient"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "栄養素",
+      "r": "えいようそ",
+      "pos": "名詞",
+      "d": [
+        "栄養素"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57766
+  },
+  {
+    "ko": "영화관",
+    "en": {
+      "w": "movie theater",
+      "pos": "名詞",
+      "d": [
+        "movie theater"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "映画館",
+      "r": "えいがかん",
+      "pos": "名詞",
+      "d": [
+        "映画館"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57767
+  },
+  {
+    "ko": "예능",
+    "en": {
+      "w": "entertainment (TV show genre)",
+      "pos": "名詞",
+      "d": [
+        "entertainment (TV show genre)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バラエティ番組",
+      "r": "バラエティばんぐみ",
+      "pos": "名詞",
+      "d": [
+        "バラエティ番組"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57768
+  },
+  {
+    "ko": "오케스트라",
+    "en": {
+      "w": "orchestra",
+      "pos": "名詞",
+      "d": [
+        "orchestra"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オーケストラ",
+      "r": "オーケストラ",
+      "pos": "名詞",
+      "d": [
+        "オーケストラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57769
+  },
+  {
+    "ko": "와이파이",
+    "en": {
+      "w": "Wi-Fi",
+      "pos": "名詞",
+      "d": [
+        "Wi-Fi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ワイファイ",
+      "r": "ワイファイ",
+      "pos": "名詞",
+      "d": [
+        "ワイファイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57770
+  },
+  {
+    "ko": "요가",
+    "en": {
+      "w": "yoga",
+      "pos": "名詞",
+      "d": [
+        "yoga"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヨガ",
+      "r": "ヨガ",
+      "pos": "名詞",
+      "d": [
+        "ヨガ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57771
+  },
+  {
+    "ko": "요리법",
+    "en": {
+      "w": "recipe, cooking method",
+      "pos": "名詞",
+      "d": [
+        "recipe, cooking method"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "料理法",
+      "r": "りょうりほう",
+      "pos": "名詞",
+      "d": [
+        "料理法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57772
+  },
+  {
+    "ko": "용암",
+    "en": {
+      "w": "lava",
+      "pos": "名詞",
+      "d": [
+        "lava"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "溶岩",
+      "r": "ようがん",
+      "pos": "名詞",
+      "d": [
+        "溶岩"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57773
+  },
+  {
+    "ko": "우박",
+    "en": {
+      "w": "hail",
+      "pos": "名詞",
+      "d": [
+        "hail"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "雹",
+      "r": "ひょう",
+      "pos": "名詞",
+      "d": [
+        "雹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57774
+  },
+  {
+    "ko": "운동기구",
+    "en": {
+      "w": "exercise equipment",
+      "pos": "名詞",
+      "d": [
+        "exercise equipment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "運動器具",
+      "r": "うんどうきぐ",
+      "pos": "名詞",
+      "d": [
+        "運動器具"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57775
+  },
+  {
+    "ko": "운동복",
+    "en": {
+      "w": "sportswear",
+      "pos": "名詞",
+      "d": [
+        "sportswear"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "運動着",
+      "r": "うんどうぎ",
+      "pos": "名詞",
+      "d": [
+        "運動着"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57776
+  },
+  {
+    "ko": "원소",
+    "en": {
+      "w": "element (chemistry)",
+      "pos": "名詞",
+      "d": [
+        "element (chemistry)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "元素",
+      "r": "げんそ",
+      "pos": "名詞",
+      "d": [
+        "元素"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57777
+  },
+  {
+    "ko": "원자",
+    "en": {
+      "w": "atom",
+      "pos": "名詞",
+      "d": [
+        "atom"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原子",
+      "r": "げんし",
+      "pos": "名詞",
+      "d": [
+        "原子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57778
+  },
+  {
+    "ko": "유전자",
+    "en": {
+      "w": "gene",
+      "pos": "名詞",
+      "d": [
+        "gene"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "遺伝子",
+      "r": "いでんし",
+      "pos": "名詞",
+      "d": [
+        "遺伝子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57779
+  },
+  {
+    "ko": "유제품",
+    "en": {
+      "w": "dairy product",
+      "pos": "名詞",
+      "d": [
+        "dairy product"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "乳製品",
+      "r": "にゅうせいひん",
+      "pos": "名詞",
+      "d": [
+        "乳製品"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57780
+  },
+  {
+    "ko": "유행어",
+    "en": {
+      "w": "buzzword, trendy phrase",
+      "pos": "名詞",
+      "d": [
+        "buzzword, trendy phrase"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "流行語",
+      "r": "りゅうこうご",
+      "pos": "名詞",
+      "d": [
+        "流行語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57781
+  },
+  {
+    "ko": "윤리",
+    "en": {
+      "w": "ethics",
+      "pos": "名詞",
+      "d": [
+        "ethics"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "倫理",
+      "r": "りんり",
+      "pos": "名詞",
+      "d": [
+        "倫理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57782
+  },
+  {
+    "ko": "응급실",
+    "en": {
+      "w": "emergency room",
+      "pos": "名詞",
+      "d": [
+        "emergency room"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "救急室",
+      "r": "きゅうきゅうしつ",
+      "pos": "名詞",
+      "d": [
+        "救急室"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57783
+  },
+  {
+    "ko": "응원",
+    "en": {
+      "w": "cheering, support",
+      "pos": "名詞",
+      "d": [
+        "cheering, support"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "応援",
+      "r": "おうえん",
+      "pos": "名詞",
+      "d": [
+        "応援"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57784
+  },
+  {
+    "ko": "이끼",
+    "en": {
+      "w": "moss",
+      "pos": "名詞",
+      "d": [
+        "moss"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "苔",
+      "r": "こけ",
+      "pos": "名詞",
+      "d": [
+        "苔"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57785
+  },
+  {
+    "ko": "이모티콘",
+    "en": {
+      "w": "emoticon",
+      "pos": "名詞",
+      "d": [
+        "emoticon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "絵文字",
+      "r": "えもじ",
+      "pos": "名詞",
+      "d": [
+        "絵文字"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57786
+  },
+  {
+    "ko": "이어폰",
+    "en": {
+      "w": "earphones",
+      "pos": "名詞",
+      "d": [
+        "earphones"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イヤホン",
+      "r": "イヤホン",
+      "pos": "名詞",
+      "d": [
+        "イヤホン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57787
+  },
+  {
+    "ko": "인플루언서",
+    "en": {
+      "w": "influencer",
+      "pos": "名詞",
+      "d": [
+        "influencer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インフルエンサー",
+      "r": "インフルエンサー",
+      "pos": "名詞",
+      "d": [
+        "インフルエンサー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57788
+  },
+  {
+    "ko": "자막",
+    "en": {
+      "w": "subtitles",
+      "pos": "名詞",
+      "d": [
+        "subtitles"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "字幕",
+      "r": "じまく",
+      "pos": "名詞",
+      "d": [
+        "字幕"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57789
+  },
+  {
+    "ko": "자퇴",
+    "en": {
+      "w": "dropping out of school",
+      "pos": "名詞",
+      "d": [
+        "dropping out of school"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "中退",
+      "r": "ちゅうたい",
+      "pos": "名詞",
+      "d": [
+        "中退"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57790
+  },
+  {
+    "ko": "절벽",
+    "en": {
+      "w": "cliff",
+      "pos": "名詞",
+      "d": [
+        "cliff"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "崖",
+      "r": "がけ",
+      "pos": "名詞",
+      "d": [
+        "崖"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57791
+  },
+  {
+    "ko": "정글",
+    "en": {
+      "w": "jungle",
+      "pos": "名詞",
+      "d": [
+        "jungle"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ジャングル",
+      "r": "ジャングル",
+      "pos": "名詞",
+      "d": [
+        "ジャングル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57792
+  },
+  {
+    "ko": "조류",
+    "en": {
+      "w": "birds (taxonomically)",
+      "pos": "名詞",
+      "d": [
+        "birds (taxonomically)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鳥類",
+      "r": "ちょうるい",
+      "pos": "名詞",
+      "d": [
+        "鳥類"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57793
+  },
+  {
+    "ko": "조림",
+    "en": {
+      "w": "braised dish",
+      "pos": "名詞",
+      "d": [
+        "braised dish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "煮物",
+      "r": "にもの",
+      "pos": "名詞",
+      "d": [
+        "煮物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57794
+  },
+  {
+    "ko": "조수",
+    "en": {
+      "w": "tide",
+      "pos": "名詞",
+      "d": [
+        "tide"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "潮",
+      "r": "しお",
+      "pos": "名詞",
+      "d": [
+        "潮"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57795
+  },
+  {
+    "ko": "조연",
+    "en": {
+      "w": "supporting role, supporting actor",
+      "pos": "名詞",
+      "d": [
+        "supporting role, supporting actor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "助演",
+      "r": "じょえん",
+      "pos": "名詞",
+      "d": [
+        "助演"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57796
+  },
+  {
+    "ko": "좋아요",
+    "en": {
+      "w": "\"like\" (social media)",
+      "pos": "名詞",
+      "d": [
+        "\"like\" (social media)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "いいね",
+      "r": "いいね",
+      "pos": "名詞",
+      "d": [
+        "いいね"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57797
+  },
+  {
+    "ko": "줄임말",
+    "en": {
+      "w": "abbreviation, shortened word",
+      "pos": "名詞",
+      "d": [
+        "abbreviation, shortened word"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "略語",
+      "r": "りゃくご",
+      "pos": "名詞",
+      "d": [
+        "略語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57798
+  },
+  {
+    "ko": "중간고사",
+    "en": {
+      "w": "midterm exam",
+      "pos": "名詞",
+      "d": [
+        "midterm exam"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "中間試験",
+      "r": "ちゅうかんしけん",
+      "pos": "名詞",
+      "d": [
+        "中間試験"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57799
+  },
+  {
+    "ko": "지구과학",
+    "en": {
+      "w": "earth science",
+      "pos": "名詞",
+      "d": [
+        "earth science"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地球科学",
+      "r": "ちきゅうかがく",
+      "pos": "名詞",
+      "d": [
+        "地球科学"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57800
+  },
+  {
+    "ko": "지렁이",
+    "en": {
+      "w": "earthworm",
+      "pos": "名詞",
+      "d": [
+        "earthworm"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ミミズ",
+      "r": "ミミズ",
+      "pos": "名詞",
+      "d": [
+        "ミミズ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57801
+  },
+  {
+    "ko": "지리",
+    "en": {
+      "w": "geography",
+      "pos": "名詞",
+      "d": [
+        "geography"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地理",
+      "r": "ちり",
+      "pos": "名詞",
+      "d": [
+        "地理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57802
+  },
+  {
+    "ko": "지층",
+    "en": {
+      "w": "rock strata",
+      "pos": "名詞",
+      "d": [
+        "rock strata"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地層",
+      "r": "ちそう",
+      "pos": "名詞",
+      "d": [
+        "地層"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57803
+  },
+  {
+    "ko": "진통제",
+    "en": {
+      "w": "painkiller",
+      "pos": "名詞",
+      "d": [
+        "painkiller"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鎮痛剤",
+      "r": "ちんつうざい",
+      "pos": "名詞",
+      "d": [
+        "鎮痛剤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57804
+  },
+  {
+    "ko": "진화",
+    "en": {
+      "w": "evolution",
+      "pos": "名詞",
+      "d": [
+        "evolution"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "進化",
+      "r": "しんか",
+      "pos": "名詞",
+      "d": [
+        "進化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57805
+  },
+  {
+    "ko": "차단",
+    "en": {
+      "w": "blocking (online)",
+      "pos": "名詞",
+      "d": [
+        "blocking (online)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブロック",
+      "r": "ブロック",
+      "pos": "名詞",
+      "d": [
+        "ブロック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57806
+  },
+  {
+    "ko": "참고서",
+    "en": {
+      "w": "reference book, study guide",
+      "pos": "名詞",
+      "d": [
+        "reference book, study guide"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "参考書",
+      "r": "さんこうしょ",
+      "pos": "名詞",
+      "d": [
+        "参考書"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57807
+  },
+  {
+    "ko": "처방전",
+    "en": {
+      "w": "prescription",
+      "pos": "名詞",
+      "d": [
+        "prescription"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "処方箋",
+      "r": "しょほうせん",
+      "pos": "名詞",
+      "d": [
+        "処方箋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57808
+  },
+  {
+    "ko": "철분",
+    "en": {
+      "w": "iron (nutrient)",
+      "pos": "名詞",
+      "d": [
+        "iron (nutrient)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鉄分",
+      "r": "てつぶん",
+      "pos": "名詞",
+      "d": [
+        "鉄分"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57809
+  },
+  {
+    "ko": "청력",
+    "en": {
+      "w": "hearing ability",
+      "pos": "名詞",
+      "d": [
+        "hearing ability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "聴力",
+      "r": "ちょうりょく",
+      "pos": "名詞",
+      "d": [
+        "聴力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57810
+  },
+  {
+    "ko": "체육관",
+    "en": {
+      "w": "gymnasium",
+      "pos": "名詞",
+      "d": [
+        "gymnasium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "体育館",
+      "r": "たいいくかん",
+      "pos": "名詞",
+      "d": [
+        "体育館"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57811
+  },
+  {
+    "ko": "충전기",
+    "en": {
+      "w": "charger (device)",
+      "pos": "名詞",
+      "d": [
+        "charger (device)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "充電器",
+      "r": "じゅうでんき",
+      "pos": "名詞",
+      "d": [
+        "充電器"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57812
+  },
+  {
+    "ko": "치킨",
+    "en": {
+      "w": "fried chicken",
+      "pos": "名詞",
+      "d": [
+        "fried chicken"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チキン",
+      "r": "チキン",
+      "pos": "名詞",
+      "d": [
+        "チキン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57813
+  },
+  {
+    "ko": "치통",
+    "en": {
+      "w": "toothache",
+      "pos": "名詞",
+      "d": [
+        "toothache"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "歯痛",
+      "r": "しつう",
+      "pos": "名詞",
+      "d": [
+        "歯痛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57814
+  },
+  {
+    "ko": "칼슘",
+    "en": {
+      "w": "calcium",
+      "pos": "名詞",
+      "d": [
+        "calcium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カルシウム",
+      "r": "カルシウム",
+      "pos": "名詞",
+      "d": [
+        "カルシウム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57815
+  },
+  {
+    "ko": "캥거루",
+    "en": {
+      "w": "kangaroo",
+      "pos": "名詞",
+      "d": [
+        "kangaroo"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カンガルー",
+      "r": "カンガルー",
+      "pos": "名詞",
+      "d": [
+        "カンガルー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57816
+  },
+  {
+    "ko": "콘텐츠",
+    "en": {
+      "w": "content (media)",
+      "pos": "名詞",
+      "d": [
+        "content (media)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コンテンツ",
+      "r": "コンテンツ",
+      "pos": "名詞",
+      "d": [
+        "コンテンツ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57817
+  },
+  {
+    "ko": "콜레스테롤",
+    "en": {
+      "w": "cholesterol",
+      "pos": "名詞",
+      "d": [
+        "cholesterol"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コレステロール",
+      "r": "コレステロール",
+      "pos": "名詞",
+      "d": [
+        "コレステロール"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57818
+  },
+  {
+    "ko": "콧물",
+    "en": {
+      "w": "runny nose",
+      "pos": "名詞",
+      "d": [
+        "runny nose"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鼻水",
+      "r": "はなみず",
+      "pos": "名詞",
+      "d": [
+        "鼻水"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57819
+  },
+  {
+    "ko": "타조",
+    "en": {
+      "w": "ostrich",
+      "pos": "名詞",
+      "d": [
+        "ostrich"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ダチョウ",
+      "r": "ダチョウ",
+      "pos": "名詞",
+      "d": [
+        "ダチョウ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57820
+  },
+  {
+    "ko": "탄수화물",
+    "en": {
+      "w": "carbohydrate",
+      "pos": "名詞",
+      "d": [
+        "carbohydrate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "炭水化物",
+      "r": "たんすいかぶつ",
+      "pos": "名詞",
+      "d": [
+        "炭水化物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57821
+  },
+  {
+    "ko": "탕",
+    "en": {
+      "w": "soup, broth (Korean stew)",
+      "pos": "名詞",
+      "d": [
+        "soup, broth (Korean stew)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スープ",
+      "r": "スープ",
+      "pos": "名詞",
+      "d": [
+        "スープ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57822
+  },
+  {
+    "ko": "태블릿",
+    "en": {
+      "w": "tablet (device)",
+      "pos": "名詞",
+      "d": [
+        "tablet (device)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タブレット",
+      "r": "タブレット",
+      "pos": "名詞",
+      "d": [
+        "タブレット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57823
+  },
+  {
+    "ko": "파충류",
+    "en": {
+      "w": "reptile",
+      "pos": "名詞",
+      "d": [
+        "reptile"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "爬虫類",
+      "r": "はちゅうるい",
+      "pos": "名詞",
+      "d": [
+        "爬虫類"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57824
+  },
+  {
+    "ko": "판다",
+    "en": {
+      "w": "panda",
+      "pos": "名詞",
+      "d": [
+        "panda"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パンダ",
+      "r": "パンダ",
+      "pos": "名詞",
+      "d": [
+        "パンダ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57825
+  },
+  {
+    "ko": "팔로우",
+    "en": {
+      "w": "follow (social media)",
+      "pos": "名詞",
+      "d": [
+        "follow (social media)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フォロー",
+      "r": "フォロー",
+      "pos": "名詞",
+      "d": [
+        "フォロー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57826
+  },
+  {
+    "ko": "펭귄",
+    "en": {
+      "w": "penguin",
+      "pos": "名詞",
+      "d": [
+        "penguin"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ペンギン",
+      "r": "ペンギン",
+      "pos": "名詞",
+      "d": [
+        "ペンギン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57827
+  },
+  {
+    "ko": "평점",
+    "en": {
+      "w": "rating, score (review)",
+      "pos": "名詞",
+      "d": [
+        "rating, score (review)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "評点",
+      "r": "ひょうてん",
+      "pos": "名詞",
+      "d": [
+        "評点"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57828
+  },
+  {
+    "ko": "포유류",
+    "en": {
+      "w": "mammal",
+      "pos": "名詞",
+      "d": [
+        "mammal"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "哺乳類",
+      "r": "ほにゅうるい",
+      "pos": "名詞",
+      "d": [
+        "哺乳類"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57829
+  },
+  {
+    "ko": "폭포",
+    "en": {
+      "w": "waterfall",
+      "pos": "名詞",
+      "d": [
+        "waterfall"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "滝",
+      "r": "たき",
+      "pos": "名詞",
+      "d": [
+        "滝"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57830
+  },
+  {
+    "ko": "합창",
+    "en": {
+      "w": "choir, chorus",
+      "pos": "名詞",
+      "d": [
+        "choir, chorus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "合唱",
+      "r": "がっしょう",
+      "pos": "名詞",
+      "d": [
+        "合唱"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57831
+  },
+  {
+    "ko": "항생제",
+    "en": {
+      "w": "antibiotic",
+      "pos": "名詞",
+      "d": [
+        "antibiotic"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "抗生剤",
+      "r": "こうせいざい",
+      "pos": "名詞",
+      "d": [
+        "抗生剤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57832
+  },
+  {
+    "ko": "해산물",
+    "en": {
+      "w": "seafood",
+      "pos": "名詞",
+      "d": [
+        "seafood"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "海産物",
+      "r": "かいさんぶつ",
+      "pos": "名詞",
+      "d": [
+        "海産物"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57833
+  },
+  {
+    "ko": "해열제",
+    "en": {
+      "w": "fever reducer",
+      "pos": "名詞",
+      "d": [
+        "fever reducer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "解熱剤",
+      "r": "げねつざい",
+      "pos": "名詞",
+      "d": [
+        "解熱剤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57834
+  },
+  {
+    "ko": "혈압",
+    "en": {
+      "w": "blood pressure",
+      "pos": "名詞",
+      "d": [
+        "blood pressure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "血圧",
+      "r": "けつあつ",
+      "pos": "名詞",
+      "d": [
+        "血圧"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57835
+  },
+  {
+    "ko": "홍수",
+    "en": {
+      "w": "flood",
+      "pos": "名詞",
+      "d": [
+        "flood"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "洪水",
+      "r": "こうずい",
+      "pos": "名詞",
+      "d": [
+        "洪水"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57836
+  },
+  {
+    "ko": "화산",
+    "en": {
+      "w": "volcano",
+      "pos": "名詞",
+      "d": [
+        "volcano"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "火山",
+      "r": "かざん",
+      "pos": "名詞",
+      "d": [
+        "火山"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57837
+  },
+  {
+    "ko": "화상",
+    "en": {
+      "w": "burn (injury)",
+      "pos": "名詞",
+      "d": [
+        "burn (injury)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "火傷",
+      "r": "やけど",
+      "pos": "名詞",
+      "d": [
+        "火傷"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57838
+  },
+  {
+    "ko": "화석",
+    "en": {
+      "w": "fossil",
+      "pos": "名詞",
+      "d": [
+        "fossil"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "化石",
+      "r": "かせき",
+      "pos": "名詞",
+      "d": [
+        "化石"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57839
+  },
+  {
+    "ko": "후식",
+    "en": {
+      "w": "dessert (after a meal)",
+      "pos": "名詞",
+      "d": [
+        "dessert (after a meal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デザート",
+      "r": "デザート",
+      "pos": "名詞",
+      "d": [
+        "デザート"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57840
+  },
+  {
+    "ko": "후추",
+    "en": {
+      "w": "pepper (spice)",
+      "pos": "名詞",
+      "d": [
+        "pepper (spice)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "胡椒",
+      "r": "こしょう",
+      "pos": "名詞",
+      "d": [
+        "胡椒"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57841
+  },
+  {
+    "ko": "휴학",
+    "en": {
+      "w": "leave of absence (school)",
+      "pos": "名詞",
+      "d": [
+        "leave of absence (school)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "休学",
+      "r": "きゅうがく",
+      "pos": "名詞",
+      "d": [
+        "休学"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57842
+  },
+  {
+    "ko": "흥행",
+    "en": {
+      "w": "box office success",
+      "pos": "名詞",
+      "d": [
+        "box office success"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "興行",
+      "r": "こうぎょう",
+      "pos": "名詞",
+      "d": [
+        "興行"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 57843
   }
 ];
