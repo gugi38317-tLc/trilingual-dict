@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 5287
+// 단어수: 5469
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -144088,5 +144088,4737 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "A",
     "ko_rank": 57198
+  },
+  {
+    "ko": "가치관",
+    "en": {
+      "w": "values, view of values",
+      "pos": "名詞",
+      "d": [
+        "values, view of values"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "価値観",
+      "r": "かちかん",
+      "pos": "名詞",
+      "d": [
+        "価値観"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57199
+  },
+  {
+    "ko": "감동하다",
+    "en": {
+      "w": "to be moved, touched (emotionally)",
+      "pos": "動詞",
+      "d": [
+        "to be moved, touched (emotionally)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "感動する",
+      "r": "かんどうする",
+      "pos": "動詞",
+      "d": [
+        "感動する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57200
+  },
+  {
+    "ko": "강제적",
+    "en": {
+      "w": "compulsory, coercive",
+      "pos": "名詞",
+      "d": [
+        "compulsory, coercive"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "強制的",
+      "r": "きょうせいてき",
+      "pos": "名詞",
+      "d": [
+        "強制的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57201
+  },
+  {
+    "ko": "강조하다",
+    "en": {
+      "w": "to emphasize, stress",
+      "pos": "動詞",
+      "d": [
+        "to emphasize, stress"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "強調する",
+      "r": "きょうちょうする",
+      "pos": "動詞",
+      "d": [
+        "強調する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57202
+  },
+  {
+    "ko": "개념",
+    "en": {
+      "w": "concept, notion",
+      "pos": "名詞",
+      "d": [
+        "concept, notion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "概念",
+      "r": "がいねん",
+      "pos": "名詞",
+      "d": [
+        "概念"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57203
+  },
+  {
+    "ko": "개인정보",
+    "en": {
+      "w": "personal information",
+      "pos": "名詞",
+      "d": [
+        "personal information"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "個人情報",
+      "r": "こじんじょうほう",
+      "pos": "名詞",
+      "d": [
+        "個人情報"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57204
+  },
+  {
+    "ko": "개혁하다",
+    "en": {
+      "w": "to reform",
+      "pos": "動詞",
+      "d": [
+        "to reform"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "改革する",
+      "r": "かいかくする",
+      "pos": "動詞",
+      "d": [
+        "改革する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57205
+  },
+  {
+    "ko": "객관적",
+    "en": {
+      "w": "objective",
+      "pos": "名詞",
+      "d": [
+        "objective"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "客観的",
+      "r": "きゃっかんてき",
+      "pos": "名詞",
+      "d": [
+        "客観的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57206
+  },
+  {
+    "ko": "거래처",
+    "en": {
+      "w": "business partner, client",
+      "pos": "名詞",
+      "d": [
+        "business partner, client"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "取引先",
+      "r": "とりひきさき",
+      "pos": "名詞",
+      "d": [
+        "取引先"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57207
+  },
+  {
+    "ko": "거만하다",
+    "en": {
+      "w": "to be arrogant, haughty",
+      "pos": "形容詞",
+      "d": [
+        "to be arrogant, haughty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "傲慢だ",
+      "r": "ごうまんだ",
+      "pos": "形容詞",
+      "d": [
+        "傲慢だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57208
+  },
+  {
+    "ko": "검토하다",
+    "en": {
+      "w": "to review, examine",
+      "pos": "動詞",
+      "d": [
+        "to review, examine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "検討する",
+      "r": "けんとうする",
+      "pos": "動詞",
+      "d": [
+        "検討する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57209
+  },
+  {
+    "ko": "겸손하다",
+    "en": {
+      "w": "to be humble, modest",
+      "pos": "形容詞",
+      "d": [
+        "to be humble, modest"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "謙虚だ",
+      "r": "けんきょだ",
+      "pos": "形容詞",
+      "d": [
+        "謙虚だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57210
+  },
+  {
+    "ko": "경영진",
+    "en": {
+      "w": "management, executives",
+      "pos": "名詞",
+      "d": [
+        "management, executives"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "経営陣",
+      "r": "けいえいじん",
+      "pos": "名詞",
+      "d": [
+        "経営陣"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57211
+  },
+  {
+    "ko": "계승",
+    "en": {
+      "w": "succession, inheritance (of tradition)",
+      "pos": "名詞",
+      "d": [
+        "succession, inheritance (of tradition)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "継承",
+      "r": "けいしょう",
+      "pos": "名詞",
+      "d": [
+        "継承"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57212
+  },
+  {
+    "ko": "고령화",
+    "en": {
+      "w": "aging (of population)",
+      "pos": "名詞",
+      "d": [
+        "aging (of population)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "高齢化",
+      "r": "こうれいか",
+      "pos": "名詞",
+      "d": [
+        "高齢化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57213
+  },
+  {
+    "ko": "고백",
+    "en": {
+      "w": "confession",
+      "pos": "名詞",
+      "d": [
+        "confession"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "告白",
+      "r": "こくはく",
+      "pos": "名詞",
+      "d": [
+        "告白"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57214
+  },
+  {
+    "ko": "고정관념",
+    "en": {
+      "w": "stereotype, fixed idea",
+      "pos": "名詞",
+      "d": [
+        "stereotype, fixed idea"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "固定観念",
+      "r": "こていかんねん",
+      "pos": "名詞",
+      "d": [
+        "固定観念"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57215
+  },
+  {
+    "ko": "공감",
+    "en": {
+      "w": "empathy, sympathy",
+      "pos": "名詞",
+      "d": [
+        "empathy, sympathy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "共感",
+      "r": "きょうかん",
+      "pos": "名詞",
+      "d": [
+        "共感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57216
+  },
+  {
+    "ko": "공익",
+    "en": {
+      "w": "public interest",
+      "pos": "名詞",
+      "d": [
+        "public interest"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "公益",
+      "r": "こうえき",
+      "pos": "名詞",
+      "d": [
+        "公益"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57217
+  },
+  {
+    "ko": "공정하다",
+    "en": {
+      "w": "to be fair",
+      "pos": "形容詞",
+      "d": [
+        "to be fair"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "公正だ",
+      "r": "こうせいだ",
+      "pos": "形容詞",
+      "d": [
+        "公正だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57218
+  },
+  {
+    "ko": "과감하다",
+    "en": {
+      "w": "to be bold, daring",
+      "pos": "形容詞",
+      "d": [
+        "to be bold, daring"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "果敢だ",
+      "r": "かかんだ",
+      "pos": "形容詞",
+      "d": [
+        "果敢だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57219
+  },
+  {
+    "ko": "관대하다",
+    "en": {
+      "w": "to be generous, tolerant",
+      "pos": "形容詞",
+      "d": [
+        "to be generous, tolerant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "寛大だ",
+      "r": "かんだいだ",
+      "pos": "形容詞",
+      "d": [
+        "寛大だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57220
+  },
+  {
+    "ko": "구조",
+    "en": {
+      "w": "structure",
+      "pos": "名詞",
+      "d": [
+        "structure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "構造",
+      "r": "こうぞう",
+      "pos": "名詞",
+      "d": [
+        "構造"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57221
+  },
+  {
+    "ko": "권태감",
+    "en": {
+      "w": "boredom, ennui",
+      "pos": "名詞",
+      "d": [
+        "boredom, ennui"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "倦怠感",
+      "r": "けんたいかん",
+      "pos": "名詞",
+      "d": [
+        "倦怠感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57222
+  },
+  {
+    "ko": "규제",
+    "en": {
+      "w": "regulation",
+      "pos": "名詞",
+      "d": [
+        "regulation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "規制",
+      "r": "きせい",
+      "pos": "名詞",
+      "d": [
+        "規制"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57223
+  },
+  {
+    "ko": "그래도",
+    "en": {
+      "w": "still, even so",
+      "pos": "副詞",
+      "d": [
+        "still, even so"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "それでも",
+      "r": "それでも",
+      "pos": "副詞",
+      "d": [
+        "それでも"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "B",
+    "ko_rank": 57224
+  },
+  {
+    "ko": "근무시간",
+    "en": {
+      "w": "working hours",
+      "pos": "名詞",
+      "d": [
+        "working hours"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "勤務時間",
+      "r": "きんむじかん",
+      "pos": "名詞",
+      "d": [
+        "勤務時間"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57225
+  },
+  {
+    "ko": "기반",
+    "en": {
+      "w": "foundation, basis",
+      "pos": "名詞",
+      "d": [
+        "foundation, basis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "基盤",
+      "r": "きばん",
+      "pos": "名詞",
+      "d": [
+        "基盤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57226
+  },
+  {
+    "ko": "기후변화",
+    "en": {
+      "w": "climate change",
+      "pos": "名詞",
+      "d": [
+        "climate change"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "気候変動",
+      "r": "きこうへんどう",
+      "pos": "名詞",
+      "d": [
+        "気候変動"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57227
+  },
+  {
+    "ko": "냉정하다",
+    "en": {
+      "w": "to be cool-headed, coldhearted",
+      "pos": "形容詞",
+      "d": [
+        "to be cool-headed, coldhearted"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "冷静だ",
+      "r": "れいせいだ",
+      "pos": "形容詞",
+      "d": [
+        "冷静だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57228
+  },
+  {
+    "ko": "논리력",
+    "en": {
+      "w": "logical thinking ability",
+      "pos": "名詞",
+      "d": [
+        "logical thinking ability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "論理力",
+      "r": "ろんりりょく",
+      "pos": "名詞",
+      "d": [
+        "論理力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57229
+  },
+  {
+    "ko": "대담하다",
+    "en": {
+      "w": "to be bold, audacious",
+      "pos": "形容詞",
+      "d": [
+        "to be bold, audacious"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "大胆だ",
+      "r": "だいたんだ",
+      "pos": "形容詞",
+      "d": [
+        "大胆だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57230
+  },
+  {
+    "ko": "도덕성",
+    "en": {
+      "w": "morality",
+      "pos": "名詞",
+      "d": [
+        "morality"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "道徳性",
+      "r": "どうとくせい",
+      "pos": "名詞",
+      "d": [
+        "道徳性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57231
+  },
+  {
+    "ko": "도전하다",
+    "en": {
+      "w": "to challenge, take on a challenge",
+      "pos": "動詞",
+      "d": [
+        "to challenge, take on a challenge"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "挑戦する",
+      "r": "ちょうせんする",
+      "pos": "動詞",
+      "d": [
+        "挑戦する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57232
+  },
+  {
+    "ko": "독창성",
+    "en": {
+      "w": "originality, creativity",
+      "pos": "名詞",
+      "d": [
+        "originality, creativity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "独創性",
+      "r": "どくそうせい",
+      "pos": "名詞",
+      "d": [
+        "独創性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57233
+  },
+  {
+    "ko": "동의하다",
+    "en": {
+      "w": "to agree, consent",
+      "pos": "動詞",
+      "d": [
+        "to agree, consent"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "同意する",
+      "r": "どういする",
+      "pos": "動詞",
+      "d": [
+        "同意する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57234
+  },
+  {
+    "ko": "둔감하다",
+    "en": {
+      "w": "to be insensitive, dull",
+      "pos": "形容詞",
+      "d": [
+        "to be insensitive, dull"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鈍感だ",
+      "r": "どんかんだ",
+      "pos": "形容詞",
+      "d": [
+        "鈍感だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57235
+  },
+  {
+    "ko": "디지털화",
+    "en": {
+      "w": "digitalization",
+      "pos": "名詞",
+      "d": [
+        "digitalization"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デジタル化",
+      "r": "デジタルか",
+      "pos": "名詞",
+      "d": [
+        "デジタル化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57236
+  },
+  {
+    "ko": "마케팅",
+    "en": {
+      "w": "marketing",
+      "pos": "名詞",
+      "d": [
+        "marketing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マーケティング",
+      "r": "マーケティング",
+      "pos": "名詞",
+      "d": [
+        "マーケティング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57237
+  },
+  {
+    "ko": "만족감",
+    "en": {
+      "w": "sense of satisfaction",
+      "pos": "名詞",
+      "d": [
+        "sense of satisfaction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "満足感",
+      "r": "まんぞくかん",
+      "pos": "名詞",
+      "d": [
+        "満足感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57238
+  },
+  {
+    "ko": "매출",
+    "en": {
+      "w": "sales revenue",
+      "pos": "名詞",
+      "d": [
+        "sales revenue"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "売上",
+      "r": "うりあげ",
+      "pos": "名詞",
+      "d": [
+        "売上"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57239
+  },
+  {
+    "ko": "맥락",
+    "en": {
+      "w": "context",
+      "pos": "名詞",
+      "d": [
+        "context"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "脈絡・文脈",
+      "r": "みゃくらく",
+      "pos": "名詞",
+      "d": [
+        "脈絡・文脈"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57240
+  },
+  {
+    "ko": "모호하다",
+    "en": {
+      "w": "to be vague, ambiguous",
+      "pos": "形容詞",
+      "d": [
+        "to be vague, ambiguous"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "曖昧だ",
+      "r": "あいまいだ",
+      "pos": "形容詞",
+      "d": [
+        "曖昧だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57241
+  },
+  {
+    "ko": "목적성",
+    "en": {
+      "w": "purposiveness, goal-orientedness",
+      "pos": "名詞",
+      "d": [
+        "purposiveness, goal-orientedness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "目的性",
+      "r": "もくてきせい",
+      "pos": "名詞",
+      "d": [
+        "目的性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57242
+  },
+  {
+    "ko": "무기력",
+    "en": {
+      "w": "lethargy, lack of energy",
+      "pos": "名詞",
+      "d": [
+        "lethargy, lack of energy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "無気力",
+      "r": "むきりょく",
+      "pos": "名詞",
+      "d": [
+        "無気力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57243
+  },
+  {
+    "ko": "문맥",
+    "en": {
+      "w": "(textual) context",
+      "pos": "名詞",
+      "d": [
+        "(textual) context"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "文脈",
+      "r": "ぶんみゃく",
+      "pos": "名詞",
+      "d": [
+        "文脈"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57244
+  },
+  {
+    "ko": "반대하다",
+    "en": {
+      "w": "to oppose",
+      "pos": "動詞",
+      "d": [
+        "to oppose"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "反対する",
+      "r": "はんたいする",
+      "pos": "動詞",
+      "d": [
+        "反対する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57245
+  },
+  {
+    "ko": "반면에",
+    "en": {
+      "w": "on the other hand",
+      "pos": "副詞",
+      "d": [
+        "on the other hand"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "一方で・反面",
+      "r": "いっぽうで",
+      "pos": "副詞",
+      "d": [
+        "一方で・反面"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "B",
+    "ko_rank": 57246
+  },
+  {
+    "ko": "방법론",
+    "en": {
+      "w": "methodology",
+      "pos": "名詞",
+      "d": [
+        "methodology"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "方法論",
+      "r": "ほうほうろん",
+      "pos": "名詞",
+      "d": [
+        "方法論"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57247
+  },
+  {
+    "ko": "배려",
+    "en": {
+      "w": "consideration, thoughtfulness",
+      "pos": "名詞",
+      "d": [
+        "consideration, thoughtfulness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "配慮",
+      "r": "はいりょ",
+      "pos": "名詞",
+      "d": [
+        "配慮"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57248
+  },
+  {
+    "ko": "변경하다",
+    "en": {
+      "w": "to change, alter",
+      "pos": "動詞",
+      "d": [
+        "to change, alter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "変更する",
+      "r": "へんこうする",
+      "pos": "動詞",
+      "d": [
+        "変更する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57249
+  },
+  {
+    "ko": "부적절하다",
+    "en": {
+      "w": "to be inappropriate",
+      "pos": "形容詞",
+      "d": [
+        "to be inappropriate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不適切だ",
+      "r": "ふてきせつだ",
+      "pos": "形容詞",
+      "d": [
+        "不適切だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57250
+  },
+  {
+    "ko": "부정확하다",
+    "en": {
+      "w": "to be inaccurate",
+      "pos": "形容詞",
+      "d": [
+        "to be inaccurate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不正確だ",
+      "r": "ふせいかくだ",
+      "pos": "形容詞",
+      "d": [
+        "不正確だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57251
+  },
+  {
+    "ko": "부하직원",
+    "en": {
+      "w": "subordinate (employee)",
+      "pos": "名詞",
+      "d": [
+        "subordinate (employee)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "部下",
+      "r": "ぶか",
+      "pos": "名詞",
+      "d": [
+        "部下"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57252
+  },
+  {
+    "ko": "분명하다",
+    "en": {
+      "w": "to be clear, evident",
+      "pos": "形容詞",
+      "d": [
+        "to be clear, evident"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "明らかだ",
+      "r": "あきらかだ",
+      "pos": "形容詞",
+      "d": [
+        "明らかだ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57253
+  },
+  {
+    "ko": "분명히",
+    "en": {
+      "w": "clearly, definitely",
+      "pos": "副詞",
+      "d": [
+        "clearly, definitely"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "明らかに・確かに",
+      "r": "あきらかに",
+      "pos": "副詞",
+      "d": [
+        "明らかに・確かに"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "B",
+    "ko_rank": 57254
+  },
+  {
+    "ko": "분석력",
+    "en": {
+      "w": "analytical ability",
+      "pos": "名詞",
+      "d": [
+        "analytical ability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "分析力",
+      "r": "ぶんせきりょく",
+      "pos": "名詞",
+      "d": [
+        "分析力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57255
+  },
+  {
+    "ko": "분쟁",
+    "en": {
+      "w": "dispute, conflict",
+      "pos": "名詞",
+      "d": [
+        "dispute, conflict"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "紛争",
+      "r": "ふんそう",
+      "pos": "名詞",
+      "d": [
+        "紛争"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57256
+  },
+  {
+    "ko": "불공정하다",
+    "en": {
+      "w": "to be unfair",
+      "pos": "形容詞",
+      "d": [
+        "to be unfair"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不公正だ",
+      "r": "ふこうせいだ",
+      "pos": "形容詞",
+      "d": [
+        "不公正だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57257
+  },
+  {
+    "ko": "불만족하다",
+    "en": {
+      "w": "to be dissatisfied",
+      "pos": "形容詞",
+      "d": [
+        "to be dissatisfied"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不満足だ",
+      "r": "ふまんぞくだ",
+      "pos": "形容詞",
+      "d": [
+        "不満足だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57258
+  },
+  {
+    "ko": "불법성",
+    "en": {
+      "w": "illegality",
+      "pos": "名詞",
+      "d": [
+        "illegality"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不法性",
+      "r": "ふほうせい",
+      "pos": "名詞",
+      "d": [
+        "不法性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57259
+  },
+  {
+    "ko": "불성실하다",
+    "en": {
+      "w": "to be insincere, unfaithful",
+      "pos": "形容詞",
+      "d": [
+        "to be insincere, unfaithful"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不誠実だ",
+      "r": "ふせいじつだ",
+      "pos": "形容詞",
+      "d": [
+        "不誠実だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57260
+  },
+  {
+    "ko": "불투명하다",
+    "en": {
+      "w": "to be opaque, unclear (of prospects)",
+      "pos": "形容詞",
+      "d": [
+        "to be opaque, unclear (of prospects)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "不透明だ",
+      "r": "ふとうめいだ",
+      "pos": "形容詞",
+      "d": [
+        "不透明だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57261
+  },
+  {
+    "ko": "비록",
+    "en": {
+      "w": "although, even though",
+      "pos": "副詞",
+      "d": [
+        "although, even though"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "たとえ",
+      "r": "たとえ",
+      "pos": "副詞",
+      "d": [
+        "たとえ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "B",
+    "ko_rank": 57262
+  },
+  {
+    "ko": "비합리적",
+    "en": {
+      "w": "irrational",
+      "pos": "名詞",
+      "d": [
+        "irrational"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "非合理的",
+      "r": "ひごうりてき",
+      "pos": "名詞",
+      "d": [
+        "非合理的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57263
+  },
+  {
+    "ko": "비효율적",
+    "en": {
+      "w": "inefficient",
+      "pos": "名詞",
+      "d": [
+        "inefficient"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "非効率的",
+      "r": "ひこうりつてき",
+      "pos": "名詞",
+      "d": [
+        "非効率的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57264
+  },
+  {
+    "ko": "사명감",
+    "en": {
+      "w": "sense of mission",
+      "pos": "名詞",
+      "d": [
+        "sense of mission"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "使命感",
+      "r": "しめいかん",
+      "pos": "名詞",
+      "d": [
+        "使命感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57265
+  },
+  {
+    "ko": "사익",
+    "en": {
+      "w": "private interest",
+      "pos": "名詞",
+      "d": [
+        "private interest"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "私益",
+      "r": "しえき",
+      "pos": "名詞",
+      "d": [
+        "私益"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57266
+  },
+  {
+    "ko": "상사",
+    "en": {
+      "w": "boss, superior",
+      "pos": "名詞",
+      "d": [
+        "boss, superior"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "上司",
+      "r": "じょうし",
+      "pos": "名詞",
+      "d": [
+        "上司"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57267
+  },
+  {
+    "ko": "상호적",
+    "en": {
+      "w": "mutual, reciprocal",
+      "pos": "名詞",
+      "d": [
+        "mutual, reciprocal"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "相互的",
+      "r": "そうごてき",
+      "pos": "名詞",
+      "d": [
+        "相互的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57268
+  },
+  {
+    "ko": "생산성",
+    "en": {
+      "w": "productivity",
+      "pos": "名詞",
+      "d": [
+        "productivity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "生産性",
+      "r": "せいさんせい",
+      "pos": "名詞",
+      "d": [
+        "生産性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57269
+  },
+  {
+    "ko": "서운하다",
+    "en": {
+      "w": "to feel sad, disappointed (by someone's treatment)",
+      "pos": "形容詞",
+      "d": [
+        "to feel sad, disappointed (by someone's treatment)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "名残惜しい・寂しい",
+      "r": "なごりおしい",
+      "pos": "形容詞",
+      "d": [
+        "名残惜しい・寂しい"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57270
+  },
+  {
+    "ko": "선입견",
+    "en": {
+      "w": "preconception, prejudice",
+      "pos": "名詞",
+      "d": [
+        "preconception, prejudice"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "先入観",
+      "r": "せんにゅうかん",
+      "pos": "名詞",
+      "d": [
+        "先入観"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57271
+  },
+  {
+    "ko": "선택적",
+    "en": {
+      "w": "optional, selective",
+      "pos": "名詞",
+      "d": [
+        "optional, selective"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "選択的",
+      "r": "せんたくてき",
+      "pos": "名詞",
+      "d": [
+        "選択的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57272
+  },
+  {
+    "ko": "설득",
+    "en": {
+      "w": "persuasion",
+      "pos": "名詞",
+      "d": [
+        "persuasion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "説得",
+      "r": "せっとく",
+      "pos": "名詞",
+      "d": [
+        "説得"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57273
+  },
+  {
+    "ko": "설마",
+    "en": {
+      "w": "surely not, don't tell me",
+      "pos": "副詞",
+      "d": [
+        "surely not, don't tell me"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "まさか",
+      "r": "まさか",
+      "pos": "副詞",
+      "d": [
+        "まさか"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "B",
+    "ko_rank": 57274
+  },
+  {
+    "ko": "성능",
+    "en": {
+      "w": "performance (of a machine)",
+      "pos": "名詞",
+      "d": [
+        "performance (of a machine)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "性能",
+      "r": "せいのう",
+      "pos": "名詞",
+      "d": [
+        "性能"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57275
+  },
+  {
+    "ko": "성취감",
+    "en": {
+      "w": "sense of accomplishment",
+      "pos": "名詞",
+      "d": [
+        "sense of accomplishment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "達成感",
+      "r": "たっせいかん",
+      "pos": "名詞",
+      "d": [
+        "達成感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57276
+  },
+  {
+    "ko": "세계관",
+    "en": {
+      "w": "worldview",
+      "pos": "名詞",
+      "d": [
+        "worldview"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "世界観",
+      "r": "せかいかん",
+      "pos": "名詞",
+      "d": [
+        "世界観"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57277
+  },
+  {
+    "ko": "소속감",
+    "en": {
+      "w": "sense of belonging",
+      "pos": "名詞",
+      "d": [
+        "sense of belonging"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "所属感",
+      "r": "しょぞくかん",
+      "pos": "名詞",
+      "d": [
+        "所属感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57278
+  },
+  {
+    "ko": "소심하다",
+    "en": {
+      "w": "to be timid, small-minded",
+      "pos": "形容詞",
+      "d": [
+        "to be timid, small-minded"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "小心だ",
+      "r": "しょうしんだ",
+      "pos": "形容詞",
+      "d": [
+        "小心だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57279
+  },
+  {
+    "ko": "소통",
+    "en": {
+      "w": "communication",
+      "pos": "名詞",
+      "d": [
+        "communication"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "疎通・コミュニケーション",
+      "r": "そつう",
+      "pos": "名詞",
+      "d": [
+        "疎通・コミュニケーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57280
+  },
+  {
+    "ko": "속성",
+    "en": {
+      "w": "attribute, property",
+      "pos": "名詞",
+      "d": [
+        "attribute, property"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "属性",
+      "r": "ぞくせい",
+      "pos": "名詞",
+      "d": [
+        "属性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57281
+  },
+  {
+    "ko": "수락하다",
+    "en": {
+      "w": "to accept (a proposal)",
+      "pos": "動詞",
+      "d": [
+        "to accept (a proposal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "承諾する",
+      "r": "しょうだくする",
+      "pos": "動詞",
+      "d": [
+        "承諾する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57282
+  },
+  {
+    "ko": "수익",
+    "en": {
+      "w": "profit, earnings",
+      "pos": "名詞",
+      "d": [
+        "profit, earnings"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "収益",
+      "r": "しゅうえき",
+      "pos": "名詞",
+      "d": [
+        "収益"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57283
+  },
+  {
+    "ko": "수정하다",
+    "en": {
+      "w": "to revise, correct",
+      "pos": "動詞",
+      "d": [
+        "to revise, correct"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "修正する",
+      "r": "しゅうせいする",
+      "pos": "動詞",
+      "d": [
+        "修正する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57284
+  },
+  {
+    "ko": "시장조사",
+    "en": {
+      "w": "market research",
+      "pos": "名詞",
+      "d": [
+        "market research"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "市場調査",
+      "r": "しじょうちょうさ",
+      "pos": "名詞",
+      "d": [
+        "市場調査"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57285
+  },
+  {
+    "ko": "신뢰",
+    "en": {
+      "w": "trust",
+      "pos": "名詞",
+      "d": [
+        "trust"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "信頼",
+      "r": "しんらい",
+      "pos": "名詞",
+      "d": [
+        "信頼"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57286
+  },
+  {
+    "ko": "신뢰성",
+    "en": {
+      "w": "reliability",
+      "pos": "名詞",
+      "d": [
+        "reliability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "信頼性",
+      "r": "しんらいせい",
+      "pos": "名詞",
+      "d": [
+        "信頼性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57287
+  },
+  {
+    "ko": "실업률",
+    "en": {
+      "w": "unemployment rate",
+      "pos": "名詞",
+      "d": [
+        "unemployment rate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "失業率",
+      "r": "しつぎょうりつ",
+      "pos": "名詞",
+      "d": [
+        "失業率"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57288
+  },
+  {
+    "ko": "안전성",
+    "en": {
+      "w": "safety",
+      "pos": "名詞",
+      "d": [
+        "safety"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "安全性",
+      "r": "あんぜんせい",
+      "pos": "名詞",
+      "d": [
+        "安全性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57289
+  },
+  {
+    "ko": "안정성",
+    "en": {
+      "w": "stability",
+      "pos": "名詞",
+      "d": [
+        "stability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "安定性",
+      "r": "あんていせい",
+      "pos": "名詞",
+      "d": [
+        "安定性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57290
+  },
+  {
+    "ko": "애매하다",
+    "en": {
+      "w": "to be ambiguous, vague",
+      "pos": "形容詞",
+      "d": [
+        "to be ambiguous, vague"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "曖昧だ",
+      "r": "あいまいだ",
+      "pos": "形容詞",
+      "d": [
+        "曖昧だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57291
+  },
+  {
+    "ko": "야근",
+    "en": {
+      "w": "overtime work at night",
+      "pos": "名詞",
+      "d": [
+        "overtime work at night"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "夜勤・残業",
+      "r": "やきん",
+      "pos": "名詞",
+      "d": [
+        "夜勤・残業"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57292
+  },
+  {
+    "ko": "양보",
+    "en": {
+      "w": "concession, yielding",
+      "pos": "名詞",
+      "d": [
+        "concession, yielding"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "譲歩",
+      "r": "じょうほ",
+      "pos": "名詞",
+      "d": [
+        "譲歩"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57293
+  },
+  {
+    "ko": "어휘",
+    "en": {
+      "w": "vocabulary",
+      "pos": "名詞",
+      "d": [
+        "vocabulary"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "語彙",
+      "r": "ごい",
+      "pos": "名詞",
+      "d": [
+        "語彙"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57294
+  },
+  {
+    "ko": "연봉",
+    "en": {
+      "w": "annual salary",
+      "pos": "名詞",
+      "d": [
+        "annual salary"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "年俸",
+      "r": "ねんぽう",
+      "pos": "名詞",
+      "d": [
+        "年俸"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57295
+  },
+  {
+    "ko": "열등감",
+    "en": {
+      "w": "inferiority complex",
+      "pos": "名詞",
+      "d": [
+        "inferiority complex"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "劣等感",
+      "r": "れっとうかん",
+      "pos": "名詞",
+      "d": [
+        "劣等感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57296
+  },
+  {
+    "ko": "영구적",
+    "en": {
+      "w": "permanent",
+      "pos": "名詞",
+      "d": [
+        "permanent"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "永久的",
+      "r": "えいきゅうてき",
+      "pos": "名詞",
+      "d": [
+        "永久的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57297
+  },
+  {
+    "ko": "예민하다",
+    "en": {
+      "w": "to be sensitive, sharp",
+      "pos": "形容詞",
+      "d": [
+        "to be sensitive, sharp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "敏感だ",
+      "r": "びんかんだ",
+      "pos": "形容詞",
+      "d": [
+        "敏感だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57298
+  },
+  {
+    "ko": "예측",
+    "en": {
+      "w": "prediction, forecast",
+      "pos": "名詞",
+      "d": [
+        "prediction, forecast"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "予測",
+      "r": "よそく",
+      "pos": "名詞",
+      "d": [
+        "予測"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57299
+  },
+  {
+    "ko": "요점",
+    "en": {
+      "w": "main point, gist",
+      "pos": "名詞",
+      "d": [
+        "main point, gist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "要点",
+      "r": "ようてん",
+      "pos": "名詞",
+      "d": [
+        "要点"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57300
+  },
+  {
+    "ko": "운영",
+    "en": {
+      "w": "operation, management",
+      "pos": "名詞",
+      "d": [
+        "operation, management"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "運営",
+      "r": "うんえい",
+      "pos": "名詞",
+      "d": [
+        "運営"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57301
+  },
+  {
+    "ko": "원리",
+    "en": {
+      "w": "principle",
+      "pos": "名詞",
+      "d": [
+        "principle"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原理",
+      "r": "げんり",
+      "pos": "名詞",
+      "d": [
+        "原理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57302
+  },
+  {
+    "ko": "원칙",
+    "en": {
+      "w": "principle, rule",
+      "pos": "名詞",
+      "d": [
+        "principle, rule"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原則",
+      "r": "げんそく",
+      "pos": "名詞",
+      "d": [
+        "原則"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57303
+  },
+  {
+    "ko": "유지보수",
+    "en": {
+      "w": "maintenance",
+      "pos": "名詞",
+      "d": [
+        "maintenance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "維持補修・メンテナンス",
+      "r": "いじほしゅ",
+      "pos": "名詞",
+      "d": [
+        "維持補修・メンテナンス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57304
+  },
+  {
+    "ko": "윤리성",
+    "en": {
+      "w": "ethicality",
+      "pos": "名詞",
+      "d": [
+        "ethicality"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "倫理性",
+      "r": "りんりせい",
+      "pos": "名詞",
+      "d": [
+        "倫理性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57305
+  },
+  {
+    "ko": "의무적",
+    "en": {
+      "w": "obligatory, mandatory",
+      "pos": "名詞",
+      "d": [
+        "obligatory, mandatory"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "義務的",
+      "r": "ぎむてき",
+      "pos": "名詞",
+      "d": [
+        "義務的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57306
+  },
+  {
+    "ko": "이론",
+    "en": {
+      "w": "theory",
+      "pos": "名詞",
+      "d": [
+        "theory"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "理論",
+      "r": "りろん",
+      "pos": "名詞",
+      "d": [
+        "理論"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57307
+  },
+  {
+    "ko": "인공지능",
+    "en": {
+      "w": "artificial intelligence",
+      "pos": "名詞",
+      "d": [
+        "artificial intelligence"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "人工知能",
+      "r": "じんこうちのう",
+      "pos": "名詞",
+      "d": [
+        "人工知能"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57308
+  },
+  {
+    "ko": "인내심",
+    "en": {
+      "w": "patience",
+      "pos": "名詞",
+      "d": [
+        "patience"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "忍耐心",
+      "r": "にんたいしん",
+      "pos": "名詞",
+      "d": [
+        "忍耐心"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57309
+  },
+  {
+    "ko": "인생관",
+    "en": {
+      "w": "view of life",
+      "pos": "名詞",
+      "d": [
+        "view of life"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "人生観",
+      "r": "じんせいかん",
+      "pos": "名詞",
+      "d": [
+        "人生観"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57310
+  },
+  {
+    "ko": "인플레이션",
+    "en": {
+      "w": "inflation",
+      "pos": "名詞",
+      "d": [
+        "inflation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インフレーション",
+      "r": "インフレーション",
+      "pos": "名詞",
+      "d": [
+        "インフレーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57311
+  },
+  {
+    "ko": "일방적",
+    "en": {
+      "w": "one-sided, unilateral",
+      "pos": "名詞",
+      "d": [
+        "one-sided, unilateral"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "一方的",
+      "r": "いっぽうてき",
+      "pos": "名詞",
+      "d": [
+        "一方的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57312
+  },
+  {
+    "ko": "자동화",
+    "en": {
+      "w": "automation",
+      "pos": "名詞",
+      "d": [
+        "automation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自動化",
+      "r": "じどうか",
+      "pos": "名詞",
+      "d": [
+        "自動化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57313
+  },
+  {
+    "ko": "자발적",
+    "en": {
+      "w": "voluntary",
+      "pos": "名詞",
+      "d": [
+        "voluntary"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自発的",
+      "r": "じはつてき",
+      "pos": "名詞",
+      "d": [
+        "自発的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57314
+  },
+  {
+    "ko": "자부심",
+    "en": {
+      "w": "pride, self-respect",
+      "pos": "名詞",
+      "d": [
+        "pride, self-respect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自負心",
+      "r": "じふしん",
+      "pos": "名詞",
+      "d": [
+        "自負心"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57315
+  },
+  {
+    "ko": "자신감",
+    "en": {
+      "w": "self-confidence",
+      "pos": "名詞",
+      "d": [
+        "self-confidence"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自信",
+      "r": "じしん",
+      "pos": "名詞",
+      "d": [
+        "自信"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57316
+  },
+  {
+    "ko": "자아",
+    "en": {
+      "w": "self, ego",
+      "pos": "名詞",
+      "d": [
+        "self, ego"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自我",
+      "r": "じが",
+      "pos": "名詞",
+      "d": [
+        "自我"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57317
+  },
+  {
+    "ko": "자율적",
+    "en": {
+      "w": "autonomous",
+      "pos": "名詞",
+      "d": [
+        "autonomous"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自律的",
+      "r": "じりつてき",
+      "pos": "名詞",
+      "d": [
+        "自律的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57318
+  },
+  {
+    "ko": "자존감",
+    "en": {
+      "w": "self-esteem",
+      "pos": "名詞",
+      "d": [
+        "self-esteem"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自尊感",
+      "r": "じそんかん",
+      "pos": "名詞",
+      "d": [
+        "自尊感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57319
+  },
+  {
+    "ko": "잠재적",
+    "en": {
+      "w": "potential, latent",
+      "pos": "名詞",
+      "d": [
+        "potential, latent"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "潜在的",
+      "r": "せんざいてき",
+      "pos": "名詞",
+      "d": [
+        "潜在的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57320
+  },
+  {
+    "ko": "재개하다",
+    "en": {
+      "w": "to resume, restart",
+      "pos": "動詞",
+      "d": [
+        "to resume, restart"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "再開する",
+      "r": "さいかいする",
+      "pos": "動詞",
+      "d": [
+        "再開する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57321
+  },
+  {
+    "ko": "재생에너지",
+    "en": {
+      "w": "renewable energy",
+      "pos": "名詞",
+      "d": [
+        "renewable energy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "再生エネルギー",
+      "r": "さいせいエネルギー",
+      "pos": "名詞",
+      "d": [
+        "再生エネルギー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57322
+  },
+  {
+    "ko": "재회",
+    "en": {
+      "w": "reunion",
+      "pos": "名詞",
+      "d": [
+        "reunion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "再会",
+      "r": "さいかい",
+      "pos": "名詞",
+      "d": [
+        "再会"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57323
+  },
+  {
+    "ko": "저출산",
+    "en": {
+      "w": "low birthrate",
+      "pos": "名詞",
+      "d": [
+        "low birthrate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "少子化",
+      "r": "しょうしか",
+      "pos": "名詞",
+      "d": [
+        "少子化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57324
+  },
+  {
+    "ko": "적합성",
+    "en": {
+      "w": "suitability, fitness",
+      "pos": "名詞",
+      "d": [
+        "suitability, fitness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "適合性",
+      "r": "てきごうせい",
+      "pos": "名詞",
+      "d": [
+        "適合性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57325
+  },
+  {
+    "ko": "전략",
+    "en": {
+      "w": "strategy",
+      "pos": "名詞",
+      "d": [
+        "strategy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "戦略",
+      "r": "せんりゃく",
+      "pos": "名詞",
+      "d": [
+        "戦略"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57326
+  },
+  {
+    "ko": "접근성",
+    "en": {
+      "w": "accessibility",
+      "pos": "名詞",
+      "d": [
+        "accessibility"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アクセス性",
+      "r": "アクセスせい",
+      "pos": "名詞",
+      "d": [
+        "アクセス性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57327
+  },
+  {
+    "ko": "정당성",
+    "en": {
+      "w": "legitimacy",
+      "pos": "名詞",
+      "d": [
+        "legitimacy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "正当性",
+      "r": "せいとうせい",
+      "pos": "名詞",
+      "d": [
+        "正当性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57328
+  },
+  {
+    "ko": "정보화",
+    "en": {
+      "w": "informatization",
+      "pos": "名詞",
+      "d": [
+        "informatization"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "情報化",
+      "r": "じょうほうか",
+      "pos": "名詞",
+      "d": [
+        "情報化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57329
+  },
+  {
+    "ko": "정의",
+    "en": {
+      "w": "definition; justice",
+      "pos": "名詞",
+      "d": [
+        "definition; justice"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "定義・正義",
+      "r": "ていぎ",
+      "pos": "名詞",
+      "d": [
+        "定義・正義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57330
+  },
+  {
+    "ko": "정책",
+    "en": {
+      "w": "policy",
+      "pos": "名詞",
+      "d": [
+        "policy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "政策",
+      "r": "せいさく",
+      "pos": "名詞",
+      "d": [
+        "政策"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57331
+  },
+  {
+    "ko": "정체성",
+    "en": {
+      "w": "identity",
+      "pos": "名詞",
+      "d": [
+        "identity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アイデンティティ",
+      "r": "アイデンティティ",
+      "pos": "名詞",
+      "d": [
+        "アイデンティティ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57332
+  },
+  {
+    "ko": "정확성",
+    "en": {
+      "w": "accuracy",
+      "pos": "名詞",
+      "d": [
+        "accuracy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "正確性",
+      "r": "せいかくせい",
+      "pos": "名詞",
+      "d": [
+        "正確性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57333
+  },
+  {
+    "ko": "제도",
+    "en": {
+      "w": "system, institution",
+      "pos": "名詞",
+      "d": [
+        "system, institution"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "制度",
+      "r": "せいど",
+      "pos": "名詞",
+      "d": [
+        "制度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57334
+  },
+  {
+    "ko": "조급하다",
+    "en": {
+      "w": "to be impatient, hasty",
+      "pos": "形容詞",
+      "d": [
+        "to be impatient, hasty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "気が短い",
+      "r": "きがみじかい",
+      "pos": "形容詞",
+      "d": [
+        "気が短い"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57335
+  },
+  {
+    "ko": "조약",
+    "en": {
+      "w": "treaty",
+      "pos": "名詞",
+      "d": [
+        "treaty"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "条約",
+      "r": "じょうやく",
+      "pos": "名詞",
+      "d": [
+        "条約"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57336
+  },
+  {
+    "ko": "존중",
+    "en": {
+      "w": "respect",
+      "pos": "名詞",
+      "d": [
+        "respect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "尊重",
+      "r": "そんちょう",
+      "pos": "名詞",
+      "d": [
+        "尊重"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57337
+  },
+  {
+    "ko": "주관적",
+    "en": {
+      "w": "subjective",
+      "pos": "名詞",
+      "d": [
+        "subjective"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "主観的",
+      "r": "しゅかんてき",
+      "pos": "名詞",
+      "d": [
+        "主観的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57338
+  },
+  {
+    "ko": "지구력",
+    "en": {
+      "w": "endurance, stamina",
+      "pos": "名詞",
+      "d": [
+        "endurance, stamina"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "持久力",
+      "r": "じきゅうりょく",
+      "pos": "名詞",
+      "d": [
+        "持久力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57339
+  },
+  {
+    "ko": "지속가능성",
+    "en": {
+      "w": "sustainability",
+      "pos": "名詞",
+      "d": [
+        "sustainability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "持続可能性",
+      "r": "じぞくかのうせい",
+      "pos": "名詞",
+      "d": [
+        "持続可能性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57340
+  },
+  {
+    "ko": "지속하다",
+    "en": {
+      "w": "to continue, sustain",
+      "pos": "動詞",
+      "d": [
+        "to continue, sustain"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "持続する",
+      "r": "じぞくする",
+      "pos": "動詞",
+      "d": [
+        "持続する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57341
+  },
+  {
+    "ko": "질투",
+    "en": {
+      "w": "jealousy",
+      "pos": "名詞",
+      "d": [
+        "jealousy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "嫉妬",
+      "r": "しっと",
+      "pos": "名詞",
+      "d": [
+        "嫉妬"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57342
+  },
+  {
+    "ko": "집중력",
+    "en": {
+      "w": "concentration (ability)",
+      "pos": "名詞",
+      "d": [
+        "concentration (ability)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "集中力",
+      "r": "しゅうちゅうりょく",
+      "pos": "名詞",
+      "d": [
+        "集中力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57343
+  },
+  {
+    "ko": "차별화",
+    "en": {
+      "w": "differentiation",
+      "pos": "名詞",
+      "d": [
+        "differentiation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "差別化",
+      "r": "さべつか",
+      "pos": "名詞",
+      "d": [
+        "差別化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57344
+  },
+  {
+    "ko": "창의성",
+    "en": {
+      "w": "creativity",
+      "pos": "名詞",
+      "d": [
+        "creativity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "創意性・創造性",
+      "r": "そういせい",
+      "pos": "名詞",
+      "d": [
+        "創意性・創造性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57345
+  },
+  {
+    "ko": "채용",
+    "en": {
+      "w": "hiring, recruitment",
+      "pos": "名詞",
+      "d": [
+        "hiring, recruitment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "採用",
+      "r": "さいよう",
+      "pos": "名詞",
+      "d": [
+        "採用"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57346
+  },
+  {
+    "ko": "책임감",
+    "en": {
+      "w": "sense of responsibility",
+      "pos": "名詞",
+      "d": [
+        "sense of responsibility"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "責任感",
+      "r": "せきにんかん",
+      "pos": "名詞",
+      "d": [
+        "責任感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57347
+  },
+  {
+    "ko": "체계",
+    "en": {
+      "w": "system",
+      "pos": "名詞",
+      "d": [
+        "system"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "体系",
+      "r": "たいけい",
+      "pos": "名詞",
+      "d": [
+        "体系"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57348
+  },
+  {
+    "ko": "추상적",
+    "en": {
+      "w": "abstract",
+      "pos": "名詞",
+      "d": [
+        "abstract"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "抽象的",
+      "r": "ちゅうしょうてき",
+      "pos": "名詞",
+      "d": [
+        "抽象的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57349
+  },
+  {
+    "ko": "추세",
+    "en": {
+      "w": "trend",
+      "pos": "名詞",
+      "d": [
+        "trend"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "趨勢・傾向",
+      "r": "すうせい",
+      "pos": "名詞",
+      "d": [
+        "趨勢・傾向"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57350
+  },
+  {
+    "ko": "측정하다",
+    "en": {
+      "w": "to measure",
+      "pos": "動詞",
+      "d": [
+        "to measure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "測定する",
+      "r": "そくていする",
+      "pos": "動詞",
+      "d": [
+        "測定する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57351
+  },
+  {
+    "ko": "타당성",
+    "en": {
+      "w": "validity, feasibility",
+      "pos": "名詞",
+      "d": [
+        "validity, feasibility"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妥当性",
+      "r": "だとうせい",
+      "pos": "名詞",
+      "d": [
+        "妥当性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57352
+  },
+  {
+    "ko": "타당하다",
+    "en": {
+      "w": "to be valid, reasonable",
+      "pos": "形容詞",
+      "d": [
+        "to be valid, reasonable"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妥当だ",
+      "r": "だとうだ",
+      "pos": "形容詞",
+      "d": [
+        "妥当だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57353
+  },
+  {
+    "ko": "타협",
+    "en": {
+      "w": "compromise",
+      "pos": "名詞",
+      "d": [
+        "compromise"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妥協",
+      "r": "だきょう",
+      "pos": "名詞",
+      "d": [
+        "妥協"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57354
+  },
+  {
+    "ko": "토대",
+    "en": {
+      "w": "foundation, basis",
+      "pos": "名詞",
+      "d": [
+        "foundation, basis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "土台",
+      "r": "どだい",
+      "pos": "名詞",
+      "d": [
+        "土台"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57355
+  },
+  {
+    "ko": "퇴사",
+    "en": {
+      "w": "resignation, leaving a company",
+      "pos": "名詞",
+      "d": [
+        "resignation, leaving a company"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "退社",
+      "r": "たいしゃ",
+      "pos": "名詞",
+      "d": [
+        "退社"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57356
+  },
+  {
+    "ko": "투명하다",
+    "en": {
+      "w": "to be transparent",
+      "pos": "形容詞",
+      "d": [
+        "to be transparent"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "透明だ",
+      "r": "とうめいだ",
+      "pos": "形容詞",
+      "d": [
+        "透明だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57357
+  },
+  {
+    "ko": "판단력",
+    "en": {
+      "w": "judgment (ability)",
+      "pos": "名詞",
+      "d": [
+        "judgment (ability)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "判断力",
+      "r": "はんだんりょく",
+      "pos": "名詞",
+      "d": [
+        "判断力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57358
+  },
+  {
+    "ko": "편의성",
+    "en": {
+      "w": "convenience",
+      "pos": "名詞",
+      "d": [
+        "convenience"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "利便性",
+      "r": "りべんせい",
+      "pos": "名詞",
+      "d": [
+        "利便性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57359
+  },
+  {
+    "ko": "프라이버시",
+    "en": {
+      "w": "privacy",
+      "pos": "名詞",
+      "d": [
+        "privacy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プライバシー",
+      "r": "プライバシー",
+      "pos": "名詞",
+      "d": [
+        "プライバシー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57360
+  },
+  {
+    "ko": "피로감",
+    "en": {
+      "w": "sense of fatigue",
+      "pos": "名詞",
+      "d": [
+        "sense of fatigue"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "疲労感",
+      "r": "ひろうかん",
+      "pos": "名詞",
+      "d": [
+        "疲労感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57361
+  },
+  {
+    "ko": "피해의식",
+    "en": {
+      "w": "victim mentality",
+      "pos": "名詞",
+      "d": [
+        "victim mentality"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "被害意識",
+      "r": "ひがいいしき",
+      "pos": "名詞",
+      "d": [
+        "被害意識"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57362
+  },
+  {
+    "ko": "필수적",
+    "en": {
+      "w": "essential, indispensable",
+      "pos": "名詞",
+      "d": [
+        "essential, indispensable"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "必須的",
+      "r": "ひっすてき",
+      "pos": "名詞",
+      "d": [
+        "必須的"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57363
+  },
+  {
+    "ko": "합법성",
+    "en": {
+      "w": "legality",
+      "pos": "名詞",
+      "d": [
+        "legality"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "合法性",
+      "r": "ごうほうせい",
+      "pos": "名詞",
+      "d": [
+        "合法性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57364
+  },
+  {
+    "ko": "해결책",
+    "en": {
+      "w": "solution",
+      "pos": "名詞",
+      "d": [
+        "solution"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "解決策",
+      "r": "かいけつさく",
+      "pos": "名詞",
+      "d": [
+        "解決策"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57365
+  },
+  {
+    "ko": "핵심가치",
+    "en": {
+      "w": "core value",
+      "pos": "名詞",
+      "d": [
+        "core value"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "核心価値",
+      "r": "かくしんかち",
+      "pos": "名詞",
+      "d": [
+        "核心価値"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57366
+  },
+  {
+    "ko": "행복감",
+    "en": {
+      "w": "sense of happiness",
+      "pos": "名詞",
+      "d": [
+        "sense of happiness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "幸福感",
+      "r": "こうふくかん",
+      "pos": "名詞",
+      "d": [
+        "幸福感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57367
+  },
+  {
+    "ko": "혁신하다",
+    "en": {
+      "w": "to innovate",
+      "pos": "動詞",
+      "d": [
+        "to innovate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "革新する",
+      "r": "かくしんする",
+      "pos": "動詞",
+      "d": [
+        "革新する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57368
+  },
+  {
+    "ko": "협상",
+    "en": {
+      "w": "negotiation",
+      "pos": "名詞",
+      "d": [
+        "negotiation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "交渉",
+      "r": "こうしょう",
+      "pos": "名詞",
+      "d": [
+        "交渉"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57369
+  },
+  {
+    "ko": "협약",
+    "en": {
+      "w": "agreement, accord",
+      "pos": "名詞",
+      "d": [
+        "agreement, accord"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "協約",
+      "r": "きょうやく",
+      "pos": "名詞",
+      "d": [
+        "協約"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57370
+  },
+  {
+    "ko": "협조하다",
+    "en": {
+      "w": "to cooperate",
+      "pos": "動詞",
+      "d": [
+        "to cooperate"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "協力する",
+      "r": "きょうりょくする",
+      "pos": "動詞",
+      "d": [
+        "協力する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "B",
+    "ko_rank": 57371
+  },
+  {
+    "ko": "홍보",
+    "en": {
+      "w": "public relations, promotion",
+      "pos": "名詞",
+      "d": [
+        "public relations, promotion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "広報",
+      "r": "こうほう",
+      "pos": "名詞",
+      "d": [
+        "広報"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57372
+  },
+  {
+    "ko": "화해",
+    "en": {
+      "w": "reconciliation",
+      "pos": "名詞",
+      "d": [
+        "reconciliation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "和解",
+      "r": "わかい",
+      "pos": "名詞",
+      "d": [
+        "和解"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57373
+  },
+  {
+    "ko": "확률",
+    "en": {
+      "w": "probability",
+      "pos": "名詞",
+      "d": [
+        "probability"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "確率",
+      "r": "かくりつ",
+      "pos": "名詞",
+      "d": [
+        "確率"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57374
+  },
+  {
+    "ko": "활용도",
+    "en": {
+      "w": "degree of utilization",
+      "pos": "名詞",
+      "d": [
+        "degree of utilization"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "活用度",
+      "r": "かつようど",
+      "pos": "名詞",
+      "d": [
+        "活用度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57375
+  },
+  {
+    "ko": "황당하다",
+    "en": {
+      "w": "to be absurd, ridiculous",
+      "pos": "形容詞",
+      "d": [
+        "to be absurd, ridiculous"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "荒唐だ",
+      "r": "こうとうだ",
+      "pos": "形容詞",
+      "d": [
+        "荒唐だ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "형",
+    "ko_pos_ja": "形容詞",
+    "ko_grade": "B",
+    "ko_rank": 57376
+  },
+  {
+    "ko": "회식",
+    "en": {
+      "w": "company dinner, work get-together",
+      "pos": "名詞",
+      "d": [
+        "company dinner, work get-together"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "会食・懇親会",
+      "r": "かいしょく",
+      "pos": "名詞",
+      "d": [
+        "会食・懇親会"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57377
+  },
+  {
+    "ko": "회의",
+    "en": {
+      "w": "meeting",
+      "pos": "名詞",
+      "d": [
+        "meeting"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "会議",
+      "r": "かいぎ",
+      "pos": "名詞",
+      "d": [
+        "会議"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57378
+  },
+  {
+    "ko": "효용",
+    "en": {
+      "w": "utility, usefulness",
+      "pos": "名詞",
+      "d": [
+        "utility, usefulness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "効用",
+      "r": "こうよう",
+      "pos": "名詞",
+      "d": [
+        "効用"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57379
+  },
+  {
+    "ko": "효율성",
+    "en": {
+      "w": "efficiency",
+      "pos": "名詞",
+      "d": [
+        "efficiency"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "効率性",
+      "r": "こうりつせい",
+      "pos": "名詞",
+      "d": [
+        "効率性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "B",
+    "ko_rank": 57380
   }
 ];
