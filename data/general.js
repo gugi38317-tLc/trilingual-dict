@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 6107
+// 단어수: 6307
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -165408,5 +165408,5205 @@ window.DICT.general = [
     "ko_pos_ja": "副詞",
     "ko_grade": "C",
     "ko_rank": 58018
+  },
+  {
+    "ko": "가는 날이 장날",
+    "en": {
+      "w": "unlucky coincidence, bad timing",
+      "pos": "名詞",
+      "d": [
+        "unlucky coincidence, bad timing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "間の悪い巡り合わせ",
+      "r": "まのわるいめぐりあわせ",
+      "pos": "名詞",
+      "d": [
+        "間の悪い巡り合わせ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58019
+  },
+  {
+    "ko": "가는 말이 고와야 오는 말이 곱다",
+    "en": {
+      "w": "speak kindly and you'll be spoken to kindly",
+      "pos": "名詞",
+      "d": [
+        "speak kindly and you'll be spoken to kindly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "優しい言葉には優しい言葉が返る",
+      "r": "やさしいことばにはやさしいことばがかえる",
+      "pos": "名詞",
+      "d": [
+        "優しい言葉には優しい言葉が返る"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58020
+  },
+  {
+    "ko": "가재는 게 편이다",
+    "en": {
+      "w": "people side with their own kind",
+      "pos": "名詞",
+      "d": [
+        "people side with their own kind"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "同類は味方をする",
+      "r": "どうるいはみかたをする",
+      "pos": "名詞",
+      "d": [
+        "同類は味方をする"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58021
+  },
+  {
+    "ko": "갈수록 태산",
+    "en": {
+      "w": "things go from bad to worse",
+      "pos": "名詞",
+      "d": [
+        "things go from bad to worse"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "行けば行くほど困難になること",
+      "r": "いけばいくほどこんなんになること",
+      "pos": "名詞",
+      "d": [
+        "行けば行くほど困難になること"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58022
+  },
+  {
+    "ko": "같은 값이면 다홍치마",
+    "en": {
+      "w": "given equal cost, choose the better option",
+      "pos": "名詞",
+      "d": [
+        "given equal cost, choose the better option"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "同じ値段なら良い物を選ぶ",
+      "r": "おなじねだんならよいものをえらぶ",
+      "pos": "名詞",
+      "d": [
+        "同じ値段なら良い物を選ぶ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58023
+  },
+  {
+    "ko": "개구리 올챙이 적 생각 못한다",
+    "en": {
+      "w": "forgetting one's humble beginnings",
+      "pos": "名詞",
+      "d": [
+        "forgetting one's humble beginnings"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "成功すると昔の苦労を忘れる",
+      "r": "せいこうするとむかしのくろうをわすれる",
+      "pos": "名詞",
+      "d": [
+        "成功すると昔の苦労を忘れる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58024
+  },
+  {
+    "ko": "공든 탑이 무너지랴",
+    "en": {
+      "w": "a tower built with effort won't crumble",
+      "pos": "名詞",
+      "d": [
+        "a tower built with effort won't crumble"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "努力して築いた塔は崩れない",
+      "r": "どりょくしてきずいたとうはくずれない",
+      "pos": "名詞",
+      "d": [
+        "努力して築いた塔は崩れない"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58025
+  },
+  {
+    "ko": "꿩 먹고 알 먹기",
+    "en": {
+      "w": "killing two birds with one stone",
+      "pos": "名詞",
+      "d": [
+        "killing two birds with one stone"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "一石二鳥",
+      "r": "いっせきにちょう",
+      "pos": "名詞",
+      "d": [
+        "一石二鳥"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58026
+  },
+  {
+    "ko": "남의 떡이 커 보인다",
+    "en": {
+      "w": "the grass is always greener on the other side",
+      "pos": "名詞",
+      "d": [
+        "the grass is always greener on the other side"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "隣の芝生は青い",
+      "r": "となりのしばふはあおい",
+      "pos": "名詞",
+      "d": [
+        "隣の芝生は青い"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58027
+  },
+  {
+    "ko": "낫 놓고 기역 자도 모른다",
+    "en": {
+      "w": "utterly illiterate, completely ignorant",
+      "pos": "名詞",
+      "d": [
+        "utterly illiterate, completely ignorant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "全くの無学であること",
+      "r": "まったくのむがくであること",
+      "pos": "名詞",
+      "d": [
+        "全くの無学であること"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58028
+  },
+  {
+    "ko": "누워서 침 뱉기",
+    "en": {
+      "w": "cutting off one's nose to spite one's face",
+      "pos": "名詞",
+      "d": [
+        "cutting off one's nose to spite one's face"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "天に唾する",
+      "r": "てんにつばする",
+      "pos": "名詞",
+      "d": [
+        "天に唾する"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58029
+  },
+  {
+    "ko": "돌다리도 두들겨 보고 건너라",
+    "en": {
+      "w": "look before you leap",
+      "pos": "名詞",
+      "d": [
+        "look before you leap"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "石橋を叩いて渡る",
+      "r": "いしばしをたたいてわたる",
+      "pos": "名詞",
+      "d": [
+        "石橋を叩いて渡る"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58030
+  },
+  {
+    "ko": "등잔 밑이 어둡다",
+    "en": {
+      "w": "it's darkest under the lamp",
+      "pos": "名詞",
+      "d": [
+        "it's darkest under the lamp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "灯台下暗し",
+      "r": "とうだいもとくらし",
+      "pos": "名詞",
+      "d": [
+        "灯台下暗し"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58031
+  },
+  {
+    "ko": "말 한마디에 천 냥 빚을 갚는다",
+    "en": {
+      "w": "a single kind word can repay a huge debt",
+      "pos": "名詞",
+      "d": [
+        "a single kind word can repay a huge debt"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "一言で千両の借金を返す",
+      "r": "ひとことでせんりょうのしゃっきんをかえす",
+      "pos": "名詞",
+      "d": [
+        "一言で千両の借金を返す"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58032
+  },
+  {
+    "ko": "믿는 도끼에 발등 찍힌다",
+    "en": {
+      "w": "betrayed by someone you trusted",
+      "pos": "名詞",
+      "d": [
+        "betrayed by someone you trusted"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "飼い犬に手を噛まれる",
+      "r": "かいいぬにてをかまれる",
+      "pos": "名詞",
+      "d": [
+        "飼い犬に手を噛まれる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58033
+  },
+  {
+    "ko": "발 없는 말이 천리 간다",
+    "en": {
+      "w": "words travel fast, rumors spread quickly",
+      "pos": "名詞",
+      "d": [
+        "words travel fast, rumors spread quickly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "噂はすぐ広まる",
+      "r": "うわさはすぐひろまる",
+      "pos": "名詞",
+      "d": [
+        "噂はすぐ広まる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58034
+  },
+  {
+    "ko": "백지장도 맞들면 낫다",
+    "en": {
+      "w": "many hands make light work",
+      "pos": "名詞",
+      "d": [
+        "many hands make light work"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "助け合えば何事も楽になる",
+      "r": "たすけあえばなにごともらくになる",
+      "pos": "名詞",
+      "d": [
+        "助け合えば何事も楽になる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58035
+  },
+  {
+    "ko": "서당 개 삼 년이면 풍월을 읊는다",
+    "en": {
+      "w": "constant exposure teaches even the unlikely",
+      "pos": "名詞",
+      "d": [
+        "constant exposure teaches even the unlikely"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "門前の小僧習わぬ経を読む",
+      "r": "もんぜんのこぞうならわぬきょうをよむ",
+      "pos": "名詞",
+      "d": [
+        "門前の小僧習わぬ経を読む"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58036
+  },
+  {
+    "ko": "세 살 버릇 여든까지 간다",
+    "en": {
+      "w": "old habits die hard",
+      "pos": "名詞",
+      "d": [
+        "old habits die hard"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "三つ子の魂百まで",
+      "r": "みつごのたましいひゃくまで",
+      "pos": "名詞",
+      "d": [
+        "三つ子の魂百まで"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58037
+  },
+  {
+    "ko": "소 잃고 외양간 고친다",
+    "en": {
+      "w": "closing the barn door after the horse has bolted",
+      "pos": "名詞",
+      "d": [
+        "closing the barn door after the horse has bolted"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "泥棒を捕らえて縄を綯う",
+      "r": "どろぼうをとらえてなわをなう",
+      "pos": "名詞",
+      "d": [
+        "泥棒を捕らえて縄を綯う"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58038
+  },
+  {
+    "ko": "쇠뿔도 단김에 빼라",
+    "en": {
+      "w": "strike while the iron is hot",
+      "pos": "名詞",
+      "d": [
+        "strike while the iron is hot"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鉄は熱いうちに打て",
+      "r": "てつはあついうちにうて",
+      "pos": "名詞",
+      "d": [
+        "鉄は熱いうちに打て"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58039
+  },
+  {
+    "ko": "싼 게 비지떡",
+    "en": {
+      "w": "you get what you pay for",
+      "pos": "名詞",
+      "d": [
+        "you get what you pay for"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "安物買いの銭失い",
+      "r": "やすものがいのぜにうしない",
+      "pos": "名詞",
+      "d": [
+        "安物買いの銭失い"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58040
+  },
+  {
+    "ko": "아니 땐 굴뚝에 연기 날까",
+    "en": {
+      "w": "there's no smoke without fire",
+      "pos": "名詞",
+      "d": [
+        "there's no smoke without fire"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "火のない所に煙は立たぬ",
+      "r": "ひのないところにけむりはたたぬ",
+      "pos": "名詞",
+      "d": [
+        "火のない所に煙は立たぬ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58041
+  },
+  {
+    "ko": "우물 안 개구리",
+    "en": {
+      "w": "a big fish in a small pond, narrow-minded person",
+      "pos": "名詞",
+      "d": [
+        "a big fish in a small pond, narrow-minded person"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "井の中の蛙",
+      "r": "いのなかのかわず",
+      "pos": "名詞",
+      "d": [
+        "井の中の蛙"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58042
+  },
+  {
+    "ko": "울며 겨자 먹기",
+    "en": {
+      "w": "doing something reluctantly, unwillingly",
+      "pos": "名詞",
+      "d": [
+        "doing something reluctantly, unwillingly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "嫌々ながら行うこと",
+      "r": "いやいやながらおこなうこと",
+      "pos": "名詞",
+      "d": [
+        "嫌々ながら行うこと"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58043
+  },
+  {
+    "ko": "원숭이도 나무에서 떨어진다",
+    "en": {
+      "w": "even experts make mistakes",
+      "pos": "名詞",
+      "d": [
+        "even experts make mistakes"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "猿も木から落ちる",
+      "r": "さるもきからおちる",
+      "pos": "名詞",
+      "d": [
+        "猿も木から落ちる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58044
+  },
+  {
+    "ko": "호랑이도 제 말 하면 온다",
+    "en": {
+      "w": "speak of the devil",
+      "pos": "名詞",
+      "d": [
+        "speak of the devil"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "噂をすれば影",
+      "r": "うわさをすればかげ",
+      "pos": "名詞",
+      "d": [
+        "噂をすれば影"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58045
+  },
+  {
+    "ko": "낄낄",
+    "en": {
+      "w": "giggling, snickering",
+      "pos": "副詞",
+      "d": [
+        "giggling, snickering"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "くすくす",
+      "r": "くすくす",
+      "pos": "副詞",
+      "d": [
+        "くすくす"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58046
+  },
+  {
+    "ko": "느릿느릿",
+    "en": {
+      "w": "sluggishly, slowly",
+      "pos": "副詞",
+      "d": [
+        "sluggishly, slowly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "のろのろ",
+      "r": "のろのろ",
+      "pos": "副詞",
+      "d": [
+        "のろのろ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58047
+  },
+  {
+    "ko": "데굴데굴",
+    "en": {
+      "w": "rolling over and over",
+      "pos": "副詞",
+      "d": [
+        "rolling over and over"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ころころ",
+      "r": "ころころ",
+      "pos": "副詞",
+      "d": [
+        "ころころ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58048
+  },
+  {
+    "ko": "두근두근",
+    "en": {
+      "w": "with a pounding heart, thump-thump",
+      "pos": "副詞",
+      "d": [
+        "with a pounding heart, thump-thump"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どきどき",
+      "r": "どきどき",
+      "pos": "副詞",
+      "d": [
+        "どきどき"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58049
+  },
+  {
+    "ko": "둥실둥실",
+    "en": {
+      "w": "floating buoyantly",
+      "pos": "副詞",
+      "d": [
+        "floating buoyantly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ふわふわ",
+      "r": "ふわふわ",
+      "pos": "副詞",
+      "d": [
+        "ふわふわ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58050
+  },
+  {
+    "ko": "드르렁드르렁",
+    "en": {
+      "w": "loud snoring sound",
+      "pos": "副詞",
+      "d": [
+        "loud snoring sound"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ぐうぐう",
+      "r": "ぐうぐう",
+      "pos": "副詞",
+      "d": [
+        "ぐうぐう"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58051
+  },
+  {
+    "ko": "말랑말랑",
+    "en": {
+      "w": "soft, squishy",
+      "pos": "副詞",
+      "d": [
+        "soft, squishy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ふにゃふにゃ",
+      "r": "ふにゃふにゃ",
+      "pos": "副詞",
+      "d": [
+        "ふにゃふにゃ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58052
+  },
+  {
+    "ko": "물렁물렁",
+    "en": {
+      "w": "soft, mushy",
+      "pos": "副詞",
+      "d": [
+        "soft, mushy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ぶよぶよ",
+      "r": "ぶよぶよ",
+      "pos": "副詞",
+      "d": [
+        "ぶよぶよ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58053
+  },
+  {
+    "ko": "반짝반짝",
+    "en": {
+      "w": "twinkling, sparkling",
+      "pos": "副詞",
+      "d": [
+        "twinkling, sparkling"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "きらきら",
+      "r": "きらきら",
+      "pos": "副詞",
+      "d": [
+        "きらきら"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58054
+  },
+  {
+    "ko": "번쩍번쩍",
+    "en": {
+      "w": "flashing brightly",
+      "pos": "副詞",
+      "d": [
+        "flashing brightly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ぴかぴか",
+      "r": "ぴかぴか",
+      "pos": "副詞",
+      "d": [
+        "ぴかぴか"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58055
+  },
+  {
+    "ko": "보슬보슬",
+    "en": {
+      "w": "drizzling softly (rain)",
+      "pos": "副詞",
+      "d": [
+        "drizzling softly (rain)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "しとしと",
+      "r": "しとしと",
+      "pos": "副詞",
+      "d": [
+        "しとしと"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58056
+  },
+  {
+    "ko": "빙글빙글",
+    "en": {
+      "w": "spinning round and round",
+      "pos": "副詞",
+      "d": [
+        "spinning round and round"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "くるくる",
+      "r": "くるくる",
+      "pos": "副詞",
+      "d": [
+        "くるくる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58057
+  },
+  {
+    "ko": "사각사각",
+    "en": {
+      "w": "crunching sound",
+      "pos": "副詞",
+      "d": [
+        "crunching sound"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "しゃくしゃく",
+      "r": "しゃくしゃく",
+      "pos": "副詞",
+      "d": [
+        "しゃくしゃく"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58058
+  },
+  {
+    "ko": "살금살금",
+    "en": {
+      "w": "stealthily, sneakily",
+      "pos": "副詞",
+      "d": [
+        "stealthily, sneakily"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "こっそり",
+      "r": "こっそり",
+      "pos": "副詞",
+      "d": [
+        "こっそり"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58059
+  },
+  {
+    "ko": "살랑살랑",
+    "en": {
+      "w": "gently, softly (breeze)",
+      "pos": "副詞",
+      "d": [
+        "gently, softly (breeze)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "そよそよ",
+      "r": "そよそよ",
+      "pos": "副詞",
+      "d": [
+        "そよそよ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58060
+  },
+  {
+    "ko": "슬금슬금",
+    "en": {
+      "w": "slyly, little by little (sneaking)",
+      "pos": "副詞",
+      "d": [
+        "slyly, little by little (sneaking)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "じわじわ",
+      "r": "じわじわ",
+      "pos": "副詞",
+      "d": [
+        "じわじわ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58061
+  },
+  {
+    "ko": "아삭아삭",
+    "en": {
+      "w": "crunchy sound",
+      "pos": "副詞",
+      "d": [
+        "crunchy sound"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "しゃきしゃき",
+      "r": "しゃきしゃき",
+      "pos": "副詞",
+      "d": [
+        "しゃきしゃき"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58062
+  },
+  {
+    "ko": "바삭바삭",
+    "en": {
+      "w": "crispy, crunchy (fried food)",
+      "pos": "副詞",
+      "d": [
+        "crispy, crunchy (fried food)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サクサク",
+      "r": "さくさく",
+      "pos": "副詞",
+      "d": [
+        "サクサク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58063
+  },
+  {
+    "ko": "엉엉",
+    "en": {
+      "w": "bawling, wailing",
+      "pos": "副詞",
+      "d": [
+        "bawling, wailing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "わあわあ",
+      "r": "わあわあ",
+      "pos": "副詞",
+      "d": [
+        "わあわあ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58064
+  },
+  {
+    "ko": "우당탕",
+    "en": {
+      "w": "clattering noise",
+      "pos": "副詞",
+      "d": [
+        "clattering noise"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どたばた",
+      "r": "どたばた",
+      "pos": "副詞",
+      "d": [
+        "どたばた"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58065
+  },
+  {
+    "ko": "졸졸",
+    "en": {
+      "w": "trickling sound (water)",
+      "pos": "副詞",
+      "d": [
+        "trickling sound (water)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "さらさら",
+      "r": "さらさら",
+      "pos": "副詞",
+      "d": [
+        "さらさら"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58066
+  },
+  {
+    "ko": "주룩주룩",
+    "en": {
+      "w": "pouring rain sound",
+      "pos": "副詞",
+      "d": [
+        "pouring rain sound"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ざあざあ",
+      "r": "ざあざあ",
+      "pos": "副詞",
+      "d": [
+        "ざあざあ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58067
+  },
+  {
+    "ko": "쨍그랑",
+    "en": {
+      "w": "clanging, shattering sound",
+      "pos": "副詞",
+      "d": [
+        "clanging, shattering sound"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "がちゃん",
+      "r": "がちゃん",
+      "pos": "副詞",
+      "d": [
+        "がちゃん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58068
+  },
+  {
+    "ko": "쨍쨍",
+    "en": {
+      "w": "blazing, glaring (sunlight)",
+      "pos": "副詞",
+      "d": [
+        "blazing, glaring (sunlight)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "かんかん",
+      "r": "かんかん",
+      "pos": "副詞",
+      "d": [
+        "かんかん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58069
+  },
+  {
+    "ko": "쫄깃쫄깃",
+    "en": {
+      "w": "chewy",
+      "pos": "副詞",
+      "d": [
+        "chewy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "もちもち",
+      "r": "もちもち",
+      "pos": "副詞",
+      "d": [
+        "もちもち"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58070
+  },
+  {
+    "ko": "찡그리다",
+    "en": {
+      "w": "to frown, grimace",
+      "pos": "動詞",
+      "d": [
+        "to frown, grimace"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "しかめる",
+      "r": "しかめる",
+      "pos": "動詞",
+      "d": [
+        "しかめる"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "동",
+    "ko_pos_ja": "動詞",
+    "ko_grade": "C",
+    "ko_rank": 58071
+  },
+  {
+    "ko": "철썩철썩",
+    "en": {
+      "w": "splashing sound (waves)",
+      "pos": "副詞",
+      "d": [
+        "splashing sound (waves)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ざぶんざぶん",
+      "r": "ざぶんざぶん",
+      "pos": "副詞",
+      "d": [
+        "ざぶんざぶん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58072
+  },
+  {
+    "ko": "콩닥콩닥",
+    "en": {
+      "w": "pit-a-pat (nervous heartbeat)",
+      "pos": "副詞",
+      "d": [
+        "pit-a-pat (nervous heartbeat)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どきどき",
+      "r": "どきどき",
+      "pos": "副詞",
+      "d": [
+        "どきどき"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58073
+  },
+  {
+    "ko": "콸콸",
+    "en": {
+      "w": "gushing sound (liquid pouring)",
+      "pos": "副詞",
+      "d": [
+        "gushing sound (liquid pouring)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どくどく",
+      "r": "どくどく",
+      "pos": "副詞",
+      "d": [
+        "どくどく"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58074
+  },
+  {
+    "ko": "쿨쿨",
+    "en": {
+      "w": "sound of sleeping soundly",
+      "pos": "副詞",
+      "d": [
+        "sound of sleeping soundly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ぐっすり",
+      "r": "ぐっすり",
+      "pos": "副詞",
+      "d": [
+        "ぐっすり"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58075
+  },
+  {
+    "ko": "쿵쾅쿵쾅",
+    "en": {
+      "w": "thumping, banging loudly",
+      "pos": "副詞",
+      "d": [
+        "thumping, banging loudly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どんどん",
+      "r": "どんどん",
+      "pos": "副詞",
+      "d": [
+        "どんどん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58076
+  },
+  {
+    "ko": "키득키득",
+    "en": {
+      "w": "giggling, tittering",
+      "pos": "副詞",
+      "d": [
+        "giggling, tittering"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "くすくす",
+      "r": "くすくす",
+      "pos": "副詞",
+      "d": [
+        "くすくす"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58077
+  },
+  {
+    "ko": "펄펄",
+    "en": {
+      "w": "boiling vigorously",
+      "pos": "副詞",
+      "d": [
+        "boiling vigorously"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ぐつぐつ",
+      "r": "ぐつぐつ",
+      "pos": "副詞",
+      "d": [
+        "ぐつぐつ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58078
+  },
+  {
+    "ko": "헐떡헐떡",
+    "en": {
+      "w": "panting, gasping",
+      "pos": "副詞",
+      "d": [
+        "panting, gasping"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "はあはあ",
+      "r": "はあはあ",
+      "pos": "副詞",
+      "d": [
+        "はあはあ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58079
+  },
+  {
+    "ko": "훌쩍훌쩍",
+    "en": {
+      "w": "sobbing, sniffling",
+      "pos": "副詞",
+      "d": [
+        "sobbing, sniffling"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "しくしく",
+      "r": "しくしく",
+      "pos": "副詞",
+      "d": [
+        "しくしく"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58080
+  },
+  {
+    "ko": "씩씩",
+    "en": {
+      "w": "huffing sound (heavy breathing)",
+      "pos": "副詞",
+      "d": [
+        "huffing sound (heavy breathing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ふうふう",
+      "r": "ふうふう",
+      "pos": "副詞",
+      "d": [
+        "ふうふう"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "부",
+    "ko_pos_ja": "副詞",
+    "ko_grade": "C",
+    "ko_rank": 58081
+  },
+  {
+    "ko": "전무",
+    "en": {
+      "w": "executive director, managing director",
+      "pos": "名詞",
+      "d": [
+        "executive director, managing director"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "専務",
+      "r": "せんむ",
+      "pos": "名詞",
+      "d": [
+        "専務"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58082
+  },
+  {
+    "ko": "상무",
+    "en": {
+      "w": "senior managing director",
+      "pos": "名詞",
+      "d": [
+        "senior managing director"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "常務",
+      "r": "じょうむ",
+      "pos": "名詞",
+      "d": [
+        "常務"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58083
+  },
+  {
+    "ko": "차장",
+    "en": {
+      "w": "deputy department head",
+      "pos": "名詞",
+      "d": [
+        "deputy department head"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "次長",
+      "r": "じちょう",
+      "pos": "名詞",
+      "d": [
+        "次長"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58084
+  },
+  {
+    "ko": "대리",
+    "en": {
+      "w": "assistant manager",
+      "pos": "名詞",
+      "d": [
+        "assistant manager"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "代理",
+      "r": "だいり",
+      "pos": "名詞",
+      "d": [
+        "代理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58085
+  },
+  {
+    "ko": "주임",
+    "en": {
+      "w": "supervisor, chief clerk",
+      "pos": "名詞",
+      "d": [
+        "supervisor, chief clerk"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "主任",
+      "r": "しゅにん",
+      "pos": "名詞",
+      "d": [
+        "主任"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58086
+  },
+  {
+    "ko": "인턴",
+    "en": {
+      "w": "intern",
+      "pos": "名詞",
+      "d": [
+        "intern"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インターン",
+      "r": "インターン",
+      "pos": "名詞",
+      "d": [
+        "インターン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58087
+  },
+  {
+    "ko": "총무",
+    "en": {
+      "w": "general affairs (department/staff)",
+      "pos": "名詞",
+      "d": [
+        "general affairs (department/staff)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "総務",
+      "r": "そうむ",
+      "pos": "名詞",
+      "d": [
+        "総務"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58088
+  },
+  {
+    "ko": "경리",
+    "en": {
+      "w": "accounting (department/staff)",
+      "pos": "名詞",
+      "d": [
+        "accounting (department/staff)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "経理",
+      "r": "けいり",
+      "pos": "名詞",
+      "d": [
+        "経理"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58089
+  },
+  {
+    "ko": "회계사",
+    "en": {
+      "w": "accountant",
+      "pos": "名詞",
+      "d": [
+        "accountant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "会計士",
+      "r": "かいけいし",
+      "pos": "名詞",
+      "d": [
+        "会計士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58090
+  },
+  {
+    "ko": "세무사",
+    "en": {
+      "w": "tax accountant",
+      "pos": "名詞",
+      "d": [
+        "tax accountant"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "税理士",
+      "r": "ぜいりし",
+      "pos": "名詞",
+      "d": [
+        "税理士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58091
+  },
+  {
+    "ko": "법무팀",
+    "en": {
+      "w": "legal team",
+      "pos": "名詞",
+      "d": [
+        "legal team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "法務チーム",
+      "r": "ほうむチーム",
+      "pos": "名詞",
+      "d": [
+        "法務チーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58092
+  },
+  {
+    "ko": "인사팀",
+    "en": {
+      "w": "HR team",
+      "pos": "名詞",
+      "d": [
+        "HR team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "人事チーム",
+      "r": "じんじチーム",
+      "pos": "名詞",
+      "d": [
+        "人事チーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58093
+  },
+  {
+    "ko": "영업팀",
+    "en": {
+      "w": "sales team",
+      "pos": "名詞",
+      "d": [
+        "sales team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "営業チーム",
+      "r": "えいぎょうチーム",
+      "pos": "名詞",
+      "d": [
+        "営業チーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58094
+  },
+  {
+    "ko": "마케팅팀",
+    "en": {
+      "w": "marketing team",
+      "pos": "名詞",
+      "d": [
+        "marketing team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マーケティングチーム",
+      "r": "マーケティングチーム",
+      "pos": "名詞",
+      "d": [
+        "マーケティングチーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58095
+  },
+  {
+    "ko": "기획팀",
+    "en": {
+      "w": "planning team",
+      "pos": "名詞",
+      "d": [
+        "planning team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "企画チーム",
+      "r": "きかくチーム",
+      "pos": "名詞",
+      "d": [
+        "企画チーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58096
+  },
+  {
+    "ko": "개발팀",
+    "en": {
+      "w": "development team",
+      "pos": "名詞",
+      "d": [
+        "development team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "開発チーム",
+      "r": "かいはつチーム",
+      "pos": "名詞",
+      "d": [
+        "開発チーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58097
+  },
+  {
+    "ko": "디자인팀",
+    "en": {
+      "w": "design team",
+      "pos": "名詞",
+      "d": [
+        "design team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デザインチーム",
+      "r": "デザインチーム",
+      "pos": "名詞",
+      "d": [
+        "デザインチーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58098
+  },
+  {
+    "ko": "품질관리팀",
+    "en": {
+      "w": "quality control team",
+      "pos": "名詞",
+      "d": [
+        "quality control team"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "品質管理チーム",
+      "r": "ひんしつかんりチーム",
+      "pos": "名詞",
+      "d": [
+        "品質管理チーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58099
+  },
+  {
+    "ko": "지사",
+    "en": {
+      "w": "branch office",
+      "pos": "名詞",
+      "d": [
+        "branch office"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "支社",
+      "r": "ししゃ",
+      "pos": "名詞",
+      "d": [
+        "支社"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58100
+  },
+  {
+    "ko": "회의실",
+    "en": {
+      "w": "meeting room",
+      "pos": "名詞",
+      "d": [
+        "meeting room"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "会議室",
+      "r": "かいぎしつ",
+      "pos": "名詞",
+      "d": [
+        "会議室"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58101
+  },
+  {
+    "ko": "탕비실",
+    "en": {
+      "w": "pantry, break room (office)",
+      "pos": "名詞",
+      "d": [
+        "pantry, break room (office)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "給湯室",
+      "r": "きゅうとうしつ",
+      "pos": "名詞",
+      "d": [
+        "給湯室"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58102
+  },
+  {
+    "ko": "휴게실",
+    "en": {
+      "w": "lounge, rest room",
+      "pos": "名詞",
+      "d": [
+        "lounge, rest room"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "休憩室",
+      "r": "きゅうけいしつ",
+      "pos": "名詞",
+      "d": [
+        "休憩室"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58103
+  },
+  {
+    "ko": "명함",
+    "en": {
+      "w": "business card",
+      "pos": "名詞",
+      "d": [
+        "business card"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "名刺",
+      "r": "めいし",
+      "pos": "名詞",
+      "d": [
+        "名刺"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58104
+  },
+  {
+    "ko": "사인펜",
+    "en": {
+      "w": "marker pen",
+      "pos": "名詞",
+      "d": [
+        "marker pen"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サインペン",
+      "r": "サインペン",
+      "pos": "名詞",
+      "d": [
+        "サインペン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58105
+  },
+  {
+    "ko": "스테이플러",
+    "en": {
+      "w": "stapler",
+      "pos": "名詞",
+      "d": [
+        "stapler"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ホッチキス",
+      "r": "ホッチキス",
+      "pos": "名詞",
+      "d": [
+        "ホッチキス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58106
+  },
+  {
+    "ko": "클립",
+    "en": {
+      "w": "(paper) clip",
+      "pos": "名詞",
+      "d": [
+        "(paper) clip"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クリップ",
+      "r": "クリップ",
+      "pos": "名詞",
+      "d": [
+        "クリップ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58107
+  },
+  {
+    "ko": "포스트잇",
+    "en": {
+      "w": "Post-it note",
+      "pos": "名詞",
+      "d": [
+        "Post-it note"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "付箋",
+      "r": "ふせん",
+      "pos": "名詞",
+      "d": [
+        "付箋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58108
+  },
+  {
+    "ko": "서류철",
+    "en": {
+      "w": "document folder, binder",
+      "pos": "名詞",
+      "d": [
+        "document folder, binder"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "書類ファイル",
+      "r": "しょるいファイル",
+      "pos": "名詞",
+      "d": [
+        "書類ファイル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58109
+  },
+  {
+    "ko": "파일함",
+    "en": {
+      "w": "file box, cabinet",
+      "pos": "名詞",
+      "d": [
+        "file box, cabinet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ファイルボックス",
+      "r": "ファイルボックス",
+      "pos": "名詞",
+      "d": [
+        "ファイルボックス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58110
+  },
+  {
+    "ko": "스캐너",
+    "en": {
+      "w": "scanner",
+      "pos": "名詞",
+      "d": [
+        "scanner"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スキャナー",
+      "r": "スキャナー",
+      "pos": "名詞",
+      "d": [
+        "スキャナー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58111
+  },
+  {
+    "ko": "화이트보드",
+    "en": {
+      "w": "whiteboard",
+      "pos": "名詞",
+      "d": [
+        "whiteboard"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ホワイトボード",
+      "r": "ホワイトボード",
+      "pos": "名詞",
+      "d": [
+        "ホワイトボード"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58112
+  },
+  {
+    "ko": "빔프로젝터",
+    "en": {
+      "w": "beam projector",
+      "pos": "名詞",
+      "d": [
+        "beam projector"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プロジェクター",
+      "r": "プロジェクター",
+      "pos": "名詞",
+      "d": [
+        "プロジェクター"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58113
+  },
+  {
+    "ko": "처남",
+    "en": {
+      "w": "brother-in-law (wife's brother)",
+      "pos": "名詞",
+      "d": [
+        "brother-in-law (wife's brother)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妻の兄弟",
+      "r": "つまのきょうだい",
+      "pos": "名詞",
+      "d": [
+        "妻の兄弟"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58114
+  },
+  {
+    "ko": "처제",
+    "en": {
+      "w": "sister-in-law (wife's younger sister)",
+      "pos": "名詞",
+      "d": [
+        "sister-in-law (wife's younger sister)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妻の妹",
+      "r": "つまのいもうと",
+      "pos": "名詞",
+      "d": [
+        "妻の妹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58115
+  },
+  {
+    "ko": "매형",
+    "en": {
+      "w": "brother-in-law (older sister's husband)",
+      "pos": "名詞",
+      "d": [
+        "brother-in-law (older sister's husband)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "姉の夫",
+      "r": "あねのおっと",
+      "pos": "名詞",
+      "d": [
+        "姉の夫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58116
+  },
+  {
+    "ko": "매제",
+    "en": {
+      "w": "brother-in-law (younger sister's husband)",
+      "pos": "名詞",
+      "d": [
+        "brother-in-law (younger sister's husband)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "妹の夫",
+      "r": "いもうとのおっと",
+      "pos": "名詞",
+      "d": [
+        "妹の夫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58117
+  },
+  {
+    "ko": "형수",
+    "en": {
+      "w": "sister-in-law (older brother's wife)",
+      "pos": "名詞",
+      "d": [
+        "sister-in-law (older brother's wife)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "兄の妻",
+      "r": "あにのつま",
+      "pos": "名詞",
+      "d": [
+        "兄の妻"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58118
+  },
+  {
+    "ko": "올케",
+    "en": {
+      "w": "sister-in-law (brother's wife)",
+      "pos": "名詞",
+      "d": [
+        "sister-in-law (brother's wife)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "兄弟の妻",
+      "r": "きょうだいのつま",
+      "pos": "名詞",
+      "d": [
+        "兄弟の妻"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58119
+  },
+  {
+    "ko": "계모",
+    "en": {
+      "w": "stepmother",
+      "pos": "名詞",
+      "d": [
+        "stepmother"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "継母",
+      "r": "けいぼ",
+      "pos": "名詞",
+      "d": [
+        "継母"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58120
+  },
+  {
+    "ko": "계부",
+    "en": {
+      "w": "stepfather",
+      "pos": "名詞",
+      "d": [
+        "stepfather"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "継父",
+      "r": "けいふ",
+      "pos": "名詞",
+      "d": [
+        "継父"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58121
+  },
+  {
+    "ko": "양자",
+    "en": {
+      "w": "adopted son",
+      "pos": "名詞",
+      "d": [
+        "adopted son"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "養子",
+      "r": "ようし",
+      "pos": "名詞",
+      "d": [
+        "養子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58122
+  },
+  {
+    "ko": "양녀",
+    "en": {
+      "w": "adopted daughter",
+      "pos": "名詞",
+      "d": [
+        "adopted daughter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "養女",
+      "r": "ようじょ",
+      "pos": "名詞",
+      "d": [
+        "養女"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58123
+  },
+  {
+    "ko": "의붓아버지",
+    "en": {
+      "w": "stepfather",
+      "pos": "名詞",
+      "d": [
+        "stepfather"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "継父",
+      "r": "けいふ",
+      "pos": "名詞",
+      "d": [
+        "継父"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58124
+  },
+  {
+    "ko": "의붓어머니",
+    "en": {
+      "w": "stepmother",
+      "pos": "名詞",
+      "d": [
+        "stepmother"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "継母",
+      "r": "けいぼ",
+      "pos": "名詞",
+      "d": [
+        "継母"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58125
+  },
+  {
+    "ko": "사돈",
+    "en": {
+      "w": "relatives by marriage (in-law families)",
+      "pos": "名詞",
+      "d": [
+        "relatives by marriage (in-law families)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "姻戚",
+      "r": "いんせき",
+      "pos": "名詞",
+      "d": [
+        "姻戚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58126
+  },
+  {
+    "ko": "증조할아버지",
+    "en": {
+      "w": "great-grandfather",
+      "pos": "名詞",
+      "d": [
+        "great-grandfather"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "曽祖父",
+      "r": "そうそふ",
+      "pos": "名詞",
+      "d": [
+        "曽祖父"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58127
+  },
+  {
+    "ko": "증조할머니",
+    "en": {
+      "w": "great-grandmother",
+      "pos": "名詞",
+      "d": [
+        "great-grandmother"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "曽祖母",
+      "r": "そうそぼ",
+      "pos": "名詞",
+      "d": [
+        "曽祖母"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58128
+  },
+  {
+    "ko": "이모부",
+    "en": {
+      "w": "uncle (husband of mother's sister)",
+      "pos": "名詞",
+      "d": [
+        "uncle (husband of mother's sister)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "叔母の夫",
+      "r": "おばのおっと",
+      "pos": "名詞",
+      "d": [
+        "叔母の夫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58129
+  },
+  {
+    "ko": "고모부",
+    "en": {
+      "w": "uncle (husband of father's sister)",
+      "pos": "名詞",
+      "d": [
+        "uncle (husband of father's sister)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "父方の叔母の夫",
+      "r": "ちちかたのおばのおっと",
+      "pos": "名詞",
+      "d": [
+        "父方の叔母の夫"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58130
+  },
+  {
+    "ko": "숙모",
+    "en": {
+      "w": "aunt (uncle's wife, paternal side)",
+      "pos": "名詞",
+      "d": [
+        "aunt (uncle's wife, paternal side)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "叔母（父方のおじの妻）",
+      "r": "おば",
+      "pos": "名詞",
+      "d": [
+        "叔母（父方のおじの妻）"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58131
+  },
+  {
+    "ko": "귀걸이",
+    "en": {
+      "w": "earrings",
+      "pos": "名詞",
+      "d": [
+        "earrings"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イヤリング",
+      "r": "イヤリング",
+      "pos": "名詞",
+      "d": [
+        "イヤリング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58132
+  },
+  {
+    "ko": "팔찌",
+    "en": {
+      "w": "bracelet",
+      "pos": "名詞",
+      "d": [
+        "bracelet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブレスレット",
+      "r": "ブレスレット",
+      "pos": "名詞",
+      "d": [
+        "ブレスレット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58133
+  },
+  {
+    "ko": "브로치",
+    "en": {
+      "w": "brooch",
+      "pos": "名詞",
+      "d": [
+        "brooch"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブローチ",
+      "r": "ブローチ",
+      "pos": "名詞",
+      "d": [
+        "ブローチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58134
+  },
+  {
+    "ko": "손수건",
+    "en": {
+      "w": "handkerchief",
+      "pos": "名詞",
+      "d": [
+        "handkerchief"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハンカチ",
+      "r": "ハンカチ",
+      "pos": "名詞",
+      "d": [
+        "ハンカチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58135
+  },
+  {
+    "ko": "스카프",
+    "en": {
+      "w": "scarf (fashion)",
+      "pos": "名詞",
+      "d": [
+        "scarf (fashion)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スカーフ",
+      "r": "スカーフ",
+      "pos": "名詞",
+      "d": [
+        "スカーフ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58136
+  },
+  {
+    "ko": "가디건",
+    "en": {
+      "w": "cardigan",
+      "pos": "名詞",
+      "d": [
+        "cardigan"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カーディガン",
+      "r": "カーディガン",
+      "pos": "名詞",
+      "d": [
+        "カーディガン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58137
+  },
+  {
+    "ko": "니트",
+    "en": {
+      "w": "knitwear",
+      "pos": "名詞",
+      "d": [
+        "knitwear"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ニット",
+      "r": "ニット",
+      "pos": "名詞",
+      "d": [
+        "ニット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58138
+  },
+  {
+    "ko": "반바지",
+    "en": {
+      "w": "shorts",
+      "pos": "名詞",
+      "d": [
+        "shorts"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "半ズボン",
+      "r": "はんズボン",
+      "pos": "名詞",
+      "d": [
+        "半ズボン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58139
+  },
+  {
+    "ko": "조끼",
+    "en": {
+      "w": "vest",
+      "pos": "名詞",
+      "d": [
+        "vest"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベスト",
+      "r": "ベスト",
+      "pos": "名詞",
+      "d": [
+        "ベスト"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58140
+  },
+  {
+    "ko": "망토",
+    "en": {
+      "w": "cape, cloak",
+      "pos": "名詞",
+      "d": [
+        "cape, cloak"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マント",
+      "r": "マント",
+      "pos": "名詞",
+      "d": [
+        "マント"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58141
+  },
+  {
+    "ko": "레깅스",
+    "en": {
+      "w": "leggings",
+      "pos": "名詞",
+      "d": [
+        "leggings"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "レギンス",
+      "r": "レギンス",
+      "pos": "名詞",
+      "d": [
+        "レギンス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58142
+  },
+  {
+    "ko": "스타킹",
+    "en": {
+      "w": "stockings",
+      "pos": "名詞",
+      "d": [
+        "stockings"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ストッキング",
+      "r": "ストッキング",
+      "pos": "名詞",
+      "d": [
+        "ストッキング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58143
+  },
+  {
+    "ko": "장화",
+    "en": {
+      "w": "rain boots",
+      "pos": "名詞",
+      "d": [
+        "rain boots"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "長靴",
+      "r": "ながぐつ",
+      "pos": "名詞",
+      "d": [
+        "長靴"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58144
+  },
+  {
+    "ko": "샌들",
+    "en": {
+      "w": "sandals",
+      "pos": "名詞",
+      "d": [
+        "sandals"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サンダル",
+      "r": "サンダル",
+      "pos": "名詞",
+      "d": [
+        "サンダル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58145
+  },
+  {
+    "ko": "부츠",
+    "en": {
+      "w": "boots",
+      "pos": "名詞",
+      "d": [
+        "boots"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブーツ",
+      "r": "ブーツ",
+      "pos": "名詞",
+      "d": [
+        "ブーツ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58146
+  },
+  {
+    "ko": "하이힐",
+    "en": {
+      "w": "high heels",
+      "pos": "名詞",
+      "d": [
+        "high heels"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハイヒール",
+      "r": "ハイヒール",
+      "pos": "名詞",
+      "d": [
+        "ハイヒール"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58147
+  },
+  {
+    "ko": "운동모자",
+    "en": {
+      "w": "sports cap",
+      "pos": "名詞",
+      "d": [
+        "sports cap"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スポーツ帽子",
+      "r": "スポーツぼうし",
+      "pos": "名詞",
+      "d": [
+        "スポーツ帽子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58148
+  },
+  {
+    "ko": "헬멧",
+    "en": {
+      "w": "helmet",
+      "pos": "名詞",
+      "d": [
+        "helmet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヘルメット",
+      "r": "ヘルメット",
+      "pos": "名詞",
+      "d": [
+        "ヘルメット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58149
+  },
+  {
+    "ko": "버선",
+    "en": {
+      "w": "beoseon (traditional Korean socks)",
+      "pos": "名詞",
+      "d": [
+        "beoseon (traditional Korean socks)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ポソン（韓国の伝統靴下）",
+      "r": "ポソン",
+      "pos": "名詞",
+      "d": [
+        "ポソン（韓国の伝統靴下）"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58150
+  },
+  {
+    "ko": "갓",
+    "en": {
+      "w": "gat (traditional Korean hat)",
+      "pos": "名詞",
+      "d": [
+        "gat (traditional Korean hat)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガッ（韓国伝統帽子）",
+      "r": "ガッ",
+      "pos": "名詞",
+      "d": [
+        "ガッ（韓国伝統帽子）"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58151
+  },
+  {
+    "ko": "곰방대",
+    "en": {
+      "w": "traditional long tobacco pipe",
+      "pos": "名詞",
+      "d": [
+        "traditional long tobacco pipe"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "長煙管",
+      "r": "ながぎせる",
+      "pos": "名詞",
+      "d": [
+        "長煙管"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58152
+  },
+  {
+    "ko": "가야금",
+    "en": {
+      "w": "gayageum (traditional zither)",
+      "pos": "名詞",
+      "d": [
+        "gayageum (traditional zither)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "伽倻琴",
+      "r": "カヤグム",
+      "pos": "名詞",
+      "d": [
+        "伽倻琴"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58153
+  },
+  {
+    "ko": "장구",
+    "en": {
+      "w": "janggu (hourglass-shaped drum)",
+      "pos": "名詞",
+      "d": [
+        "janggu (hourglass-shaped drum)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "長鼓",
+      "r": "チャンゴ",
+      "pos": "名詞",
+      "d": [
+        "長鼓"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58154
+  },
+  {
+    "ko": "꽹과리",
+    "en": {
+      "w": "kkwaenggwari (small gong)",
+      "pos": "名詞",
+      "d": [
+        "kkwaenggwari (small gong)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鉦",
+      "r": "ケンガリ",
+      "pos": "名詞",
+      "d": [
+        "鉦"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58155
+  },
+  {
+    "ko": "탈춤",
+    "en": {
+      "w": "traditional mask dance",
+      "pos": "名詞",
+      "d": [
+        "traditional mask dance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "仮面舞踊",
+      "r": "かめんぶよう",
+      "pos": "名詞",
+      "d": [
+        "仮面舞踊"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58156
+  },
+  {
+    "ko": "판소리",
+    "en": {
+      "w": "pansori (traditional narrative singing)",
+      "pos": "名詞",
+      "d": [
+        "pansori (traditional narrative singing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パンソリ",
+      "r": "パンソリ",
+      "pos": "名詞",
+      "d": [
+        "パンソリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58157
+  },
+  {
+    "ko": "사물놀이",
+    "en": {
+      "w": "samulnori (traditional percussion quartet)",
+      "pos": "名詞",
+      "d": [
+        "samulnori (traditional percussion quartet)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サムルノリ",
+      "r": "サムルノリ",
+      "pos": "名詞",
+      "d": [
+        "サムルノリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58158
+  },
+  {
+    "ko": "윷놀이",
+    "en": {
+      "w": "yutnori (traditional board game)",
+      "pos": "名詞",
+      "d": [
+        "yutnori (traditional board game)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ユンノリ",
+      "r": "ユンノリ",
+      "pos": "名詞",
+      "d": [
+        "ユンノリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58159
+  },
+  {
+    "ko": "제기차기",
+    "en": {
+      "w": "jegichagi (Korean shuttlecock kicking game)",
+      "pos": "名詞",
+      "d": [
+        "jegichagi (Korean shuttlecock kicking game)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "羽根蹴り",
+      "r": "はねけり",
+      "pos": "名詞",
+      "d": [
+        "羽根蹴り"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58160
+  },
+  {
+    "ko": "연날리기",
+    "en": {
+      "w": "kite flying",
+      "pos": "名詞",
+      "d": [
+        "kite flying"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "凧揚げ",
+      "r": "たこあげ",
+      "pos": "名詞",
+      "d": [
+        "凧揚げ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58161
+  },
+  {
+    "ko": "합기도",
+    "en": {
+      "w": "hapkido",
+      "pos": "名詞",
+      "d": [
+        "hapkido"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハプキドー",
+      "r": "ハプキドー",
+      "pos": "名詞",
+      "d": [
+        "ハプキドー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58162
+  },
+  {
+    "ko": "검도",
+    "en": {
+      "w": "kendo",
+      "pos": "名詞",
+      "d": [
+        "kendo"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "剣道",
+      "r": "けんどう",
+      "pos": "名詞",
+      "d": [
+        "剣道"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58163
+  },
+  {
+    "ko": "바둑",
+    "en": {
+      "w": "baduk (the game of go)",
+      "pos": "名詞",
+      "d": [
+        "baduk (the game of go)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "囲碁",
+      "r": "いご",
+      "pos": "名詞",
+      "d": [
+        "囲碁"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58164
+  },
+  {
+    "ko": "장기",
+    "en": {
+      "w": "janggi (Korean chess)",
+      "pos": "名詞",
+      "d": [
+        "janggi (Korean chess)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "朝鮮将棋",
+      "r": "チャンギ",
+      "pos": "名詞",
+      "d": [
+        "朝鮮将棋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58165
+  },
+  {
+    "ko": "화투",
+    "en": {
+      "w": "hwatu (Korean flower card game)",
+      "pos": "名詞",
+      "d": [
+        "hwatu (Korean flower card game)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "花札",
+      "r": "はなふだ",
+      "pos": "名詞",
+      "d": [
+        "花札"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58166
+  },
+  {
+    "ko": "윷",
+    "en": {
+      "w": "yut (sticks used in yutnori)",
+      "pos": "名詞",
+      "d": [
+        "yut (sticks used in yutnori)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ユッ",
+      "r": "ユッ",
+      "pos": "名詞",
+      "d": [
+        "ユッ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58167
+  },
+  {
+    "ko": "한옥",
+    "en": {
+      "w": "hanok (traditional Korean house)",
+      "pos": "名詞",
+      "d": [
+        "hanok (traditional Korean house)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "韓屋",
+      "r": "ハノク",
+      "pos": "名詞",
+      "d": [
+        "韓屋"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58168
+  },
+  {
+    "ko": "대청마루",
+    "en": {
+      "w": "daecheong (wooden-floor hall in a hanok)",
+      "pos": "名詞",
+      "d": [
+        "daecheong (wooden-floor hall in a hanok)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "テチョンマル（伝統家屋の板の間）",
+      "r": "テチョンマル",
+      "pos": "名詞",
+      "d": [
+        "テチョンマル（伝統家屋の板の間）"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58169
+  },
+  {
+    "ko": "기와",
+    "en": {
+      "w": "roof tile",
+      "pos": "名詞",
+      "d": [
+        "roof tile"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "瓦",
+      "r": "かわら",
+      "pos": "名詞",
+      "d": [
+        "瓦"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58170
+  },
+  {
+    "ko": "초가집",
+    "en": {
+      "w": "thatched-roof house",
+      "pos": "名詞",
+      "d": [
+        "thatched-roof house"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "藁葺き屋根の家",
+      "r": "わらぶきやねのいえ",
+      "pos": "名詞",
+      "d": [
+        "藁葺き屋根の家"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58171
+  },
+  {
+    "ko": "단청",
+    "en": {
+      "w": "dancheong (traditional decorative painting)",
+      "pos": "名詞",
+      "d": [
+        "dancheong (traditional decorative painting)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "丹青",
+      "r": "たんせい",
+      "pos": "名詞",
+      "d": [
+        "丹青"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58172
+  },
+  {
+    "ko": "태극기",
+    "en": {
+      "w": "Taegukgi (the Korean national flag)",
+      "pos": "名詞",
+      "d": [
+        "Taegukgi (the Korean national flag)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "太極旗",
+      "r": "たいきょくき",
+      "pos": "名詞",
+      "d": [
+        "太極旗"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58173
+  },
+  {
+    "ko": "은하수",
+    "en": {
+      "w": "the Milky Way",
+      "pos": "名詞",
+      "d": [
+        "the Milky Way"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "天の川",
+      "r": "あまのがわ",
+      "pos": "名詞",
+      "d": [
+        "天の川"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58174
+  },
+  {
+    "ko": "행성",
+    "en": {
+      "w": "planet",
+      "pos": "名詞",
+      "d": [
+        "planet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "惑星",
+      "r": "わくせい",
+      "pos": "名詞",
+      "d": [
+        "惑星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58175
+  },
+  {
+    "ko": "혜성",
+    "en": {
+      "w": "comet",
+      "pos": "名詞",
+      "d": [
+        "comet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "彗星",
+      "r": "すいせい",
+      "pos": "名詞",
+      "d": [
+        "彗星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58176
+  },
+  {
+    "ko": "소행성",
+    "en": {
+      "w": "asteroid",
+      "pos": "名詞",
+      "d": [
+        "asteroid"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "小惑星",
+      "r": "しょうわくせい",
+      "pos": "名詞",
+      "d": [
+        "小惑星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58177
+  },
+  {
+    "ko": "블랙홀",
+    "en": {
+      "w": "black hole",
+      "pos": "名詞",
+      "d": [
+        "black hole"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブラックホール",
+      "r": "ブラックホール",
+      "pos": "名詞",
+      "d": [
+        "ブラックホール"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58178
+  },
+  {
+    "ko": "은하계",
+    "en": {
+      "w": "galaxy",
+      "pos": "名詞",
+      "d": [
+        "galaxy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "銀河系",
+      "r": "ぎんがけい",
+      "pos": "名詞",
+      "d": [
+        "銀河系"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58179
+  },
+  {
+    "ko": "태양계",
+    "en": {
+      "w": "the solar system",
+      "pos": "名詞",
+      "d": [
+        "the solar system"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "太陽系",
+      "r": "たいようけい",
+      "pos": "名詞",
+      "d": [
+        "太陽系"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58180
+  },
+  {
+    "ko": "수성",
+    "en": {
+      "w": "Mercury (planet)",
+      "pos": "名詞",
+      "d": [
+        "Mercury (planet)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "水星",
+      "r": "すいせい",
+      "pos": "名詞",
+      "d": [
+        "水星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58181
+  },
+  {
+    "ko": "금성",
+    "en": {
+      "w": "Venus (planet)",
+      "pos": "名詞",
+      "d": [
+        "Venus (planet)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "金星",
+      "r": "きんせい",
+      "pos": "名詞",
+      "d": [
+        "金星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58182
+  },
+  {
+    "ko": "화성",
+    "en": {
+      "w": "Mars",
+      "pos": "名詞",
+      "d": [
+        "Mars"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "火星",
+      "r": "かせい",
+      "pos": "名詞",
+      "d": [
+        "火星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58183
+  },
+  {
+    "ko": "목성",
+    "en": {
+      "w": "Jupiter",
+      "pos": "名詞",
+      "d": [
+        "Jupiter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "木星",
+      "r": "もくせい",
+      "pos": "名詞",
+      "d": [
+        "木星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58184
+  },
+  {
+    "ko": "토성",
+    "en": {
+      "w": "Saturn",
+      "pos": "名詞",
+      "d": [
+        "Saturn"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "土星",
+      "r": "どせい",
+      "pos": "名詞",
+      "d": [
+        "土星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58185
+  },
+  {
+    "ko": "천왕성",
+    "en": {
+      "w": "Uranus",
+      "pos": "名詞",
+      "d": [
+        "Uranus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "天王星",
+      "r": "てんのうせい",
+      "pos": "名詞",
+      "d": [
+        "天王星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58186
+  },
+  {
+    "ko": "해왕성",
+    "en": {
+      "w": "Neptune",
+      "pos": "名詞",
+      "d": [
+        "Neptune"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "海王星",
+      "r": "かいおうせい",
+      "pos": "名詞",
+      "d": [
+        "海王星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58187
+  },
+  {
+    "ko": "천문대",
+    "en": {
+      "w": "observatory",
+      "pos": "名詞",
+      "d": [
+        "observatory"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "天文台",
+      "r": "てんもんだい",
+      "pos": "名詞",
+      "d": [
+        "天文台"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58188
+  },
+  {
+    "ko": "우주선",
+    "en": {
+      "w": "spaceship",
+      "pos": "名詞",
+      "d": [
+        "spaceship"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "宇宙船",
+      "r": "うちゅうせん",
+      "pos": "名詞",
+      "d": [
+        "宇宙船"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58189
+  },
+  {
+    "ko": "우주비행사",
+    "en": {
+      "w": "astronaut",
+      "pos": "名詞",
+      "d": [
+        "astronaut"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "宇宙飛行士",
+      "r": "うちゅうひこうし",
+      "pos": "名詞",
+      "d": [
+        "宇宙飛行士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58190
+  },
+  {
+    "ko": "로켓",
+    "en": {
+      "w": "rocket",
+      "pos": "名詞",
+      "d": [
+        "rocket"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ロケット",
+      "r": "ロケット",
+      "pos": "名詞",
+      "d": [
+        "ロケット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58191
+  },
+  {
+    "ko": "인공위성",
+    "en": {
+      "w": "artificial satellite",
+      "pos": "名詞",
+      "d": [
+        "artificial satellite"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "人工衛星",
+      "r": "じんこうえいせい",
+      "pos": "名詞",
+      "d": [
+        "人工衛星"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58192
+  },
+  {
+    "ko": "아시아",
+    "en": {
+      "w": "Asia",
+      "pos": "名詞",
+      "d": [
+        "Asia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アジア",
+      "r": "アジア",
+      "pos": "名詞",
+      "d": [
+        "アジア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58193
+  },
+  {
+    "ko": "유럽",
+    "en": {
+      "w": "Europe",
+      "pos": "名詞",
+      "d": [
+        "Europe"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヨーロッパ",
+      "r": "ヨーロッパ",
+      "pos": "名詞",
+      "d": [
+        "ヨーロッパ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58194
+  },
+  {
+    "ko": "아프리카",
+    "en": {
+      "w": "Africa",
+      "pos": "名詞",
+      "d": [
+        "Africa"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アフリカ",
+      "r": "アフリカ",
+      "pos": "名詞",
+      "d": [
+        "アフリカ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58195
+  },
+  {
+    "ko": "북아메리카",
+    "en": {
+      "w": "North America",
+      "pos": "名詞",
+      "d": [
+        "North America"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "北アメリカ",
+      "r": "きたアメリカ",
+      "pos": "名詞",
+      "d": [
+        "北アメリカ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58196
+  },
+  {
+    "ko": "남아메리카",
+    "en": {
+      "w": "South America",
+      "pos": "名詞",
+      "d": [
+        "South America"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "南アメリカ",
+      "r": "みなみアメリカ",
+      "pos": "名詞",
+      "d": [
+        "南アメリカ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58197
+  },
+  {
+    "ko": "오세아니아",
+    "en": {
+      "w": "Oceania",
+      "pos": "名詞",
+      "d": [
+        "Oceania"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オセアニア",
+      "r": "オセアニア",
+      "pos": "名詞",
+      "d": [
+        "オセアニア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58198
+  },
+  {
+    "ko": "남극",
+    "en": {
+      "w": "Antarctica, the South Pole",
+      "pos": "名詞",
+      "d": [
+        "Antarctica, the South Pole"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "南極",
+      "r": "なんきょく",
+      "pos": "名詞",
+      "d": [
+        "南極"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58199
+  },
+  {
+    "ko": "북극",
+    "en": {
+      "w": "the Arctic, the North Pole",
+      "pos": "名詞",
+      "d": [
+        "the Arctic, the North Pole"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "北極",
+      "r": "ほっきょく",
+      "pos": "名詞",
+      "d": [
+        "北極"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58200
+  },
+  {
+    "ko": "적도",
+    "en": {
+      "w": "the equator",
+      "pos": "名詞",
+      "d": [
+        "the equator"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "赤道",
+      "r": "せきどう",
+      "pos": "名詞",
+      "d": [
+        "赤道"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58201
+  },
+  {
+    "ko": "경도",
+    "en": {
+      "w": "longitude",
+      "pos": "名詞",
+      "d": [
+        "longitude"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "経度",
+      "r": "けいど",
+      "pos": "名詞",
+      "d": [
+        "経度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58202
+  },
+  {
+    "ko": "위도",
+    "en": {
+      "w": "latitude",
+      "pos": "名詞",
+      "d": [
+        "latitude"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "緯度",
+      "r": "いど",
+      "pos": "名詞",
+      "d": [
+        "緯度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58203
+  },
+  {
+    "ko": "시차",
+    "en": {
+      "w": "time difference (time zone)",
+      "pos": "名詞",
+      "d": [
+        "time difference (time zone)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "時差",
+      "r": "じさ",
+      "pos": "名詞",
+      "d": [
+        "時差"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58204
+  },
+  {
+    "ko": "윤년",
+    "en": {
+      "w": "leap year",
+      "pos": "名詞",
+      "d": [
+        "leap year"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "うるう年",
+      "r": "うるうどし",
+      "pos": "名詞",
+      "d": [
+        "うるう年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58205
+  },
+  {
+    "ko": "띠",
+    "en": {
+      "w": "Chinese zodiac sign",
+      "pos": "名詞",
+      "d": [
+        "Chinese zodiac sign"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "干支",
+      "r": "えと",
+      "pos": "名詞",
+      "d": [
+        "干支"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58206
+  },
+  {
+    "ko": "쥐띠",
+    "en": {
+      "w": "year of the rat",
+      "pos": "名詞",
+      "d": [
+        "year of the rat"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "子年",
+      "r": "ねずみどし",
+      "pos": "名詞",
+      "d": [
+        "子年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58207
+  },
+  {
+    "ko": "소띠",
+    "en": {
+      "w": "year of the ox",
+      "pos": "名詞",
+      "d": [
+        "year of the ox"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "丑年",
+      "r": "うしどし",
+      "pos": "名詞",
+      "d": [
+        "丑年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58208
+  },
+  {
+    "ko": "호랑이띠",
+    "en": {
+      "w": "year of the tiger",
+      "pos": "名詞",
+      "d": [
+        "year of the tiger"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "寅年",
+      "r": "とらどし",
+      "pos": "名詞",
+      "d": [
+        "寅年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58209
+  },
+  {
+    "ko": "토끼띠",
+    "en": {
+      "w": "year of the rabbit",
+      "pos": "名詞",
+      "d": [
+        "year of the rabbit"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "卯年",
+      "r": "うさぎどし",
+      "pos": "名詞",
+      "d": [
+        "卯年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58210
+  },
+  {
+    "ko": "용띠",
+    "en": {
+      "w": "year of the dragon",
+      "pos": "名詞",
+      "d": [
+        "year of the dragon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "辰年",
+      "r": "たつどし",
+      "pos": "名詞",
+      "d": [
+        "辰年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58211
+  },
+  {
+    "ko": "뱀띠",
+    "en": {
+      "w": "year of the snake",
+      "pos": "名詞",
+      "d": [
+        "year of the snake"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "巳年",
+      "r": "へびどし",
+      "pos": "名詞",
+      "d": [
+        "巳年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58212
+  },
+  {
+    "ko": "말띠",
+    "en": {
+      "w": "year of the horse",
+      "pos": "名詞",
+      "d": [
+        "year of the horse"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "午年",
+      "r": "うまどし",
+      "pos": "名詞",
+      "d": [
+        "午年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58213
+  },
+  {
+    "ko": "양띠",
+    "en": {
+      "w": "year of the goat",
+      "pos": "名詞",
+      "d": [
+        "year of the goat"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "未年",
+      "r": "ひつじどし",
+      "pos": "名詞",
+      "d": [
+        "未年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58214
+  },
+  {
+    "ko": "원숭이띠",
+    "en": {
+      "w": "year of the monkey",
+      "pos": "名詞",
+      "d": [
+        "year of the monkey"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "申年",
+      "r": "さるどし",
+      "pos": "名詞",
+      "d": [
+        "申年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58215
+  },
+  {
+    "ko": "닭띠",
+    "en": {
+      "w": "year of the rooster",
+      "pos": "名詞",
+      "d": [
+        "year of the rooster"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "酉年",
+      "r": "とりどし",
+      "pos": "名詞",
+      "d": [
+        "酉年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58216
+  },
+  {
+    "ko": "개띠",
+    "en": {
+      "w": "year of the dog",
+      "pos": "名詞",
+      "d": [
+        "year of the dog"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "戌年",
+      "r": "いぬどし",
+      "pos": "名詞",
+      "d": [
+        "戌年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58217
+  },
+  {
+    "ko": "돼지띠",
+    "en": {
+      "w": "year of the pig",
+      "pos": "名詞",
+      "d": [
+        "year of the pig"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "亥年",
+      "r": "いのししどし",
+      "pos": "名詞",
+      "d": [
+        "亥年"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 58218
   }
 ];
