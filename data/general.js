@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 8123
+// 단어수: 8253
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -217824,5 +217824,3385 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "C",
     "ko_rank": 60034
+  },
+  {
+    "ko": "지진해일",
+    "en": {
+      "w": "tsunami, seismic sea wave",
+      "pos": "名詞",
+      "d": [
+        "tsunami, seismic sea wave"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地震津波",
+      "r": "じしんつなみ",
+      "pos": "名詞",
+      "d": [
+        "地震津波"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60035
+  },
+  {
+    "ko": "쓰나미",
+    "en": {
+      "w": "tsunami",
+      "pos": "名詞",
+      "d": [
+        "tsunami"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "津波",
+      "r": "つなみ",
+      "pos": "名詞",
+      "d": [
+        "津波"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60036
+  },
+  {
+    "ko": "산불",
+    "en": {
+      "w": "wildfire",
+      "pos": "名詞",
+      "d": [
+        "wildfire"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "山火事",
+      "r": "やまかじ",
+      "pos": "名詞",
+      "d": [
+        "山火事"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60037
+  },
+  {
+    "ko": "폭발사고",
+    "en": {
+      "w": "explosion accident",
+      "pos": "名詞",
+      "d": [
+        "explosion accident"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "爆発事故",
+      "r": "ばくはつじこ",
+      "pos": "名詞",
+      "d": [
+        "爆発事故"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60038
+  },
+  {
+    "ko": "가스누출",
+    "en": {
+      "w": "gas leak",
+      "pos": "名詞",
+      "d": [
+        "gas leak"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガス漏れ",
+      "r": "ガスもれ",
+      "pos": "名詞",
+      "d": [
+        "ガス漏れ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60039
+  },
+  {
+    "ko": "정전",
+    "en": {
+      "w": "power outage",
+      "pos": "名詞",
+      "d": [
+        "power outage"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "停電",
+      "r": "ていでん",
+      "pos": "名詞",
+      "d": [
+        "停電"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60040
+  },
+  {
+    "ko": "단수",
+    "en": {
+      "w": "water outage",
+      "pos": "名詞",
+      "d": [
+        "water outage"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "断水",
+      "r": "だんすい",
+      "pos": "名詞",
+      "d": [
+        "断水"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60041
+  },
+  {
+    "ko": "침수",
+    "en": {
+      "w": "flooding, submersion",
+      "pos": "名詞",
+      "d": [
+        "flooding, submersion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "浸水",
+      "r": "しんすい",
+      "pos": "名詞",
+      "d": [
+        "浸水"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60042
+  },
+  {
+    "ko": "붕괴사고",
+    "en": {
+      "w": "collapse accident",
+      "pos": "名詞",
+      "d": [
+        "collapse accident"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "崩壊事故",
+      "r": "ほうかいじこ",
+      "pos": "名詞",
+      "d": [
+        "崩壊事故"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60043
+  },
+  {
+    "ko": "대피소",
+    "en": {
+      "w": "shelter (evacuation)",
+      "pos": "名詞",
+      "d": [
+        "shelter (evacuation)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "避難所",
+      "r": "ひなんじょ",
+      "pos": "名詞",
+      "d": [
+        "避難所"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60044
+  },
+  {
+    "ko": "비상연락망",
+    "en": {
+      "w": "emergency contact network",
+      "pos": "名詞",
+      "d": [
+        "emergency contact network"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "緊急連絡網",
+      "r": "きんきゅうれんらくもう",
+      "pos": "名詞",
+      "d": [
+        "緊急連絡網"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60045
+  },
+  {
+    "ko": "재난문자",
+    "en": {
+      "w": "disaster alert text message",
+      "pos": "名詞",
+      "d": [
+        "disaster alert text message"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "災害情報メール",
+      "r": "さいがいじょうほうメール",
+      "pos": "名詞",
+      "d": [
+        "災害情報メール"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60046
+  },
+  {
+    "ko": "재난방송",
+    "en": {
+      "w": "disaster broadcast",
+      "pos": "名詞",
+      "d": [
+        "disaster broadcast"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "災害放送",
+      "r": "さいがいほうそう",
+      "pos": "名詞",
+      "d": [
+        "災害放送"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60047
+  },
+  {
+    "ko": "응급처치",
+    "en": {
+      "w": "first aid",
+      "pos": "名詞",
+      "d": [
+        "first aid"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "応急処置",
+      "r": "おうきゅうしょち",
+      "pos": "名詞",
+      "d": [
+        "応急処置"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60048
+  },
+  {
+    "ko": "심폐소생술",
+    "en": {
+      "w": "CPR",
+      "pos": "名詞",
+      "d": [
+        "CPR"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "心肺蘇生術",
+      "r": "しんぱいそせいじゅつ",
+      "pos": "名詞",
+      "d": [
+        "心肺蘇生術"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60049
+  },
+  {
+    "ko": "자동심장충격기",
+    "en": {
+      "w": "AED, automated external defibrillator",
+      "pos": "名詞",
+      "d": [
+        "AED, automated external defibrillator"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自動体外式除細動器",
+      "r": "じどうたいがいしきじょさいどうき",
+      "pos": "名詞",
+      "d": [
+        "自動体外式除細動器"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60050
+  },
+  {
+    "ko": "응급의료센터",
+    "en": {
+      "w": "emergency medical center",
+      "pos": "名詞",
+      "d": [
+        "emergency medical center"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "救急医療センター",
+      "r": "きゅうきゅういりょうセンター",
+      "pos": "名詞",
+      "d": [
+        "救急医療センター"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60051
+  },
+  {
+    "ko": "119",
+    "en": {
+      "w": "emergency number 119 (fire/ambulance)",
+      "pos": "名詞",
+      "d": [
+        "emergency number 119 (fire/ambulance)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "119番",
+      "r": "ひゃくじゅうきゅうばん",
+      "pos": "名詞",
+      "d": [
+        "119番"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60052
+  },
+  {
+    "ko": "112",
+    "en": {
+      "w": "emergency number 112 (police)",
+      "pos": "名詞",
+      "d": [
+        "emergency number 112 (police)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "112番",
+      "r": "ひゃくじゅうにばん",
+      "pos": "名詞",
+      "d": [
+        "112番"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60053
+  },
+  {
+    "ko": "재난안전본부",
+    "en": {
+      "w": "disaster safety headquarters",
+      "pos": "名詞",
+      "d": [
+        "disaster safety headquarters"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "災害安全本部",
+      "r": "さいがいあんぜんほんぶ",
+      "pos": "名詞",
+      "d": [
+        "災害安全本部"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60054
+  },
+  {
+    "ko": "지진대피훈련",
+    "en": {
+      "w": "earthquake evacuation drill",
+      "pos": "名詞",
+      "d": [
+        "earthquake evacuation drill"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地震避難訓練",
+      "r": "じしんひなんくんれん",
+      "pos": "名詞",
+      "d": [
+        "地震避難訓練"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60055
+  },
+  {
+    "ko": "민방위훈련",
+    "en": {
+      "w": "civil defense drill",
+      "pos": "名詞",
+      "d": [
+        "civil defense drill"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "民防衛訓練",
+      "r": "みんぼうえいくんれん",
+      "pos": "名詞",
+      "d": [
+        "民防衛訓練"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60056
+  },
+  {
+    "ko": "대한민국",
+    "en": {
+      "w": "the Republic of Korea",
+      "pos": "名詞",
+      "d": [
+        "the Republic of Korea"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "大韓民国",
+      "r": "だいかんみんこく",
+      "pos": "名詞",
+      "d": [
+        "大韓民国"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60057
+  },
+  {
+    "ko": "서울특별시",
+    "en": {
+      "w": "Seoul Special City",
+      "pos": "名詞",
+      "d": [
+        "Seoul Special City"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ソウル特別市",
+      "r": "ソウルとくべつし",
+      "pos": "名詞",
+      "d": [
+        "ソウル特別市"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60058
+  },
+  {
+    "ko": "부산광역시",
+    "en": {
+      "w": "Busan Metropolitan City",
+      "pos": "名詞",
+      "d": [
+        "Busan Metropolitan City"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "釜山広域市",
+      "r": "プサンこういきし",
+      "pos": "名詞",
+      "d": [
+        "釜山広域市"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60059
+  },
+  {
+    "ko": "지방자치단체",
+    "en": {
+      "w": "local government",
+      "pos": "名詞",
+      "d": [
+        "local government"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "地方自治団体",
+      "r": "ちほうじちだんたい",
+      "pos": "名詞",
+      "d": [
+        "地方自治団体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60060
+  },
+  {
+    "ko": "카키색",
+    "en": {
+      "w": "khaki color",
+      "pos": "名詞",
+      "d": [
+        "khaki color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カーキ色",
+      "r": "カーキいろ",
+      "pos": "名詞",
+      "d": [
+        "カーキ色"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60061
+  },
+  {
+    "ko": "베이지색",
+    "en": {
+      "w": "beige color",
+      "pos": "名詞",
+      "d": [
+        "beige color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベージュ色",
+      "r": "ベージュいろ",
+      "pos": "名詞",
+      "d": [
+        "ベージュ色"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60062
+  },
+  {
+    "ko": "버건디",
+    "en": {
+      "w": "burgundy",
+      "pos": "名詞",
+      "d": [
+        "burgundy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バーガンディ",
+      "r": "バーガンディ",
+      "pos": "名詞",
+      "d": [
+        "バーガンディ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60063
+  },
+  {
+    "ko": "네이비",
+    "en": {
+      "w": "navy (color)",
+      "pos": "名詞",
+      "d": [
+        "navy (color)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ネイビー",
+      "r": "ネイビー",
+      "pos": "名詞",
+      "d": [
+        "ネイビー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60064
+  },
+  {
+    "ko": "와인색",
+    "en": {
+      "w": "wine color",
+      "pos": "名詞",
+      "d": [
+        "wine color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ワインカラー",
+      "r": "ワインカラー",
+      "pos": "名詞",
+      "d": [
+        "ワインカラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60065
+  },
+  {
+    "ko": "민트색",
+    "en": {
+      "w": "mint color",
+      "pos": "名詞",
+      "d": [
+        "mint color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ミントカラー",
+      "r": "ミントカラー",
+      "pos": "名詞",
+      "d": [
+        "ミントカラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60066
+  },
+  {
+    "ko": "라벤더색",
+    "en": {
+      "w": "lavender color",
+      "pos": "名詞",
+      "d": [
+        "lavender color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ラベンダーカラー",
+      "r": "ラベンダーカラー",
+      "pos": "名詞",
+      "d": [
+        "ラベンダーカラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60067
+  },
+  {
+    "ko": "코랄색",
+    "en": {
+      "w": "coral color",
+      "pos": "名詞",
+      "d": [
+        "coral color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コーラルカラー",
+      "r": "コーラルカラー",
+      "pos": "名詞",
+      "d": [
+        "コーラルカラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60068
+  },
+  {
+    "ko": "머스타드색",
+    "en": {
+      "w": "mustard color",
+      "pos": "名詞",
+      "d": [
+        "mustard color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マスタードカラー",
+      "r": "マスタードカラー",
+      "pos": "名詞",
+      "d": [
+        "マスタードカラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60069
+  },
+  {
+    "ko": "카멜색",
+    "en": {
+      "w": "camel color",
+      "pos": "名詞",
+      "d": [
+        "camel color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "キャメルカラー",
+      "r": "キャメルカラー",
+      "pos": "名詞",
+      "d": [
+        "キャメルカラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60070
+  },
+  {
+    "ko": "파스텔톤",
+    "en": {
+      "w": "pastel tone",
+      "pos": "名詞",
+      "d": [
+        "pastel tone"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パステルトーン",
+      "r": "パステルトーン",
+      "pos": "名詞",
+      "d": [
+        "パステルトーン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60071
+  },
+  {
+    "ko": "원색",
+    "en": {
+      "w": "primary color",
+      "pos": "名詞",
+      "d": [
+        "primary color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原色",
+      "r": "げんしょく",
+      "pos": "名詞",
+      "d": [
+        "原色"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60072
+  },
+  {
+    "ko": "보색",
+    "en": {
+      "w": "complementary color",
+      "pos": "名詞",
+      "d": [
+        "complementary color"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "補色",
+      "r": "ほしょく",
+      "pos": "名詞",
+      "d": [
+        "補色"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60073
+  },
+  {
+    "ko": "명도",
+    "en": {
+      "w": "lightness, value (color)",
+      "pos": "名詞",
+      "d": [
+        "lightness, value (color)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "明度",
+      "r": "めいど",
+      "pos": "名詞",
+      "d": [
+        "明度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60074
+  },
+  {
+    "ko": "채도",
+    "en": {
+      "w": "saturation (color)",
+      "pos": "名詞",
+      "d": [
+        "saturation (color)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "彩度",
+      "r": "さいど",
+      "pos": "名詞",
+      "d": [
+        "彩度"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60075
+  },
+  {
+    "ko": "색상환",
+    "en": {
+      "w": "color wheel",
+      "pos": "名詞",
+      "d": [
+        "color wheel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "色相環",
+      "r": "しきそうかん",
+      "pos": "名詞",
+      "d": [
+        "色相環"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60076
+  },
+  {
+    "ko": "장편소설",
+    "en": {
+      "w": "full-length novel",
+      "pos": "名詞",
+      "d": [
+        "full-length novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "長編小説",
+      "r": "ちょうへんしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "長編小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60077
+  },
+  {
+    "ko": "단편소설",
+    "en": {
+      "w": "short story",
+      "pos": "名詞",
+      "d": [
+        "short story"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "短編小説",
+      "r": "たんぺんしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "短編小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60078
+  },
+  {
+    "ko": "연작소설",
+    "en": {
+      "w": "serial novel",
+      "pos": "名詞",
+      "d": [
+        "serial novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "連作小説",
+      "r": "れんさくしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "連作小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60079
+  },
+  {
+    "ko": "추리소설",
+    "en": {
+      "w": "mystery novel",
+      "pos": "名詞",
+      "d": [
+        "mystery novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "推理小説",
+      "r": "すいりしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "推理小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60080
+  },
+  {
+    "ko": "공상과학소설",
+    "en": {
+      "w": "science fiction novel",
+      "pos": "名詞",
+      "d": [
+        "science fiction novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "SF小説",
+      "r": "えすえふしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "SF小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60081
+  },
+  {
+    "ko": "판타지소설",
+    "en": {
+      "w": "fantasy novel",
+      "pos": "名詞",
+      "d": [
+        "fantasy novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ファンタジー小説",
+      "r": "ふぁんたじーしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "ファンタジー小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60082
+  },
+  {
+    "ko": "로맨스소설",
+    "en": {
+      "w": "romance novel",
+      "pos": "名詞",
+      "d": [
+        "romance novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ロマンス小説",
+      "r": "ろまんすしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "ロマンス小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60083
+  },
+  {
+    "ko": "역사소설",
+    "en": {
+      "w": "historical novel",
+      "pos": "名詞",
+      "d": [
+        "historical novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "歴史小説",
+      "r": "れきししょうせつ",
+      "pos": "名詞",
+      "d": [
+        "歴史小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60084
+  },
+  {
+    "ko": "자전적소설",
+    "en": {
+      "w": "autobiographical novel",
+      "pos": "名詞",
+      "d": [
+        "autobiographical novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自伝的小説",
+      "r": "じでんてきしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "自伝的小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60085
+  },
+  {
+    "ko": "성장소설",
+    "en": {
+      "w": "coming-of-age novel",
+      "pos": "名詞",
+      "d": [
+        "coming-of-age novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "成長小説",
+      "r": "せいちょうしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "成長小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60086
+  },
+  {
+    "ko": "서간체소설",
+    "en": {
+      "w": "epistolary novel",
+      "pos": "名詞",
+      "d": [
+        "epistolary novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "書簡体小説",
+      "r": "しょかんたいしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "書簡体小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60087
+  },
+  {
+    "ko": "액자소설",
+    "en": {
+      "w": "frame narrative novel",
+      "pos": "名詞",
+      "d": [
+        "frame narrative novel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "額縁小説",
+      "r": "がくぶちしょうせつ",
+      "pos": "名詞",
+      "d": [
+        "額縁小説"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60088
+  },
+  {
+    "ko": "1인칭시점",
+    "en": {
+      "w": "first-person point of view",
+      "pos": "名詞",
+      "d": [
+        "first-person point of view"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "一人称視点",
+      "r": "いちにんしょうしてん",
+      "pos": "名詞",
+      "d": [
+        "一人称視点"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60089
+  },
+  {
+    "ko": "3인칭시점",
+    "en": {
+      "w": "third-person point of view",
+      "pos": "名詞",
+      "d": [
+        "third-person point of view"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "三人称視点",
+      "r": "さんにんしょうしてん",
+      "pos": "名詞",
+      "d": [
+        "三人称視点"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60090
+  },
+  {
+    "ko": "전지적작가시점",
+    "en": {
+      "w": "omniscient narrator point of view",
+      "pos": "名詞",
+      "d": [
+        "omniscient narrator point of view"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "全知的作家視点",
+      "r": "ぜんちてきさっかしてん",
+      "pos": "名詞",
+      "d": [
+        "全知的作家視点"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60091
+  },
+  {
+    "ko": "복선",
+    "en": {
+      "w": "foreshadowing",
+      "pos": "名詞",
+      "d": [
+        "foreshadowing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "伏線",
+      "r": "ふくせん",
+      "pos": "名詞",
+      "d": [
+        "伏線"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60092
+  },
+  {
+    "ko": "상징기법",
+    "en": {
+      "w": "symbolism technique",
+      "pos": "名詞",
+      "d": [
+        "symbolism technique"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "象徴技法",
+      "r": "しょうちょうぎほう",
+      "pos": "名詞",
+      "d": [
+        "象徴技法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60093
+  },
+  {
+    "ko": "은유법",
+    "en": {
+      "w": "metaphor (technique)",
+      "pos": "名詞",
+      "d": [
+        "metaphor (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "隠喩法",
+      "r": "いんゆほう",
+      "pos": "名詞",
+      "d": [
+        "隠喩法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60094
+  },
+  {
+    "ko": "직유법",
+    "en": {
+      "w": "simile (technique)",
+      "pos": "名詞",
+      "d": [
+        "simile (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "直喩法",
+      "r": "ちょくゆほう",
+      "pos": "名詞",
+      "d": [
+        "直喩法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60095
+  },
+  {
+    "ko": "의인법",
+    "en": {
+      "w": "personification (technique)",
+      "pos": "名詞",
+      "d": [
+        "personification (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "擬人法",
+      "r": "ぎじんほう",
+      "pos": "名詞",
+      "d": [
+        "擬人法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60096
+  },
+  {
+    "ko": "과장법",
+    "en": {
+      "w": "hyperbole (technique)",
+      "pos": "名詞",
+      "d": [
+        "hyperbole (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "誇張法",
+      "r": "こちょうほう",
+      "pos": "名詞",
+      "d": [
+        "誇張法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60097
+  },
+  {
+    "ko": "반어법",
+    "en": {
+      "w": "irony (technique)",
+      "pos": "名詞",
+      "d": [
+        "irony (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "反語法",
+      "r": "はんごほう",
+      "pos": "名詞",
+      "d": [
+        "反語法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60098
+  },
+  {
+    "ko": "역설법",
+    "en": {
+      "w": "paradox (technique)",
+      "pos": "名詞",
+      "d": [
+        "paradox (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "逆説法",
+      "r": "ぎゃくせつほう",
+      "pos": "名詞",
+      "d": [
+        "逆説法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60099
+  },
+  {
+    "ko": "대구법",
+    "en": {
+      "w": "antithesis, parallelism (technique)",
+      "pos": "名詞",
+      "d": [
+        "antithesis, parallelism (technique)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "対句法",
+      "r": "ついくほう",
+      "pos": "名詞",
+      "d": [
+        "対句法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60100
+  },
+  {
+    "ko": "점층법",
+    "en": {
+      "w": "climax technique, gradation",
+      "pos": "名詞",
+      "d": [
+        "climax technique, gradation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "漸層法",
+      "r": "ぜんそうほう",
+      "pos": "名詞",
+      "d": [
+        "漸層法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60101
+  },
+  {
+    "ko": "운율",
+    "en": {
+      "w": "rhythm, meter (poetry)",
+      "pos": "名詞",
+      "d": [
+        "rhythm, meter (poetry)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "韻律",
+      "r": "いんりつ",
+      "pos": "名詞",
+      "d": [
+        "韻律"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60102
+  },
+  {
+    "ko": "각운",
+    "en": {
+      "w": "rhyme (end rhyme)",
+      "pos": "名詞",
+      "d": [
+        "rhyme (end rhyme)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "脚韻",
+      "r": "きゃくいん",
+      "pos": "名詞",
+      "d": [
+        "脚韻"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60103
+  },
+  {
+    "ko": "행간",
+    "en": {
+      "w": "between the lines",
+      "pos": "名詞",
+      "d": [
+        "between the lines"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "行間",
+      "r": "ぎょうかん",
+      "pos": "名詞",
+      "d": [
+        "行間"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60104
+  },
+  {
+    "ko": "시상",
+    "en": {
+      "w": "poetic imagery, inspiration",
+      "pos": "名詞",
+      "d": [
+        "poetic imagery, inspiration"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "詩想",
+      "r": "しそう",
+      "pos": "名詞",
+      "d": [
+        "詩想"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60105
+  },
+  {
+    "ko": "심상",
+    "en": {
+      "w": "imagery (literary)",
+      "pos": "名詞",
+      "d": [
+        "imagery (literary)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "心象",
+      "r": "しんしょう",
+      "pos": "名詞",
+      "d": [
+        "心象"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60106
+  },
+  {
+    "ko": "주제의식",
+    "en": {
+      "w": "thematic consciousness",
+      "pos": "名詞",
+      "d": [
+        "thematic consciousness"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "主題意識",
+      "r": "しゅだいいしき",
+      "pos": "名詞",
+      "d": [
+        "主題意識"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60107
+  },
+  {
+    "ko": "문체",
+    "en": {
+      "w": "writing style",
+      "pos": "名詞",
+      "d": [
+        "writing style"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "文体",
+      "r": "ぶんたい",
+      "pos": "名詞",
+      "d": [
+        "文体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60108
+  },
+  {
+    "ko": "서술자",
+    "en": {
+      "w": "narrator",
+      "pos": "名詞",
+      "d": [
+        "narrator"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "叙述者",
+      "r": "じょじゅつしゃ",
+      "pos": "名詞",
+      "d": [
+        "叙述者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60109
+  },
+  {
+    "ko": "화자",
+    "en": {
+      "w": "speaker (narrator, persona)",
+      "pos": "名詞",
+      "d": [
+        "speaker (narrator, persona)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "話者",
+      "r": "わしゃ",
+      "pos": "名詞",
+      "d": [
+        "話者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60110
+  },
+  {
+    "ko": "청자",
+    "en": {
+      "w": "listener, addressee",
+      "pos": "名詞",
+      "d": [
+        "listener, addressee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "聴者",
+      "r": "ちょうしゃ",
+      "pos": "名詞",
+      "d": [
+        "聴者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60111
+  },
+  {
+    "ko": "독자",
+    "en": {
+      "w": "reader",
+      "pos": "名詞",
+      "d": [
+        "reader"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "読者",
+      "r": "どくしゃ",
+      "pos": "名詞",
+      "d": [
+        "読者"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60112
+  },
+  {
+    "ko": "비평",
+    "en": {
+      "w": "criticism (literary)",
+      "pos": "名詞",
+      "d": [
+        "criticism (literary)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "批評",
+      "r": "ひひょう",
+      "pos": "名詞",
+      "d": [
+        "批評"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60113
+  },
+  {
+    "ko": "감상문",
+    "en": {
+      "w": "reflection essay, appreciation essay",
+      "pos": "名詞",
+      "d": [
+        "reflection essay, appreciation essay"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "感想文",
+      "r": "かんそうぶん",
+      "pos": "名詞",
+      "d": [
+        "感想文"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60114
+  },
+  {
+    "ko": "독후감",
+    "en": {
+      "w": "book report",
+      "pos": "名詞",
+      "d": [
+        "book report"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "読後感",
+      "r": "どくごかん",
+      "pos": "名詞",
+      "d": [
+        "読後感"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60115
+  },
+  {
+    "ko": "번역서",
+    "en": {
+      "w": "translated book",
+      "pos": "名詞",
+      "d": [
+        "translated book"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "翻訳書",
+      "r": "ほんやくしょ",
+      "pos": "名詞",
+      "d": [
+        "翻訳書"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60116
+  },
+  {
+    "ko": "원작",
+    "en": {
+      "w": "original work",
+      "pos": "名詞",
+      "d": [
+        "original work"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "原作",
+      "r": "げんさく",
+      "pos": "名詞",
+      "d": [
+        "原作"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60117
+  },
+  {
+    "ko": "각색",
+    "en": {
+      "w": "adaptation (film/drama)",
+      "pos": "名詞",
+      "d": [
+        "adaptation (film/drama)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "脚色",
+      "r": "きゃくしょく",
+      "pos": "名詞",
+      "d": [
+        "脚色"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60118
+  },
+  {
+    "ko": "개작",
+    "en": {
+      "w": "rewriting, adaptation (of a work)",
+      "pos": "名詞",
+      "d": [
+        "rewriting, adaptation (of a work)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "改作",
+      "r": "かいさく",
+      "pos": "名詞",
+      "d": [
+        "改作"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60119
+  },
+  {
+    "ko": "표절",
+    "en": {
+      "w": "plagiarism",
+      "pos": "名詞",
+      "d": [
+        "plagiarism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "剽窃",
+      "r": "ひょうせつ",
+      "pos": "名詞",
+      "d": [
+        "剽窃"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60120
+  },
+  {
+    "ko": "저작권",
+    "en": {
+      "w": "copyright",
+      "pos": "名詞",
+      "d": [
+        "copyright"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "著作権",
+      "r": "ちょさくけん",
+      "pos": "名詞",
+      "d": [
+        "著作権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60121
+  },
+  {
+    "ko": "지적재산권",
+    "en": {
+      "w": "intellectual property rights",
+      "pos": "名詞",
+      "d": [
+        "intellectual property rights"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "知的財産権",
+      "r": "ちてきざいさんけん",
+      "pos": "名詞",
+      "d": [
+        "知的財産権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60122
+  },
+  {
+    "ko": "특허권",
+    "en": {
+      "w": "patent rights",
+      "pos": "名詞",
+      "d": [
+        "patent rights"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "特許権",
+      "r": "とっきょけん",
+      "pos": "名詞",
+      "d": [
+        "特許権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60123
+  },
+  {
+    "ko": "상표권",
+    "en": {
+      "w": "trademark rights",
+      "pos": "名詞",
+      "d": [
+        "trademark rights"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "商標権",
+      "r": "しょうひょうけん",
+      "pos": "名詞",
+      "d": [
+        "商標権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60124
+  },
+  {
+    "ko": "초상권",
+    "en": {
+      "w": "right of publicity, portrait rights",
+      "pos": "名詞",
+      "d": [
+        "right of publicity, portrait rights"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "肖像権",
+      "r": "しょうぞうけん",
+      "pos": "名詞",
+      "d": [
+        "肖像権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60125
+  },
+  {
+    "ko": "퍼블리시티권",
+    "en": {
+      "w": "right of publicity",
+      "pos": "名詞",
+      "d": [
+        "right of publicity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パブリシティ権",
+      "r": "パブリシティけん",
+      "pos": "名詞",
+      "d": [
+        "パブリシティ権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60126
+  },
+  {
+    "ko": "프라이버시권",
+    "en": {
+      "w": "the right to privacy",
+      "pos": "名詞",
+      "d": [
+        "the right to privacy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プライバシー権",
+      "r": "プライバシーけん",
+      "pos": "名詞",
+      "d": [
+        "プライバシー権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60127
+  },
+  {
+    "ko": "알권리",
+    "en": {
+      "w": "the right to know",
+      "pos": "名詞",
+      "d": [
+        "the right to know"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "知る権利",
+      "r": "しるけんり",
+      "pos": "名詞",
+      "d": [
+        "知る権利"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60128
+  },
+  {
+    "ko": "접근권",
+    "en": {
+      "w": "right of access",
+      "pos": "名詞",
+      "d": [
+        "right of access"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アクセス権",
+      "r": "アクセスけん",
+      "pos": "名詞",
+      "d": [
+        "アクセス権"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60129
+  },
+  {
+    "ko": "데이터베이스구축",
+    "en": {
+      "w": "database construction",
+      "pos": "名詞",
+      "d": [
+        "database construction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "データベース構築",
+      "r": "データベースこうちく",
+      "pos": "名詞",
+      "d": [
+        "データベース構築"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60130
+  },
+  {
+    "ko": "알고리즘분석",
+    "en": {
+      "w": "algorithm analysis",
+      "pos": "名詞",
+      "d": [
+        "algorithm analysis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アルゴリズム分析",
+      "r": "アルゴリズムぶんせき",
+      "pos": "名詞",
+      "d": [
+        "アルゴリズム分析"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60131
+  },
+  {
+    "ko": "자료구조",
+    "en": {
+      "w": "data structure",
+      "pos": "名詞",
+      "d": [
+        "data structure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "データ構造",
+      "r": "データこうぞう",
+      "pos": "名詞",
+      "d": [
+        "データ構造"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60132
+  },
+  {
+    "ko": "스택",
+    "en": {
+      "w": "stack (data structure)",
+      "pos": "名詞",
+      "d": [
+        "stack (data structure)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スタック",
+      "r": "スタック",
+      "pos": "名詞",
+      "d": [
+        "スタック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60133
+  },
+  {
+    "ko": "큐",
+    "en": {
+      "w": "queue (data structure)",
+      "pos": "名詞",
+      "d": [
+        "queue (data structure)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "キュー",
+      "r": "キュー",
+      "pos": "名詞",
+      "d": [
+        "キュー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60134
+  },
+  {
+    "ko": "트리구조",
+    "en": {
+      "w": "tree structure",
+      "pos": "名詞",
+      "d": [
+        "tree structure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ツリー構造",
+      "r": "ツリーこうぞう",
+      "pos": "名詞",
+      "d": [
+        "ツリー構造"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60135
+  },
+  {
+    "ko": "그래프이론",
+    "en": {
+      "w": "graph theory",
+      "pos": "名詞",
+      "d": [
+        "graph theory"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "グラフ理論",
+      "r": "グラフりろん",
+      "pos": "名詞",
+      "d": [
+        "グラフ理論"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60136
+  },
+  {
+    "ko": "정렬알고리즘",
+    "en": {
+      "w": "sorting algorithm",
+      "pos": "名詞",
+      "d": [
+        "sorting algorithm"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ソートアルゴリズム",
+      "r": "ソートアルゴリズム",
+      "pos": "名詞",
+      "d": [
+        "ソートアルゴリズム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60137
+  },
+  {
+    "ko": "탐색알고리즘",
+    "en": {
+      "w": "search algorithm",
+      "pos": "名詞",
+      "d": [
+        "search algorithm"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "探索アルゴリズム",
+      "r": "たんさくアルゴリズム",
+      "pos": "名詞",
+      "d": [
+        "探索アルゴリズム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60138
+  },
+  {
+    "ko": "재귀함수",
+    "en": {
+      "w": "recursive function",
+      "pos": "名詞",
+      "d": [
+        "recursive function"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "再帰関数",
+      "r": "さいきかんすう",
+      "pos": "名詞",
+      "d": [
+        "再帰関数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60139
+  },
+  {
+    "ko": "반복문",
+    "en": {
+      "w": "loop statement",
+      "pos": "名詞",
+      "d": [
+        "loop statement"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ループ文",
+      "r": "ループぶん",
+      "pos": "名詞",
+      "d": [
+        "ループ文"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60140
+  },
+  {
+    "ko": "조건문",
+    "en": {
+      "w": "conditional statement",
+      "pos": "名詞",
+      "d": [
+        "conditional statement"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "条件文",
+      "r": "じょうけんぶん",
+      "pos": "名詞",
+      "d": [
+        "条件文"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60141
+  },
+  {
+    "ko": "변수선언",
+    "en": {
+      "w": "variable declaration",
+      "pos": "名詞",
+      "d": [
+        "variable declaration"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "変数宣言",
+      "r": "へんすうせんげん",
+      "pos": "名詞",
+      "d": [
+        "変数宣言"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60142
+  },
+  {
+    "ko": "함수정의",
+    "en": {
+      "w": "function definition",
+      "pos": "名詞",
+      "d": [
+        "function definition"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "関数定義",
+      "r": "かんすうていぎ",
+      "pos": "名詞",
+      "d": [
+        "関数定義"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60143
+  },
+  {
+    "ko": "클래스",
+    "en": {
+      "w": "class (OOP)",
+      "pos": "名詞",
+      "d": [
+        "class (OOP)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クラス",
+      "r": "クラス",
+      "pos": "名詞",
+      "d": [
+        "クラス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60144
+  },
+  {
+    "ko": "객체지향",
+    "en": {
+      "w": "object-oriented",
+      "pos": "名詞",
+      "d": [
+        "object-oriented"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オブジェクト指向",
+      "r": "オブジェクトしこう",
+      "pos": "名詞",
+      "d": [
+        "オブジェクト指向"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60145
+  },
+  {
+    "ko": "상속",
+    "en": {
+      "w": "inheritance (OOP)",
+      "pos": "名詞",
+      "d": [
+        "inheritance (OOP)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "継承",
+      "r": "けいしょう",
+      "pos": "名詞",
+      "d": [
+        "継承"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60146
+  },
+  {
+    "ko": "캡슐화",
+    "en": {
+      "w": "encapsulation",
+      "pos": "名詞",
+      "d": [
+        "encapsulation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カプセル化",
+      "r": "カプセルか",
+      "pos": "名詞",
+      "d": [
+        "カプセル化"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60147
+  },
+  {
+    "ko": "다형성",
+    "en": {
+      "w": "polymorphism",
+      "pos": "名詞",
+      "d": [
+        "polymorphism"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "多態性",
+      "r": "たたいせい",
+      "pos": "名詞",
+      "d": [
+        "多態性"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60148
+  },
+  {
+    "ko": "인터페이스",
+    "en": {
+      "w": "interface (programming)",
+      "pos": "名詞",
+      "d": [
+        "interface (programming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インターフェース",
+      "r": "インターフェース",
+      "pos": "名詞",
+      "d": [
+        "インターフェース"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60149
+  },
+  {
+    "ko": "컴파일러",
+    "en": {
+      "w": "compiler",
+      "pos": "名詞",
+      "d": [
+        "compiler"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コンパイラ",
+      "r": "コンパイラ",
+      "pos": "名詞",
+      "d": [
+        "コンパイラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60150
+  },
+  {
+    "ko": "인터프리터",
+    "en": {
+      "w": "interpreter (programming)",
+      "pos": "名詞",
+      "d": [
+        "interpreter (programming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インタープリタ",
+      "r": "インタープリタ",
+      "pos": "名詞",
+      "d": [
+        "インタープリタ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60151
+  },
+  {
+    "ko": "디버거",
+    "en": {
+      "w": "debugger",
+      "pos": "名詞",
+      "d": [
+        "debugger"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デバッガ",
+      "r": "デバッガ",
+      "pos": "名詞",
+      "d": [
+        "デバッガ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60152
+  },
+  {
+    "ko": "IDE",
+    "en": {
+      "w": "integrated development environment",
+      "pos": "名詞",
+      "d": [
+        "integrated development environment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "IDE",
+      "r": "アイディーイー",
+      "pos": "名詞",
+      "d": [
+        "IDE"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60153
+  },
+  {
+    "ko": "API",
+    "en": {
+      "w": "application programming interface",
+      "pos": "名詞",
+      "d": [
+        "application programming interface"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "API",
+      "r": "エーピーアイ",
+      "pos": "名詞",
+      "d": [
+        "API"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60154
+  },
+  {
+    "ko": "프레임워크",
+    "en": {
+      "w": "framework (software)",
+      "pos": "名詞",
+      "d": [
+        "framework (software)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フレームワーク",
+      "r": "フレームワーク",
+      "pos": "名詞",
+      "d": [
+        "フレームワーク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60155
+  },
+  {
+    "ko": "라이브러리",
+    "en": {
+      "w": "library (software)",
+      "pos": "名詞",
+      "d": [
+        "library (software)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ライブラリ",
+      "r": "ライブラリ",
+      "pos": "名詞",
+      "d": [
+        "ライブラリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60156
+  },
+  {
+    "ko": "패키지매니저",
+    "en": {
+      "w": "package manager",
+      "pos": "名詞",
+      "d": [
+        "package manager"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パッケージマネージャー",
+      "r": "パッケージマネージャー",
+      "pos": "名詞",
+      "d": [
+        "パッケージマネージャー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60157
+  },
+  {
+    "ko": "버전관리시스템",
+    "en": {
+      "w": "version control system",
+      "pos": "名詞",
+      "d": [
+        "version control system"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バージョン管理システム",
+      "r": "バージョンかんりシステム",
+      "pos": "名詞",
+      "d": [
+        "バージョン管理システム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60158
+  },
+  {
+    "ko": "가상머신",
+    "en": {
+      "w": "virtual machine",
+      "pos": "名詞",
+      "d": [
+        "virtual machine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "仮想マシン",
+      "r": "かそうマシン",
+      "pos": "名詞",
+      "d": [
+        "仮想マシン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60159
+  },
+  {
+    "ko": "컨테이너",
+    "en": {
+      "w": "container (computing)",
+      "pos": "名詞",
+      "d": [
+        "container (computing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コンテナ",
+      "r": "コンテナ",
+      "pos": "名詞",
+      "d": [
+        "コンテナ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60160
+  },
+  {
+    "ko": "도커",
+    "en": {
+      "w": "Docker",
+      "pos": "名詞",
+      "d": [
+        "Docker"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "Docker",
+      "r": "ドッカー",
+      "pos": "名詞",
+      "d": [
+        "Docker"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60161
+  },
+  {
+    "ko": "쿠버네티스",
+    "en": {
+      "w": "Kubernetes",
+      "pos": "名詞",
+      "d": [
+        "Kubernetes"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "Kubernetes",
+      "r": "クーバネティス",
+      "pos": "名詞",
+      "d": [
+        "Kubernetes"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60162
+  },
+  {
+    "ko": "마이크로서비스",
+    "en": {
+      "w": "microservices",
+      "pos": "名詞",
+      "d": [
+        "microservices"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マイクロサービス",
+      "r": "マイクロサービス",
+      "pos": "名詞",
+      "d": [
+        "マイクロサービス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60163
+  },
+  {
+    "ko": "서버리스",
+    "en": {
+      "w": "serverless",
+      "pos": "名詞",
+      "d": [
+        "serverless"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サーバーレス",
+      "r": "サーバーレス",
+      "pos": "名詞",
+      "d": [
+        "サーバーレス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 60164
   }
 ];
