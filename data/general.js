@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 7571
+// 단어수: 7734
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -203472,5 +203472,4243 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "C",
     "ko_rank": 59482
+  },
+  {
+    "ko": "참치",
+    "en": {
+      "w": "tuna",
+      "pos": "名詞",
+      "d": [
+        "tuna"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マグロ",
+      "r": "まぐろ",
+      "pos": "名詞",
+      "d": [
+        "マグロ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59483
+  },
+  {
+    "ko": "고등어",
+    "en": {
+      "w": "mackerel",
+      "pos": "名詞",
+      "d": [
+        "mackerel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サバ",
+      "r": "さば",
+      "pos": "名詞",
+      "d": [
+        "サバ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59484
+  },
+  {
+    "ko": "연어",
+    "en": {
+      "w": "salmon",
+      "pos": "名詞",
+      "d": [
+        "salmon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サケ",
+      "r": "さけ",
+      "pos": "名詞",
+      "d": [
+        "サケ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59485
+  },
+  {
+    "ko": "갈치",
+    "en": {
+      "w": "hairtail fish, cutlassfish",
+      "pos": "名詞",
+      "d": [
+        "hairtail fish, cutlassfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "太刀魚",
+      "r": "たちうお",
+      "pos": "名詞",
+      "d": [
+        "太刀魚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59486
+  },
+  {
+    "ko": "명태",
+    "en": {
+      "w": "Alaska pollock",
+      "pos": "名詞",
+      "d": [
+        "Alaska pollock"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "明太",
+      "r": "すけとうだら",
+      "pos": "名詞",
+      "d": [
+        "明太"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59487
+  },
+  {
+    "ko": "전복",
+    "en": {
+      "w": "abalone",
+      "pos": "名詞",
+      "d": [
+        "abalone"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アワビ",
+      "r": "あわび",
+      "pos": "名詞",
+      "d": [
+        "アワビ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59488
+  },
+  {
+    "ko": "홍합",
+    "en": {
+      "w": "mussel",
+      "pos": "名詞",
+      "d": [
+        "mussel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ムール貝",
+      "r": "ムールがい",
+      "pos": "名詞",
+      "d": [
+        "ムール貝"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59489
+  },
+  {
+    "ko": "가리비",
+    "en": {
+      "w": "scallop",
+      "pos": "名詞",
+      "d": [
+        "scallop"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ホタテ",
+      "r": "ほたて",
+      "pos": "名詞",
+      "d": [
+        "ホタテ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59490
+  },
+  {
+    "ko": "꽃게",
+    "en": {
+      "w": "blue crab",
+      "pos": "名詞",
+      "d": [
+        "blue crab"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ワタリガニ",
+      "r": "わたりがに",
+      "pos": "名詞",
+      "d": [
+        "ワタリガニ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59491
+  },
+  {
+    "ko": "바닷가재",
+    "en": {
+      "w": "lobster",
+      "pos": "名詞",
+      "d": [
+        "lobster"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ロブスター",
+      "r": "ロブスター",
+      "pos": "名詞",
+      "d": [
+        "ロブスター"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59492
+  },
+  {
+    "ko": "성게",
+    "en": {
+      "w": "sea urchin",
+      "pos": "名詞",
+      "d": [
+        "sea urchin"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ウニ",
+      "r": "うに",
+      "pos": "名詞",
+      "d": [
+        "ウニ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59493
+  },
+  {
+    "ko": "해파리",
+    "en": {
+      "w": "jellyfish",
+      "pos": "名詞",
+      "d": [
+        "jellyfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クラゲ",
+      "r": "くらげ",
+      "pos": "名詞",
+      "d": [
+        "クラゲ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59494
+  },
+  {
+    "ko": "불가사리",
+    "en": {
+      "w": "starfish",
+      "pos": "名詞",
+      "d": [
+        "starfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヒトデ",
+      "r": "ひとで",
+      "pos": "名詞",
+      "d": [
+        "ヒトデ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59495
+  },
+  {
+    "ko": "말미잘",
+    "en": {
+      "w": "sea anemone",
+      "pos": "名詞",
+      "d": [
+        "sea anemone"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イソギンチャク",
+      "r": "いそぎんちゃく",
+      "pos": "名詞",
+      "d": [
+        "イソギンチャク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59496
+  },
+  {
+    "ko": "플랑크톤",
+    "en": {
+      "w": "plankton",
+      "pos": "名詞",
+      "d": [
+        "plankton"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プランクトン",
+      "r": "プランクトン",
+      "pos": "名詞",
+      "d": [
+        "プランクトン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59497
+  },
+  {
+    "ko": "산호초",
+    "en": {
+      "w": "coral reef",
+      "pos": "名詞",
+      "d": [
+        "coral reef"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サンゴ礁",
+      "r": "さんごしょう",
+      "pos": "名詞",
+      "d": [
+        "サンゴ礁"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59498
+  },
+  {
+    "ko": "피라니아",
+    "en": {
+      "w": "piranha",
+      "pos": "名詞",
+      "d": [
+        "piranha"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ピラニア",
+      "r": "ピラニア",
+      "pos": "名詞",
+      "d": [
+        "ピラニア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59499
+  },
+  {
+    "ko": "금붕어",
+    "en": {
+      "w": "goldfish",
+      "pos": "名詞",
+      "d": [
+        "goldfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "金魚",
+      "r": "きんぎょ",
+      "pos": "名詞",
+      "d": [
+        "金魚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59500
+  },
+  {
+    "ko": "메기",
+    "en": {
+      "w": "catfish",
+      "pos": "名詞",
+      "d": [
+        "catfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ナマズ",
+      "r": "なまず",
+      "pos": "名詞",
+      "d": [
+        "ナマズ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59501
+  },
+  {
+    "ko": "붕어",
+    "en": {
+      "w": "crucian carp",
+      "pos": "名詞",
+      "d": [
+        "crucian carp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フナ",
+      "r": "ふな",
+      "pos": "名詞",
+      "d": [
+        "フナ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59502
+  },
+  {
+    "ko": "잉어",
+    "en": {
+      "w": "carp",
+      "pos": "名詞",
+      "d": [
+        "carp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コイ",
+      "r": "こい",
+      "pos": "名詞",
+      "d": [
+        "コイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59503
+  },
+  {
+    "ko": "장어",
+    "en": {
+      "w": "eel",
+      "pos": "名詞",
+      "d": [
+        "eel"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ウナギ",
+      "r": "うなぎ",
+      "pos": "名詞",
+      "d": [
+        "ウナギ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59504
+  },
+  {
+    "ko": "철갑상어",
+    "en": {
+      "w": "sturgeon",
+      "pos": "名詞",
+      "d": [
+        "sturgeon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チョウザメ",
+      "r": "ちょうざめ",
+      "pos": "名詞",
+      "d": [
+        "チョウザメ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59505
+  },
+  {
+    "ko": "가오리",
+    "en": {
+      "w": "stingray",
+      "pos": "名詞",
+      "d": [
+        "stingray"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "エイ",
+      "r": "えい",
+      "pos": "名詞",
+      "d": [
+        "エイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59506
+  },
+  {
+    "ko": "복어",
+    "en": {
+      "w": "pufferfish",
+      "pos": "名詞",
+      "d": [
+        "pufferfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フグ",
+      "r": "ふぐ",
+      "pos": "名詞",
+      "d": [
+        "フグ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59507
+  },
+  {
+    "ko": "청어",
+    "en": {
+      "w": "herring",
+      "pos": "名詞",
+      "d": [
+        "herring"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ニシン",
+      "r": "にしん",
+      "pos": "名詞",
+      "d": [
+        "ニシン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59508
+  },
+  {
+    "ko": "정어리",
+    "en": {
+      "w": "sardine",
+      "pos": "名詞",
+      "d": [
+        "sardine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イワシ",
+      "r": "いわし",
+      "pos": "名詞",
+      "d": [
+        "イワシ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59509
+  },
+  {
+    "ko": "꽁치",
+    "en": {
+      "w": "saury (fish)",
+      "pos": "名詞",
+      "d": [
+        "saury (fish)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サンマ",
+      "r": "さんま",
+      "pos": "名詞",
+      "d": [
+        "サンマ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59510
+  },
+  {
+    "ko": "방어",
+    "en": {
+      "w": "yellowtail (fish)",
+      "pos": "名詞",
+      "d": [
+        "yellowtail (fish)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブリ",
+      "r": "ぶり",
+      "pos": "名詞",
+      "d": [
+        "ブリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59511
+  },
+  {
+    "ko": "넙치",
+    "en": {
+      "w": "flounder, flatfish",
+      "pos": "名詞",
+      "d": [
+        "flounder, flatfish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヒラメ",
+      "r": "ひらめ",
+      "pos": "名詞",
+      "d": [
+        "ヒラメ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59512
+  },
+  {
+    "ko": "가자미",
+    "en": {
+      "w": "flounder, plaice",
+      "pos": "名詞",
+      "d": [
+        "flounder, plaice"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カレイ",
+      "r": "かれい",
+      "pos": "名詞",
+      "d": [
+        "カレイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59513
+  },
+  {
+    "ko": "낙지",
+    "en": {
+      "w": "long-arm octopus",
+      "pos": "名詞",
+      "d": [
+        "long-arm octopus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "テナガダコ",
+      "r": "てながだこ",
+      "pos": "名詞",
+      "d": [
+        "テナガダコ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59514
+  },
+  {
+    "ko": "소라",
+    "en": {
+      "w": "conch, sea snail",
+      "pos": "名詞",
+      "d": [
+        "conch, sea snail"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サザエ",
+      "r": "さざえ",
+      "pos": "名詞",
+      "d": [
+        "サザエ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59515
+  },
+  {
+    "ko": "전갈",
+    "en": {
+      "w": "scorpion",
+      "pos": "名詞",
+      "d": [
+        "scorpion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サソリ",
+      "r": "さそり",
+      "pos": "名詞",
+      "d": [
+        "サソリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59516
+  },
+  {
+    "ko": "지네",
+    "en": {
+      "w": "centipede",
+      "pos": "名詞",
+      "d": [
+        "centipede"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ムカデ",
+      "r": "むかで",
+      "pos": "名詞",
+      "d": [
+        "ムカデ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59517
+  },
+  {
+    "ko": "바퀴벌레",
+    "en": {
+      "w": "cockroach",
+      "pos": "名詞",
+      "d": [
+        "cockroach"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ゴキブリ",
+      "r": "ごきぶり",
+      "pos": "名詞",
+      "d": [
+        "ゴキブリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59518
+  },
+  {
+    "ko": "나방",
+    "en": {
+      "w": "moth",
+      "pos": "名詞",
+      "d": [
+        "moth"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "蛾",
+      "r": "が",
+      "pos": "名詞",
+      "d": [
+        "蛾"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59519
+  },
+  {
+    "ko": "반딧불이",
+    "en": {
+      "w": "firefly",
+      "pos": "名詞",
+      "d": [
+        "firefly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ホタル",
+      "r": "ほたる",
+      "pos": "名詞",
+      "d": [
+        "ホタル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59520
+  },
+  {
+    "ko": "방울뱀",
+    "en": {
+      "w": "rattlesnake",
+      "pos": "名詞",
+      "d": [
+        "rattlesnake"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガラガラヘビ",
+      "r": "がらがらへび",
+      "pos": "名詞",
+      "d": [
+        "ガラガラヘビ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59521
+  },
+  {
+    "ko": "도마뱀",
+    "en": {
+      "w": "lizard",
+      "pos": "名詞",
+      "d": [
+        "lizard"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "トカゲ",
+      "r": "とかげ",
+      "pos": "名詞",
+      "d": [
+        "トカゲ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59522
+  },
+  {
+    "ko": "카멜레온",
+    "en": {
+      "w": "chameleon",
+      "pos": "名詞",
+      "d": [
+        "chameleon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カメレオン",
+      "r": "カメレオン",
+      "pos": "名詞",
+      "d": [
+        "カメレオン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59523
+  },
+  {
+    "ko": "이구아나",
+    "en": {
+      "w": "iguana",
+      "pos": "名詞",
+      "d": [
+        "iguana"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イグアナ",
+      "r": "イグアナ",
+      "pos": "名詞",
+      "d": [
+        "イグアナ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59524
+  },
+  {
+    "ko": "너구리",
+    "en": {
+      "w": "raccoon dog",
+      "pos": "名詞",
+      "d": [
+        "raccoon dog"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タヌキ",
+      "r": "たぬき",
+      "pos": "名詞",
+      "d": [
+        "タヌキ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59525
+  },
+  {
+    "ko": "수달",
+    "en": {
+      "w": "otter",
+      "pos": "名詞",
+      "d": [
+        "otter"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カワウソ",
+      "r": "かわうそ",
+      "pos": "名詞",
+      "d": [
+        "カワウソ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59526
+  },
+  {
+    "ko": "비버",
+    "en": {
+      "w": "beaver",
+      "pos": "名詞",
+      "d": [
+        "beaver"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ビーバー",
+      "r": "ビーバー",
+      "pos": "名詞",
+      "d": [
+        "ビーバー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59527
+  },
+  {
+    "ko": "두더지",
+    "en": {
+      "w": "mole (animal)",
+      "pos": "名詞",
+      "d": [
+        "mole (animal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "モグラ",
+      "r": "もぐら",
+      "pos": "名詞",
+      "d": [
+        "モグラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59528
+  },
+  {
+    "ko": "고슴도치",
+    "en": {
+      "w": "hedgehog",
+      "pos": "名詞",
+      "d": [
+        "hedgehog"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハリネズミ",
+      "r": "はりねずみ",
+      "pos": "名詞",
+      "d": [
+        "ハリネズミ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59529
+  },
+  {
+    "ko": "박쥐",
+    "en": {
+      "w": "bat (animal)",
+      "pos": "名詞",
+      "d": [
+        "bat (animal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コウモリ",
+      "r": "こうもり",
+      "pos": "名詞",
+      "d": [
+        "コウモリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59530
+  },
+  {
+    "ko": "스컹크",
+    "en": {
+      "w": "skunk",
+      "pos": "名詞",
+      "d": [
+        "skunk"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スカンク",
+      "r": "スカンク",
+      "pos": "名詞",
+      "d": [
+        "スカンク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59531
+  },
+  {
+    "ko": "코알라",
+    "en": {
+      "w": "koala",
+      "pos": "名詞",
+      "d": [
+        "koala"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コアラ",
+      "r": "コアラ",
+      "pos": "名詞",
+      "d": [
+        "コアラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59532
+  },
+  {
+    "ko": "나무늘보",
+    "en": {
+      "w": "sloth",
+      "pos": "名詞",
+      "d": [
+        "sloth"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ナマケモノ",
+      "r": "なまけもの",
+      "pos": "名詞",
+      "d": [
+        "ナマケモノ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59533
+  },
+  {
+    "ko": "오랑우탄",
+    "en": {
+      "w": "orangutan",
+      "pos": "名詞",
+      "d": [
+        "orangutan"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オランウータン",
+      "r": "オランウータン",
+      "pos": "名詞",
+      "d": [
+        "オランウータン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59534
+  },
+  {
+    "ko": "고릴라",
+    "en": {
+      "w": "gorilla",
+      "pos": "名詞",
+      "d": [
+        "gorilla"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ゴリラ",
+      "r": "ゴリラ",
+      "pos": "名詞",
+      "d": [
+        "ゴリラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59535
+  },
+  {
+    "ko": "침팬지",
+    "en": {
+      "w": "chimpanzee",
+      "pos": "名詞",
+      "d": [
+        "chimpanzee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チンパンジー",
+      "r": "チンパンジー",
+      "pos": "名詞",
+      "d": [
+        "チンパンジー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59536
+  },
+  {
+    "ko": "미어캣",
+    "en": {
+      "w": "meerkat",
+      "pos": "名詞",
+      "d": [
+        "meerkat"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ミーアキャット",
+      "r": "ミーアキャット",
+      "pos": "名詞",
+      "d": [
+        "ミーアキャット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59537
+  },
+  {
+    "ko": "하이에나",
+    "en": {
+      "w": "hyena",
+      "pos": "名詞",
+      "d": [
+        "hyena"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハイエナ",
+      "r": "ハイエナ",
+      "pos": "名詞",
+      "d": [
+        "ハイエナ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59538
+  },
+  {
+    "ko": "치타",
+    "en": {
+      "w": "cheetah",
+      "pos": "名詞",
+      "d": [
+        "cheetah"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チーター",
+      "r": "チーター",
+      "pos": "名詞",
+      "d": [
+        "チーター"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59539
+  },
+  {
+    "ko": "표범",
+    "en": {
+      "w": "leopard",
+      "pos": "名詞",
+      "d": [
+        "leopard"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヒョウ",
+      "r": "ひょう",
+      "pos": "名詞",
+      "d": [
+        "ヒョウ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59540
+  },
+  {
+    "ko": "재규어",
+    "en": {
+      "w": "jaguar",
+      "pos": "名詞",
+      "d": [
+        "jaguar"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ジャガー",
+      "r": "ジャガー",
+      "pos": "名詞",
+      "d": [
+        "ジャガー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59541
+  },
+  {
+    "ko": "퓨마",
+    "en": {
+      "w": "puma, cougar",
+      "pos": "名詞",
+      "d": [
+        "puma, cougar"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ピューマ",
+      "r": "ピューマ",
+      "pos": "名詞",
+      "d": [
+        "ピューマ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59542
+  },
+  {
+    "ko": "들소",
+    "en": {
+      "w": "bison, wild ox",
+      "pos": "名詞",
+      "d": [
+        "bison, wild ox"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バイソン",
+      "r": "バイソン",
+      "pos": "名詞",
+      "d": [
+        "バイソン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59543
+  },
+  {
+    "ko": "버팔로",
+    "en": {
+      "w": "buffalo",
+      "pos": "名詞",
+      "d": [
+        "buffalo"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バッファロー",
+      "r": "バッファロー",
+      "pos": "名詞",
+      "d": [
+        "バッファロー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59544
+  },
+  {
+    "ko": "코뿔소",
+    "en": {
+      "w": "rhinoceros",
+      "pos": "名詞",
+      "d": [
+        "rhinoceros"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サイ",
+      "r": "さい",
+      "pos": "名詞",
+      "d": [
+        "サイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59545
+  },
+  {
+    "ko": "하마",
+    "en": {
+      "w": "hippopotamus",
+      "pos": "名詞",
+      "d": [
+        "hippopotamus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カバ",
+      "r": "かば",
+      "pos": "名詞",
+      "d": [
+        "カバ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59546
+  },
+  {
+    "ko": "얼룩말",
+    "en": {
+      "w": "zebra",
+      "pos": "名詞",
+      "d": [
+        "zebra"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "シマウマ",
+      "r": "しまうま",
+      "pos": "名詞",
+      "d": [
+        "シマウマ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59547
+  },
+  {
+    "ko": "가젤",
+    "en": {
+      "w": "gazelle",
+      "pos": "名詞",
+      "d": [
+        "gazelle"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガゼル",
+      "r": "ガゼル",
+      "pos": "名詞",
+      "d": [
+        "ガゼル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59548
+  },
+  {
+    "ko": "순록",
+    "en": {
+      "w": "reindeer",
+      "pos": "名詞",
+      "d": [
+        "reindeer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "トナカイ",
+      "r": "となかい",
+      "pos": "名詞",
+      "d": [
+        "トナカイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59549
+  },
+  {
+    "ko": "낙엽수",
+    "en": {
+      "w": "deciduous tree",
+      "pos": "名詞",
+      "d": [
+        "deciduous tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "落葉樹",
+      "r": "らくようじゅ",
+      "pos": "名詞",
+      "d": [
+        "落葉樹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59550
+  },
+  {
+    "ko": "활엽수",
+    "en": {
+      "w": "broadleaf tree",
+      "pos": "名詞",
+      "d": [
+        "broadleaf tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "広葉樹",
+      "r": "こうようじゅ",
+      "pos": "名詞",
+      "d": [
+        "広葉樹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59551
+  },
+  {
+    "ko": "침엽수",
+    "en": {
+      "w": "conifer, needleleaf tree",
+      "pos": "名詞",
+      "d": [
+        "conifer, needleleaf tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "針葉樹",
+      "r": "しんようじゅ",
+      "pos": "名詞",
+      "d": [
+        "針葉樹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59552
+  },
+  {
+    "ko": "전나무",
+    "en": {
+      "w": "fir tree",
+      "pos": "名詞",
+      "d": [
+        "fir tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "モミの木",
+      "r": "もみのき",
+      "pos": "名詞",
+      "d": [
+        "モミの木"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59553
+  },
+  {
+    "ko": "느티나무",
+    "en": {
+      "w": "zelkova tree",
+      "pos": "名詞",
+      "d": [
+        "zelkova tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ケヤキ",
+      "r": "けやき",
+      "pos": "名詞",
+      "d": [
+        "ケヤキ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59554
+  },
+  {
+    "ko": "밤나무",
+    "en": {
+      "w": "chestnut tree",
+      "pos": "名詞",
+      "d": [
+        "chestnut tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "栗の木",
+      "r": "くりのき",
+      "pos": "名詞",
+      "d": [
+        "栗の木"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59555
+  },
+  {
+    "ko": "감나무",
+    "en": {
+      "w": "persimmon tree",
+      "pos": "名詞",
+      "d": [
+        "persimmon tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "柿の木",
+      "r": "かきのき",
+      "pos": "名詞",
+      "d": [
+        "柿の木"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59556
+  },
+  {
+    "ko": "배나무",
+    "en": {
+      "w": "pear tree",
+      "pos": "名詞",
+      "d": [
+        "pear tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "梨の木",
+      "r": "なしのき",
+      "pos": "名詞",
+      "d": [
+        "梨の木"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59557
+  },
+  {
+    "ko": "복숭아나무",
+    "en": {
+      "w": "peach tree",
+      "pos": "名詞",
+      "d": [
+        "peach tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "桃の木",
+      "r": "もものき",
+      "pos": "名詞",
+      "d": [
+        "桃の木"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59558
+  },
+  {
+    "ko": "살구나무",
+    "en": {
+      "w": "apricot tree",
+      "pos": "名詞",
+      "d": [
+        "apricot tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アンズの木",
+      "r": "あんずのき",
+      "pos": "名詞",
+      "d": [
+        "アンズの木"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59559
+  },
+  {
+    "ko": "자작나무",
+    "en": {
+      "w": "birch tree",
+      "pos": "名詞",
+      "d": [
+        "birch tree"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "シラカバ",
+      "r": "しらかば",
+      "pos": "名詞",
+      "d": [
+        "シラカバ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59560
+  },
+  {
+    "ko": "플라타너스",
+    "en": {
+      "w": "plane tree, sycamore",
+      "pos": "名詞",
+      "d": [
+        "plane tree, sycamore"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プラタナス",
+      "r": "プラタナス",
+      "pos": "名詞",
+      "d": [
+        "プラタナス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59561
+  },
+  {
+    "ko": "꽃봉오리",
+    "en": {
+      "w": "flower bud",
+      "pos": "名詞",
+      "d": [
+        "flower bud"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "つぼみ",
+      "r": "つぼみ",
+      "pos": "名詞",
+      "d": [
+        "つぼみ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59562
+  },
+  {
+    "ko": "새싹",
+    "en": {
+      "w": "sprout, new bud",
+      "pos": "名詞",
+      "d": [
+        "sprout, new bud"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "新芽",
+      "r": "しんめ",
+      "pos": "名詞",
+      "d": [
+        "新芽"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59563
+  },
+  {
+    "ko": "아이돌",
+    "en": {
+      "w": "idol (K-pop)",
+      "pos": "名詞",
+      "d": [
+        "idol (K-pop)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アイドル",
+      "r": "アイドル",
+      "pos": "名詞",
+      "d": [
+        "アイドル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59564
+  },
+  {
+    "ko": "보이그룹",
+    "en": {
+      "w": "boy group",
+      "pos": "名詞",
+      "d": [
+        "boy group"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ボーイズグループ",
+      "r": "ボーイズグループ",
+      "pos": "名詞",
+      "d": [
+        "ボーイズグループ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59565
+  },
+  {
+    "ko": "걸그룹",
+    "en": {
+      "w": "girl group",
+      "pos": "名詞",
+      "d": [
+        "girl group"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガールズグループ",
+      "r": "ガールズグループ",
+      "pos": "名詞",
+      "d": [
+        "ガールズグループ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59566
+  },
+  {
+    "ko": "데뷔",
+    "en": {
+      "w": "debut",
+      "pos": "名詞",
+      "d": [
+        "debut"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デビュー",
+      "r": "デビュー",
+      "pos": "名詞",
+      "d": [
+        "デビュー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59567
+  },
+  {
+    "ko": "컴백",
+    "en": {
+      "w": "comeback (new release)",
+      "pos": "名詞",
+      "d": [
+        "comeback (new release)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カムバック",
+      "r": "カムバック",
+      "pos": "名詞",
+      "d": [
+        "カムバック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59568
+  },
+  {
+    "ko": "팬미팅",
+    "en": {
+      "w": "fan meeting",
+      "pos": "名詞",
+      "d": [
+        "fan meeting"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ファンミーティング",
+      "r": "ファンミーティング",
+      "pos": "名詞",
+      "d": [
+        "ファンミーティング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59569
+  },
+  {
+    "ko": "팬사인회",
+    "en": {
+      "w": "fan signing event",
+      "pos": "名詞",
+      "d": [
+        "fan signing event"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ファンサイン会",
+      "r": "ファンサインかい",
+      "pos": "名詞",
+      "d": [
+        "ファンサイン会"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59570
+  },
+  {
+    "ko": "콘서트투어",
+    "en": {
+      "w": "concert tour",
+      "pos": "名詞",
+      "d": [
+        "concert tour"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コンサートツアー",
+      "r": "コンサートツアー",
+      "pos": "名詞",
+      "d": [
+        "コンサートツアー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59571
+  },
+  {
+    "ko": "음악방송",
+    "en": {
+      "w": "music show (TV)",
+      "pos": "名詞",
+      "d": [
+        "music show (TV)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "音楽番組",
+      "r": "おんがくばんぐみ",
+      "pos": "名詞",
+      "d": [
+        "音楽番組"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59572
+  },
+  {
+    "ko": "음원차트",
+    "en": {
+      "w": "music streaming chart",
+      "pos": "名詞",
+      "d": [
+        "music streaming chart"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "音源チャート",
+      "r": "おんげんチャート",
+      "pos": "名詞",
+      "d": [
+        "音源チャート"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59573
+  },
+  {
+    "ko": "빌보드",
+    "en": {
+      "w": "Billboard (chart)",
+      "pos": "名詞",
+      "d": [
+        "Billboard (chart)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ビルボード",
+      "r": "ビルボード",
+      "pos": "名詞",
+      "d": [
+        "ビルボード"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59574
+  },
+  {
+    "ko": "그래미",
+    "en": {
+      "w": "the Grammy Awards",
+      "pos": "名詞",
+      "d": [
+        "the Grammy Awards"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "グラミー",
+      "r": "グラミー",
+      "pos": "名詞",
+      "d": [
+        "グラミー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59575
+  },
+  {
+    "ko": "소속사",
+    "en": {
+      "w": "talent agency",
+      "pos": "名詞",
+      "d": [
+        "talent agency"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "所属事務所",
+      "r": "しょぞくじむしょ",
+      "pos": "名詞",
+      "d": [
+        "所属事務所"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59576
+  },
+  {
+    "ko": "매니저",
+    "en": {
+      "w": "manager (entertainment)",
+      "pos": "名詞",
+      "d": [
+        "manager (entertainment)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マネージャー",
+      "r": "マネージャー",
+      "pos": "名詞",
+      "d": [
+        "マネージャー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59577
+  },
+  {
+    "ko": "연습생",
+    "en": {
+      "w": "trainee (idol)",
+      "pos": "名詞",
+      "d": [
+        "trainee (idol)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "練習生",
+      "r": "れんしゅうせい",
+      "pos": "名詞",
+      "d": [
+        "練習生"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59578
+  },
+  {
+    "ko": "안무",
+    "en": {
+      "w": "choreography",
+      "pos": "名詞",
+      "d": [
+        "choreography"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "振り付け",
+      "r": "ふりつけ",
+      "pos": "名詞",
+      "d": [
+        "振り付け"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59579
+  },
+  {
+    "ko": "군무",
+    "en": {
+      "w": "group dance",
+      "pos": "名詞",
+      "d": [
+        "group dance"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "群舞",
+      "r": "ぐんぶ",
+      "pos": "名詞",
+      "d": [
+        "群舞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59580
+  },
+  {
+    "ko": "립싱크",
+    "en": {
+      "w": "lip sync",
+      "pos": "名詞",
+      "d": [
+        "lip sync"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "口パク",
+      "r": "くちパク",
+      "pos": "名詞",
+      "d": [
+        "口パク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59581
+  },
+  {
+    "ko": "악플",
+    "en": {
+      "w": "malicious online comment",
+      "pos": "名詞",
+      "d": [
+        "malicious online comment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "悪質コメント",
+      "r": "あくしつコメント",
+      "pos": "名詞",
+      "d": [
+        "悪質コメント"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59582
+  },
+  {
+    "ko": "선플",
+    "en": {
+      "w": "kind, supportive online comment",
+      "pos": "名詞",
+      "d": [
+        "kind, supportive online comment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "良質コメント",
+      "r": "りょうしつコメント",
+      "pos": "名詞",
+      "d": [
+        "良質コメント"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59583
+  },
+  {
+    "ko": "덕질",
+    "en": {
+      "w": "being an enthusiastic fan, fandom activity",
+      "pos": "名詞",
+      "d": [
+        "being an enthusiastic fan, fandom activity"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "推し活",
+      "r": "おしかつ",
+      "pos": "名詞",
+      "d": [
+        "推し活"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59584
+  },
+  {
+    "ko": "최애",
+    "en": {
+      "w": "one's favorite (idol/character)",
+      "pos": "名詞",
+      "d": [
+        "one's favorite (idol/character)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "推し",
+      "r": "おし",
+      "pos": "名詞",
+      "d": [
+        "推し"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59585
+  },
+  {
+    "ko": "본명",
+    "en": {
+      "w": "real name",
+      "pos": "名詞",
+      "d": [
+        "real name"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "本名",
+      "r": "ほんみょう",
+      "pos": "名詞",
+      "d": [
+        "本名"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59586
+  },
+  {
+    "ko": "예명",
+    "en": {
+      "w": "stage name",
+      "pos": "名詞",
+      "d": [
+        "stage name"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "芸名",
+      "r": "げいめい",
+      "pos": "名詞",
+      "d": [
+        "芸名"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59587
+  },
+  {
+    "ko": "활동명",
+    "en": {
+      "w": "activity name, performing name",
+      "pos": "名詞",
+      "d": [
+        "activity name, performing name"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "活動名",
+      "r": "かつどうめい",
+      "pos": "名詞",
+      "d": [
+        "活動名"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59588
+  },
+  {
+    "ko": "데뷔곡",
+    "en": {
+      "w": "debut song",
+      "pos": "名詞",
+      "d": [
+        "debut song"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デビュー曲",
+      "r": "デビューきょく",
+      "pos": "名詞",
+      "d": [
+        "デビュー曲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59589
+  },
+  {
+    "ko": "타이틀곡",
+    "en": {
+      "w": "title track",
+      "pos": "名詞",
+      "d": [
+        "title track"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タイトル曲",
+      "r": "タイトルきょく",
+      "pos": "名詞",
+      "d": [
+        "タイトル曲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59590
+  },
+  {
+    "ko": "수록곡",
+    "en": {
+      "w": "album track",
+      "pos": "名詞",
+      "d": [
+        "album track"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "収録曲",
+      "r": "しゅうろくきょく",
+      "pos": "名詞",
+      "d": [
+        "収録曲"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59591
+  },
+  {
+    "ko": "뮤비",
+    "en": {
+      "w": "music video",
+      "pos": "名詞",
+      "d": [
+        "music video"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "MV",
+      "r": "エムブイ",
+      "pos": "名詞",
+      "d": [
+        "MV"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59592
+  },
+  {
+    "ko": "티저",
+    "en": {
+      "w": "teaser",
+      "pos": "名詞",
+      "d": [
+        "teaser"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ティザー",
+      "r": "ティザー",
+      "pos": "名詞",
+      "d": [
+        "ティザー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59593
+  },
+  {
+    "ko": "컴백무대",
+    "en": {
+      "w": "comeback stage",
+      "pos": "名詞",
+      "d": [
+        "comeback stage"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カムバックステージ",
+      "r": "カムバックステージ",
+      "pos": "名詞",
+      "d": [
+        "カムバックステージ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59594
+  },
+  {
+    "ko": "무대의상",
+    "en": {
+      "w": "stage costume",
+      "pos": "名詞",
+      "d": [
+        "stage costume"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "舞台衣装",
+      "r": "ぶたいいしょう",
+      "pos": "名詞",
+      "d": [
+        "舞台衣装"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59595
+  },
+  {
+    "ko": "연기력",
+    "en": {
+      "w": "acting skill",
+      "pos": "名詞",
+      "d": [
+        "acting skill"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "演技力",
+      "r": "えんぎりょく",
+      "pos": "名詞",
+      "d": [
+        "演技力"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59596
+  },
+  {
+    "ko": "발연기",
+    "en": {
+      "w": "poor acting",
+      "pos": "名詞",
+      "d": [
+        "poor acting"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "下手な演技",
+      "r": "へたなえんぎ",
+      "pos": "名詞",
+      "d": [
+        "下手な演技"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59597
+  },
+  {
+    "ko": "캐스팅",
+    "en": {
+      "w": "casting",
+      "pos": "名詞",
+      "d": [
+        "casting"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "キャスティング",
+      "r": "キャスティング",
+      "pos": "名詞",
+      "d": [
+        "キャスティング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59598
+  },
+  {
+    "ko": "오디션",
+    "en": {
+      "w": "audition",
+      "pos": "名詞",
+      "d": [
+        "audition"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オーディション",
+      "r": "オーディション",
+      "pos": "名詞",
+      "d": [
+        "オーディション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59599
+  },
+  {
+    "ko": "드라마촬영",
+    "en": {
+      "w": "drama filming",
+      "pos": "名詞",
+      "d": [
+        "drama filming"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ドラマ撮影",
+      "r": "ドラマさつえい",
+      "pos": "名詞",
+      "d": [
+        "ドラマ撮影"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59600
+  },
+  {
+    "ko": "로케이션",
+    "en": {
+      "w": "location (filming)",
+      "pos": "名詞",
+      "d": [
+        "location (filming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ロケーション",
+      "r": "ロケーション",
+      "pos": "名詞",
+      "d": [
+        "ロケーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59601
+  },
+  {
+    "ko": "세트장",
+    "en": {
+      "w": "film set",
+      "pos": "名詞",
+      "d": [
+        "film set"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "セット",
+      "r": "セット",
+      "pos": "名詞",
+      "d": [
+        "セット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59602
+  },
+  {
+    "ko": "대본",
+    "en": {
+      "w": "script",
+      "pos": "名詞",
+      "d": [
+        "script"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "台本",
+      "r": "だいほん",
+      "pos": "名詞",
+      "d": [
+        "台本"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59603
+  },
+  {
+    "ko": "리허설",
+    "en": {
+      "w": "rehearsal",
+      "pos": "名詞",
+      "d": [
+        "rehearsal"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "リハーサル",
+      "r": "リハーサル",
+      "pos": "名詞",
+      "d": [
+        "リハーサル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59604
+  },
+  {
+    "ko": "NG",
+    "en": {
+      "w": "\"no good\" (retake, blooper)",
+      "pos": "名詞",
+      "d": [
+        "\"no good\" (retake, blooper)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "NG",
+      "r": "エヌジー",
+      "pos": "名詞",
+      "d": [
+        "NG"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59605
+  },
+  {
+    "ko": "애드리브",
+    "en": {
+      "w": "ad-lib",
+      "pos": "名詞",
+      "d": [
+        "ad-lib"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アドリブ",
+      "r": "アドリブ",
+      "pos": "名詞",
+      "d": [
+        "アドリブ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59606
+  },
+  {
+    "ko": "스포일러",
+    "en": {
+      "w": "spoiler",
+      "pos": "名詞",
+      "d": [
+        "spoiler"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ネタバレ",
+      "r": "ネタバレ",
+      "pos": "名詞",
+      "d": [
+        "ネタバレ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59607
+  },
+  {
+    "ko": "결말",
+    "en": {
+      "w": "ending, conclusion",
+      "pos": "名詞",
+      "d": [
+        "ending, conclusion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "結末",
+      "r": "けつまつ",
+      "pos": "名詞",
+      "d": [
+        "結末"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59608
+  },
+  {
+    "ko": "반전",
+    "en": {
+      "w": "plot twist",
+      "pos": "名詞",
+      "d": [
+        "plot twist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どんでん返し",
+      "r": "どんでんがえし",
+      "pos": "名詞",
+      "d": [
+        "どんでん返し"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59609
+  },
+  {
+    "ko": "클리프행어",
+    "en": {
+      "w": "cliffhanger",
+      "pos": "名詞",
+      "d": [
+        "cliffhanger"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クリフハンガー",
+      "r": "クリフハンガー",
+      "pos": "名詞",
+      "d": [
+        "クリフハンガー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59610
+  },
+  {
+    "ko": "시즌제",
+    "en": {
+      "w": "season format (TV series)",
+      "pos": "名詞",
+      "d": [
+        "season format (TV series)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "シーズン制",
+      "r": "シーズンせい",
+      "pos": "名詞",
+      "d": [
+        "シーズン制"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59611
+  },
+  {
+    "ko": "정주행",
+    "en": {
+      "w": "binge-watching from the start",
+      "pos": "名詞",
+      "d": [
+        "binge-watching from the start"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "一気見",
+      "r": "いっきみ",
+      "pos": "名詞",
+      "d": [
+        "一気見"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59612
+  },
+  {
+    "ko": "몰아보기",
+    "en": {
+      "w": "binge-watching",
+      "pos": "名詞",
+      "d": [
+        "binge-watching"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "まとめ見",
+      "r": "まとめみ",
+      "pos": "名詞",
+      "d": [
+        "まとめ見"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59613
+  },
+  {
+    "ko": "본방사수",
+    "en": {
+      "w": "watching a live broadcast without missing it",
+      "pos": "名詞",
+      "d": [
+        "watching a live broadcast without missing it"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "本放送死守",
+      "r": "ほんほうそうしゅ",
+      "pos": "名詞",
+      "d": [
+        "本放送死守"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59614
+  },
+  {
+    "ko": "재방송",
+    "en": {
+      "w": "rerun, repeat broadcast",
+      "pos": "名詞",
+      "d": [
+        "rerun, repeat broadcast"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "再放送",
+      "r": "さいほうそう",
+      "pos": "名詞",
+      "d": [
+        "再放送"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59615
+  },
+  {
+    "ko": "넷플릭스",
+    "en": {
+      "w": "Netflix",
+      "pos": "名詞",
+      "d": [
+        "Netflix"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ネットフリックス",
+      "r": "ネットフリックス",
+      "pos": "名詞",
+      "d": [
+        "ネットフリックス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59616
+  },
+  {
+    "ko": "유튜브",
+    "en": {
+      "w": "YouTube",
+      "pos": "名詞",
+      "d": [
+        "YouTube"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ユーチューブ",
+      "r": "ユーチューブ",
+      "pos": "名詞",
+      "d": [
+        "ユーチューブ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59617
+  },
+  {
+    "ko": "트위치",
+    "en": {
+      "w": "Twitch",
+      "pos": "名詞",
+      "d": [
+        "Twitch"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ツイッチ",
+      "r": "ツイッチ",
+      "pos": "名詞",
+      "d": [
+        "ツイッチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59618
+  },
+  {
+    "ko": "아프리카TV",
+    "en": {
+      "w": "AfreecaTV",
+      "pos": "名詞",
+      "d": [
+        "AfreecaTV"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アフリカTV",
+      "r": "アフリカティービー",
+      "pos": "名詞",
+      "d": [
+        "アフリカTV"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59619
+  },
+  {
+    "ko": "스트리머",
+    "en": {
+      "w": "streamer",
+      "pos": "名詞",
+      "d": [
+        "streamer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ストリーマー",
+      "r": "ストリーマー",
+      "pos": "名詞",
+      "d": [
+        "ストリーマー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59620
+  },
+  {
+    "ko": "구독자수",
+    "en": {
+      "w": "subscriber count",
+      "pos": "名詞",
+      "d": [
+        "subscriber count"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "登録者数",
+      "r": "とうろくしゃすう",
+      "pos": "名詞",
+      "d": [
+        "登録者数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59621
+  },
+  {
+    "ko": "조회수",
+    "en": {
+      "w": "view count",
+      "pos": "名詞",
+      "d": [
+        "view count"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "再生回数",
+      "r": "さいせいかいすう",
+      "pos": "名詞",
+      "d": [
+        "再生回数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59622
+  },
+  {
+    "ko": "좋아요수",
+    "en": {
+      "w": "like count",
+      "pos": "名詞",
+      "d": [
+        "like count"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "いいね数",
+      "r": "いいねすう",
+      "pos": "名詞",
+      "d": [
+        "いいね数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59623
+  },
+  {
+    "ko": "알고리즘추천",
+    "en": {
+      "w": "algorithm recommendation",
+      "pos": "名詞",
+      "d": [
+        "algorithm recommendation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アルゴリズムのおすすめ",
+      "r": "アルゴリズムのおすすめ",
+      "pos": "名詞",
+      "d": [
+        "アルゴリズムのおすすめ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59624
+  },
+  {
+    "ko": "숏폼",
+    "en": {
+      "w": "short-form (video)",
+      "pos": "名詞",
+      "d": [
+        "short-form (video)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ショートフォーム",
+      "r": "ショートフォーム",
+      "pos": "名詞",
+      "d": [
+        "ショートフォーム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59625
+  },
+  {
+    "ko": "브이로그",
+    "en": {
+      "w": "vlog",
+      "pos": "名詞",
+      "d": [
+        "vlog"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "Vlog",
+      "r": "ブイログ",
+      "pos": "名詞",
+      "d": [
+        "Vlog"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59626
+  },
+  {
+    "ko": "언박싱",
+    "en": {
+      "w": "unboxing",
+      "pos": "名詞",
+      "d": [
+        "unboxing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "開封動画",
+      "r": "かいふうどうが",
+      "pos": "名詞",
+      "d": [
+        "開封動画"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59627
+  },
+  {
+    "ko": "먹방",
+    "en": {
+      "w": "eating broadcast, mukbang",
+      "pos": "名詞",
+      "d": [
+        "eating broadcast, mukbang"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "食べる配信",
+      "r": "たべるはいしん",
+      "pos": "名詞",
+      "d": [
+        "食べる配信"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59628
+  },
+  {
+    "ko": "쿡방",
+    "en": {
+      "w": "cooking show, broadcast",
+      "pos": "名詞",
+      "d": [
+        "cooking show, broadcast"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "料理番組",
+      "r": "りょうりばんぐみ",
+      "pos": "名詞",
+      "d": [
+        "料理番組"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59629
+  },
+  {
+    "ko": "여행유튜버",
+    "en": {
+      "w": "travel YouTuber",
+      "pos": "名詞",
+      "d": [
+        "travel YouTuber"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "旅行系ユーチューバー",
+      "r": "りょこうけいユーチューバー",
+      "pos": "名詞",
+      "d": [
+        "旅行系ユーチューバー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59630
+  },
+  {
+    "ko": "게임방송",
+    "en": {
+      "w": "gaming stream",
+      "pos": "名詞",
+      "d": [
+        "gaming stream"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ゲーム配信",
+      "r": "ゲームはいしん",
+      "pos": "名詞",
+      "d": [
+        "ゲーム配信"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59631
+  },
+  {
+    "ko": "이스포츠",
+    "en": {
+      "w": "esports",
+      "pos": "名詞",
+      "d": [
+        "esports"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "eスポーツ",
+      "r": "イースポーツ",
+      "pos": "名詞",
+      "d": [
+        "eスポーツ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59632
+  },
+  {
+    "ko": "프로게이머",
+    "en": {
+      "w": "professional gamer",
+      "pos": "名詞",
+      "d": [
+        "professional gamer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プロゲーマー",
+      "r": "プロゲーマー",
+      "pos": "名詞",
+      "d": [
+        "プロゲーマー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59633
+  },
+  {
+    "ko": "길드",
+    "en": {
+      "w": "guild (gaming)",
+      "pos": "名詞",
+      "d": [
+        "guild (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ギルド",
+      "r": "ギルド",
+      "pos": "名詞",
+      "d": [
+        "ギルド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59634
+  },
+  {
+    "ko": "레이드",
+    "en": {
+      "w": "raid (gaming)",
+      "pos": "名詞",
+      "d": [
+        "raid (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "レイド",
+      "r": "レイド",
+      "pos": "名詞",
+      "d": [
+        "レイド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59635
+  },
+  {
+    "ko": "아이템",
+    "en": {
+      "w": "item (gaming)",
+      "pos": "名詞",
+      "d": [
+        "item (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アイテム",
+      "r": "アイテム",
+      "pos": "名詞",
+      "d": [
+        "アイテム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59636
+  },
+  {
+    "ko": "캐릭터커스터마이징",
+    "en": {
+      "w": "character customization",
+      "pos": "名詞",
+      "d": [
+        "character customization"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "キャラクターカスタマイズ",
+      "r": "キャラクターカスタマイズ",
+      "pos": "名詞",
+      "d": [
+        "キャラクターカスタマイズ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59637
+  },
+  {
+    "ko": "가챠",
+    "en": {
+      "w": "gacha, loot box mechanic",
+      "pos": "名詞",
+      "d": [
+        "gacha, loot box mechanic"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ガチャ",
+      "r": "ガチャ",
+      "pos": "名詞",
+      "d": [
+        "ガチャ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59638
+  },
+  {
+    "ko": "과금",
+    "en": {
+      "w": "paying, making in-game purchases",
+      "pos": "名詞",
+      "d": [
+        "paying, making in-game purchases"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "課金",
+      "r": "かきん",
+      "pos": "名詞",
+      "d": [
+        "課金"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59639
+  },
+  {
+    "ko": "현질",
+    "en": {
+      "w": "spending real money in games (slang)",
+      "pos": "名詞",
+      "d": [
+        "spending real money in games (slang)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "課金",
+      "r": "かきん",
+      "pos": "名詞",
+      "d": [
+        "課金"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59640
+  },
+  {
+    "ko": "템빨",
+    "en": {
+      "w": "relying on gear rather than skill (slang)",
+      "pos": "名詞",
+      "d": [
+        "relying on gear rather than skill (slang)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "装備頼み",
+      "r": "そうびだのみ",
+      "pos": "名詞",
+      "d": [
+        "装備頼み"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59641
+  },
+  {
+    "ko": "스킬",
+    "en": {
+      "w": "skill (gaming)",
+      "pos": "名詞",
+      "d": [
+        "skill (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スキル",
+      "r": "スキル",
+      "pos": "名詞",
+      "d": [
+        "スキル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59642
+  },
+  {
+    "ko": "버프",
+    "en": {
+      "w": "buff (gaming)",
+      "pos": "名詞",
+      "d": [
+        "buff (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バフ",
+      "r": "バフ",
+      "pos": "名詞",
+      "d": [
+        "バフ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59643
+  },
+  {
+    "ko": "디버프",
+    "en": {
+      "w": "debuff (gaming)",
+      "pos": "名詞",
+      "d": [
+        "debuff (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デバフ",
+      "r": "デバフ",
+      "pos": "名詞",
+      "d": [
+        "デバフ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59644
+  },
+  {
+    "ko": "쿨타임",
+    "en": {
+      "w": "cooldown time (gaming)",
+      "pos": "名詞",
+      "d": [
+        "cooldown time (gaming)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クールタイム",
+      "r": "クールタイム",
+      "pos": "名詞",
+      "d": [
+        "クールタイム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59645
   }
 ];
