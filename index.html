@@ -93,6 +93,15 @@ body { background: #0f0f14; font-family: 'Inter', 'Noto Sans KR', sans-serif; co
 
 .grade-badge { font-size: 0.65rem; background: #1e2e1e; border: 1px solid #2e402e; color: #6db56d; border-radius: 5px; padding: 0.1rem 0.4rem; margin-left: 4px; }
 
+/* ── 미등록 단어 ── */
+.missing-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; margin-bottom: 1rem; flex-wrap: wrap; }
+.missing-hint { font-size: 0.78rem; color: #6b6880; }
+.missing-actions { display: flex; gap: 0.5rem; }
+.missing-action-btn { background: #1a1a24; border: 1px solid #2e2b40; color: #9d9ab5; border-radius: 8px; padding: 0.35rem 0.75rem; font-size: 0.78rem; cursor: pointer; font-family: 'Noto Sans KR', sans-serif; transition: all 0.15s; }
+.missing-action-btn:hover { border-color: #7c6fcd; color: #c4b5fd; }
+.missing-action-btn.danger:hover { border-color: #7f1d1d; color: #f87171; }
+.missing-count-badge { font-size: 0.7rem; background: #2e241e; border: 1px solid #40312e; color: #e0a06d; border-radius: 5px; padding: 0.1rem 0.45rem; margin-left: 6px; }
+
 @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
 @media (max-width: 480px) {
   .mode-btn { padding: 0.45rem 0.8rem; font-size: 0.78rem; }
@@ -116,6 +125,7 @@ body { background: #0f0f14; font-family: 'Inter', 'Noto Sans KR', sans-serif; co
   <div class="tabs">
     <button class="tab-btn active" onclick="setTab('search')" id="tab-search">🔍 검색</button>
     <button class="tab-btn" onclick="setTab('bookmarks')" id="tab-bookmarks">⭐ 즐겨찾기 (<span id="bm-count">0</span>)</button>
+    <button class="tab-btn" onclick="setTab('missing')" id="tab-missing">📝 미등록 (<span id="missing-count">0</span>)</button>
   </div>
 
   <!-- 검색 탭 -->
@@ -139,12 +149,27 @@ body { background: #0f0f14; font-family: 'Inter', 'Noto Sans KR', sans-serif; co
       <div id="bookmarks-content"></div>
     </div>
   </div>
+
+  <!-- 미등록 단어 탭 -->
+  <div id="panel-missing" style="display:none;width:100%;flex-direction:column;align-items:center;">
+    <div class="bookmarks-panel">
+      <div id="missing-toolbar" class="missing-toolbar" style="display:none;">
+        <span class="missing-hint">검색했지만 사전에 없었던 단어입니다.</span>
+        <div class="missing-actions">
+          <button class="missing-action-btn" onclick="copyMissing()">📋 전체 복사</button>
+          <button class="missing-action-btn danger" onclick="clearMissing()">🗑 전체 삭제</button>
+        </div>
+      </div>
+      <div id="missing-content"></div>
+    </div>
+  </div>
 </div>
 
 <script>
 let currentMode = 'general';
 let currentTab  = 'search';
 let bookmarks   = JSON.parse(localStorage.getItem('bm') || '[]');
+let missingWords = JSON.parse(localStorage.getItem('missing') || '[]');
 let searchHistory = [];
 let openItem = null; // 現在開いているアイテムのko
 
@@ -152,6 +177,7 @@ function init() {
   updateModeLabel();
   renderChips();
   updateBmCount();
+  updateMissingCount();
 }
 
 function updateModeLabel() {
@@ -189,9 +215,12 @@ function setTab(tab) {
   currentTab = tab;
   document.getElementById('tab-search').classList.toggle('active', tab === 'search');
   document.getElementById('tab-bookmarks').classList.toggle('active', tab === 'bookmarks');
+  document.getElementById('tab-missing').classList.toggle('active', tab === 'missing');
   document.getElementById('panel-search').style.display    = tab === 'search'    ? 'flex' : 'none';
   document.getElementById('panel-bookmarks').style.display = tab === 'bookmarks' ? 'flex' : 'none';
+  document.getElementById('panel-missing').style.display   = tab === 'missing'   ? 'flex' : 'none';
   if (tab === 'bookmarks') renderBookmarks();
+  if (tab === 'missing') renderMissing();
 }
 
 function search() {
@@ -207,6 +236,7 @@ function search() {
   if (results.length === 0) {
     showError(`"${query}"에 대한 결과가 없습니다.`);
     document.getElementById('result-list').innerHTML = '';
+    addMissing(query);
     return;
   }
   renderResults(results);
@@ -368,6 +398,86 @@ function delBookmark(ko, mode) {
   localStorage.setItem('bm', JSON.stringify(bookmarks));
   updateBmCount();
   renderBookmarks();
+}
+
+// ── 未登録語 ──
+function addMissing(word) {
+  const idx = missingWords.findIndex(m => m.word === word && m.mode === currentMode);
+  if (idx >= 0) {
+    missingWords[idx].count += 1;
+    missingWords[idx].last = Date.now();
+  } else {
+    missingWords.push({ word, mode: currentMode, count: 1, last: Date.now() });
+  }
+  localStorage.setItem('missing', JSON.stringify(missingWords));
+  updateMissingCount();
+  if (currentTab === 'missing') renderMissing();
+}
+
+function updateMissingCount() {
+  document.getElementById('missing-count').textContent = missingWords.length;
+}
+
+function renderMissing() {
+  const toolbar = document.getElementById('missing-toolbar');
+  const content = document.getElementById('missing-content');
+  if (missingWords.length === 0) {
+    toolbar.style.display = 'none';
+    content.innerHTML = '<div class="bookmarks-empty">아직 미등록 단어가 없습니다.<br>검색했는데 결과가 없으면 여기에 쌓입니다.</div>';
+    return;
+  }
+  toolbar.style.display = 'flex';
+  const sorted = [...missingWords].sort((a, b) => b.count - a.count || b.last - a.last);
+  content.innerHTML = `<div class="bookmark-list">
+    ${sorted.map(m => `
+      <div class="bookmark-card" onclick="loadMissing('${m.word.replace(/'/g,"\\'")}','${m.mode}')">
+        <div>
+          <div class="bookmark-word">
+            ${m.word}
+            <span class="bookmark-mode-badge">${m.mode === 'bible' ? '성경' : '일반'}</span>
+            ${m.count > 1 ? `<span class="missing-count-badge">${m.count}회</span>` : ''}
+          </div>
+          <div class="bookmark-sub">${new Date(m.last).toLocaleDateString('ko-KR')}</div>
+        </div>
+        <button class="bookmark-del" onclick="event.stopPropagation();delMissing('${m.word.replace(/'/g,"\\'")}','${m.mode}')">✕</button>
+      </div>`).join('')}
+  </div>`;
+}
+
+function loadMissing(word, mode) {
+  setMode(mode);
+  setTab('search');
+  document.getElementById('search-input').value = word;
+  search();
+}
+
+function delMissing(word, mode) {
+  missingWords = missingWords.filter(m => !(m.word === word && m.mode === mode));
+  localStorage.setItem('missing', JSON.stringify(missingWords));
+  updateMissingCount();
+  renderMissing();
+}
+
+function clearMissing() {
+  if (missingWords.length === 0) return;
+  if (!confirm('미등록 단어 목록을 전부 삭제할까요?')) return;
+  missingWords = [];
+  localStorage.setItem('missing', JSON.stringify(missingWords));
+  updateMissingCount();
+  renderMissing();
+}
+
+function copyMissing() {
+  const text = [...missingWords]
+    .sort((a, b) => b.count - a.count)
+    .map(m => m.word)
+    .join('\n');
+  if (!text) return;
+  navigator.clipboard.writeText(text).then(() => {
+    alert('미등록 단어 목록을 복사했습니다.');
+  }).catch(() => {
+    alert('복사에 실패했습니다. 브라우저 권한을 확인해주세요.');
+  });
 }
 
 // ── 履歴 ──
