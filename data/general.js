@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 7876
+// 단어수: 8002
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -211402,5 +211402,3281 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "C",
     "ko_rank": 59787
+  },
+  {
+    "ko": "유로",
+    "en": {
+      "w": "euro",
+      "pos": "名詞",
+      "d": [
+        "euro"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ユーロ",
+      "r": "ユーロ",
+      "pos": "名詞",
+      "d": [
+        "ユーロ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59788
+  },
+  {
+    "ko": "엔화",
+    "en": {
+      "w": "Japanese yen",
+      "pos": "名詞",
+      "d": [
+        "Japanese yen"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "円",
+      "r": "えん",
+      "pos": "名詞",
+      "d": [
+        "円"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59789
+  },
+  {
+    "ko": "위안화",
+    "en": {
+      "w": "Chinese yuan",
+      "pos": "名詞",
+      "d": [
+        "Chinese yuan"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "元",
+      "r": "げん",
+      "pos": "名詞",
+      "d": [
+        "元"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59790
+  },
+  {
+    "ko": "파운드",
+    "en": {
+      "w": "British pound",
+      "pos": "名詞",
+      "d": [
+        "British pound"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ポンド",
+      "r": "ポンド",
+      "pos": "名詞",
+      "d": [
+        "ポンド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59791
+  },
+  {
+    "ko": "루피",
+    "en": {
+      "w": "rupee",
+      "pos": "名詞",
+      "d": [
+        "rupee"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ルピー",
+      "r": "ルピー",
+      "pos": "名詞",
+      "d": [
+        "ルピー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59792
+  },
+  {
+    "ko": "페소",
+    "en": {
+      "w": "peso",
+      "pos": "名詞",
+      "d": [
+        "peso"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ペソ",
+      "r": "ペソ",
+      "pos": "名詞",
+      "d": [
+        "ペソ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59793
+  },
+  {
+    "ko": "바트",
+    "en": {
+      "w": "baht",
+      "pos": "名詞",
+      "d": [
+        "baht"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "バーツ",
+      "r": "バーツ",
+      "pos": "名詞",
+      "d": [
+        "バーツ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59794
+  },
+  {
+    "ko": "링깃",
+    "en": {
+      "w": "ringgit",
+      "pos": "名詞",
+      "d": [
+        "ringgit"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "リンギット",
+      "r": "リンギット",
+      "pos": "名詞",
+      "d": [
+        "リンギット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59795
+  },
+  {
+    "ko": "디르함",
+    "en": {
+      "w": "dirham",
+      "pos": "名詞",
+      "d": [
+        "dirham"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ディルハム",
+      "r": "ディルハム",
+      "pos": "名詞",
+      "d": [
+        "ディルハム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59796
+  },
+  {
+    "ko": "리라",
+    "en": {
+      "w": "lira",
+      "pos": "名詞",
+      "d": [
+        "lira"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "リラ",
+      "r": "リラ",
+      "pos": "名詞",
+      "d": [
+        "リラ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59797
+  },
+  {
+    "ko": "프랑",
+    "en": {
+      "w": "franc",
+      "pos": "名詞",
+      "d": [
+        "franc"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フラン",
+      "r": "フラン",
+      "pos": "名詞",
+      "d": [
+        "フラン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59798
+  },
+  {
+    "ko": "크로나",
+    "en": {
+      "w": "krona, krone",
+      "pos": "名詞",
+      "d": [
+        "krona, krone"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クローナ",
+      "r": "クローナ",
+      "pos": "名詞",
+      "d": [
+        "クローナ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59799
+  },
+  {
+    "ko": "환율변동",
+    "en": {
+      "w": "exchange rate fluctuation",
+      "pos": "名詞",
+      "d": [
+        "exchange rate fluctuation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "為替変動",
+      "r": "かわせへんどう",
+      "pos": "名詞",
+      "d": [
+        "為替変動"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59800
+  },
+  {
+    "ko": "기축통화",
+    "en": {
+      "w": "key currency, reserve currency",
+      "pos": "名詞",
+      "d": [
+        "key currency, reserve currency"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "基軸通貨",
+      "r": "きじくつうか",
+      "pos": "名詞",
+      "d": [
+        "基軸通貨"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59801
+  },
+  {
+    "ko": "소파베드",
+    "en": {
+      "w": "sofa bed",
+      "pos": "名詞",
+      "d": [
+        "sofa bed"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ソファーベッド",
+      "r": "ソファーベッド",
+      "pos": "名詞",
+      "d": [
+        "ソファーベッド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59802
+  },
+  {
+    "ko": "책장",
+    "en": {
+      "w": "bookshelf, bookcase",
+      "pos": "名詞",
+      "d": [
+        "bookshelf, bookcase"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "本棚",
+      "r": "ほんだな",
+      "pos": "名詞",
+      "d": [
+        "本棚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59803
+  },
+  {
+    "ko": "화장대",
+    "en": {
+      "w": "vanity table, dressing table",
+      "pos": "名詞",
+      "d": [
+        "vanity table, dressing table"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "化粧台",
+      "r": "けしょうだい",
+      "pos": "名詞",
+      "d": [
+        "化粧台"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59804
+  },
+  {
+    "ko": "전신거울",
+    "en": {
+      "w": "full-length mirror",
+      "pos": "名詞",
+      "d": [
+        "full-length mirror"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "姿見",
+      "r": "すがたみ",
+      "pos": "名詞",
+      "d": [
+        "姿見"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59805
+  },
+  {
+    "ko": "협탁",
+    "en": {
+      "w": "side table, nightstand",
+      "pos": "名詞",
+      "d": [
+        "side table, nightstand"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サイドテーブル",
+      "r": "サイドテーブル",
+      "pos": "名詞",
+      "d": [
+        "サイドテーブル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59806
+  },
+  {
+    "ko": "행거",
+    "en": {
+      "w": "clothes rack",
+      "pos": "名詞",
+      "d": [
+        "clothes rack"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ハンガーラック",
+      "r": "ハンガーラック",
+      "pos": "名詞",
+      "d": [
+        "ハンガーラック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59807
+  },
+  {
+    "ko": "서랍장",
+    "en": {
+      "w": "chest of drawers",
+      "pos": "名詞",
+      "d": [
+        "chest of drawers"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タンス",
+      "r": "たんす",
+      "pos": "名詞",
+      "d": [
+        "タンス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59808
+  },
+  {
+    "ko": "수납장",
+    "en": {
+      "w": "storage cabinet",
+      "pos": "名詞",
+      "d": [
+        "storage cabinet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "収納棚",
+      "r": "しゅうのうだな",
+      "pos": "名詞",
+      "d": [
+        "収納棚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59809
+  },
+  {
+    "ko": "신발정리대",
+    "en": {
+      "w": "shoe rack",
+      "pos": "名詞",
+      "d": [
+        "shoe rack"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "靴収納棚",
+      "r": "くつしゅうのうだな",
+      "pos": "名詞",
+      "d": [
+        "靴収納棚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59810
+  },
+  {
+    "ko": "안락의자",
+    "en": {
+      "w": "armchair, easy chair",
+      "pos": "名詞",
+      "d": [
+        "armchair, easy chair"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "安楽椅子",
+      "r": "あんらくいす",
+      "pos": "名詞",
+      "d": [
+        "安楽椅子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59811
+  },
+  {
+    "ko": "흔들의자",
+    "en": {
+      "w": "rocking chair",
+      "pos": "名詞",
+      "d": [
+        "rocking chair"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "揺り椅子",
+      "r": "ゆりいす",
+      "pos": "名詞",
+      "d": [
+        "揺り椅子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59812
+  },
+  {
+    "ko": "접이식의자",
+    "en": {
+      "w": "folding chair",
+      "pos": "名詞",
+      "d": [
+        "folding chair"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "折りたたみ椅子",
+      "r": "おりたたみいす",
+      "pos": "名詞",
+      "d": [
+        "折りたたみ椅子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59813
+  },
+  {
+    "ko": "좌식테이블",
+    "en": {
+      "w": "low table (floor seating)",
+      "pos": "名詞",
+      "d": [
+        "low table (floor seating)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "座卓",
+      "r": "ざたく",
+      "pos": "名詞",
+      "d": [
+        "座卓"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59814
+  },
+  {
+    "ko": "좌식의자",
+    "en": {
+      "w": "floor chair",
+      "pos": "名詞",
+      "d": [
+        "floor chair"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "座椅子",
+      "r": "ざいす",
+      "pos": "名詞",
+      "d": [
+        "座椅子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59815
+  },
+  {
+    "ko": "방석",
+    "en": {
+      "w": "cushion (floor seating)",
+      "pos": "名詞",
+      "d": [
+        "cushion (floor seating)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "座布団",
+      "r": "ざぶとん",
+      "pos": "名詞",
+      "d": [
+        "座布団"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59816
+  },
+  {
+    "ko": "쿠션",
+    "en": {
+      "w": "cushion (general)",
+      "pos": "名詞",
+      "d": [
+        "cushion (general)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クッション",
+      "r": "クッション",
+      "pos": "名詞",
+      "d": [
+        "クッション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59817
+  },
+  {
+    "ko": "블라인드",
+    "en": {
+      "w": "blinds",
+      "pos": "名詞",
+      "d": [
+        "blinds"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブラインド",
+      "r": "ブラインド",
+      "pos": "名詞",
+      "d": [
+        "ブラインド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59818
+  },
+  {
+    "ko": "러그",
+    "en": {
+      "w": "rug",
+      "pos": "名詞",
+      "d": [
+        "rug"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ラグ",
+      "r": "ラグ",
+      "pos": "名詞",
+      "d": [
+        "ラグ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59819
+  },
+  {
+    "ko": "카펫",
+    "en": {
+      "w": "carpet",
+      "pos": "名詞",
+      "d": [
+        "carpet"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カーペット",
+      "r": "カーペット",
+      "pos": "名詞",
+      "d": [
+        "カーペット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59820
+  },
+  {
+    "ko": "벽지",
+    "en": {
+      "w": "wallpaper",
+      "pos": "名詞",
+      "d": [
+        "wallpaper"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "壁紙",
+      "r": "かべがみ",
+      "pos": "名詞",
+      "d": [
+        "壁紙"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59821
+  },
+  {
+    "ko": "바닥재",
+    "en": {
+      "w": "flooring material",
+      "pos": "名詞",
+      "d": [
+        "flooring material"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "床材",
+      "r": "ゆかざい",
+      "pos": "名詞",
+      "d": [
+        "床材"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59822
+  },
+  {
+    "ko": "장판",
+    "en": {
+      "w": "vinyl flooring (Korean-style)",
+      "pos": "名詞",
+      "d": [
+        "vinyl flooring (Korean-style)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "床シート",
+      "r": "ゆかシート",
+      "pos": "名詞",
+      "d": [
+        "床シート"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59823
+  },
+  {
+    "ko": "몰딩",
+    "en": {
+      "w": "molding (interior)",
+      "pos": "名詞",
+      "d": [
+        "molding (interior)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "モールディング",
+      "r": "モールディング",
+      "pos": "名詞",
+      "d": [
+        "モールディング"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59824
+  },
+  {
+    "ko": "조명등",
+    "en": {
+      "w": "lighting fixture",
+      "pos": "名詞",
+      "d": [
+        "lighting fixture"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "照明灯",
+      "r": "しょうめいとう",
+      "pos": "名詞",
+      "d": [
+        "照明灯"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59825
+  },
+  {
+    "ko": "천장등",
+    "en": {
+      "w": "ceiling light",
+      "pos": "名詞",
+      "d": [
+        "ceiling light"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "天井照明",
+      "r": "てんじょうしょうめい",
+      "pos": "名詞",
+      "d": [
+        "天井照明"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59826
+  },
+  {
+    "ko": "스탠드조명",
+    "en": {
+      "w": "stand lamp",
+      "pos": "名詞",
+      "d": [
+        "stand lamp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スタンドライト",
+      "r": "スタンドライト",
+      "pos": "名詞",
+      "d": [
+        "スタンドライト"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59827
+  },
+  {
+    "ko": "무드등",
+    "en": {
+      "w": "mood light",
+      "pos": "名詞",
+      "d": [
+        "mood light"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ムードライト",
+      "r": "ムードライト",
+      "pos": "名詞",
+      "d": [
+        "ムードライト"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59828
+  },
+  {
+    "ko": "반찬통",
+    "en": {
+      "w": "side-dish container",
+      "pos": "名詞",
+      "d": [
+        "side-dish container"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "おかず容器",
+      "r": "おかずようき",
+      "pos": "名詞",
+      "d": [
+        "おかず容器"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59829
+  },
+  {
+    "ko": "밀폐용기",
+    "en": {
+      "w": "airtight container",
+      "pos": "名詞",
+      "d": [
+        "airtight container"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "密閉容器",
+      "r": "みっぺいようき",
+      "pos": "名詞",
+      "d": [
+        "密閉容器"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59830
+  },
+  {
+    "ko": "도시락통",
+    "en": {
+      "w": "lunchbox container",
+      "pos": "名詞",
+      "d": [
+        "lunchbox container"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "弁当箱",
+      "r": "べんとうばこ",
+      "pos": "名詞",
+      "d": [
+        "弁当箱"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59831
+  },
+  {
+    "ko": "보온도시락",
+    "en": {
+      "w": "insulated lunchbox",
+      "pos": "名詞",
+      "d": [
+        "insulated lunchbox"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "保温弁当箱",
+      "r": "ほおんべんとうばこ",
+      "pos": "名詞",
+      "d": [
+        "保温弁当箱"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59832
+  },
+  {
+    "ko": "컵라면",
+    "en": {
+      "w": "cup noodles",
+      "pos": "名詞",
+      "d": [
+        "cup noodles"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カップ麺",
+      "r": "カップめん",
+      "pos": "名詞",
+      "d": [
+        "カップ麺"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59833
+  },
+  {
+    "ko": "즉석밥",
+    "en": {
+      "w": "instant rice",
+      "pos": "名詞",
+      "d": [
+        "instant rice"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "レトルトご飯",
+      "r": "レトルトごはん",
+      "pos": "名詞",
+      "d": [
+        "レトルトご飯"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59834
+  },
+  {
+    "ko": "냉동식품",
+    "en": {
+      "w": "frozen food",
+      "pos": "名詞",
+      "d": [
+        "frozen food"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "冷凍食品",
+      "r": "れいとうしょくひん",
+      "pos": "名詞",
+      "d": [
+        "冷凍食品"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59835
+  },
+  {
+    "ko": "통조림",
+    "en": {
+      "w": "canned food",
+      "pos": "名詞",
+      "d": [
+        "canned food"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "缶詰",
+      "r": "かんづめ",
+      "pos": "名詞",
+      "d": [
+        "缶詰"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59836
+  },
+  {
+    "ko": "레토르트식품",
+    "en": {
+      "w": "retort food",
+      "pos": "名詞",
+      "d": [
+        "retort food"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "レトルト食品",
+      "r": "レトルトしょくひん",
+      "pos": "名詞",
+      "d": [
+        "レトルト食品"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59837
+  },
+  {
+    "ko": "간장게장",
+    "en": {
+      "w": "soy-marinated crab",
+      "pos": "名詞",
+      "d": [
+        "soy-marinated crab"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カンジャンケジャン",
+      "r": "カンジャンケジャン",
+      "pos": "名詞",
+      "d": [
+        "カンジャンケジャン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59838
+  },
+  {
+    "ko": "양념게장",
+    "en": {
+      "w": "spicy marinated crab",
+      "pos": "名詞",
+      "d": [
+        "spicy marinated crab"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヤンニョムケジャン",
+      "r": "ヤンニョムケジャン",
+      "pos": "名詞",
+      "d": [
+        "ヤンニョムケジャン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59839
+  },
+  {
+    "ko": "젓갈",
+    "en": {
+      "w": "salted seafood, jeotgal",
+      "pos": "名詞",
+      "d": [
+        "salted seafood, jeotgal"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "塩辛",
+      "r": "しおから",
+      "pos": "名詞",
+      "d": [
+        "塩辛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59840
+  },
+  {
+    "ko": "명란젓",
+    "en": {
+      "w": "salted pollock roe",
+      "pos": "名詞",
+      "d": [
+        "salted pollock roe"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "明太子",
+      "r": "めんたいこ",
+      "pos": "名詞",
+      "d": [
+        "明太子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59841
+  },
+  {
+    "ko": "창난젓",
+    "en": {
+      "w": "salted pollock intestines",
+      "pos": "名詞",
+      "d": [
+        "salted pollock intestines"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チャンナンジョッ",
+      "r": "チャンナンジョッ",
+      "pos": "名詞",
+      "d": [
+        "チャンナンジョッ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59842
+  },
+  {
+    "ko": "새우젓",
+    "en": {
+      "w": "salted shrimp",
+      "pos": "名詞",
+      "d": [
+        "salted shrimp"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アミの塩辛",
+      "r": "あみのしおから",
+      "pos": "名詞",
+      "d": [
+        "アミの塩辛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59843
+  },
+  {
+    "ko": "멸치액젓",
+    "en": {
+      "w": "anchovy fish sauce",
+      "pos": "名詞",
+      "d": [
+        "anchovy fish sauce"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "いわし魚醤",
+      "r": "いわしぎょしょう",
+      "pos": "名詞",
+      "d": [
+        "いわし魚醤"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59844
+  },
+  {
+    "ko": "갓김치",
+    "en": {
+      "w": "mustard leaf kimchi",
+      "pos": "名詞",
+      "d": [
+        "mustard leaf kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "からし菜キムチ",
+      "r": "からしなキムチ",
+      "pos": "名詞",
+      "d": [
+        "からし菜キムチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59845
+  },
+  {
+    "ko": "깍두기",
+    "en": {
+      "w": "cubed radish kimchi",
+      "pos": "名詞",
+      "d": [
+        "cubed radish kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カクテキ",
+      "r": "カクテキ",
+      "pos": "名詞",
+      "d": [
+        "カクテキ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59846
+  },
+  {
+    "ko": "열무김치",
+    "en": {
+      "w": "young radish kimchi",
+      "pos": "名詞",
+      "d": [
+        "young radish kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヨルムキムチ",
+      "r": "ヨルムキムチ",
+      "pos": "名詞",
+      "d": [
+        "ヨルムキムチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59847
+  },
+  {
+    "ko": "백김치",
+    "en": {
+      "w": "white, non-spicy kimchi",
+      "pos": "名詞",
+      "d": [
+        "white, non-spicy kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "白キムチ",
+      "r": "しろキムチ",
+      "pos": "名詞",
+      "d": [
+        "白キムチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59848
+  },
+  {
+    "ko": "동치미",
+    "en": {
+      "w": "watery radish kimchi",
+      "pos": "名詞",
+      "d": [
+        "watery radish kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "トンチミ",
+      "r": "トンチミ",
+      "pos": "名詞",
+      "d": [
+        "トンチミ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59849
+  },
+  {
+    "ko": "파김치",
+    "en": {
+      "w": "green onion kimchi",
+      "pos": "名詞",
+      "d": [
+        "green onion kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ネギキムチ",
+      "r": "ネギキムチ",
+      "pos": "名詞",
+      "d": [
+        "ネギキムチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59850
+  },
+  {
+    "ko": "총각김치",
+    "en": {
+      "w": "whole young radish kimchi",
+      "pos": "名詞",
+      "d": [
+        "whole young radish kimchi"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チョンガクキムチ",
+      "r": "チョンガクキムチ",
+      "pos": "名詞",
+      "d": [
+        "チョンガクキムチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59851
+  },
+  {
+    "ko": "겉절이",
+    "en": {
+      "w": "fresh, unfermented kimchi salad",
+      "pos": "名詞",
+      "d": [
+        "fresh, unfermented kimchi salad"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "浅漬けキムチ",
+      "r": "あさづけキムチ",
+      "pos": "名詞",
+      "d": [
+        "浅漬けキムチ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59852
+  },
+  {
+    "ko": "나물무침",
+    "en": {
+      "w": "seasoned vegetable side dish",
+      "pos": "名詞",
+      "d": [
+        "seasoned vegetable side dish"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ナムル和え",
+      "r": "ナムルあえ",
+      "pos": "名詞",
+      "d": [
+        "ナムル和え"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59853
+  },
+  {
+    "ko": "콩나물국",
+    "en": {
+      "w": "bean sprout soup",
+      "pos": "名詞",
+      "d": [
+        "bean sprout soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "豆もやしスープ",
+      "r": "まめもやしスープ",
+      "pos": "名詞",
+      "d": [
+        "豆もやしスープ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59854
+  },
+  {
+    "ko": "미역국",
+    "en": {
+      "w": "seaweed soup",
+      "pos": "名詞",
+      "d": [
+        "seaweed soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "わかめスープ",
+      "r": "わかめスープ",
+      "pos": "名詞",
+      "d": [
+        "わかめスープ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59855
+  },
+  {
+    "ko": "북엇국",
+    "en": {
+      "w": "dried pollock soup",
+      "pos": "名詞",
+      "d": [
+        "dried pollock soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "干し明太スープ",
+      "r": "ほしめんたいスープ",
+      "pos": "名詞",
+      "d": [
+        "干し明太スープ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59856
+  },
+  {
+    "ko": "곰탕",
+    "en": {
+      "w": "gomtang, beef bone soup",
+      "pos": "名詞",
+      "d": [
+        "gomtang, beef bone soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コムタン",
+      "r": "コムタン",
+      "pos": "名詞",
+      "d": [
+        "コムタン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59857
+  },
+  {
+    "ko": "육개장",
+    "en": {
+      "w": "yukgaejang, spicy beef soup",
+      "pos": "名詞",
+      "d": [
+        "yukgaejang, spicy beef soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ユッケジャン",
+      "r": "ユッケジャン",
+      "pos": "名詞",
+      "d": [
+        "ユッケジャン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59858
+  },
+  {
+    "ko": "추어탕",
+    "en": {
+      "w": "loach soup",
+      "pos": "名詞",
+      "d": [
+        "loach soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "どじょう汁",
+      "r": "どじょうじる",
+      "pos": "名詞",
+      "d": [
+        "どじょう汁"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59859
+  },
+  {
+    "ko": "매운탕",
+    "en": {
+      "w": "spicy fish stew",
+      "pos": "名詞",
+      "d": [
+        "spicy fish stew"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "メウンタン",
+      "r": "メウンタン",
+      "pos": "名詞",
+      "d": [
+        "メウンタン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59860
+  },
+  {
+    "ko": "동태찌개",
+    "en": {
+      "w": "frozen pollock stew",
+      "pos": "名詞",
+      "d": [
+        "frozen pollock stew"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "凍太チゲ",
+      "r": "トンテチゲ",
+      "pos": "名詞",
+      "d": [
+        "凍太チゲ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59861
+  },
+  {
+    "ko": "순두부찌개",
+    "en": {
+      "w": "soft tofu stew",
+      "pos": "名詞",
+      "d": [
+        "soft tofu stew"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スンドゥブチゲ",
+      "r": "スンドゥブチゲ",
+      "pos": "名詞",
+      "d": [
+        "スンドゥブチゲ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59862
+  },
+  {
+    "ko": "청국장",
+    "en": {
+      "w": "cheonggukjang, fermented soybean stew",
+      "pos": "名詞",
+      "d": [
+        "cheonggukjang, fermented soybean stew"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チョングッチャン",
+      "r": "チョングッチャン",
+      "pos": "名詞",
+      "d": [
+        "チョングッチャン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59863
+  },
+  {
+    "ko": "낙지볶음",
+    "en": {
+      "w": "stir-fried octopus",
+      "pos": "名詞",
+      "d": [
+        "stir-fried octopus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "テナガダコ炒め",
+      "r": "てながだこいため",
+      "pos": "名詞",
+      "d": [
+        "テナガダコ炒め"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59864
+  },
+  {
+    "ko": "제육볶음",
+    "en": {
+      "w": "spicy stir-fried pork",
+      "pos": "名詞",
+      "d": [
+        "spicy stir-fried pork"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "済州豚炒め",
+      "r": "チェユクポックム",
+      "pos": "名詞",
+      "d": [
+        "済州豚炒め"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59865
+  },
+  {
+    "ko": "오징어볶음",
+    "en": {
+      "w": "stir-fried squid",
+      "pos": "名詞",
+      "d": [
+        "stir-fried squid"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イカ炒め",
+      "r": "いかいため",
+      "pos": "名詞",
+      "d": [
+        "イカ炒め"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59866
+  },
+  {
+    "ko": "잡채",
+    "en": {
+      "w": "japchae, glass noodle stir-fry",
+      "pos": "名詞",
+      "d": [
+        "japchae, glass noodle stir-fry"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チャプチェ",
+      "r": "チャプチェ",
+      "pos": "名詞",
+      "d": [
+        "チャプチェ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59867
+  },
+  {
+    "ko": "탕수육",
+    "en": {
+      "w": "sweet and sour pork",
+      "pos": "名詞",
+      "d": [
+        "sweet and sour pork"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "酢豚",
+      "r": "すぶた",
+      "pos": "名詞",
+      "d": [
+        "酢豚"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59868
+  },
+  {
+    "ko": "깐풍기",
+    "en": {
+      "w": "crispy sweet-spicy chicken",
+      "pos": "名詞",
+      "d": [
+        "crispy sweet-spicy chicken"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カンプンギ",
+      "r": "カンプンギ",
+      "pos": "名詞",
+      "d": [
+        "カンプンギ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59869
+  },
+  {
+    "ko": "마파두부",
+    "en": {
+      "w": "mapo tofu",
+      "pos": "名詞",
+      "d": [
+        "mapo tofu"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "麻婆豆腐",
+      "r": "まーぼーどうふ",
+      "pos": "名詞",
+      "d": [
+        "麻婆豆腐"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59870
+  },
+  {
+    "ko": "짜장면",
+    "en": {
+      "w": "jjajangmyeon, black bean noodles",
+      "pos": "名詞",
+      "d": [
+        "jjajangmyeon, black bean noodles"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ジャージャー麺",
+      "r": "ジャージャーめん",
+      "pos": "名詞",
+      "d": [
+        "ジャージャー麺"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59871
+  },
+  {
+    "ko": "짬뽕",
+    "en": {
+      "w": "jjamppong, spicy seafood noodle soup",
+      "pos": "名詞",
+      "d": [
+        "jjamppong, spicy seafood noodle soup"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チャンポン",
+      "r": "チャンポン",
+      "pos": "名詞",
+      "d": [
+        "チャンポン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59872
+  },
+  {
+    "ko": "군만두",
+    "en": {
+      "w": "fried dumplings",
+      "pos": "名詞",
+      "d": [
+        "fried dumplings"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "焼き餃子",
+      "r": "やきぎょうざ",
+      "pos": "名詞",
+      "d": [
+        "焼き餃子"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59873
+  },
+  {
+    "ko": "동사",
+    "en": {
+      "w": "verb",
+      "pos": "名詞",
+      "d": [
+        "verb"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "動詞",
+      "r": "どうし",
+      "pos": "名詞",
+      "d": [
+        "動詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59874
+  },
+  {
+    "ko": "형용사",
+    "en": {
+      "w": "adjective",
+      "pos": "名詞",
+      "d": [
+        "adjective"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "形容詞",
+      "r": "けいようし",
+      "pos": "名詞",
+      "d": [
+        "形容詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59875
+  },
+  {
+    "ko": "명사",
+    "en": {
+      "w": "noun",
+      "pos": "名詞",
+      "d": [
+        "noun"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "名詞",
+      "r": "めいし",
+      "pos": "名詞",
+      "d": [
+        "名詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59876
+  },
+  {
+    "ko": "부사",
+    "en": {
+      "w": "adverb",
+      "pos": "名詞",
+      "d": [
+        "adverb"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "副詞",
+      "r": "ふくし",
+      "pos": "名詞",
+      "d": [
+        "副詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59877
+  },
+  {
+    "ko": "관형사",
+    "en": {
+      "w": "determiner (Korean grammar)",
+      "pos": "名詞",
+      "d": [
+        "determiner (Korean grammar)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "冠形詞",
+      "r": "かんけいし",
+      "pos": "名詞",
+      "d": [
+        "冠形詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59878
+  },
+  {
+    "ko": "감탄사",
+    "en": {
+      "w": "interjection",
+      "pos": "名詞",
+      "d": [
+        "interjection"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "感嘆詞",
+      "r": "かんたんし",
+      "pos": "名詞",
+      "d": [
+        "感嘆詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59879
+  },
+  {
+    "ko": "접속사",
+    "en": {
+      "w": "conjunction",
+      "pos": "名詞",
+      "d": [
+        "conjunction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "接続詞",
+      "r": "せつぞくし",
+      "pos": "名詞",
+      "d": [
+        "接続詞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59880
+  },
+  {
+    "ko": "어미",
+    "en": {
+      "w": "word ending (grammar)",
+      "pos": "名詞",
+      "d": [
+        "word ending (grammar)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "語尾",
+      "r": "ごび",
+      "pos": "名詞",
+      "d": [
+        "語尾"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59881
+  },
+  {
+    "ko": "어간",
+    "en": {
+      "w": "word stem",
+      "pos": "名詞",
+      "d": [
+        "word stem"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "語幹",
+      "r": "ごかん",
+      "pos": "名詞",
+      "d": [
+        "語幹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59882
+  },
+  {
+    "ko": "접두사",
+    "en": {
+      "w": "prefix",
+      "pos": "名詞",
+      "d": [
+        "prefix"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "接頭辞",
+      "r": "せっとうじ",
+      "pos": "名詞",
+      "d": [
+        "接頭辞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59883
+  },
+  {
+    "ko": "접미사",
+    "en": {
+      "w": "suffix",
+      "pos": "名詞",
+      "d": [
+        "suffix"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "接尾辞",
+      "r": "せつびじ",
+      "pos": "名詞",
+      "d": [
+        "接尾辞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59884
+  },
+  {
+    "ko": "어근",
+    "en": {
+      "w": "root (of a word)",
+      "pos": "名詞",
+      "d": [
+        "root (of a word)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "語根",
+      "r": "ごこん",
+      "pos": "名詞",
+      "d": [
+        "語根"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59885
+  },
+  {
+    "ko": "합성어",
+    "en": {
+      "w": "compound word",
+      "pos": "名詞",
+      "d": [
+        "compound word"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "合成語",
+      "r": "ごうせいご",
+      "pos": "名詞",
+      "d": [
+        "合成語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59886
+  },
+  {
+    "ko": "파생어",
+    "en": {
+      "w": "derived word",
+      "pos": "名詞",
+      "d": [
+        "derived word"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "派生語",
+      "r": "はせいご",
+      "pos": "名詞",
+      "d": [
+        "派生語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59887
+  },
+  {
+    "ko": "유의어",
+    "en": {
+      "w": "synonym",
+      "pos": "名詞",
+      "d": [
+        "synonym"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "類義語",
+      "r": "るいぎご",
+      "pos": "名詞",
+      "d": [
+        "類義語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59888
+  },
+  {
+    "ko": "반의어",
+    "en": {
+      "w": "antonym",
+      "pos": "名詞",
+      "d": [
+        "antonym"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "反意語",
+      "r": "はんいご",
+      "pos": "名詞",
+      "d": [
+        "反意語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59889
+  },
+  {
+    "ko": "동음이의어",
+    "en": {
+      "w": "homonym",
+      "pos": "名詞",
+      "d": [
+        "homonym"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "同音異義語",
+      "r": "どうおんいぎご",
+      "pos": "名詞",
+      "d": [
+        "同音異義語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59890
+  },
+  {
+    "ko": "다의어",
+    "en": {
+      "w": "polysemous word",
+      "pos": "名詞",
+      "d": [
+        "polysemous word"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "多義語",
+      "r": "たぎご",
+      "pos": "名詞",
+      "d": [
+        "多義語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59891
+  },
+  {
+    "ko": "관용표현",
+    "en": {
+      "w": "idiomatic expression",
+      "pos": "名詞",
+      "d": [
+        "idiomatic expression"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "慣用表現",
+      "r": "かんようひょうげん",
+      "pos": "名詞",
+      "d": [
+        "慣用表現"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59892
+  },
+  {
+    "ko": "사자성어",
+    "en": {
+      "w": "four-character idiom",
+      "pos": "名詞",
+      "d": [
+        "four-character idiom"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "四字熟語",
+      "r": "よじじゅくご",
+      "pos": "名詞",
+      "d": [
+        "四字熟語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59893
+  },
+  {
+    "ko": "표준어",
+    "en": {
+      "w": "standard language",
+      "pos": "名詞",
+      "d": [
+        "standard language"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "標準語",
+      "r": "ひょうじゅんご",
+      "pos": "名詞",
+      "d": [
+        "標準語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59894
+  },
+  {
+    "ko": "방언",
+    "en": {
+      "w": "dialect",
+      "pos": "名詞",
+      "d": [
+        "dialect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "方言",
+      "r": "ほうげん",
+      "pos": "名詞",
+      "d": [
+        "方言"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59895
+  },
+  {
+    "ko": "경어체",
+    "en": {
+      "w": "honorific style (writing)",
+      "pos": "名詞",
+      "d": [
+        "honorific style (writing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "敬語体",
+      "r": "けいごたい",
+      "pos": "名詞",
+      "d": [
+        "敬語体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59896
+  },
+  {
+    "ko": "평어체",
+    "en": {
+      "w": "plain style (writing)",
+      "pos": "名詞",
+      "d": [
+        "plain style (writing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "平語体",
+      "r": "へいごたい",
+      "pos": "名詞",
+      "d": [
+        "平語体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59897
+  },
+  {
+    "ko": "문어체",
+    "en": {
+      "w": "literary style (writing)",
+      "pos": "名詞",
+      "d": [
+        "literary style (writing)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "文語体",
+      "r": "ぶんごたい",
+      "pos": "名詞",
+      "d": [
+        "文語体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59898
+  },
+  {
+    "ko": "구어체",
+    "en": {
+      "w": "colloquial style (speech)",
+      "pos": "名詞",
+      "d": [
+        "colloquial style (speech)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "口語体",
+      "r": "こうごたい",
+      "pos": "名詞",
+      "d": [
+        "口語体"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59899
+  },
+  {
+    "ko": "직역",
+    "en": {
+      "w": "literal translation",
+      "pos": "名詞",
+      "d": [
+        "literal translation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "直訳",
+      "r": "ちょくやく",
+      "pos": "名詞",
+      "d": [
+        "直訳"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59900
+  },
+  {
+    "ko": "의역",
+    "en": {
+      "w": "free, liberal translation",
+      "pos": "名詞",
+      "d": [
+        "free, liberal translation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "意訳",
+      "r": "いやく",
+      "pos": "名詞",
+      "d": [
+        "意訳"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59901
+  },
+  {
+    "ko": "음역",
+    "en": {
+      "w": "transliteration",
+      "pos": "名詞",
+      "d": [
+        "transliteration"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "音訳",
+      "r": "おんやく",
+      "pos": "名詞",
+      "d": [
+        "音訳"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59902
+  },
+  {
+    "ko": "번역투",
+    "en": {
+      "w": "translationese, awkward translated style",
+      "pos": "名詞",
+      "d": [
+        "translationese, awkward translated style"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "翻訳調",
+      "r": "ほんやくちょう",
+      "pos": "名詞",
+      "d": [
+        "翻訳調"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59903
+  },
+  {
+    "ko": "맞춤법",
+    "en": {
+      "w": "spelling rules, orthography",
+      "pos": "名詞",
+      "d": [
+        "spelling rules, orthography"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "正書法",
+      "r": "せいしょほう",
+      "pos": "名詞",
+      "d": [
+        "正書法"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59904
+  },
+  {
+    "ko": "띄어쓰기",
+    "en": {
+      "w": "word spacing",
+      "pos": "名詞",
+      "d": [
+        "word spacing"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "分かち書き",
+      "r": "わかちがき",
+      "pos": "名詞",
+      "d": [
+        "分かち書き"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59905
+  },
+  {
+    "ko": "문장부호",
+    "en": {
+      "w": "punctuation mark",
+      "pos": "名詞",
+      "d": [
+        "punctuation mark"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "句読点",
+      "r": "くとうてん",
+      "pos": "名詞",
+      "d": [
+        "句読点"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59906
+  },
+  {
+    "ko": "쉼표",
+    "en": {
+      "w": "comma",
+      "pos": "名詞",
+      "d": [
+        "comma"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コンマ",
+      "r": "コンマ",
+      "pos": "名詞",
+      "d": [
+        "コンマ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59907
+  },
+  {
+    "ko": "마침표",
+    "en": {
+      "w": "period, full stop",
+      "pos": "名詞",
+      "d": [
+        "period, full stop"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ピリオド",
+      "r": "ピリオド",
+      "pos": "名詞",
+      "d": [
+        "ピリオド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59908
+  },
+  {
+    "ko": "물음표",
+    "en": {
+      "w": "question mark",
+      "pos": "名詞",
+      "d": [
+        "question mark"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "クエスチョンマーク",
+      "r": "クエスチョンマーク",
+      "pos": "名詞",
+      "d": [
+        "クエスチョンマーク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59909
+  },
+  {
+    "ko": "느낌표",
+    "en": {
+      "w": "exclamation mark",
+      "pos": "名詞",
+      "d": [
+        "exclamation mark"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "感嘆符",
+      "r": "かんたんふ",
+      "pos": "名詞",
+      "d": [
+        "感嘆符"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59910
+  },
+  {
+    "ko": "따옴표",
+    "en": {
+      "w": "quotation mark",
+      "pos": "名詞",
+      "d": [
+        "quotation mark"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "引用符",
+      "r": "いんようふ",
+      "pos": "名詞",
+      "d": [
+        "引用符"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59911
+  },
+  {
+    "ko": "괄호",
+    "en": {
+      "w": "parenthesis",
+      "pos": "名詞",
+      "d": [
+        "parenthesis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "括弧",
+      "r": "かっこ",
+      "pos": "名詞",
+      "d": [
+        "括弧"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59912
+  },
+  {
+    "ko": "줄임표",
+    "en": {
+      "w": "ellipsis",
+      "pos": "名詞",
+      "d": [
+        "ellipsis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "省略記号",
+      "r": "しょうりゃくきごう",
+      "pos": "名詞",
+      "d": [
+        "省略記号"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59913
   }
 ];
