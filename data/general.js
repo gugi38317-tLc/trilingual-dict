@@ -1,5 +1,5 @@
 // 일반 용어 general.js
-// 단어수: 7396
+// 단어수: 7571
 if (!window.DICT) window.DICT = {};
 window.DICT.general = [
   {
@@ -198922,5 +198922,4555 @@ window.DICT.general = [
     "ko_pos_ja": "名詞",
     "ko_grade": "C",
     "ko_rank": 59307
+  },
+  {
+    "ko": "미국",
+    "en": {
+      "w": "the United States",
+      "pos": "名詞",
+      "d": [
+        "the United States"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アメリカ",
+      "r": "アメリカ",
+      "pos": "名詞",
+      "d": [
+        "アメリカ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59308
+  },
+  {
+    "ko": "중국",
+    "en": {
+      "w": "China",
+      "pos": "名詞",
+      "d": [
+        "China"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "中国",
+      "r": "ちゅうごく",
+      "pos": "名詞",
+      "d": [
+        "中国"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59309
+  },
+  {
+    "ko": "일본",
+    "en": {
+      "w": "Japan",
+      "pos": "名詞",
+      "d": [
+        "Japan"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "日本",
+      "r": "にほん",
+      "pos": "名詞",
+      "d": [
+        "日本"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59310
+  },
+  {
+    "ko": "영국",
+    "en": {
+      "w": "the United Kingdom",
+      "pos": "名詞",
+      "d": [
+        "the United Kingdom"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イギリス",
+      "r": "イギリス",
+      "pos": "名詞",
+      "d": [
+        "イギリス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59311
+  },
+  {
+    "ko": "프랑스",
+    "en": {
+      "w": "France",
+      "pos": "名詞",
+      "d": [
+        "France"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フランス",
+      "r": "フランス",
+      "pos": "名詞",
+      "d": [
+        "フランス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59312
+  },
+  {
+    "ko": "독일",
+    "en": {
+      "w": "Germany",
+      "pos": "名詞",
+      "d": [
+        "Germany"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ドイツ",
+      "r": "ドイツ",
+      "pos": "名詞",
+      "d": [
+        "ドイツ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59313
+  },
+  {
+    "ko": "이탈리아",
+    "en": {
+      "w": "Italy",
+      "pos": "名詞",
+      "d": [
+        "Italy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イタリア",
+      "r": "イタリア",
+      "pos": "名詞",
+      "d": [
+        "イタリア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59314
+  },
+  {
+    "ko": "스페인",
+    "en": {
+      "w": "Spain",
+      "pos": "名詞",
+      "d": [
+        "Spain"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スペイン",
+      "r": "スペイン",
+      "pos": "名詞",
+      "d": [
+        "スペイン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59315
+  },
+  {
+    "ko": "러시아",
+    "en": {
+      "w": "Russia",
+      "pos": "名詞",
+      "d": [
+        "Russia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ロシア",
+      "r": "ロシア",
+      "pos": "名詞",
+      "d": [
+        "ロシア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59316
+  },
+  {
+    "ko": "캐나다",
+    "en": {
+      "w": "Canada",
+      "pos": "名詞",
+      "d": [
+        "Canada"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カナダ",
+      "r": "カナダ",
+      "pos": "名詞",
+      "d": [
+        "カナダ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59317
+  },
+  {
+    "ko": "호주",
+    "en": {
+      "w": "Australia",
+      "pos": "名詞",
+      "d": [
+        "Australia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オーストラリア",
+      "r": "オーストラリア",
+      "pos": "名詞",
+      "d": [
+        "オーストラリア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59318
+  },
+  {
+    "ko": "브라질",
+    "en": {
+      "w": "Brazil",
+      "pos": "名詞",
+      "d": [
+        "Brazil"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ブラジル",
+      "r": "ブラジル",
+      "pos": "名詞",
+      "d": [
+        "ブラジル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59319
+  },
+  {
+    "ko": "멕시코",
+    "en": {
+      "w": "Mexico",
+      "pos": "名詞",
+      "d": [
+        "Mexico"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "メキシコ",
+      "r": "メキシコ",
+      "pos": "名詞",
+      "d": [
+        "メキシコ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59320
+  },
+  {
+    "ko": "태국",
+    "en": {
+      "w": "Thailand",
+      "pos": "名詞",
+      "d": [
+        "Thailand"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タイ",
+      "r": "タイ",
+      "pos": "名詞",
+      "d": [
+        "タイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59321
+  },
+  {
+    "ko": "베트남",
+    "en": {
+      "w": "Vietnam",
+      "pos": "名詞",
+      "d": [
+        "Vietnam"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベトナム",
+      "r": "ベトナム",
+      "pos": "名詞",
+      "d": [
+        "ベトナム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59322
+  },
+  {
+    "ko": "필리핀",
+    "en": {
+      "w": "the Philippines",
+      "pos": "名詞",
+      "d": [
+        "the Philippines"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フィリピン",
+      "r": "フィリピン",
+      "pos": "名詞",
+      "d": [
+        "フィリピン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59323
+  },
+  {
+    "ko": "인도네시아",
+    "en": {
+      "w": "Indonesia",
+      "pos": "名詞",
+      "d": [
+        "Indonesia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インドネシア",
+      "r": "インドネシア",
+      "pos": "名詞",
+      "d": [
+        "インドネシア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59324
+  },
+  {
+    "ko": "말레이시아",
+    "en": {
+      "w": "Malaysia",
+      "pos": "名詞",
+      "d": [
+        "Malaysia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マレーシア",
+      "r": "マレーシア",
+      "pos": "名詞",
+      "d": [
+        "マレーシア"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59325
+  },
+  {
+    "ko": "싱가포르",
+    "en": {
+      "w": "Singapore",
+      "pos": "名詞",
+      "d": [
+        "Singapore"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "シンガポール",
+      "r": "シンガポール",
+      "pos": "名詞",
+      "d": [
+        "シンガポール"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59326
+  },
+  {
+    "ko": "몽골",
+    "en": {
+      "w": "Mongolia",
+      "pos": "名詞",
+      "d": [
+        "Mongolia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "モンゴル",
+      "r": "モンゴル",
+      "pos": "名詞",
+      "d": [
+        "モンゴル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59327
+  },
+  {
+    "ko": "네덜란드",
+    "en": {
+      "w": "the Netherlands",
+      "pos": "名詞",
+      "d": [
+        "the Netherlands"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "オランダ",
+      "r": "オランダ",
+      "pos": "名詞",
+      "d": [
+        "オランダ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59328
+  },
+  {
+    "ko": "스위스",
+    "en": {
+      "w": "Switzerland",
+      "pos": "名詞",
+      "d": [
+        "Switzerland"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スイス",
+      "r": "スイス",
+      "pos": "名詞",
+      "d": [
+        "スイス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59329
+  },
+  {
+    "ko": "스웨덴",
+    "en": {
+      "w": "Sweden",
+      "pos": "名詞",
+      "d": [
+        "Sweden"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スウェーデン",
+      "r": "スウェーデン",
+      "pos": "名詞",
+      "d": [
+        "スウェーデン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59330
+  },
+  {
+    "ko": "노르웨이",
+    "en": {
+      "w": "Norway",
+      "pos": "名詞",
+      "d": [
+        "Norway"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ノルウェー",
+      "r": "ノルウェー",
+      "pos": "名詞",
+      "d": [
+        "ノルウェー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59331
+  },
+  {
+    "ko": "덴마크",
+    "en": {
+      "w": "Denmark",
+      "pos": "名詞",
+      "d": [
+        "Denmark"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "デンマーク",
+      "r": "デンマーク",
+      "pos": "名詞",
+      "d": [
+        "デンマーク"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59332
+  },
+  {
+    "ko": "핀란드",
+    "en": {
+      "w": "Finland",
+      "pos": "名詞",
+      "d": [
+        "Finland"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フィンランド",
+      "r": "フィンランド",
+      "pos": "名詞",
+      "d": [
+        "フィンランド"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59333
+  },
+  {
+    "ko": "그리스",
+    "en": {
+      "w": "Greece",
+      "pos": "名詞",
+      "d": [
+        "Greece"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ギリシャ",
+      "r": "ギリシャ",
+      "pos": "名詞",
+      "d": [
+        "ギリシャ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59334
+  },
+  {
+    "ko": "터키",
+    "en": {
+      "w": "Turkey",
+      "pos": "名詞",
+      "d": [
+        "Turkey"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "トルコ",
+      "r": "トルコ",
+      "pos": "名詞",
+      "d": [
+        "トルコ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59335
+  },
+  {
+    "ko": "이집트",
+    "en": {
+      "w": "Egypt",
+      "pos": "名詞",
+      "d": [
+        "Egypt"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "エジプト",
+      "r": "エジプト",
+      "pos": "名詞",
+      "d": [
+        "エジプト"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59336
+  },
+  {
+    "ko": "남아프리카공화국",
+    "en": {
+      "w": "South Africa",
+      "pos": "名詞",
+      "d": [
+        "South Africa"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "南アフリカ共和国",
+      "r": "みなみアフリカきょうわこく",
+      "pos": "名詞",
+      "d": [
+        "南アフリカ共和国"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59337
+  },
+  {
+    "ko": "아르헨티나",
+    "en": {
+      "w": "Argentina",
+      "pos": "名詞",
+      "d": [
+        "Argentina"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アルゼンチン",
+      "r": "アルゼンチン",
+      "pos": "名詞",
+      "d": [
+        "アルゼンチン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59338
+  },
+  {
+    "ko": "칠레",
+    "en": {
+      "w": "Chile",
+      "pos": "名詞",
+      "d": [
+        "Chile"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チリ",
+      "r": "チリ",
+      "pos": "名詞",
+      "d": [
+        "チリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59339
+  },
+  {
+    "ko": "프랑스어",
+    "en": {
+      "w": "French (language)",
+      "pos": "名詞",
+      "d": [
+        "French (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "フランス語",
+      "r": "フランスご",
+      "pos": "名詞",
+      "d": [
+        "フランス語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59340
+  },
+  {
+    "ko": "스페인어",
+    "en": {
+      "w": "Spanish (language)",
+      "pos": "名詞",
+      "d": [
+        "Spanish (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "スペイン語",
+      "r": "スペインご",
+      "pos": "名詞",
+      "d": [
+        "スペイン語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59341
+  },
+  {
+    "ko": "러시아어",
+    "en": {
+      "w": "Russian (language)",
+      "pos": "名詞",
+      "d": [
+        "Russian (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ロシア語",
+      "r": "ロシアご",
+      "pos": "名詞",
+      "d": [
+        "ロシア語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59342
+  },
+  {
+    "ko": "이탈리아어",
+    "en": {
+      "w": "Italian (language)",
+      "pos": "名詞",
+      "d": [
+        "Italian (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "イタリア語",
+      "r": "イタリアご",
+      "pos": "名詞",
+      "d": [
+        "イタリア語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59343
+  },
+  {
+    "ko": "아랍어",
+    "en": {
+      "w": "Arabic (language)",
+      "pos": "名詞",
+      "d": [
+        "Arabic (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アラビア語",
+      "r": "アラビアご",
+      "pos": "名詞",
+      "d": [
+        "アラビア語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59344
+  },
+  {
+    "ko": "힌디어",
+    "en": {
+      "w": "Hindi (language)",
+      "pos": "名詞",
+      "d": [
+        "Hindi (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヒンディー語",
+      "r": "ヒンディーご",
+      "pos": "名詞",
+      "d": [
+        "ヒンディー語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59345
+  },
+  {
+    "ko": "포르투갈어",
+    "en": {
+      "w": "Portuguese (language)",
+      "pos": "名詞",
+      "d": [
+        "Portuguese (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ポルトガル語",
+      "r": "ポルトガルご",
+      "pos": "名詞",
+      "d": [
+        "ポルトガル語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59346
+  },
+  {
+    "ko": "베트남어",
+    "en": {
+      "w": "Vietnamese (language)",
+      "pos": "名詞",
+      "d": [
+        "Vietnamese (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベトナム語",
+      "r": "ベトナムご",
+      "pos": "名詞",
+      "d": [
+        "ベトナム語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59347
+  },
+  {
+    "ko": "태국어",
+    "en": {
+      "w": "Thai (language)",
+      "pos": "名詞",
+      "d": [
+        "Thai (language)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タイ語",
+      "r": "タイご",
+      "pos": "名詞",
+      "d": [
+        "タイ語"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59348
+  },
+  {
+    "ko": "수소",
+    "en": {
+      "w": "hydrogen",
+      "pos": "名詞",
+      "d": [
+        "hydrogen"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "水素",
+      "r": "すいそ",
+      "pos": "名詞",
+      "d": [
+        "水素"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59349
+  },
+  {
+    "ko": "헬륨",
+    "en": {
+      "w": "helium",
+      "pos": "名詞",
+      "d": [
+        "helium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ヘリウム",
+      "r": "ヘリウム",
+      "pos": "名詞",
+      "d": [
+        "ヘリウム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59350
+  },
+  {
+    "ko": "탄소",
+    "en": {
+      "w": "carbon",
+      "pos": "名詞",
+      "d": [
+        "carbon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "炭素",
+      "r": "たんそ",
+      "pos": "名詞",
+      "d": [
+        "炭素"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59351
+  },
+  {
+    "ko": "질소",
+    "en": {
+      "w": "nitrogen",
+      "pos": "名詞",
+      "d": [
+        "nitrogen"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "窒素",
+      "r": "ちっそ",
+      "pos": "名詞",
+      "d": [
+        "窒素"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59352
+  },
+  {
+    "ko": "나트륨",
+    "en": {
+      "w": "sodium",
+      "pos": "名詞",
+      "d": [
+        "sodium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ナトリウム",
+      "r": "ナトリウム",
+      "pos": "名詞",
+      "d": [
+        "ナトリウム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59353
+  },
+  {
+    "ko": "마그네슘",
+    "en": {
+      "w": "magnesium",
+      "pos": "名詞",
+      "d": [
+        "magnesium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "マグネシウム",
+      "r": "マグネシウム",
+      "pos": "名詞",
+      "d": [
+        "マグネシウム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59354
+  },
+  {
+    "ko": "규소",
+    "en": {
+      "w": "silicon",
+      "pos": "名詞",
+      "d": [
+        "silicon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ケイ素",
+      "r": "ケイそ",
+      "pos": "名詞",
+      "d": [
+        "ケイ素"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59355
+  },
+  {
+    "ko": "황",
+    "en": {
+      "w": "sulfur",
+      "pos": "名詞",
+      "d": [
+        "sulfur"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "硫黄",
+      "r": "いおう",
+      "pos": "名詞",
+      "d": [
+        "硫黄"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59356
+  },
+  {
+    "ko": "칼륨",
+    "en": {
+      "w": "potassium",
+      "pos": "名詞",
+      "d": [
+        "potassium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カリウム",
+      "r": "カリウム",
+      "pos": "名詞",
+      "d": [
+        "カリウム"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59357
+  },
+  {
+    "ko": "구리",
+    "en": {
+      "w": "copper",
+      "pos": "名詞",
+      "d": [
+        "copper"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "銅",
+      "r": "どう",
+      "pos": "名詞",
+      "d": [
+        "銅"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59358
+  },
+  {
+    "ko": "아연",
+    "en": {
+      "w": "zinc",
+      "pos": "名詞",
+      "d": [
+        "zinc"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "亜鉛",
+      "r": "あえん",
+      "pos": "名詞",
+      "d": [
+        "亜鉛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59359
+  },
+  {
+    "ko": "백금",
+    "en": {
+      "w": "platinum",
+      "pos": "名詞",
+      "d": [
+        "platinum"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "白金",
+      "r": "はっきん",
+      "pos": "名詞",
+      "d": [
+        "白金"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59360
+  },
+  {
+    "ko": "납",
+    "en": {
+      "w": "lead (metal)",
+      "pos": "名詞",
+      "d": [
+        "lead (metal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鉛",
+      "r": "なまり",
+      "pos": "名詞",
+      "d": [
+        "鉛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59361
+  },
+  {
+    "ko": "수은",
+    "en": {
+      "w": "mercury (metal)",
+      "pos": "名詞",
+      "d": [
+        "mercury (metal)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "水銀",
+      "r": "すいぎん",
+      "pos": "名詞",
+      "d": [
+        "水銀"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59362
+  },
+  {
+    "ko": "우라늄",
+    "en": {
+      "w": "uranium",
+      "pos": "名詞",
+      "d": [
+        "uranium"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ウラン",
+      "r": "ウラン",
+      "pos": "名詞",
+      "d": [
+        "ウラン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59363
+  },
+  {
+    "ko": "외과의사",
+    "en": {
+      "w": "surgeon",
+      "pos": "名詞",
+      "d": [
+        "surgeon"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "外科医",
+      "r": "げかい",
+      "pos": "名詞",
+      "d": [
+        "外科医"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59364
+  },
+  {
+    "ko": "내과의사",
+    "en": {
+      "w": "internist",
+      "pos": "名詞",
+      "d": [
+        "internist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "内科医",
+      "r": "ないかい",
+      "pos": "名詞",
+      "d": [
+        "内科医"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59365
+  },
+  {
+    "ko": "치과의사",
+    "en": {
+      "w": "dentist",
+      "pos": "名詞",
+      "d": [
+        "dentist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "歯科医",
+      "r": "しかい",
+      "pos": "名詞",
+      "d": [
+        "歯科医"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59366
+  },
+  {
+    "ko": "소아과의사",
+    "en": {
+      "w": "pediatrician",
+      "pos": "名詞",
+      "d": [
+        "pediatrician"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "小児科医",
+      "r": "しょうにかい",
+      "pos": "名詞",
+      "d": [
+        "小児科医"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59367
+  },
+  {
+    "ko": "정신과의사",
+    "en": {
+      "w": "psychiatrist",
+      "pos": "名詞",
+      "d": [
+        "psychiatrist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "精神科医",
+      "r": "せいしんかい",
+      "pos": "名詞",
+      "d": [
+        "精神科医"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59368
+  },
+  {
+    "ko": "수의사",
+    "en": {
+      "w": "veterinarian",
+      "pos": "名詞",
+      "d": [
+        "veterinarian"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "獣医",
+      "r": "じゅうい",
+      "pos": "名詞",
+      "d": [
+        "獣医"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59369
+  },
+  {
+    "ko": "조산사",
+    "en": {
+      "w": "midwife",
+      "pos": "名詞",
+      "d": [
+        "midwife"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "助産師",
+      "r": "じょさんし",
+      "pos": "名詞",
+      "d": [
+        "助産師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59370
+  },
+  {
+    "ko": "영양사",
+    "en": {
+      "w": "dietitian",
+      "pos": "名詞",
+      "d": [
+        "dietitian"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "栄養士",
+      "r": "えいようし",
+      "pos": "名詞",
+      "d": [
+        "栄養士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59371
+  },
+  {
+    "ko": "위생사",
+    "en": {
+      "w": "hygienist",
+      "pos": "名詞",
+      "d": [
+        "hygienist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "衛生士",
+      "r": "えいせいし",
+      "pos": "名詞",
+      "d": [
+        "衛生士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59372
+  },
+  {
+    "ko": "검안사",
+    "en": {
+      "w": "optometrist",
+      "pos": "名詞",
+      "d": [
+        "optometrist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "検眼士",
+      "r": "けんがんし",
+      "pos": "名詞",
+      "d": [
+        "検眼士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59373
+  },
+  {
+    "ko": "언어치료사",
+    "en": {
+      "w": "speech therapist",
+      "pos": "名詞",
+      "d": [
+        "speech therapist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "言語療法士",
+      "r": "げんごりょうほうし",
+      "pos": "名詞",
+      "d": [
+        "言語療法士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59374
+  },
+  {
+    "ko": "작업치료사",
+    "en": {
+      "w": "occupational therapist",
+      "pos": "名詞",
+      "d": [
+        "occupational therapist"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "作業療法士",
+      "r": "さぎょうりょうほうし",
+      "pos": "名詞",
+      "d": [
+        "作業療法士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59375
+  },
+  {
+    "ko": "사회복지사",
+    "en": {
+      "w": "social worker",
+      "pos": "名詞",
+      "d": [
+        "social worker"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "社会福祉士",
+      "r": "しゃかいふくしし",
+      "pos": "名詞",
+      "d": [
+        "社会福祉士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59376
+  },
+  {
+    "ko": "상담사",
+    "en": {
+      "w": "counselor",
+      "pos": "名詞",
+      "d": [
+        "counselor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カウンセラー",
+      "r": "カウンセラー",
+      "pos": "名詞",
+      "d": [
+        "カウンセラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59377
+  },
+  {
+    "ko": "심리상담사",
+    "en": {
+      "w": "psychological counselor",
+      "pos": "名詞",
+      "d": [
+        "psychological counselor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "心理カウンセラー",
+      "r": "しんりカウンセラー",
+      "pos": "名詞",
+      "d": [
+        "心理カウンセラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59378
+  },
+  {
+    "ko": "직업상담사",
+    "en": {
+      "w": "career counselor",
+      "pos": "名詞",
+      "d": [
+        "career counselor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "職業カウンセラー",
+      "r": "しょくぎょうカウンセラー",
+      "pos": "名詞",
+      "d": [
+        "職業カウンセラー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59379
+  },
+  {
+    "ko": "보육교사",
+    "en": {
+      "w": "childcare teacher",
+      "pos": "名詞",
+      "d": [
+        "childcare teacher"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "保育士",
+      "r": "ほいくし",
+      "pos": "名詞",
+      "d": [
+        "保育士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59380
+  },
+  {
+    "ko": "유치원교사",
+    "en": {
+      "w": "kindergarten teacher",
+      "pos": "名詞",
+      "d": [
+        "kindergarten teacher"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "幼稚園教師",
+      "r": "ようちえんきょうし",
+      "pos": "名詞",
+      "d": [
+        "幼稚園教師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59381
+  },
+  {
+    "ko": "초등교사",
+    "en": {
+      "w": "elementary school teacher",
+      "pos": "名詞",
+      "d": [
+        "elementary school teacher"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "小学校教師",
+      "r": "しょうがっこうきょうし",
+      "pos": "名詞",
+      "d": [
+        "小学校教師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59382
+  },
+  {
+    "ko": "중등교사",
+    "en": {
+      "w": "secondary school teacher",
+      "pos": "名詞",
+      "d": [
+        "secondary school teacher"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "中等教師",
+      "r": "ちゅうとうきょうし",
+      "pos": "名詞",
+      "d": [
+        "中等教師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59383
+  },
+  {
+    "ko": "대학교수",
+    "en": {
+      "w": "university professor",
+      "pos": "名詞",
+      "d": [
+        "university professor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "大学教授",
+      "r": "だいがくきょうじゅ",
+      "pos": "名詞",
+      "d": [
+        "大学教授"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59384
+  },
+  {
+    "ko": "건축사",
+    "en": {
+      "w": "licensed architect",
+      "pos": "名詞",
+      "d": [
+        "licensed architect"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "建築士",
+      "r": "けんちくし",
+      "pos": "名詞",
+      "d": [
+        "建築士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59385
+  },
+  {
+    "ko": "토목기사",
+    "en": {
+      "w": "civil engineer (licensed)",
+      "pos": "名詞",
+      "d": [
+        "civil engineer (licensed)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "土木技師",
+      "r": "どぼくぎし",
+      "pos": "名詞",
+      "d": [
+        "土木技師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59386
+  },
+  {
+    "ko": "전기기사",
+    "en": {
+      "w": "electrical engineer (licensed)",
+      "pos": "名詞",
+      "d": [
+        "electrical engineer (licensed)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "電気技師",
+      "r": "でんきぎし",
+      "pos": "名詞",
+      "d": [
+        "電気技師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59387
+  },
+  {
+    "ko": "기계기사",
+    "en": {
+      "w": "mechanical engineer (licensed)",
+      "pos": "名詞",
+      "d": [
+        "mechanical engineer (licensed)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "機械技師",
+      "r": "きかいぎし",
+      "pos": "名詞",
+      "d": [
+        "機械技師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59388
+  },
+  {
+    "ko": "용접기사",
+    "en": {
+      "w": "certified welder",
+      "pos": "名詞",
+      "d": [
+        "certified welder"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "溶接技師",
+      "r": "ようせつぎし",
+      "pos": "名詞",
+      "d": [
+        "溶接技師"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59389
+  },
+  {
+    "ko": "자동차정비사",
+    "en": {
+      "w": "car mechanic",
+      "pos": "名詞",
+      "d": [
+        "car mechanic"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "自動車整備士",
+      "r": "じどうしゃせいびし",
+      "pos": "名詞",
+      "d": [
+        "自動車整備士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59390
+  },
+  {
+    "ko": "항공기정비사",
+    "en": {
+      "w": "aircraft mechanic",
+      "pos": "名詞",
+      "d": [
+        "aircraft mechanic"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "航空機整備士",
+      "r": "こうくうきせいびし",
+      "pos": "名詞",
+      "d": [
+        "航空機整備士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59391
+  },
+  {
+    "ko": "조종사",
+    "en": {
+      "w": "pilot",
+      "pos": "名詞",
+      "d": [
+        "pilot"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パイロット",
+      "r": "パイロット",
+      "pos": "名詞",
+      "d": [
+        "パイロット"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59392
+  },
+  {
+    "ko": "항해사",
+    "en": {
+      "w": "navigator, ship's officer",
+      "pos": "名詞",
+      "d": [
+        "navigator, ship's officer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "航海士",
+      "r": "こうかいし",
+      "pos": "名詞",
+      "d": [
+        "航海士"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59393
+  },
+  {
+    "ko": "경찰관",
+    "en": {
+      "w": "police officer",
+      "pos": "名詞",
+      "d": [
+        "police officer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "警察官",
+      "r": "けいさつかん",
+      "pos": "名詞",
+      "d": [
+        "警察官"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59394
+  },
+  {
+    "ko": "외교관",
+    "en": {
+      "w": "diplomat",
+      "pos": "名詞",
+      "d": [
+        "diplomat"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "外交官",
+      "r": "がいこうかん",
+      "pos": "名詞",
+      "d": [
+        "外交官"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59395
+  },
+  {
+    "ko": "국회의원",
+    "en": {
+      "w": "member of the National Assembly",
+      "pos": "名詞",
+      "d": [
+        "member of the National Assembly"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "国会議員",
+      "r": "こっかいぎいん",
+      "pos": "名詞",
+      "d": [
+        "国会議員"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59396
+  },
+  {
+    "ko": "도지사",
+    "en": {
+      "w": "provincial governor",
+      "pos": "名詞",
+      "d": [
+        "provincial governor"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "道知事",
+      "r": "どうちじ",
+      "pos": "名詞",
+      "d": [
+        "道知事"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59397
+  },
+  {
+    "ko": "구청장",
+    "en": {
+      "w": "district office head",
+      "pos": "名詞",
+      "d": [
+        "district office head"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "区庁長",
+      "r": "くちょうちょう",
+      "pos": "名詞",
+      "d": [
+        "区庁長"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59398
+  },
+  {
+    "ko": "감기몸살",
+    "en": {
+      "w": "cold with body aches",
+      "pos": "名詞",
+      "d": [
+        "cold with body aches"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "風邪による体の痛み",
+      "r": "かぜによるからだのいたみ",
+      "pos": "名詞",
+      "d": [
+        "風邪による体の痛み"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59399
+  },
+  {
+    "ko": "독감",
+    "en": {
+      "w": "the flu",
+      "pos": "名詞",
+      "d": [
+        "the flu"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "インフルエンザ",
+      "r": "インフルエンザ",
+      "pos": "名詞",
+      "d": [
+        "インフルエンザ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59400
+  },
+  {
+    "ko": "폐렴",
+    "en": {
+      "w": "pneumonia",
+      "pos": "名詞",
+      "d": [
+        "pneumonia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "肺炎",
+      "r": "はいえん",
+      "pos": "名詞",
+      "d": [
+        "肺炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59401
+  },
+  {
+    "ko": "기관지염",
+    "en": {
+      "w": "bronchitis",
+      "pos": "名詞",
+      "d": [
+        "bronchitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "気管支炎",
+      "r": "きかんしえん",
+      "pos": "名詞",
+      "d": [
+        "気管支炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59402
+  },
+  {
+    "ko": "천식",
+    "en": {
+      "w": "asthma",
+      "pos": "名詞",
+      "d": [
+        "asthma"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "喘息",
+      "r": "ぜんそく",
+      "pos": "名詞",
+      "d": [
+        "喘息"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59403
+  },
+  {
+    "ko": "당뇨병",
+    "en": {
+      "w": "diabetes",
+      "pos": "名詞",
+      "d": [
+        "diabetes"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "糖尿病",
+      "r": "とうにょうびょう",
+      "pos": "名詞",
+      "d": [
+        "糖尿病"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59404
+  },
+  {
+    "ko": "고혈압",
+    "en": {
+      "w": "high blood pressure",
+      "pos": "名詞",
+      "d": [
+        "high blood pressure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "高血圧",
+      "r": "こうけつあつ",
+      "pos": "名詞",
+      "d": [
+        "高血圧"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59405
+  },
+  {
+    "ko": "저혈압",
+    "en": {
+      "w": "low blood pressure",
+      "pos": "名詞",
+      "d": [
+        "low blood pressure"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "低血圧",
+      "r": "ていけつあつ",
+      "pos": "名詞",
+      "d": [
+        "低血圧"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59406
+  },
+  {
+    "ko": "빈혈",
+    "en": {
+      "w": "anemia",
+      "pos": "名詞",
+      "d": [
+        "anemia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "貧血",
+      "r": "ひんけつ",
+      "pos": "名詞",
+      "d": [
+        "貧血"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59407
+  },
+  {
+    "ko": "갑상선질환",
+    "en": {
+      "w": "thyroid disease",
+      "pos": "名詞",
+      "d": [
+        "thyroid disease"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "甲状腺疾患",
+      "r": "こうじょうせんしっかん",
+      "pos": "名詞",
+      "d": [
+        "甲状腺疾患"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59408
+  },
+  {
+    "ko": "골다공증",
+    "en": {
+      "w": "osteoporosis",
+      "pos": "名詞",
+      "d": [
+        "osteoporosis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "骨粗しょう症",
+      "r": "こつそしょうしょう",
+      "pos": "名詞",
+      "d": [
+        "骨粗しょう症"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59409
+  },
+  {
+    "ko": "파킨슨병",
+    "en": {
+      "w": "Parkinson's disease",
+      "pos": "名詞",
+      "d": [
+        "Parkinson's disease"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "パーキンソン病",
+      "r": "パーキンソンびょう",
+      "pos": "名詞",
+      "d": [
+        "パーキンソン病"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59410
+  },
+  {
+    "ko": "뇌졸중",
+    "en": {
+      "w": "stroke",
+      "pos": "名詞",
+      "d": [
+        "stroke"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "脳卒中",
+      "r": "のうそっちゅう",
+      "pos": "名詞",
+      "d": [
+        "脳卒中"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59411
+  },
+  {
+    "ko": "심근경색",
+    "en": {
+      "w": "myocardial infarction",
+      "pos": "名詞",
+      "d": [
+        "myocardial infarction"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "心筋梗塞",
+      "r": "しんきんこうそく",
+      "pos": "名詞",
+      "d": [
+        "心筋梗塞"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59412
+  },
+  {
+    "ko": "협심증",
+    "en": {
+      "w": "angina",
+      "pos": "名詞",
+      "d": [
+        "angina"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "狭心症",
+      "r": "きょうしんしょう",
+      "pos": "名詞",
+      "d": [
+        "狭心症"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59413
+  },
+  {
+    "ko": "백혈병",
+    "en": {
+      "w": "leukemia",
+      "pos": "名詞",
+      "d": [
+        "leukemia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "白血病",
+      "r": "はっけつびょう",
+      "pos": "名詞",
+      "d": [
+        "白血病"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59414
+  },
+  {
+    "ko": "위암",
+    "en": {
+      "w": "stomach cancer",
+      "pos": "名詞",
+      "d": [
+        "stomach cancer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "胃がん",
+      "r": "いがん",
+      "pos": "名詞",
+      "d": [
+        "胃がん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59415
+  },
+  {
+    "ko": "간암",
+    "en": {
+      "w": "liver cancer",
+      "pos": "名詞",
+      "d": [
+        "liver cancer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "肝臓がん",
+      "r": "かんぞうがん",
+      "pos": "名詞",
+      "d": [
+        "肝臓がん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59416
+  },
+  {
+    "ko": "폐암",
+    "en": {
+      "w": "lung cancer",
+      "pos": "名詞",
+      "d": [
+        "lung cancer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "肺がん",
+      "r": "はいがん",
+      "pos": "名詞",
+      "d": [
+        "肺がん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59417
+  },
+  {
+    "ko": "유방암",
+    "en": {
+      "w": "breast cancer",
+      "pos": "名詞",
+      "d": [
+        "breast cancer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "乳がん",
+      "r": "にゅうがん",
+      "pos": "名詞",
+      "d": [
+        "乳がん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59418
+  },
+  {
+    "ko": "대장암",
+    "en": {
+      "w": "colon cancer",
+      "pos": "名詞",
+      "d": [
+        "colon cancer"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "大腸がん",
+      "r": "だいちょうがん",
+      "pos": "名詞",
+      "d": [
+        "大腸がん"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59419
+  },
+  {
+    "ko": "알레르기",
+    "en": {
+      "w": "allergy",
+      "pos": "名詞",
+      "d": [
+        "allergy"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アレルギー",
+      "r": "アレルギー",
+      "pos": "名詞",
+      "d": [
+        "アレルギー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59420
+  },
+  {
+    "ko": "아토피",
+    "en": {
+      "w": "atopic dermatitis",
+      "pos": "名詞",
+      "d": [
+        "atopic dermatitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アトピー",
+      "r": "アトピー",
+      "pos": "名詞",
+      "d": [
+        "アトピー"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59421
+  },
+  {
+    "ko": "비염",
+    "en": {
+      "w": "rhinitis",
+      "pos": "名詞",
+      "d": [
+        "rhinitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "鼻炎",
+      "r": "びえん",
+      "pos": "名詞",
+      "d": [
+        "鼻炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59422
+  },
+  {
+    "ko": "결막염",
+    "en": {
+      "w": "conjunctivitis",
+      "pos": "名詞",
+      "d": [
+        "conjunctivitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "結膜炎",
+      "r": "けつまくえん",
+      "pos": "名詞",
+      "d": [
+        "結膜炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59423
+  },
+  {
+    "ko": "중이염",
+    "en": {
+      "w": "otitis media",
+      "pos": "名詞",
+      "d": [
+        "otitis media"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "中耳炎",
+      "r": "ちゅうじえん",
+      "pos": "名詞",
+      "d": [
+        "中耳炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59424
+  },
+  {
+    "ko": "편도염",
+    "en": {
+      "w": "tonsillitis",
+      "pos": "名詞",
+      "d": [
+        "tonsillitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "扁桃炎",
+      "r": "へんとうえん",
+      "pos": "名詞",
+      "d": [
+        "扁桃炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59425
+  },
+  {
+    "ko": "장염",
+    "en": {
+      "w": "enteritis",
+      "pos": "名詞",
+      "d": [
+        "enteritis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "腸炎",
+      "r": "ちょうえん",
+      "pos": "名詞",
+      "d": [
+        "腸炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59426
+  },
+  {
+    "ko": "위염",
+    "en": {
+      "w": "gastritis",
+      "pos": "名詞",
+      "d": [
+        "gastritis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "胃炎",
+      "r": "いえん",
+      "pos": "名詞",
+      "d": [
+        "胃炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59427
+  },
+  {
+    "ko": "방광염",
+    "en": {
+      "w": "cystitis",
+      "pos": "名詞",
+      "d": [
+        "cystitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "膀胱炎",
+      "r": "ぼうこうえん",
+      "pos": "名詞",
+      "d": [
+        "膀胱炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59428
+  },
+  {
+    "ko": "피부염",
+    "en": {
+      "w": "dermatitis",
+      "pos": "名詞",
+      "d": [
+        "dermatitis"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "皮膚炎",
+      "r": "ひふえん",
+      "pos": "名詞",
+      "d": [
+        "皮膚炎"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59429
+  },
+  {
+    "ko": "발진",
+    "en": {
+      "w": "rash",
+      "pos": "名詞",
+      "d": [
+        "rash"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "発疹",
+      "r": "ほっしん",
+      "pos": "名詞",
+      "d": [
+        "発疹"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59430
+  },
+  {
+    "ko": "수포",
+    "en": {
+      "w": "blister",
+      "pos": "名詞",
+      "d": [
+        "blister"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "水疱",
+      "r": "すいほう",
+      "pos": "名詞",
+      "d": [
+        "水疱"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59431
+  },
+  {
+    "ko": "욕창",
+    "en": {
+      "w": "bedsore",
+      "pos": "名詞",
+      "d": [
+        "bedsore"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "褥瘡",
+      "r": "じょくそう",
+      "pos": "名詞",
+      "d": [
+        "褥瘡"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59432
+  },
+  {
+    "ko": "탈모",
+    "en": {
+      "w": "hair loss",
+      "pos": "名詞",
+      "d": [
+        "hair loss"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "脱毛",
+      "r": "だつもう",
+      "pos": "名詞",
+      "d": [
+        "脱毛"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59433
+  },
+  {
+    "ko": "백반증",
+    "en": {
+      "w": "vitiligo",
+      "pos": "名詞",
+      "d": [
+        "vitiligo"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "白斑症",
+      "r": "はくはんしょう",
+      "pos": "名詞",
+      "d": [
+        "白斑症"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59434
+  },
+  {
+    "ko": "튤립",
+    "en": {
+      "w": "tulip",
+      "pos": "名詞",
+      "d": [
+        "tulip"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "チューリップ",
+      "r": "チューリップ",
+      "pos": "名詞",
+      "d": [
+        "チューリップ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59435
+  },
+  {
+    "ko": "해바라기",
+    "en": {
+      "w": "sunflower",
+      "pos": "名詞",
+      "d": [
+        "sunflower"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ひまわり",
+      "r": "ひまわり",
+      "pos": "名詞",
+      "d": [
+        "ひまわり"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59436
+  },
+  {
+    "ko": "국화",
+    "en": {
+      "w": "chrysanthemum",
+      "pos": "名詞",
+      "d": [
+        "chrysanthemum"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "菊",
+      "r": "きく",
+      "pos": "名詞",
+      "d": [
+        "菊"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59437
+  },
+  {
+    "ko": "카네이션",
+    "en": {
+      "w": "carnation",
+      "pos": "名詞",
+      "d": [
+        "carnation"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "カーネーション",
+      "r": "カーネーション",
+      "pos": "名詞",
+      "d": [
+        "カーネーション"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59438
+  },
+  {
+    "ko": "백합",
+    "en": {
+      "w": "lily",
+      "pos": "名詞",
+      "d": [
+        "lily"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ユリ",
+      "r": "ユリ",
+      "pos": "名詞",
+      "d": [
+        "ユリ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59439
+  },
+  {
+    "ko": "난초",
+    "en": {
+      "w": "orchid",
+      "pos": "名詞",
+      "d": [
+        "orchid"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "蘭",
+      "r": "らん",
+      "pos": "名詞",
+      "d": [
+        "蘭"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59440
+  },
+  {
+    "ko": "민들레",
+    "en": {
+      "w": "dandelion",
+      "pos": "名詞",
+      "d": [
+        "dandelion"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タンポポ",
+      "r": "タンポポ",
+      "pos": "名詞",
+      "d": [
+        "タンポポ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59441
+  },
+  {
+    "ko": "목련",
+    "en": {
+      "w": "magnolia",
+      "pos": "名詞",
+      "d": [
+        "magnolia"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "モクレン",
+      "r": "モクレン",
+      "pos": "名詞",
+      "d": [
+        "モクレン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59442
+  },
+  {
+    "ko": "벚꽃",
+    "en": {
+      "w": "cherry blossom",
+      "pos": "名詞",
+      "d": [
+        "cherry blossom"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "桜",
+      "r": "さくら",
+      "pos": "名詞",
+      "d": [
+        "桜"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59443
+  },
+  {
+    "ko": "수국",
+    "en": {
+      "w": "hydrangea",
+      "pos": "名詞",
+      "d": [
+        "hydrangea"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "アジサイ",
+      "r": "アジサイ",
+      "pos": "名詞",
+      "d": [
+        "アジサイ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59444
+  },
+  {
+    "ko": "연꽃",
+    "en": {
+      "w": "lotus flower",
+      "pos": "名詞",
+      "d": [
+        "lotus flower"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "蓮の花",
+      "r": "はすのはな",
+      "pos": "名詞",
+      "d": [
+        "蓮の花"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59445
+  },
+  {
+    "ko": "철쭉",
+    "en": {
+      "w": "royal azalea",
+      "pos": "名詞",
+      "d": [
+        "royal azalea"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ツツジ",
+      "r": "ツツジ",
+      "pos": "名詞",
+      "d": [
+        "ツツジ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59446
+  },
+  {
+    "ko": "동백꽃",
+    "en": {
+      "w": "camellia flower",
+      "pos": "名詞",
+      "d": [
+        "camellia flower"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "椿の花",
+      "r": "つばきのはな",
+      "pos": "名詞",
+      "d": [
+        "椿の花"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59447
+  },
+  {
+    "ko": "플러스마이너스",
+    "en": {
+      "w": "plus-minus",
+      "pos": "名詞",
+      "d": [
+        "plus-minus"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "プラスマイナス",
+      "r": "プラスマイナス",
+      "pos": "名詞",
+      "d": [
+        "プラスマイナス"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59448
+  },
+  {
+    "ko": "곱셈",
+    "en": {
+      "w": "multiplication",
+      "pos": "名詞",
+      "d": [
+        "multiplication"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "掛け算",
+      "r": "かけざん",
+      "pos": "名詞",
+      "d": [
+        "掛け算"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59449
+  },
+  {
+    "ko": "나눗셈",
+    "en": {
+      "w": "division (math)",
+      "pos": "名詞",
+      "d": [
+        "division (math)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "割り算",
+      "r": "わりざん",
+      "pos": "名詞",
+      "d": [
+        "割り算"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59450
+  },
+  {
+    "ko": "덧셈",
+    "en": {
+      "w": "addition (math)",
+      "pos": "名詞",
+      "d": [
+        "addition (math)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "足し算",
+      "r": "たしざん",
+      "pos": "名詞",
+      "d": [
+        "足し算"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59451
+  },
+  {
+    "ko": "뺄셈",
+    "en": {
+      "w": "subtraction (math)",
+      "pos": "名詞",
+      "d": [
+        "subtraction (math)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "引き算",
+      "r": "ひきざん",
+      "pos": "名詞",
+      "d": [
+        "引き算"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59452
+  },
+  {
+    "ko": "평방근",
+    "en": {
+      "w": "square root",
+      "pos": "名詞",
+      "d": [
+        "square root"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "平方根",
+      "r": "へいほうこん",
+      "pos": "名詞",
+      "d": [
+        "平方根"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59453
+  },
+  {
+    "ko": "세제곱근",
+    "en": {
+      "w": "cube root",
+      "pos": "名詞",
+      "d": [
+        "cube root"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "立方根",
+      "r": "りっぽうこん",
+      "pos": "名詞",
+      "d": [
+        "立方根"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59454
+  },
+  {
+    "ko": "지수",
+    "en": {
+      "w": "exponent, index",
+      "pos": "名詞",
+      "d": [
+        "exponent, index"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "指数",
+      "r": "しすう",
+      "pos": "名詞",
+      "d": [
+        "指数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59455
+  },
+  {
+    "ko": "로그",
+    "en": {
+      "w": "logarithm",
+      "pos": "名詞",
+      "d": [
+        "logarithm"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "対数",
+      "r": "たいすう",
+      "pos": "名詞",
+      "d": [
+        "対数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59456
+  },
+  {
+    "ko": "미분",
+    "en": {
+      "w": "differentiation (calculus)",
+      "pos": "名詞",
+      "d": [
+        "differentiation (calculus)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "微分",
+      "r": "びぶん",
+      "pos": "名詞",
+      "d": [
+        "微分"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59457
+  },
+  {
+    "ko": "적분",
+    "en": {
+      "w": "integration (calculus)",
+      "pos": "名詞",
+      "d": [
+        "integration (calculus)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "積分",
+      "r": "せきぶん",
+      "pos": "名詞",
+      "d": [
+        "積分"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59458
+  },
+  {
+    "ko": "행렬",
+    "en": {
+      "w": "matrix (math)",
+      "pos": "名詞",
+      "d": [
+        "matrix (math)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "行列",
+      "r": "ぎょうれつ",
+      "pos": "名詞",
+      "d": [
+        "行列"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59459
+  },
+  {
+    "ko": "벡터",
+    "en": {
+      "w": "vector",
+      "pos": "名詞",
+      "d": [
+        "vector"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ベクトル",
+      "r": "ベクトル",
+      "pos": "名詞",
+      "d": [
+        "ベクトル"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59460
+  },
+  {
+    "ko": "삼각함수",
+    "en": {
+      "w": "trigonometric function",
+      "pos": "名詞",
+      "d": [
+        "trigonometric function"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "三角関数",
+      "r": "さんかくかんすう",
+      "pos": "名詞",
+      "d": [
+        "三角関数"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59461
+  },
+  {
+    "ko": "사인",
+    "en": {
+      "w": "sine",
+      "pos": "名詞",
+      "d": [
+        "sine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "サイン",
+      "r": "サイン",
+      "pos": "名詞",
+      "d": [
+        "サイン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59462
+  },
+  {
+    "ko": "코사인",
+    "en": {
+      "w": "cosine",
+      "pos": "名詞",
+      "d": [
+        "cosine"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コサイン",
+      "r": "コサイン",
+      "pos": "名詞",
+      "d": [
+        "コサイン"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59463
+  },
+  {
+    "ko": "탄젠트",
+    "en": {
+      "w": "tangent (trig)",
+      "pos": "名詞",
+      "d": [
+        "tangent (trig)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "タンジェント",
+      "r": "タンジェント",
+      "pos": "名詞",
+      "d": [
+        "タンジェント"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59464
+  },
+  {
+    "ko": "증권거래소",
+    "en": {
+      "w": "stock exchange",
+      "pos": "名詞",
+      "d": [
+        "stock exchange"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "証券取引所",
+      "r": "しょうけんとりひきじょ",
+      "pos": "名詞",
+      "d": [
+        "証券取引所"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59465
+  },
+  {
+    "ko": "코스피",
+    "en": {
+      "w": "KOSPI (Korean stock index)",
+      "pos": "名詞",
+      "d": [
+        "KOSPI (Korean stock index)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コスピ",
+      "r": "コスピ",
+      "pos": "名詞",
+      "d": [
+        "コスピ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59466
+  },
+  {
+    "ko": "코스닥",
+    "en": {
+      "w": "KOSDAQ",
+      "pos": "名詞",
+      "d": [
+        "KOSDAQ"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "コスダック",
+      "r": "コスダック",
+      "pos": "名詞",
+      "d": [
+        "コスダック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59467
+  },
+  {
+    "ko": "나스닥",
+    "en": {
+      "w": "NASDAQ",
+      "pos": "名詞",
+      "d": [
+        "NASDAQ"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ナスダック",
+      "r": "ナスダック",
+      "pos": "名詞",
+      "d": [
+        "ナスダック"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59468
+  },
+  {
+    "ko": "다우존스",
+    "en": {
+      "w": "Dow Jones",
+      "pos": "名詞",
+      "d": [
+        "Dow Jones"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ダウ・ジョーンズ",
+      "r": "ダウジョーンズ",
+      "pos": "名詞",
+      "d": [
+        "ダウ・ジョーンズ"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59469
+  },
+  {
+    "ko": "공모주",
+    "en": {
+      "w": "IPO stock",
+      "pos": "名詞",
+      "d": [
+        "IPO stock"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "公募株",
+      "r": "こうぼかぶ",
+      "pos": "名詞",
+      "d": [
+        "公募株"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59470
+  },
+  {
+    "ko": "상장",
+    "en": {
+      "w": "listing (on a stock exchange)",
+      "pos": "名詞",
+      "d": [
+        "listing (on a stock exchange)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "上場",
+      "r": "じょうじょう",
+      "pos": "名詞",
+      "d": [
+        "上場"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59471
+  },
+  {
+    "ko": "상한가",
+    "en": {
+      "w": "price limit up",
+      "pos": "名詞",
+      "d": [
+        "price limit up"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ストップ高",
+      "r": "ストップだか",
+      "pos": "名詞",
+      "d": [
+        "ストップ高"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59472
+  },
+  {
+    "ko": "하한가",
+    "en": {
+      "w": "price limit down",
+      "pos": "名詞",
+      "d": [
+        "price limit down"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "ストップ安",
+      "r": "ストップやす",
+      "pos": "名詞",
+      "d": [
+        "ストップ安"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59473
+  },
+  {
+    "ko": "매수",
+    "en": {
+      "w": "buying (stocks)",
+      "pos": "名詞",
+      "d": [
+        "buying (stocks)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "買い",
+      "r": "かい",
+      "pos": "名詞",
+      "d": [
+        "買い"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59474
+  },
+  {
+    "ko": "매도",
+    "en": {
+      "w": "selling (stocks)",
+      "pos": "名詞",
+      "d": [
+        "selling (stocks)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "売り",
+      "r": "うり",
+      "pos": "名詞",
+      "d": [
+        "売り"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59475
+  },
+  {
+    "ko": "차익",
+    "en": {
+      "w": "profit margin, capital gain",
+      "pos": "名詞",
+      "d": [
+        "profit margin, capital gain"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "差益",
+      "r": "さえき",
+      "pos": "名詞",
+      "d": [
+        "差益"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59476
+  },
+  {
+    "ko": "손절",
+    "en": {
+      "w": "stop-loss (selling at a loss)",
+      "pos": "名詞",
+      "d": [
+        "stop-loss (selling at a loss)"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "損切り",
+      "r": "そんぎり",
+      "pos": "名詞",
+      "d": [
+        "損切り"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59477
+  },
+  {
+    "ko": "익절",
+    "en": {
+      "w": "selling at a profit",
+      "pos": "名詞",
+      "d": [
+        "selling at a profit"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "利益確定",
+      "r": "りえきかくてい",
+      "pos": "名詞",
+      "d": [
+        "利益確定"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59478
+  },
+  {
+    "ko": "단타",
+    "en": {
+      "w": "short-term trading, day trading",
+      "pos": "名詞",
+      "d": [
+        "short-term trading, day trading"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "短期売買",
+      "r": "たんきばいばい",
+      "pos": "名詞",
+      "d": [
+        "短期売買"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59479
+  },
+  {
+    "ko": "장투",
+    "en": {
+      "w": "long-term investment",
+      "pos": "名詞",
+      "d": [
+        "long-term investment"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "長期投資",
+      "r": "ちょうきとうし",
+      "pos": "名詞",
+      "d": [
+        "長期投資"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59480
+  },
+  {
+    "ko": "배당수익률",
+    "en": {
+      "w": "dividend yield",
+      "pos": "名詞",
+      "d": [
+        "dividend yield"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "配当利回り",
+      "r": "はいとうりまわり",
+      "pos": "名詞",
+      "d": [
+        "配当利回り"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59481
+  },
+  {
+    "ko": "시가총액",
+    "en": {
+      "w": "market capitalization",
+      "pos": "名詞",
+      "d": [
+        "market capitalization"
+      ],
+      "ex": []
+    },
+    "ja": {
+      "w": "時価総額",
+      "r": "じかそうがく",
+      "pos": "名詞",
+      "d": [
+        "時価総額"
+      ],
+      "ex": []
+    },
+    "ko_d": [],
+    "ko_ex": [],
+    "ko_pos": "명",
+    "ko_pos_ja": "名詞",
+    "ko_grade": "C",
+    "ko_rank": 59482
   }
 ];
